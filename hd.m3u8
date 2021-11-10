@@ -6,6 +6,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
 #EXTINF:-1,CCTV-2
 https://cctvcnch5ca.v.wscdns.com/live/cctv2_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1,CCTV-3
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1,CCTV-4
 http://125.210.152.18:9090/live/CCTV4.m3u8
 #EXTINF:-1,CCTV-4
@@ -36,6 +38,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
 #EXTINF:-1,CCTV-12
 https://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1,CCTV-12
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
 #EXTINF:-1,CCTV-13
 http://125.210.152.18:9090/live/CCTV13.m3u8
 #EXTINF:-1,CCTV-13
@@ -48,6 +52,8 @@ http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1,CCTV-14
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1,CCTV-14
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
 #EXTINF:-1,CCTV-15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1,CCTV-15

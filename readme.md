@@ -4,7 +4,7 @@
 1. [老生常谈云媒体，党和人民在一起](https://laosheng.top/fly/)
 
 [国内地方台2021-10.txt](https://github.com/wmenjoy-music/vms/files/7512001/2021-10.txt)
-
+https://gitee.com/suntk/tv?_from=gitee_search
 
 https://gitee.com/hw0770/hw_tv/tree/master
 https://gitee.com/benkabenka/iptvsource?_from=gitee_search

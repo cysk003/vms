@@ -8,6 +8,7 @@ https://gitee.com/suntk/tv?_from=gitee_search
 
 https://gitee.com/hw0770/hw_tv/tree/master
 https://gitee.com/benkabenka/iptvsource?_from=gitee_search
+https://gitee.com/golden-fate-god-bestows/Iptv?_from=gitee_search
 https://gitee.com/guyuexuan/iptv?_from=gitee_search#https://github.com/qwerttvv/Beijing-IPTV
 
 

@@ -9,6 +9,9 @@
 https://gitee.com/hw0770/hw_tv/tree/master
 https://gitee.com/benkabenka/iptvsource?_from=gitee_search
 https://gitee.com/guyuexuan/iptv?_from=gitee_search#https://github.com/qwerttvv/Beijing-IPTV
+
+
+http://epg.51zmt.top:8000/e.xml
 ### 资源网站
 1. [rutracker](http://rutracker.org/forum/index.php)
 1. [musifyClub](https://w1.musify.club/)

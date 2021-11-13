@@ -7,8 +7,6 @@ http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
 #EXTINF:-1,CCTV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1,CCTV-2
-http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
-#EXTINF:-1,CCTV-2
 https://cctvcnch5ca.v.wscdns.com/live/cctv2_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1,CCTV-3
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8

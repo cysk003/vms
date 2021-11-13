@@ -21,7 +21,11 @@ http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1,CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1,CCTV-6
+http://womlive.cloud.wo.cn/tvlive/100001.m3u8?userid=18201270703&userip=219.142.153.200&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211112213521&spip=120.87.10.231&spport=8888&sign=1636724121-1636724121611-10001-3c1b81f15d77d4a2256778c23d466c79
+#EXTINF:-1,CCTV-6
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hlsCCTV6HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-6
+http://vod1.nty.tv189.com/6/ol/st02/2021/10/28/Q1M_d63eca95-bc8b-4d8d-a5de-e7dc18fd5473.mp4.m3u8?sign=bee53a22df84f00364ed81b6ba1d25d4&qualityCode=1033&qualityid=4096&version=1&guid=f89aa6f8-e29e-4fe0-dfa2-68aea9731717&app=111010310225&cookie=2142f98dcc30bf3304ab075b1c18b898&session=2142f98dcc30bf3304ab075b1c18b898&uid=104410116354440211112&uname=193052225%40ios&time=20211112222914&videotype=2&cid=C43605095&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=iPhone11%2C6&appver=2.16.1.11&res=1125%2A2436&channelid=01834721&pid=1000000218&orderid=&nid=&cp=20200054&sp=00000014&ip=219.142.153.200&ipSign=6628e057107cd2800719a74ed6e01e81&cdntoken=api_618e7a3ace7df&a=Ld4Mfp5UWHQqYYsgOYh0x30JUtnyO80OdceU61vzkuUL%2FHnzS7I6P2o6xsS3DZ5V&pvv=&t=618eb27a&cf=tx&s2=cfcd208495d565ef66e7dff9f98764da
 #EXTINF:-1,CCTV-7
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1,CCTV-7
@@ -108,6 +112,8 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1,北京卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1,河北卫视
+http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
 #EXTINF:-1,上海纪实HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1,山东教育卫视
@@ -235,11 +241,15 @@ http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1,江西卫视HD
 http://140.207.241.2:8080/live/program/live/jxwshd/4000000/d1.m3u8
 #EXTINF:-1,江苏卫视HD
+http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=35ea5b0240846a423f58c6d2c5027e6f&t=1636726117
+#EXTINF:-1,江苏卫视HD
 http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:-1,浙江卫视HD
 http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
 #EXTINF:-1,浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
+#EXTINF:-1,东南卫视HD
+http://live1.fjtv.net/dnpd/playlist.m3u8?_upt=47d9e9f71636736482
 #EXTINF:-1,东南卫视HD
 http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1,广东卫视HD

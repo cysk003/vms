@@ -18,6 +18,8 @@ https://cctvksh5ca.v.kcdnvip.com/clive/cctv4_2/index.m3u8?contentid=282018051600
 http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1,CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 CCTV6
+http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
 #EXTINF:-1,CCTV-6
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hlsCCTV6HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-6
@@ -46,7 +48,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
 #EXTINF:-1,CCTV-12
 https://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8?contentid=2820180516001
-#EXTINF:-1,CCTV12
+#EXTINF:-1,CCTV12https://github.com/wmenjoy-music/vms/pulls
 http://39.135.140.227:6610/PLTV/88888888/224/3221225495/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-12
 http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
@@ -66,6 +68,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1,CCTV-14
 http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.135.140.227:6610/PLTV/88888888/224/3221225641/2/index.m3u8?mt=ts2hls
 #EXTINF:-1,CCTV-15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1,CCTV-15
@@ -78,8 +82,6 @@ http://39.135.140.227:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
 https://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1,CCTV-17
 https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
-#EXTINF:-1,CCTV-17
-http://39.135.140.227:6610/PLTV/88888888/224/3221225641/2/index.m3u8?mt=ts2hls
 #EXTINF:-1,CCTV-4欧洲
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1,4k体育赛事

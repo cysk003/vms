@@ -84,8 +84,6 @@ https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?contentid=28201805
 http://39.134.38.130:80/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1,4k体育
 http://39.134.39.62:80/PLTV/88888888/224/3221226351/index.m3u8
-#EXTINF:-1,CCTV17
-http://39.135.140.227:6610/PLTV/88888888/224/3221225907/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-4美洲
 https://cctvbsh5ca.v.live.baishancdnx.cn/live/cctvamerica_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1,CCTV-4美洲
@@ -200,6 +198,10 @@ http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 #EXTINF:-1,四川新闻频道HD
 http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+#EXTINF:-1 河北银河
+http://111.63.77.70/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+#EXTINF:-1,动作电影
+http://39.135.140.227:6610/PLTV/88888888/224/3221225907/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,新视觉HD
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/2300000/mnf.m3u8
 #EXTINF:-1,爱上4K

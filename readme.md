@@ -63,3 +63,5 @@ V6电影版：https://www.66s.cc
 韩迷TV：https://www.hmtv.me
 CCTV：http://tv.cctv.com/live/m/
 牛视网在线免费网络电视直播平台：https://www.chaojidianshi.net/
+
+https://alltubedownload.net/

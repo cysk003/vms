@@ -74,7 +74,7 @@ http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
 #EXTINF:-1 tvg-id="42" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="中国卫视", 甘肃卫视 高清
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国卫视", 贵州卫视 高清
-http://192.168.50.1:8288/rtp/225.1.8.77:8002
+http://192.168.50.1:8288/rtp/225.1.8.77:8076
 #EXTINF:-1 tvg-id="45" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="中国卫视", 河北卫视 高清
 http://192.168.50.1:8288/rtp/225.1.8.76:8002
 #EXTINF:-1 tvg-id="46" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国卫视", 黑龙江卫视 高清
@@ -184,8 +184,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="少儿",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 group-title="少儿",卡酷少儿
-http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
 #EXTINF:-1 group-title="少儿",嘉佳卡通
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
 #EXTINF:-1 group-title="少儿",炫动卡通
@@ -194,8 +192,13 @@ http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton
 http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
 #EXTINF:-1 group-title="少儿",优漫卡通
 http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
-#EXTINF:-1,纯享4k
-http://112.25.63.196:8080/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
+#EXTINF:-1 group-title="地方",福州生活
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1,group-title="影视",福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国央视", CCTV 怀旧剧场 高清
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6563" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国央视", CCTV 兵器科技 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6558" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中国央视", CCTV 第一剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls

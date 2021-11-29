@@ -233,6 +233,27 @@ http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4Europe.jpg" group-title="中国央视", CCTV-4 中文国际欧洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.174:4222
+SiTV全纪实 3.5M1080,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900152.m3u8
+#EXTINF:-1 group-title="少儿", SiTV动漫秀场 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900156.m3u8
+#EXTINF:-1 group-title="体育",SiTV劲爆体育 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900153.m3u8
+#EXTINF:-1 group-title="其他",SiTV幸福彩 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900155.m3u8
+#EXTINF:-1 group-title="其他", SiTV极速汽车 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900148.m3u8
+#EXTINF:-1 group-title="其他",SiTV游戏风云 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900157.m3u8
+#EXTINF:-1 group-title="其他", SiTV生活时尚 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900151.m3u8
+#EXTINF:-1 group-title="影视", SiTV都市剧场 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900149.m3u8
+#EXTINF:-1 group-title="体育", SiTV魅力足球 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900154.m3u8
+#EXTINF:-1 group-title="体育",内蒙古足球 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900206.m3u8
+#EXTINF:-1 group-title="其他", 求索纪录 3.5M1080
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900158.m3u8
 
 #EXTINF:-1 group-title="地方", 西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
@@ -244,10 +265,15 @@ http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
 #EXTINF:-1 group-title="地方",浙江经视生活
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 group-title="地方",浙江留学频道
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
 #EXTINF:-1 group-title="地方",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
+#EXTINF:-1 group-title="地方",浙江教科影视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 group-title="地方",浙江数码时代 1080
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="地方",浙江民生休闲 1080
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" group-title="中国央视", CGTN美国
 http://192.168.50.1:8288/rtp/225.1.8.176:4222
 #EXTINF:-1 tvg-id="Dummy" group-title="中国央视", CGTN Document
@@ -288,11 +314,11 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6584" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中国央视", CCTV 央视台球 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="JingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品电影 (1080p)
+#EXTINF:-1 tvg-id="JingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视",精品电影 (1080p)
 http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
-#EXTINF:-1 tvg-id="JingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品记录 (1080p)
+#EXTINF:-1 tvg-id="JingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="记录",精品记录 (1080p)
 http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
-#EXTINF:-1 tvg-id="JingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品体育 (1080p)
+#EXTINF:-1 tvg-id="JingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="体育",精品体育 (1080p)
 http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
-#EXTINF:-1 tvg-id="JingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",精品大剧 (1080p)
+#EXTINF:-1 tvg-id="JingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视",精品大剧 (1080p)
 http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8

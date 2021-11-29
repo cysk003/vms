@@ -41,6 +41,28 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国央视", CETV-1 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
+#EXTINF:-1 group-title="4k", CCTV4K 超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="4k", 北京IPTV4K
+http://192.168.50.1:8288/rtp/225.1.8.211:8002
+#EXTINF:-1 group-title="4k", iptv4K
+http://192.168.50.1:8288/rtp/225.1.0.205:1025
+#EXTINF:-1 group-title="4k",江苏4k
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 group-title="4k",河南卫视4k
+http://218.29.135.2:4000/udp/225.1.4.254:1300
+#EXTINF:-1 group-title="4k", 欢笑剧场4K
+http://hdtv.haust.edu.cn/hls/hls185a97.m3u8
+#EXTINF:-1 group-title="4k",测试4k
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 group-title="4k", CCTV16 4k
+http://192.168.50.1:8288/rtp/225.1.8.191:8002
+#EXTINF:-1 group-title="4k",4k纯享
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="4k",咪咕4k
+http://117.136.154.98/PLTV/88888888/224/3221225833/index.m3u8
+#EXTINF:-1 group-title="4k",4k花园电影
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 group-title="影视",爱上4K
 http://192.168.50.1:8288/rtp/225.1.0.101:1025
 #EXTINF:-1 tvg-id="27" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国卫视", 湖南卫视 高清
@@ -111,8 +133,6 @@ http://192.168.50.1:8288/rtp/225.1.8.83:8000
 http://192.168.50.1:8288/rtp/225.1.8.75:8002
 #EXTINF:-1 group-title="北京",朝阳融媒
 http://192.168.50.1:8288/rtp/225.1.8.69:8002
-#EXTINF:-1 group-title="北京", iptv4K
-http://192.168.50.1:8288/rtp/225.1.0.205:1025
 #EXTINF:-1 group-title="少儿", BTV卡酷少儿
 http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1 group-title="体育", BTV冬奥纪实
@@ -129,10 +149,6 @@ http://192.168.50.1:8288/rtp/225.1.8.38:8002
 http://192.168.50.1:8288/rtp/225.1.8.61:8002
 #EXTINF:-1 group-title="北京", 北京IPTV萌宠TV
 http://192.168.50.1:8288/rtp/225.1.8.63:8002
-#EXTINF:-1 group-title="4k", CCTV4K 超高清,
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="4k", 北京IPTV4K
-http://192.168.50.1:8288/rtp/225.1.8.211:8002
 #EXTINF:-1 group-title="北京",北京朝阳
 http://192.168.50.1:8288/rtp/225.1.0.100:1025
 
@@ -158,10 +174,6 @@ http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton
 http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
 #EXTINF:-1 group-title="影视",每日影院
 http://192.168.50.1:8288/rtp/225.1.8.97:8002
-#EXTINF:-1 group-title="影视", 欢笑剧场4K
-http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
-#EXTINF:-1 group-title="影视", 欢笑剧场4K
-http://hdtv.haust.edu.cn/hls/hls185a97.m3u8
 #EXTINF:-1 group-title="影视",幸福剧场
 http://192.168.50.1:8288/rtp/225.1.8.98:8002
 #EXTINF:-1 group-title="影视", 河北银河
@@ -172,18 +184,13 @@ http://hdtv.haust.edu.cn/hls/hls260.m3u8
 http://hdtv.haust.edu.cn/hls/hls259.m3u8
 #EXTINF:-1 group-title="影视", CHC动作电影
 http://hdtv.haust.edu.cn/hls/hls261.m3u8
-#EXTINF:-1 group-title="4k",4k纯享
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4k",4k花园电影
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
+
 
 
 #EXTINF:-1 group-title="综艺",幸福娱乐
 http://192.168.50.1:8288/rtp/225.1.8.99:8002
 #EXTINF:-1 group-title="其他",风尚生活
 http://192.168.50.1:8288/rtp/225.1.8.103:8002
-#EXTINF:-1 group-title="4k",测试4k
-http://192.168.50.1:8288/rtp/225.1.8.191:8002
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国央视", CCTV-16 奥运4k
 http://192.168.50.1:8288/rtp/225.1.8.189:8002
 #EXTINF:-1 group-title="体育",中国足协杯
@@ -339,14 +346,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=6d175258de7421
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="香港",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="JingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视",精品电影 (1080p)
-http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
-#EXTINF:-1 tvg-id="JingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="记录",精品记录 (1080p)
-http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
-#EXTINF:-1 tvg-id="JingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="体育",精品体育 (1080p)
-http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
-#EXTINF:-1 tvg-id="JingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视",精品大剧 (1080p)
-http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8
 
 #EXTINF:-1 group-title="电影",黑莓电影 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -396,5 +395,3 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 group-title="综艺",NewTV金牌综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="4k",爱上4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8

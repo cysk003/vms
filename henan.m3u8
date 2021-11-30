@@ -49,7 +49,7 @@ http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",CCTV6 3M1080
 http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",CCTV6 电影 高清
-http://[2001:250:4801::430:89]/jlu_cctv6hd.m3u8
+http://[2001:250:4801::430:89]/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"  group-title="央视",CCTV7 3M1080
 http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"  group-title="央视",CCTV7 3M1080
@@ -678,8 +678,6 @@ http://hdtv.haust.edu.cn/hls/jlu_ccsm.m3u8
 http://hdtv.haust.edu.cn/hls/jlu_ccjj.m3u8
 #EXTINF:-1 tvg-id="425" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="海外",国家地理 576
 http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",广东嘉佳卡通 576
-http://hdtv.haust.edu.cn/hls/hls157.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",江苏优漫卡通 576
 http://hdtv.haust.edu.cn/hls/hls159.m3u8
 #EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",江苏靓妆 576
@@ -690,8 +688,6 @@ http://hdtv.haust.edu.cn/hls/hls22.m3u8
 http://hdtv.haust.edu.cn/hls/hls42.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",河南武术世界 576
 http://hdtv.haust.edu.cn/hls/hls36.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",深圳DV生活 576
-http://hdtv.haust.edu.cn/hls/hls109.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",湖南金鹰卡通 576
 http://hdtv.haust.edu.cn/hls/hls158.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",湖南金鹰卡通 576
@@ -724,13 +720,7 @@ http://hdtv.haust.edu.cn/hls/channelv.m3u8
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="446" tvg-name="探索发现频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="海外",探索 576
 http://hdtv.haust.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",星影 576
-http://hdtv.haust.edu.cn/hls/hls59.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="中数环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg"  group-title="数字付费",环球奇观 576
 http://hdtv.haust.edu.cn/hls/hls62.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育 576
-http://hdtv.haust.edu.cn/hls/hls196.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",喜剧影院 576
-http://hdtv.haust.edu.cn/hls/hls6.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="中数国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg"  group-title="数字付费",国学 576
 http://hdtv.haust.edu.cn/hls/hls100.m3u8

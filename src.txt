@@ -23,7 +23,7 @@ CCTV5+ 8M1080,http://hdtv.haust.edu.cn/hls/hls92.m3u8
 CCTV5+ 8M1080,http://hdtv.haust.edu.cn/hls/jlu_cctv5p.m3u8
 CCTV5⁺ 体育赛事 高清,http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
 CCTV6 3M1080,http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
-CCTV6 电影 高清,http://[2001:250:4801::430:89]/jlu_cctv6hd.m3u8
+CCTV6 电影 高清,http://[2001:250:4801::430:89]/hls/cctv6hd.m3u8
 CCTV7 3M1080,http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
 CCTV7 3M1080,http://hdtv.haust.edu.cn/hls/hls136.m3u8
 CCTV7 国防军事 高清,http://[2001:250:4801::430:89]/hls/hls73a8.m3u8
@@ -338,13 +338,11 @@ NNM网络棋牌 576,http://hdtv.haust.edu.cn/hls/hls65.m3u8
 长春市民 576,http://hdtv.haust.edu.cn/hls/jlu_ccsm.m3u8
 长春经济 576,http://hdtv.haust.edu.cn/hls/jlu_ccjj.m3u8
 国家地理 576,http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
-广东嘉佳卡通 576,http://hdtv.haust.edu.cn/hls/hls157.m3u8
 江苏优漫卡通 576,http://hdtv.haust.edu.cn/hls/hls159.m3u8
 江苏靓妆 576,http://hdtv.haust.edu.cn/hls/hls46.m3u8
 河南文物宝库 576,http://hdtv.haust.edu.cn/hls/hls22.m3u8
 河南梨园 576,http://hdtv.haust.edu.cn/hls/hls42.m3u8
 河南武术世界 576,http://hdtv.haust.edu.cn/hls/hls36.m3u8
-深圳DV生活 576,http://hdtv.haust.edu.cn/hls/hls109.m3u8
 湖南金鹰卡通 576,http://hdtv.haust.edu.cn/hls/hls158.m3u8
 湖南金鹰卡通 576,http://hdtv.haust.edu.cn/hls/jykttv.m3u8
 辽宁体育 576,http://hdtv.haust.edu.cn/hls/hls3.m3u8
@@ -361,8 +359,5 @@ CHC家庭影院 576,http://hdtv.haust.edu.cn/hls/chctv.m3u8
 Channel[V] 576,http://hdtv.haust.edu.cn/hls/channelv.m3u8
 StarSports 576,http://hdtv.haust.edu.cn/hls/starsports.m3u8
 探索 576,http://hdtv.haust.edu.cn/hls/discovery.m3u8
-星影 576,http://hdtv.haust.edu.cn/hls/hls59.m3u8
 环球奇观 576,http://hdtv.haust.edu.cn/hls/hls62.m3u8
-百视通体育 576,http://hdtv.haust.edu.cn/hls/hls196.m3u8
-喜剧影院 576,http://hdtv.haust.edu.cn/hls/hls6.m3u8
 国学 576,http://hdtv.haust.edu.cn/hls/hls100.m3u8

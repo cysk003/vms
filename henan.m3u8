@@ -232,8 +232,6 @@ http://hdtv.haust.edu.cn/hls/gedocu.m3u8
 http://hdtv.haust.edu.cn/hls/hls163.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",湖南金鹰纪实 8M1080
 http://hdtv.haust.edu.cn/hls/hls75a26.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",熊猫频道 3M1080
-http://hdtv.haust.edu.cn/hls/hls148.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",内蒙古足球 3M1080
 http://hdtv.haust.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",CCTV1 576
@@ -426,16 +424,10 @@ http://hdtv.haust.edu.cn/hls/fhzw.m3u8
 http://hdtv.haust.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",凤凰资讯 576
 http://hdtv.haust.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM亚洲电影 576
-http://hdtv.haust.edu.cn/hls/hls30.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM劲爆电影 576
-http://hdtv.haust.edu.cn/hls/hls155.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM原声电影 576
 http://hdtv.haust.edu.cn/hls/hls33.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM古装剧场 576
 http://hdtv.haust.edu.cn/hls/hls54.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM喜剧电影 576
-http://hdtv.haust.edu.cn/hls/hls147.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM家庭影院 576
 http://hdtv.haust.edu.cn/hls/hls39.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",NNM家庭理财 576
@@ -444,12 +436,8 @@ http://hdtv.haust.edu.cn/hls/hls15.m3u8
 http://hdtv.haust.edu.cn/hls/hls19.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM怀旧电影 576
 http://hdtv.haust.edu.cn/hls/hls48.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="娱乐",NNM户外旅游 576
-http://hdtv.haust.edu.cn/hls/hls153.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",NNM新动漫 576
 http://hdtv.haust.edu.cn/hls/hls64.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",NNM暖TV 576
-http://hdtv.haust.edu.cn/hls/hls43.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="娱乐",NNM游戏竞技 576
 http://hdtv.haust.edu.cn/hls/hls112.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM热播电影 576
@@ -486,8 +474,6 @@ http://hdtv.haust.edu.cn/hls/btv3.m3u8
 http://hdtv.haust.edu.cn/hls/btv5.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京青年 576
 http://hdtv.haust.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="财经",北方商务 576
-http://hdtv.haust.edu.cn/hls/hls8.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林都市 576
 http://hdtv.haust.edu.cn/hls/jlu_jsds.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林7 576

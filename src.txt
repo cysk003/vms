@@ -115,7 +115,6 @@ NNM爱映画 8M1080,http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 湖南金鹰纪实 3M1080,http://hdtv.haust.edu.cn/hls/gedocu.m3u8
 湖南金鹰纪实 8M1080,http://hdtv.haust.edu.cn/hls/hls163.m3u8
 湖南金鹰纪实 8M1080,http://hdtv.haust.edu.cn/hls/hls75a26.m3u8
-熊猫频道 3M1080,http://hdtv.haust.edu.cn/hls/hls148.m3u8
 内蒙古足球 3M1080,http://hdtv.haust.edu.cn/hls/zqhd.m3u8
 CCTV1 576,http://hdtv.haust.edu.cn/hls/cctv1.m3u8
 CCTV1 576,http://hdtv.haust.edu.cn/hls/hls1.m3u8
@@ -212,18 +211,13 @@ CGTN纪录 576,http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
 凤凰中文 576,http://hdtv.haust.edu.cn/hls/fhzw.m3u8
 凤凰电影 576,http://hdtv.haust.edu.cn/hls/fhdy.m3u8
 凤凰资讯 576,http://hdtv.haust.edu.cn/hls/fhzx.m3u8
-NNM亚洲电影 576,http://hdtv.haust.edu.cn/hls/hls30.m3u8
-NNM劲爆电影 576,http://hdtv.haust.edu.cn/hls/hls155.m3u8
 NNM原声电影 576,http://hdtv.haust.edu.cn/hls/hls33.m3u8
 NNM古装剧场 576,http://hdtv.haust.edu.cn/hls/hls54.m3u8
-NNM喜剧电影 576,http://hdtv.haust.edu.cn/hls/hls147.m3u8
 NNM家庭影院 576,http://hdtv.haust.edu.cn/hls/hls39.m3u8
 NNM家庭理财 576,http://hdtv.haust.edu.cn/hls/hls15.m3u8
 NNM家庭理财 576,http://hdtv.haust.edu.cn/hls/hls19.m3u8
 NNM怀旧电影 576,http://hdtv.haust.edu.cn/hls/hls48.m3u8
-NNM户外旅游 576,http://hdtv.haust.edu.cn/hls/hls153.m3u8
 NNM新动漫 576,http://hdtv.haust.edu.cn/hls/hls64.m3u8
-NNM暖TV 576,http://hdtv.haust.edu.cn/hls/hls43.m3u8
 NNM游戏竞技 576,http://hdtv.haust.edu.cn/hls/hls112.m3u8
 NNM热播电影 576,http://hdtv.haust.edu.cn/hls/hls32.m3u8
 NNM生活剧场 576,http://hdtv.haust.edu.cn/hls/hls37.m3u8
@@ -242,7 +236,6 @@ NNM网络棋牌 576,http://hdtv.haust.edu.cn/hls/hls65.m3u8
 北京科教 576,http://hdtv.haust.edu.cn/hls/btv3.m3u8
 北京财经 576,http://hdtv.haust.edu.cn/hls/btv5.m3u8
 北京青年 576,http://hdtv.haust.edu.cn/hls/btv8.m3u8
-北方商务 576,http://hdtv.haust.edu.cn/hls/hls8.m3u8
 吉林都市 576,http://hdtv.haust.edu.cn/hls/jlu_jsds.m3u8
 吉林7 576,http://hdtv.haust.edu.cn/hls/jlu_jszh.m3u8
 吉林乡村 576,http://hdtv.haust.edu.cn/hls/jlu_jsxc.m3u8

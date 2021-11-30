@@ -51,8 +51,6 @@ http://192.168.50.1:8288/rtp/225.1.0.205:1025
 http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1 group-title="4k",河南卫视4k
 http://218.29.135.2:4000/udp/225.1.4.254:1300
-#EXTINF:-1 group-title="4k",河南卫视4k
-http://[2409:8087:4401:20:1:f01:1:10]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="4k", 欢笑剧场4K
 http://hdtv.haust.edu.cn/hls/hls185a97.m3u8
 #EXTINF:-1 group-title="4k",测试4k

@@ -1,5 +1,15 @@
 # 影音资源
 
+# 从txt生成代码
+# 生成logo id 信息表
+curl "http://epg.51zmt.top:8000/" |awk -f parsePng.awk > epg51zmt.txt
+# 源文件配置
+参考src， name, 源地址
+# 生成m3u8
+ awk -f m3umaker.awk src.txt
+
+
+# 获取channel_id 映射关系
 ## 中国新闻与电视
 1. [老生常谈云媒体，党和人民在一起](https://laosheng.top/fly/)
 
@@ -7,7 +17,8 @@
 https://gitee.com/suntk/tv?_from=gitee_search
 
 https://gitee.com/hw0770/hw_tv/tree/master
-https://gitee.com/benkabenka/iptvsource?_from=gitee_search
+https://gitee.com/benkabenka/iptvsource?_f
+rom=gitee_search
 https://gitee.com/golden-fate-god-bestows/Iptv?_from=gitee_search
 https://gitee.com/guyuexuan/iptv?_from=gitee_search#https://github.com/qwerttvv/Beijing-IPTV
 https://gitee.com/kqkdgitee/iptv?_from=gitee_search

@@ -76,13 +76,13 @@ http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
 http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV17 8M1080
 http://hdtv.haust.edu.cn/hls/hls73a8.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV兵器科技 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV兵器科技 3M1080
 http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV怀旧剧场 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV怀旧剧场 3M1080
 http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV第一剧场 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV第一剧场 3M1080
 http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV风云足球 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",CCTV风云足球 3M1080
 http://hdtv.haust.edu.cn/hls/hls20.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="央视",CGTN 8M1080
 http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
@@ -192,27 +192,27 @@ http://hdtv.haust.edu.cn/hls/hls71a14.m3u8
 http://hdtv.haust.edu.cn/hls/hls95.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",CHC高清电影 4M1080
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM卡通剧场 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",NNM卡通剧场 8M1080
 http://hdtv.haust.edu.cn/hls/hls167.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM卡通剧场 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",NNM卡通剧场 8M1080
 http://hdtv.haust.edu.cn/hls/hls77a30.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM大众影视 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM大众影视 8M1080
 http://hdtv.haust.edu.cn/hls/hls164.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM大众影视 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM大众影视 8M1080
 http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM家庭剧场 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM家庭剧场 8M1080
 http://hdtv.haust.edu.cn/hls/hls165.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM家庭剧场 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM家庭剧场 8M1080
 http://hdtv.haust.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM家庭影院 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM家庭影院 8M1080
 http://hdtv.haust.edu.cn/hls/hls166.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM家庭影院 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM家庭影院 8M1080
 http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM时光剧场 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM时光剧场 8M1080
 http://hdtv.haust.edu.cn/hls/hls78a48.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM晴天动画馆 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",NNM晴天动画馆 8M1080
 http://hdtv.haust.edu.cn/hls/hls78a47.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="数字付费",NNM爱映画 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",NNM爱映画 8M1080
 http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="上海",上海纪实人文 3M1080
 http://hdtv.haust.edu.cn/hls/docuchina.m3u8
@@ -222,19 +222,19 @@ http://hdtv.haust.edu.cn/hls/btv11hd.m3u8
 http://hdtv.haust.edu.cn/hls/hls162.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京冬奥纪实 8M1080
 http://hdtv.haust.edu.cn/hls/hls69a25.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京文艺 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京文艺 3M1080
 http://hdtv.haust.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京新闻 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京新闻 3M1080
 http://hdtv.haust.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",湖南金鹰纪实 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",湖南金鹰纪实 3M1080
 http://hdtv.haust.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",湖南金鹰纪实 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",湖南金鹰纪实 8M1080
 http://hdtv.haust.edu.cn/hls/hls163.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",湖南金鹰纪实 8M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",湖南金鹰纪实 8M1080
 http://hdtv.haust.edu.cn/hls/hls75a26.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",熊猫频道 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",熊猫频道 3M1080
 http://hdtv.haust.edu.cn/hls/hls148.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",内蒙古足球 3M1080
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",内蒙古足球 3M1080
 http://hdtv.haust.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",CCTV1 576
 http://hdtv.haust.edu.cn/hls/cctv1.m3u8
@@ -284,17 +284,17 @@ http://hdtv.haust.edu.cn/hls/hls14.m3u8
 http://hdtv.haust.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"  group-title="央视",CCTV15 576
 http://hdtv.haust.edu.cn/hls/hls41.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"  group-title="央视",CCTV兵器科技 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV兵器科技 576
 http://hdtv.haust.edu.cn/hls/hls23.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"  group-title="央视",CCTV女性时尚 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV女性时尚 576
 http://hdtv.haust.edu.cn/hls/hls44.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"  group-title="央视",CCTV怀旧剧场 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV怀旧剧场 576
 http://hdtv.haust.edu.cn/hls/hls94.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="中数CCTV老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png"  group-title="数字付费",CCTV老故事 576
 http://hdtv.haust.edu.cn/hls/hls113.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="中数CCTV老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png"  group-title="数字付费",CCTV风云足球 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",CCTV风云足球 576
 http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="中数CCTV老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png"  group-title="数字付费",CCTV央视文化精品576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="中国央视",CCTV央视文化精品576
 http://hdtv.haust.edu.cn/hls/hls61.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="央视",CGTN 576
 http://hdtv.haust.edu.cn/hls/cctv16.m3u8
@@ -302,7 +302,7 @@ http://hdtv.haust.edu.cn/hls/cctv16.m3u8
 http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
 #EXTINF:-1 tvg-id="136" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"  group-title="数字付费",中国教育4 576
 http://hdtv.haust.edu.cn/hls/cetv4.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"  group-title="数字付费",中国教育早教 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="教育科学",中国教育早教 576
 http://hdtv.haust.edu.cn/hls/hls25.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png"  group-title="卫视",东南卫视 576
 http://hdtv.haust.edu.cn/hls/hls74.m3u8
@@ -412,155 +412,155 @@ http://hdtv.haust.edu.cn/hls/hls101.m3u8
 http://hdtv.haust.edu.cn/hls/qhtv.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",黑龙江卫视 576
 http://hdtv.haust.edu.cn/hls/hls85.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",吉林延边卫视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="卫视",吉林延边卫视 576
 http://hdtv.haust.edu.cn/hls/hls161.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",吉林延边卫视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="卫视",吉林延边卫视 576
 http://hdtv.haust.edu.cn/hls/ybtv.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",山东教育卫视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="卫视",山东教育卫视 576
 http://hdtv.haust.edu.cn/hls/sdetv.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",星空卫视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="卫视",星空卫视 576
 http://hdtv.haust.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="凤凰卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="香港",凤凰中文 576
 http://hdtv.haust.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="231" tvg-name="凤凰卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="香港",凤凰电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="香港",凤凰电影 576
 http://hdtv.haust.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",凤凰资讯 576
 http://hdtv.haust.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM亚洲电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM亚洲电影 576
 http://hdtv.haust.edu.cn/hls/hls30.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM劲爆电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM劲爆电影 576
 http://hdtv.haust.edu.cn/hls/hls155.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM原声电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM原声电影 576
 http://hdtv.haust.edu.cn/hls/hls33.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM古装剧场 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM古装剧场 576
 http://hdtv.haust.edu.cn/hls/hls54.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM喜剧电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM喜剧电影 576
 http://hdtv.haust.edu.cn/hls/hls147.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM家庭影院 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM家庭影院 576
 http://hdtv.haust.edu.cn/hls/hls39.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM家庭理财 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",NNM家庭理财 576
 http://hdtv.haust.edu.cn/hls/hls15.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM家庭理财 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",NNM家庭理财 576
 http://hdtv.haust.edu.cn/hls/hls19.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM怀旧电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM怀旧电影 576
 http://hdtv.haust.edu.cn/hls/hls48.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM户外旅游 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="娱乐",NNM户外旅游 576
 http://hdtv.haust.edu.cn/hls/hls153.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM新动漫 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",NNM新动漫 576
 http://hdtv.haust.edu.cn/hls/hls64.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM暖TV 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",NNM暖TV 576
 http://hdtv.haust.edu.cn/hls/hls43.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM游戏竞技 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="娱乐",NNM游戏竞技 576
 http://hdtv.haust.edu.cn/hls/hls112.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM热播电影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM热播电影 576
 http://hdtv.haust.edu.cn/hls/hls32.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM生活剧场 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM生活剧场 576
 http://hdtv.haust.edu.cn/hls/hls37.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM电子体育 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",NNM电子体育 576
 http://hdtv.haust.edu.cn/hls/hls24.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM纪录片 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="教育科学",NNM纪录片 576
 http://hdtv.haust.edu.cn/hls/hls66.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM经典剧场 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",NNM经典剧场 576
 http://hdtv.haust.edu.cn/hls/hls89.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",NNM网络棋牌 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="娱乐",NNM网络棋牌 576
 http://hdtv.haust.edu.cn/hls/hls65.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京冬奥纪实 576
 http://hdtv.haust.edu.cn/hls/btv11.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京卡酷少儿 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京卡酷少儿 576
 http://hdtv.haust.edu.cn/hls/btv10.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京卡酷少儿 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京卡酷少儿 576
 http://hdtv.haust.edu.cn/hls/hls57.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京影视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",北京影视 576
 http://hdtv.haust.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京影视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",北京影视 576
 http://hdtv.haust.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京文艺 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京文艺 576
 http://hdtv.haust.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京新闻 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京新闻 576
 http://hdtv.haust.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京生活 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京生活 576
 http://hdtv.haust.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京科教 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="教育科学",北京科教 576
 http://hdtv.haust.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京财经 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="财经",北京财经 576
 http://hdtv.haust.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北京青年 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",北京青年 576
 http://hdtv.haust.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",北方商务 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="财经",北方商务 576
 http://hdtv.haust.edu.cn/hls/hls8.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",吉林都市 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林都市 576
 http://hdtv.haust.edu.cn/hls/jlu_jsds.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",吉林7 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林7 576
 http://hdtv.haust.edu.cn/hls/jlu_jszh.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",吉林乡村 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林乡村 576
 http://hdtv.haust.edu.cn/hls/jlu_jsxc.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",吉林影视 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",吉林影视 576
 http://hdtv.haust.edu.cn/hls/jlu_jsys.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",吉林教育 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林教育 576
 http://hdtv.haust.edu.cn/hls/jlu_jljy.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",吉林生活 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",吉林生活 576
 http://hdtv.haust.edu.cn/hls/jlu_jssh.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",长春娱乐 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",长春娱乐 576
 http://hdtv.haust.edu.cn/hls/jlu_ccyl.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",长春市民 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",长春市民 576
 http://hdtv.haust.edu.cn/hls/jlu_ccsm.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="北京",长春经济 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",长春经济 576
 http://hdtv.haust.edu.cn/hls/jlu_ccjj.m3u8
 #EXTINF:-1 tvg-id="425" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="海外",国家地理 576
 http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="海外",广东嘉佳卡通 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",广东嘉佳卡通 576
 http://hdtv.haust.edu.cn/hls/hls157.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="海外",江苏优漫卡通 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",江苏优漫卡通 576
 http://hdtv.haust.edu.cn/hls/hls159.m3u8
 #EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",江苏靓妆 576
 http://hdtv.haust.edu.cn/hls/hls46.m3u8
-#EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",河南文物宝库 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",河南文物宝库 576
 http://hdtv.haust.edu.cn/hls/hls22.m3u8
-#EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",河南梨园 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",河南梨园 576
 http://hdtv.haust.edu.cn/hls/hls42.m3u8
-#EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",河南武术世界 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",河南武术世界 576
 http://hdtv.haust.edu.cn/hls/hls36.m3u8
-#EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",深圳DV生活 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",深圳DV生活 576
 http://hdtv.haust.edu.cn/hls/hls109.m3u8
-#EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",湖南金鹰卡通 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",湖南金鹰卡通 576
 http://hdtv.haust.edu.cn/hls/hls158.m3u8
-#EXTINF:-1 tvg-id="220" tvg-name="江苏靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png"  group-title="江苏",湖南金鹰卡通 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",湖南金鹰卡通 576
 http://hdtv.haust.edu.cn/hls/jykttv.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.jpg"  group-title="辽宁",辽宁体育 576
 http://hdtv.haust.edu.cn/hls/hls3.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.jpg"  group-title="辽宁",辽宁北方 576
 http://hdtv.haust.edu.cn/hls/hls55.m3u8
-#EXTINF:-1 tvg-id="201" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.jpg"  group-title="辽宁",辽宁宜佳购物 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",辽宁宜佳购物 576
 http://hdtv.haust.edu.cn/hls/hls21.m3u8
 #EXTINF:-1 tvg-id="197" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.jpg"  group-title="辽宁",辽宁影视剧 576
 http://hdtv.haust.edu.cn/hls/hls97.m3u8
-#EXTINF:-1 tvg-id="197" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.jpg"  group-title="辽宁",辽宁教育青少 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",辽宁教育青少 576
 http://hdtv.haust.edu.cn/hls/hls99.m3u8
 #EXTINF:-1 tvg-id="199" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.jpg"  group-title="辽宁",辽宁生活 576
 http://hdtv.haust.edu.cn/hls/hls96.m3u8
 #EXTINF:-1 tvg-id="196" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg"  group-title="辽宁",辽宁都市 576
 http://hdtv.haust.edu.cn/hls/hls88.m3u8
-#EXTINF:-1 tvg-id="196" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg"  group-title="辽宁",沈阳新闻综合 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",沈阳新闻综合 576
 http://hdtv.haust.edu.cn/hls/hls142.m3u8
-#EXTINF:-1 tvg-id="196" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg"  group-title="辽宁",沈阳新闻综合 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",沈阳新闻综合 576
 http://hdtv.haust.edu.cn/hls/hls9.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="数字付费",CHC动作电影 576
 http://hdtv.haust.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="数字付费",CHC家庭影院 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",CHC家庭影院 576
 http://hdtv.haust.edu.cn/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="数字付费",Channel[V] 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",Channel[V] 576
 http://hdtv.haust.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="数字付费",StarSports 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",StarSports 576
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="446" tvg-name="探索发现频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="海外",探索 576
 http://hdtv.haust.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="446" tvg-name="探索发现频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="海外",星影 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",星影 576
 http://hdtv.haust.edu.cn/hls/hls59.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="中数环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg"  group-title="数字付费",环球奇观 576
 http://hdtv.haust.edu.cn/hls/hls62.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="中数环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg"  group-title="数字付费",百视通体育 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育 576
 http://hdtv.haust.edu.cn/hls/hls196.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="中数环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg"  group-title="数字付费",喜剧影院 576
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",喜剧影院 576
 http://hdtv.haust.edu.cn/hls/hls6.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="中数国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg"  group-title="数字付费",国学 576
 http://hdtv.haust.edu.cn/hls/hls100.m3u8

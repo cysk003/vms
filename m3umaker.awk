@@ -43,35 +43,54 @@ FS=",";
   map["卫视"] = "卫视"
 }
 !/^($|[:space:]*#)/{
+    group=""
+    name=$1
+    url=$2
+    if (NF == 3){
+        group=$1
+        name=$2
+        url=$3
+    }
 
-    split($1, arr, " ");
+
+    split(name, arr, " ");
     title = arr[1];
     cmd="grep "title" ./epg51zmt.txt|head -1"
+    result=""
+    id=""
+    logo=""
+    tagName=""
     while ( ( cmd | getline result ) > 0 ) {
     }
     close(cmd);
-    if (result){
+    if (result != ""){
         split(result, array, " ")
         id = array[1]
         logo = array[2]
         tagName = array[3]
-        group = array[5]
+        if (group == ""){
+          group = array[5]
+        }
         if (id) {
-           print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\""tagName"\" tvg-logo=\""logo"\"  group-title=\""group"\","$1"\n"$2;
+           print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\""tagName"\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
         } else {
-           print "#EXTINF:-1 tvg-id=\"-1\" group-title=\""group"\","$1"\n"$2;
+           print "#EXTINF:-1 tvg-id=\"-1\" group-title=\""group"\","name"\n"url;
         }
     } else {
-
-    group = "其他";
-    for (key in map) {
-      if (index($1, key) > 0 ){
+     if (group == ""){
+       group = "其他";
+       for (key in map) {
+         if (index($1, key) > 0 ){
           group = map[key];
           break;
-      }
+         }
+       }
     }
-    print "#EXTINF:-1 tvg-id=\"-1\" group-title=\""group"\","$1"\n"$2;
-
+     if (id) {
+       print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\"""\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
+     } else {
+       print "#EXTINF:-1 tvg-id=\"-1\" tvg-name=\"""\" group-title=\""group"\","name"\n"url;
+     }
     }
 }
 

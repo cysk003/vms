@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://39.134.116.3:18890/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 ,CCTV4-4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CCTV4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV14
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV-16-4K
+http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 ,凤凰香港台
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+#EXTINF:-1 ,凤凰卫视中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 ,TVB翡翠台
+http://113.64.147.89:808/hls/67/index.m3u8
+#EXTINF:-1 ,TVB翡翠台(标清)
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,TVB明珠台（标清）
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 ,埋堆堆
+http://121.12.115.162/txdirect.hls.huya.com/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8
+#EXTINF:-1 ,香港VIUTV
+https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
+#EXTINF:-1 ,香港cc
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 ,凤凰资讯台
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+#EXTINF:-1 ,香港卫视标清
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,星空卫视标清
+http://124.238.99.44:808/hls/353/index.m3u8
+#EXTINF:-1 ,TVB无线新闻台（720）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1636898249~exp=1636984649~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=b3d974c60c51c2dccc7b24afdcab2fa236eeaad98e91e17c1425d1824fcf7448&p=3139
+#EXTINF:-1 ,TVB无线新财经（720）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1636898414~exp=1636984814~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=3b0134a9f146970b654c4899d53e41d9f4e132a5f840c9b5862a40007a9f3e10&p=3139
+#EXTINF:-1 ,三立台湾台
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,台湾原住民電視
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 ,澳亚卫视(720p)
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 ,江苏卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 ,湖南卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+#EXTINF:-1 ,北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 ,北京IPTV-4K
+http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 ,北京纪实
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 ,北京少儿
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://womlive.cloud.wo.cn/tvlive/100021.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114212629&spip=120.87.10.231&spport=8888&sign=1636896389-1636896389817-10001-e78060778da1e56341c315686ebe658b
+#EXTINF:-1 ,南宁新闻综合频道(720P)
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 ,南宁公共频道
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 ,南宁都市生活频道
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 ,南宁影视娱乐频道
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 ,广东卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227703/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://womlive.cloud.wo.cn/tvlive/100017.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114212819&spip=120.87.10.228&spport=8888&sign=1636896499-1636896499915-10001-202c348da5d7720dc7a6cb874fbd4114
+#EXTINF:-1 ,安徽卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://womlive.cloud.wo.cn/tvlive/100009.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114212917&spip=120.87.10.231&spport=8888&sign=1636896557-1636896557222-10001-5fb61274f52e6414227e09e7725cb721
+#EXTINF:-1 ,河北卫视
+http://womlive.cloud.wo.cn/tvlive/100008.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114213711&spip=120.87.10.228&spport=8888&sign=1636897031-1636897031170-10001-ab294e4d10298ebee4fded5590ce0006
+#EXTINF:-1 ,东南卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+#EXTINF:-1 ,山西卫视（720P）
+http://womlive.cloud.wo.cn/tvlive/100010.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114213233&spip=120.87.10.231&spport=8888&sign=1636896753-1636896753576-10001-cb477e1a272d09175669a2508107817a
+#EXTINF:-1 ,天津卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://womlive.cloud.wo.cn/tvlive/100019.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114213044&spip=58.16.34.210&spport=19010&sign=1636896644-1636896644952-10001-4d15874b44413dfe4191f440ef7b7780
+#EXTINF:-1 ,吉林卫视（720P）
+http://womlive.cloud.wo.cn/tvlive/100005.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114225302&spip=120.87.10.227&spport=8888&sign=1636901582-1636901582188-10001-79341bb2b9dcf5e221bbb3df0a680a5f
+#EXTINF:-1 ,云南卫视
+http://womlive.cloud.wo.cn/tvlive/100016.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114225503&spip=120.87.10.231&spport=8888&sign=1636901703-1636901703863-10001-e6b42e4f590c6415eb6d1bfd350c9d6f
+#EXTINF:-1 ,海南卫视
+http://womlive.cloud.wo.cn/tvlive/100022.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114213143&spip=120.87.10.231&spport=8888&sign=1636896703-1636896703270-10001-d84cc192db3158266314ef1e65ce75ed
+#EXTINF:-1 ,CHC动作电影
+http://womlive.cloud.wo.cn/tvlive/100073.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114225710&spip=120.87.10.229&spport=8888&sign=1636901830-1636901830544-10001-7d6c66fe22374853c9988f379246a0de
+#EXTINF:-1 ,CIBM经典剧场（720P）
+http://womlive.cloud.wo.cn/tvlive/100032.m3u8?userid=13036869512&userip=171.38.5.241&apptype=app&preview=1&spid=21126&pid=8031006300&portalid=300&tm=20211114225805&spip=120.87.10.229&spport=8888&sign=1636901885-1636901885980-10001-7b2ef85f1c1ba5df30416d46f29073c7
+#EXTINF:-1 ,黑莓电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 ,黑莓动画
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 ,超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 ,粤语电影
+https://p2.weizan.cn/1646497941/965138011405789996/live.m3u8
+#EXTINF:-1 ,上海第一财经
+http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 ,GITV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,邵氏电影
+https://119.188.39.199/tx2play2.douyucdn.cn/4246519rvuwKN1cg.m3u8
+#EXTINF:-1 ,电影
+http://111.63.77.70/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 ,天映频道
+http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8

@@ -54,7 +54,7 @@ FS=",";
 
     split(name, arr, " ");
     title = arr[1];
-    cmd="grep "title" ./customer_logo_info.txt ./epg51zmt.txt|head -1"
+    cmd="cat ./customer_logo_info.txt ./epg51zmt.txt|grep "title"|head -1"
     result=""
     id=""
     logo=""

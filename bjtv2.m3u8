@@ -152,7 +152,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="少儿",优漫卡通
 http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿",黑莓动画 HD
+#EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿",黑莓动画 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿",河北少儿科教
 http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
@@ -160,7 +160,7 @@ http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 http://hdtv.haust.edu.cn/hls/hls184a636.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿",嘉佳卡通
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿",炫动卡通
+#EXTINF:-1 tvg-id="70101" tvg-name="炫动卡通" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/xdkt.png"  group-title="少儿",炫动卡通
 http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton
 #EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿",金鹰卡通
 http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
@@ -222,9 +222,9 @@ http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"  group-title="中国央视", CCTV4 中文国际欧洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.174:4222
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福建·福州综合
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福州综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福建·福州影视
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方", 福州影视
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福州生活
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
@@ -234,17 +234,17 @@ http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江公共频道
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江国际
+#EXTINF:-1 tvg-id="70058" tvg-name="浙江国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png"  group-title="地方",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江经视生活
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江钱江
+#EXTINF:-1 tvg-id="70060" tvg-name="浙江钱江" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjqj.png"  group-title="地方",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",浙江教科影视 1080
+#EXTINF:-1 tvg-id="70059" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png"  group-title="电影",浙江教科影视 1080
 http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江数码时代 1080
+#EXTINF:-1 tvg-id="70061" tvg-name="浙江数码时代" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjsmsd.png"  group-title="地方",浙江数码时代 1080
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江民生休闲 1080
+#EXTINF:-1 tvg-id="70055" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjmsxy.png"  group-title="地方",浙江民生休闲 1080
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg"  group-title="地方",沈阳新闻 HD
 http://hdtv.haust.edu.cn/hls/hls185a542.m3u8
@@ -318,37 +318,37 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",东北热剧 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",中国功夫 NewTV
+#EXTINF:-1 tvg-id="70099" tvg-name="NewTV中国功夫" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new15.png"  group-title="体育",中国功夫 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",军事评论 NewTV
+#EXTINF:-1 tvg-id="70093" tvg-name="NewTV军事评论" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new13.png"  group-title="其他",军事评论 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",农业致富 NewTV
+#EXTINF:-1 tvg-id="70094" tvg-name="NewTV农业致富" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new14.png"  group-title="其他",农业致富 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="电影",动作电影 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",古装剧场 NewTV
+#EXTINF:-1 tvg-id="70089" tvg-name="NewTV古装剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/guzhuangjuchang.png"  group-title="电影",古装剧场 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",家庭剧场 NewTV
+#EXTINF:-1 tvg-id="70087" tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new8.png"  group-title="电影",家庭剧场 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",惊悚悬疑 NewTV
+#EXTINF:-1 tvg-id="70091" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new11.png"  group-title="电影",惊悚悬疑 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",明星大片 NewTV
+#EXTINF:-1 tvg-id="70081" tvg-name="NewTV明星大片" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new2.png"  group-title="电影",明星大片 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",欢乐剧场 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",武搏世界 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",海外剧场 NewTV
+#EXTINF:-1 tvg-id="70086" tvg-name="NewTV海外剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new7.png"  group-title="电影",海外剧场 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",潮妈辣婆 NewTV
+#EXTINF:-1 tvg-id="70100" tvg-name="NewTV潮妈辣婆" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new16.png"  group-title="其他",潮妈辣婆 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",炫舞未来 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",爱情喜剧 NewTV
+#EXTINF:-1 tvg-id="70088" tvg-name="NewTV爱情喜剧" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new9.png"  group-title="电影",爱情喜剧 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225748/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",精品体育 NewTV
+#EXTINF:-1 tvg-id="70083" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new4.png"  group-title="体育",精品体育 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="电影",精品大剧 NewTV
+#EXTINF:-1 tvg-id="70084" tvg-name="NewTV精品大剧" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new5.png"  group-title="电影",精品大剧 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",超级体育 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
@@ -360,5 +360,5 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",超级综艺 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",金牌综艺 NewTV
+#EXTINF:-1 tvg-id="70082" tvg-name="NewTV金牌综艺" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new3.png"  group-title="综艺",金牌综艺 NewTV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8

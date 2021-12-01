@@ -21,7 +21,7 @@ CCTV5+ 3M1080,http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
 CCTV5+ 8M1080,http://hdtv.haust.edu.cn/hls/hls73a6.m3u8
 CCTV5+ 8M1080,http://hdtv.haust.edu.cn/hls/hls92.m3u8
 CCTV5+ 8M1080,http://hdtv.haust.edu.cn/hls/jlu_cctv5p.m3u8
-CCTV5⁺ 体育赛事 高清,http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
+CCTV5+ 体育赛事 高清,http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
 CCTV6 3M1080,http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
 CCTV6 电影 高清,http://[2001:250:4801::430:89]/hls/cctv6hd.m3u8
 CCTV7 3M1080,http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
@@ -152,7 +152,7 @@ CGTN 纪录 高清,http://[2001:250:4801::430:89]/hls/hls67a44.m3u8
 凤凰中文 高清,http://[2001:250:4801::430:89]/hls/hls254.m3u8
 凤凰资讯 高清,http://[2001:250:4801::430:89]/hls/hls255.m3u8
 CHC高清电影 4M1080,http://hdtv.haust.edu.cn/hls/chchd.m3u8
-CHCCHC家庭电影 高清,http://[2001:250:4801::430:89]/hls/hls259.m3u8
+CHC家庭电影 高清,http://[2001:250:4801::430:89]/hls/hls259.m3u8
 CHC高清电影 高清,http://[2001:250:4801::430:89]/hls/hls260.m3u8
 CHC动作电影 高清,http://[2001:250:4801::430:89]/hls/hls261.m3u8
 足球频道 高清,http://[2001:250:4801::430:89]/hls/zqhd.m3u8
@@ -237,7 +237,7 @@ CCTV女性时尚 576,http://hdtv.haust.edu.cn/hls/hls44.m3u8
 CCTV怀旧剧场 576,http://hdtv.haust.edu.cn/hls/hls94.m3u8
 CCTV老故事 576,http://hdtv.haust.edu.cn/hls/hls113.m3u8
 CCTV风云足球 576,http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
-CCTV央视文化精品576,http://hdtv.haust.edu.cn/hls/hls61.m3u8
+CCTV央视文化精品 576,http://hdtv.haust.edu.cn/hls/hls61.m3u8
 CGTN 576,http://hdtv.haust.edu.cn/hls/cctv16.m3u8
 CGTN纪录 576,http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
 中国教育4 576,http://hdtv.haust.edu.cn/hls/cetv4.m3u8

@@ -1,5 +1,5 @@
 # 影音资源
-
+ cat cmvideo.php|grep -E "url|tvg-name"|awk '{tmp=$0;getline;tmp=tmp$0;print tmp;}'|awk -F'"' '{print $8","$4}'  > cmvideo.txt
 # 从txt生成代码
 # 生成logo id 信息表
 curl "http://epg.51zmt.top:8000/" |awk -f parseTvInfo.awk > epg51zmt.txt

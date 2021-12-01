@@ -1,0 +1,82 @@
+63 http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png 教育1台 中国教育1台 教育科学 sctv 20211201
+64 http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png 教育2台 中国教育2台 教育科学 tvsou 20211201
+65 http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png 教育3台 中国教育3台 教育科学 tvsou 20211201
+66 http://epg.51zmt.top:8000/tb1/CCTV/CCTV3D.png 中国3D电视试验频道 3D电视试验频道 其他 tvsou 20211201
+67 http://epg.51zmt.top:8000/tb1/qt/IPTVEFEL.png 外汇理财 外汇理财 其他 tvsou 20211201
+68 http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png 电竞天堂 电竞天堂 其他 sctv 20211130
+69 http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png IPTV5+ IPTV5+ 影视 tvmao 20211201
+70 http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png IPTV6+ IPTV6+ 影视 tvmao 20211201
+71 http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png IPTV经典电影 IPTV经典电影 影视 sctv 20211130
+72 http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png IPTV热播剧场 IPTV热播剧场 影视 sctv 20211130
+73 http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png IPTV少儿动画 IPTV少儿动画 少儿动画 sctv 20211130
+74 http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png IPTV魅力时尚 IPTV魅力时尚 其他 sctv 20211130
+75 http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png 中数风云足球 风云足球 体育 zhongshu 20211205
+76 http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg 华数求索科学 求索科学 教育科学 tvmao 20211201
+77 http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg CHC高清电影 CHC高清电影 影视 tvmao 20211201
+78 http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg 华数求索动物 求索动物 教育科学 tvmao 20211201
+79 http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg 华数求索记录 求索记录 教育科学 tvmao 20211201
+80 http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg CHC动作电影 CHC动作电影 影视 tvsou 20211201
+81 http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg CHC家庭电影 CHC家庭电影 影视 tvmao 20211201
+82 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg 中数梨园 梨园 曲艺 tvsou 20211201
+83 http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png 中数风云音乐 风云音乐 音乐 zhongshu 20211205 CCTV风云音乐
+84 http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png 中数第一剧场 第一剧场 影视 zhongshu 20211205 CCTV第一剧场
+85 http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png 中数风云剧场 风云剧场 影视 zhongshu 20211205 CCTV风云剧场
+86 http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png 中数世界地理 世界地理 教育科学 zhongshu 20211205 CCTV世界地理
+87 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg 中数怀旧剧场 怀旧剧场 影视 zhongshu 20211205 怀旧剧场 CCTV怀旧剧场
+88 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg 中数兵器科技 兵器科技 军事 tvsou 20211201 CCTV兵器科技
+89 http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png 中数女性时尚 女性时尚 其他 zhongshu 20211205 CCTV女性时尚
+90 http://epg.51zmt.top:8000/tb1/CCTV/CCTVyule.png 中数CCTV-娱乐 CCTV-娱乐 娱乐 tvsou 20211201 CCTV娱乐
+91 http://epg.51zmt.top:8000/tb1/CCTV/CCTVxiqu.png 中数CCTV-戏曲 CCTV-戏曲 曲艺 tvsou 20211201 CCTV戏曲
+92 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE12.jpg 中数CCTV-电影 CCTV-电影 电影 tvmao 20211201  CCTV电影
+93 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg 中数高尔夫网球 高尔夫网球 体育 tvsou 20211201 CCTV高尔夫网球
+94 http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png 中数央视精品 央视精品 央视 zhongshu 20211205 CCTV央视精品
+95 http://epg.51zmt.top:8000/tb1/qt/caiminzaixian.png 中数彩民在线 彩民在线 央视 tvsou 20211201 CCTV彩民在线
+96 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE17.jpg 中数法律服务 法律服务 央视 tvsou 20211201 CCTV法律服务
+97 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg 中数汽摩 汽摩 央视 tvsou 20211201 CCTV汽摩
+98 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg 中数留学世界 留学世界 央视 tvsou 20211201 CCTV留学世界
+99 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE25.jpg 中数青年学苑 青年学苑 央视 tvsou 20211201 CCTV青年学苑
+100 http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg 中数摄影频道 摄影频道 央视 tvsou 20211201 CCTV摄影频道
+101 http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg 中数天元围棋 天元围棋 央视 tvmao 20211201 CCTV天元围棋
+102 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE29.jpg 中数现代女性 现代女性 央视 tvsou 20211201 CCTV现代女性
+103 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg 中数早期教育 早期教育 教育 tvsou 20211201 CCTV早期教育
+104 http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhengquan.png 中数CCTV证券资讯 证券资讯 央视 tvsou 20211201 CCTV证券资讯
+105 http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png 中数CCTV央视台球 央视台球 央视 tvsou 20211201 CCTV央视台球
+106 http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg 中数茶频道 茶频道 央视 tvsou 20211201 CCTV茶频道
+107 http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg 中数武术世界 武术世界 央视 tvsou 20211201 CCTV武术世界
+108 http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png 中数发现之旅 发现之旅 央视 tvsou 20211201 CCTV发现之旅
+109 http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg 中数环球奇观 环球奇观 央视 tvsou 20211201 CCTV环球奇观
+110 http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg 中数国学 国学 央视 tvsou 20211201 CCTV国学
+111 http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg 中数文物宝库 文物宝库 央视 tvsou 20211201 CCTV文物宝库
+112 http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png 中数新科动漫 新科动漫 央视 tvsou 20211201 CCTV新科动漫
+113 http://epg.51zmt.top:8000/tb1/qt/YOUERJIAOYU.jpg 中数幼儿教育 幼儿教育 央视 tvsou 20211201 CCTV幼儿教育
+114 http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png 中数CCTV老故事 老故事 央视 tvsou 20211201 CCTV老故事
+115 http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg 中数快乐垂钓 快乐垂钓 央视  tvsou 20211201 CCTV快乐垂钓
+116 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg 中数书画频道 书画频道 央视  tvsou 20211201 CCTV书画频道
+117 http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg 华诚DOXTV DOXTV 影视 tvmao 20211201
+118 http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg 华诚先锋乒羽 先锋乒羽 体育 tvsou 20211201
+119 http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg 北广车迷频道 车迷频道 其他 tvsou 20211201
+120 http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg 北广优优宝贝 优优宝贝 幼儿 tvsou 20211201
+121 http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg 北广四海钓鱼 四海钓鱼 其他 tvsou 20211201
+122 http://epg.51zmt.top:8000/tb1/qt/BAMC5.jpg 北广动感音乐 动感音乐 音乐 tvsou 20211201
+123 http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg 北广环球旅游 环球旅游 其他 tvsou 20211201
+124 http://epg.51zmt.top:8000/tb1/qt/BAMC7.jpg 北广新娱乐 新娱乐 娱乐 tvsou 20211201
+125 http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg 北广京视剧场 京视剧场 影视 tvsou 20211201
+126 http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg 北广弈坛春秋 弈坛春秋 其他 tvsou 20211201
+127 http://epg.51zmt.top:8000/tb1/qt/BAMC14.jpg 北广央广健康 央广健康 其他 tvsou 20211201
+128 http://epg.51zmt.top:8000/tb1/qt/BAMC17.jpg 北广时代家居 时代家居 其他 tvsou 20211201
+129 http://epg.51zmt.top:8000/tb1/qt/BAMC18.jpg 北广时代出行 时代出行 其他 tvsou 20211201
+130 http://epg.51zmt.top:8000/tb1/qt/BAMC19.jpg 北广时代风尚 时代风尚 其他 tvsou 20211201
+131 http://epg.51zmt.top:8000/tb1/qt/财富天下.png 北广财富天下 财富天下 财经 sctv 20211201
+132 http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg 北广百姓健康 百姓健康 其他 tvsou 20211201
+133 http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg 华数精品剧场 精品剧场 影视 tvsou 20211201
+134 http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg 华数少儿动漫 少儿动漫 少儿动画 tvsou 20211201
+135 http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg 华数欧美影院 欧美影院 影视 tvmao 20211201
+136 http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png 教育4台 中国教育4台 教育科学 sctv 20211201
+139 http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png BTV文艺 BTV文艺 北京 tvsou 20211201 北京文艺
+140 http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png BTV科教 BTV科教 北京 tvsou 20211201  北京科教
+141 http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png BTV影视 BTV影视 北京 tvsou 20211201 北京影视
+142 http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png BTV财经 BTV财经 北京 tvsou 20211201 北京财经
+143 http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png BTV生活 BTV生活 北京 tvsou 20211201 北京生活
+144 http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png BTV青年 BTV青年 北京 tvsou 20211201 北京青年
+145 http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png BTV新闻 BTV新闻 北京 tvsou 20211201 北京新闻
+204 http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg 沈阳新闻 沈阳新闻 辽宁 tvmao 20211201 沈阳新闻综合

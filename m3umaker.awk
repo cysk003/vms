@@ -1,7 +1,7 @@
 BEGIN{
 FS=",";
-  map["CCTV"] = "中国央视"
-  map["CGTN"] = "中国央视"
+  map["CCTV"] = "央视"
+  map["CGTN"] = "央视"
   map["少儿"] = "少儿动漫"
   map["卡通"] = "少儿动漫"
   map["动画"] = "少儿动漫"
@@ -52,10 +52,9 @@ FS=",";
         url=$3
     }
 
-
     split(name, arr, " ");
     title = arr[1];
-    cmd="grep "title" ./epg51zmt.txt|head -1"
+    cmd="grep "title" ./customer_logo_info.txt ./epg51zmt.txt|head -1"
     result=""
     id=""
     logo=""

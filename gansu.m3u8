@@ -1,0 +1,460 @@
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV5.png"  group-title="央视",CCTV5 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226035/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png"  group-title="影视",IPTV5+ 7M1080
+http://117.156.28.88/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",甘肃公共 7.8M1080
+http://117.156.28.88/PLTV/88888888/224/3221225919/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",甘肃少儿 7.8M1080
+http://117.156.28.88/PLTV/88888888/224/3221225921/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",甘肃文化影视 7.8M1080
+http://117.156.28.88/PLTV/88888888/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",甘肃经济 7.8M1080
+http://117.156.28.88/PLTV/88888888/224/3221225920/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",甘肃都市 7.8M1080
+http://117.156.28.88/PLTV/88888888/224/3221225974/index.m3u8
+#EXTINF:-1 tvg-id="70071" tvg-name="东乡电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/dongxiangtst.png"  group-title="地方",东乡 2M1080
+http://117.156.28.88/PLTV/88888888/224/3221225987/index.m3u8
+#EXTINF:-1 tvg-id="70073" tvg-name="岷县电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/mingshandst.png"  group-title="地方",岷县 7M1080
+http://117.156.28.88/PLTV/88888888/224/3221225986/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",崆峒 3M1080
+http://117.156.28.88/PLTV/88888888/224/3221226018/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",成县 5M1080
+http://117.156.28.88/PLTV/88888888/224/3221225977/index.m3u8
+#EXTINF:-1 tvg-id="70033" tvg-name="敦煌电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/dunhuangtai.jpg"  group-title="地方",敦煌 3M1080
+http://117.156.28.88/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",景泰 3M1080
+http://117.156.28.88/PLTV/88888888/224/3221225988/index.m3u8
+#EXTINF:-1 tvg-id="70002" tvg-name="灵台新闻综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/lingtaixinwenzonghe.jpeg"  group-title="地方",灵台 2.5M1080
+http://117.156.28.88/PLTV/88888888/224/3221226026/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",玉门 2M1080
+http://117.156.28.88/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百事通体育 1080
+http://117.156.28.88/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百事通体育 1080
+http://117.156.28.88/PLTV/88888888/224/3221226034/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百事通体育 1080
+http://117.156.28.88/PLTV/88888888/224/3221226036/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百事通体育 1080
+http://117.156.28.88/PLTV/88888888/224/3221226037/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",咪咕视频 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221225997/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",咪咕视频 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221225999/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",咪咕视频 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226000/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",咪咕视频 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226002/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",咪咕视频 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226003/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",直播 3M1080
+http://117.156.28.88/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 1080
+http://117.156.28.88/PLTV/88888888/224/3221226025/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 1080
+http://117.156.28.88/PLTV/88888888/224/3221226028/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 1080
+http://117.156.28.88/PLTV/88888888/224/3221226029/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 1080
+http://117.156.28.88/PLTV/88888888/224/3221226030/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 1080
+http://117.156.28.88/PLTV/88888888/224/3221226032/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 1080
+http://117.156.28.88/PLTV/88888888/224/3221226033/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 2M1080
+http://117.156.28.88/PLTV/88888888/224/3221226004/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 3M1080
+http://117.156.28.88/PLTV/88888888/224/3221226001/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221225998/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226006/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226024/index.m3u8
+#EXTINF:-1 tvg-id="70054" tvg-name="肃州电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/suzhou.png"  group-title="地方",肃州 3M1080
+http://117.156.28.88/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 tvg-id="70075" tvg-name="高台电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/gaotaidst.png"  group-title="地方",高台 4M1080
+http://117.156.28.88/PLTV/88888888/224/3221226038/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",泾川 6.8M1080
+http://117.156.28.88/PLTV/88888888/224/3221226022/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV1.png"  group-title="央视",CCTV1 720
+http://117.156.28.88/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV2.png"  group-title="央视",CCTV2 540
+http://117.156.28.88/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV3.png"  group-title="央视",CCTV3 540
+http://117.156.28.88/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV4.png"  group-title="央视",CCTV4 540
+http://117.156.28.88/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV5.png"  group-title="央视",CCTV5 720
+http://117.156.28.88/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV5.png"  group-title="央视",CCTV5 720
+http://117.156.28.88/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV6.png"  group-title="央视",CCTV6 720
+http://117.156.28.88/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV7.png"  group-title="央视",CCTV7 540
+http://117.156.28.88/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV8.png"  group-title="央视",CCTV8 720
+http://117.156.28.88/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV10.png"  group-title="央视",CCTV10 720
+http://117.156.28.88/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV11.png"  group-title="央视",CCTV11 540
+http://117.156.28.88/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12社会与法" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV12.png"  group-title="央视",CCTV12 540
+http://117.156.28.88/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV13.png"  group-title="央视",CCTV13 540
+http://117.156.28.88/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV15.png"  group-title="央视",CCTV15 540
+http://117.156.28.88/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="教育科学",中国教育1 576
+http://117.156.28.88/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="央视",CGTN 576
+http://117.156.28.88/PLTV/88888888/224/3221225614/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="影视",CHC动作电影 576
+http://117.156.28.88/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"  group-title="卫视",东方卫视 576
+http://117.156.28.88/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png"  group-title="卫视",云南卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png"  group-title="卫视",兵团卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png"  group-title="卫视",内蒙古卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"  group-title="卫视",北京卫视 576
+http://117.156.28.88/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"  group-title="卫视",北京卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png"  group-title="卫视",厦门卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png"  group-title="卫视",吉林卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png"  group-title="卫视",天津卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225616/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png"  group-title="卫视",宁夏卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225687/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"  group-title="卫视",安徽卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视",山东卫视 576
+http://117.156.28.88/PLTV/88888888/224/3221225720/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视",山东卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"  group-title="卫视",山西卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"  group-title="卫视",广东卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="卫视",广西卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"  group-title="卫视",新疆卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"  group-title="卫视",河北卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png"  group-title="卫视",河南卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png"  group-title="卫视",海南卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png"  group-title="卫视",深圳卫视 576
+http://117.156.28.88/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png"  group-title="卫视",深圳卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png"  group-title="卫视",湖北卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="卫视",西藏卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png"  group-title="卫视",贵州卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225722/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视",辽宁卫视 720
+http://117.156.28.88/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png"  group-title="卫视",重庆卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225688/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png"  group-title="卫视",陕西卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png"  group-title="卫视",青海卫视 540
+http://117.156.28.88/PLTV/88888888/224/3221225686/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV8+ 576
+http://117.156.28.88/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV法治 576
+http://117.156.28.88/PLTV/88888888/224/3221225961/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV相声小品 576
+http://117.156.28.88/PLTV/88888888/224/3221225962/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",IPTV谍战剧场 576
+http://117.156.28.88/PLTV/88888888/224/3221225960/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV野外 576
+http://117.156.28.88/PLTV/88888888/224/3221225963/index.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿动漫",广东嘉佳卡通 540
+http://117.156.28.88/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿动漫",湖南金鹰卡通 540
+http://117.156.28.88/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="北京",北京卡酷少儿 540
+http://117.156.28.88/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",SiTV七彩戏剧 540
+http://117.156.28.88/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="财经",SiTV东方财经 540
+http://117.156.28.88/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",SiTV动漫秀场 540
+http://117.156.28.88/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",SiTV极速汽车 540
+http://117.156.28.88/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",SiTV法治天地 540
+http://117.156.28.88/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",SiTV生活时尚 720
+http://117.156.28.88/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",SiTV劲爆体育 540
+http://117.156.28.88/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",上海东方影视 720
+http://117.156.28.88/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",上海五星体育 720
+http://117.156.28.88/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="上海",上海哈哈炫动 540
+http://117.156.28.88/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",上海新闻综合 540
+http://117.156.28.88/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg"  group-title="上海",上海都市 720
+http://117.156.28.88/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",东方购物1 576
+http://117.156.28.88/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",东方购物2 576
+http://117.156.28.88/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",东方购物3 576
+http://117.156.28.88/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",东方购物4 576
+http://117.156.28.88/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",东方购物5 576
+http://117.156.28.88/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-id="70023" tvg-name="西安乐购购物" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/xianlegougouwu.jpg"  group-title="地方",购物 576
+http://117.156.28.88/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",天祝 576
+http://117.156.28.88/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",安定 576
+http://117.156.28.88/PLTV/88888888/224/3221225989/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",庄浪 576
+http://117.156.28.88/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",徽县 576
+http://117.156.28.88/PLTV/88888888/224/3221225864/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",西和公共 576
+http://117.156.28.88/PLTV/88888888/224/3221225992/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",西和综合 576
+http://117.156.28.88/PLTV/88888888/224/3221225993/index.m3u8
+#EXTINF:-1 tvg-id="70036" tvg-name="酒泉新闻综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/jiuquan.jpg"  group-title="地方",酒泉 720
+http://117.156.28.88/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",酒泉公共 576
+http://117.156.28.88/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",金塔 576
+http://117.156.28.88/PLTV/88888888/224/3221225980/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",阿克塞 576
+http://117.156.28.88/PLTV/88888888/224/3221225975/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",陇南公共 576
+http://117.156.28.88/PLTV/88888888/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",陇南新闻综合 576
+http://117.156.28.88/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",武都 576
+http://117.156.28.88/PLTV/88888888/224/3221225861/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",漳县 576
+http://117.156.28.88/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",瓜州 576
+http://117.156.28.88/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",张掖公共 576
+http://117.156.28.88/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",张掖新闻 576
+http://117.156.28.88/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",平凉公共 576
+http://117.156.28.88/PLTV/88888888/224/3221225976/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",平凉新闻综合 576
+http://117.156.28.88/PLTV/88888888/224/3221225978/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",临洮 576
+http://117.156.28.88/PLTV/88888888/224/3221226017/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",兰州石化 576
+http://117.156.28.88/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育1 720
+http://117.156.28.88/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育2 720
+http://117.156.28.88/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育3 720
+http://117.156.28.88/PLTV/88888888/224/3221225857/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育4 720
+http://117.156.28.88/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="体育",百视通体育5 576
+http://117.156.28.88/PLTV/88888888/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课1 576
+http://117.156.28.88/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课2 720
+http://117.156.28.88/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课3 576
+http://117.156.28.88/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课4 576
+http://117.156.28.88/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课5 720
+http://117.156.28.88/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课6 720
+http://117.156.28.88/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课7 576
+http://117.156.28.88/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课8 576
+http://117.156.28.88/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课9 720
+http://117.156.28.88/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课10 720
+http://117.156.28.88/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课11 576
+http://117.156.28.88/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课12 576
+http://117.156.28.88/PLTV/88888888/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课13 720
+http://117.156.28.88/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",网课14 576
+http://117.156.28.88/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 8M1080
+http://117.156.28.88/270000001111/1110000072/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="少儿动漫",甘肃少儿 8M1080
+http://117.156.28.88/270000001111/1110000071/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",甘肃文化影视 8M1080
+http://117.156.28.88/270000001111/1110000067/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",甘肃经济 8M1080
+http://117.156.28.88/270000001111/1110000070/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",甘肃都市 8M1080
+http://117.156.28.88/270000001111/1110000068/index.m3u8?i
+#EXTINF:-1 tvg-id="69" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png"  group-title="影视",IPTV5+ 7M1080
+http://117.156.28.88/270000001111/1110000054/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV8+ 576
+http://117.156.28.88/270000001111/1110000057/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV法制 576
+http://117.156.28.88/270000001111/1110000111/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",IPTV相声小品 576
+http://117.156.28.88/270000001111/1110000112/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",IPTV谍战剧场 576
+http://117.156.28.88/270000001111/1110000110/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",兰州石化 576
+http://117.156.28.88/270000001111/1110000024/index.m3u8?i
+#EXTINF:-1 tvg-id="70071" tvg-name="东乡电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/dongxiangtst.png"  group-title="地方",东乡 2M1080
+http://117.156.28.88/270000001111/1110000131/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",临洮 576
+http://117.156.28.88/270000001111/1110000139/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",凉州 576
+http://117.156.28.88/270000001111/1110000173/index.m3u8?i
+#EXTINF:-1 tvg-id="70001" tvg-name="华亭电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/huatingdianshi.jpeg"  group-title="地方",华亭 5M1080
+http://117.156.28.88/270000001111/1110000148/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",华池 5M1080
+http://117.156.28.88/270000001111/1110000158/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",卓尼 5M1080
+http://117.156.28.88/270000001111/1110000155/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",合水 5M1080
+http://117.156.28.88/270000001111/1110000166/index.m3u8?i
+#EXTINF:-1 tvg-id="70072" tvg-name="和政电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hezhengdst.png"  group-title="地方",和政 5M1080
+http://117.156.28.88/270000001111/1110000149/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",天水公共 3M1080
+http://117.156.28.88/270000001111/1110000186/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",天水综合 6M1080
+http://117.156.28.88/270000001111/1110000185/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",天祝 576
+http://117.156.28.88/270000001111/1110000144/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",宁县 5M1080
+http://117.156.28.88/270000001111/1110000157/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",安定 576
+http://117.156.28.88/270000001111/1110000133/index.m3u8?i
+#EXTINF:-1 tvg-id="70073" tvg-name="岷县电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/mingshandst.png"  group-title="地方",岷县 7M1080
+http://117.156.28.88/270000001111/1110000130/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",崇信 7M1080
+http://117.156.28.88/270000001111/1110000179/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",平凉公共 576
+http://117.156.28.88/270000001111/1110000020/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",平凉新闻综合 576
+http://117.156.28.88/270000001111/1110000021/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",庆城 5M1080
+http://117.156.28.88/270000001111/1110000156/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",康乐 5M1080
+http://117.156.28.88/270000001111/1110000164/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",张掖公共 576
+http://117.156.28.88/270000001111/1110000026/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",张掖新闻 576
+http://117.156.28.88/270000001111/1110000025/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",徽县 576
+http://117.156.28.88/270000001111/1110000015/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",成县 5M1080
+http://117.156.28.88/270000001111/1110000019/index.m3u8?i
+#EXTINF:-1 tvg-id="70033" tvg-name="敦煌电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/dunhuangtai.jpg"  group-title="地方",敦煌 3M1080
+http://117.156.28.88/270000001111/1110000028/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",景泰 3M1080
+http://117.156.28.88/270000001111/1110000132/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",礼县新闻综合 6M1080
+http://117.156.28.88/270000001111/1110000153/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",正宁 6M1080
+http://117.156.28.88/270000001111/1110000184/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",武威公共 576
+http://117.156.28.88/270000001111/1110000176/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",武威新闻综合 7M1080
+http://117.156.28.88/270000001111/1110000174/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",武山 3M1080
+http://117.156.28.88/270000001111/1110000170/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",武都 576
+http://117.156.28.88/270000001111/1110000012/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",民勤 5M1080
+http://117.156.28.88/270000001111/1110000150/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",永昌 4M1080
+http://117.156.28.88/270000001111/1110000178/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",永靖 1080
+http://117.156.28.88/270000001111/1110000151/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",泾川 1080
+http://117.156.28.88/270000001111/1110000143/index.m3u8?i
+#EXTINF:-1 tvg-id="70002" tvg-name="灵台新闻综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/lingtaixinwenzonghe.jpeg"  group-title="地方",灵台 2M1080
+http://117.156.28.88/270000001111/1110000145/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",玉门 2M1080
+http://117.156.28.88/270000001111/1110000125/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",玛曲 5M1080
+http://117.156.28.88/270000001111/1110000165/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",环县 5M1080
+http://117.156.28.88/270000001111/1110000180/index.m3u8?i
+#EXTINF:-1 tvg-id="70054" tvg-name="肃州电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/suzhou.png"  group-title="地方",肃州 3M1080
+http://117.156.28.88/270000001111/1110000123/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",舟曲 6M1080
+http://117.156.28.88/270000001111/1110000169/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",西和公共 576
+http://117.156.28.88/270000001111/1110000136/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",西和综合 576
+http://117.156.28.88/270000001111/1110000137/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",西峰 5M1080
+http://117.156.28.88/270000001111/1110000160/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",迭部 1080
+http://117.156.28.88/270000001111/1110000154/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",通渭 576
+http://117.156.28.88/270000001111/1110000159/index.m3u8?i
+#EXTINF:-1 tvg-id="70036" tvg-name="酒泉新闻综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/jiuquan.jpg"  group-title="地方",酒泉 720
+http://117.156.28.88/270000001111/1110000001/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",酒泉公共 576
+http://117.156.28.88/270000001111/1110000002/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",金塔 576
+http://117.156.28.88/270000001111/1110000124/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",金川 6M1080
+http://117.156.28.88/270000001111/1110000181/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",镇远 6M1080
+http://117.156.28.88/270000001111/1110000161/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",阿克塞 576
+http://117.156.28.88/270000001111/1110000018/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",陇南公共 576
+http://117.156.28.88/270000001111/1110000014/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",陇南新闻综合 576
+http://117.156.28.88/270000001111/1110000013/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",陇西 576
+http://117.156.28.88/270000001111/1110000177/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",靖远 8M1080
+http://117.156.28.88/270000001111/1110000183/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",静宁新闻综合 3M1080
+http://117.156.28.88/270000001111/1110000147/index.m3u8?i
+#EXTINF:-1 tvg-id="70075" tvg-name="高台电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/gaotaidst.png"  group-title="地方",高台 5M1080
+http://117.156.28.88/270000001111/1110000146/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",临夏 6M1080
+http://117.156.28.88/270000001111/1110000190/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",秦安 1080
+http://117.156.28.88/270000001111/1110000189/index.m3u8?i
+#EXTINF:-1 tvg-id="70016" tvg-name="积石山电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/jishishan.jpg"  group-title="地方",积石山 5M1080
+http://117.156.28.88/270000001111/1110000152/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",庄浪 576
+http://117.156.28.88/270000001111/1110000135/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",未知 720
+http://117.156.28.88/270000001111/1110000187/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",武威公共 576
+http://117.156.28.88/270000001111/1110000175/index.m3u8?i
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",瓜州 576
+http://117.156.28.88/270000001111/1110000027/index.m3u8?i

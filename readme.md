@@ -12,11 +12,8 @@ awk -f m3umaker.awk src.txt
 
  # 排序
  cat newtv.txt|grep -v "#__#"|grep -v "#genre#"|sort -t "," -k1 > newtv.txt.bak
-
-
 # 获取channel_id 映射关系
 ## 中国新闻与电视
 1. [老生常谈云媒体，党和人民在一起](https://laosheng.top/fly/)
-
-[国内地方台2021-10.txt](https://github.com/wmenjoy-music/vms/files/7512001/2021-10.txt)
-
+2. [国内地方台2021-10.txt](https://github.com/wmenjoy-music/vms/files/7512001/2021-10.txt)
+3. [logo](https://www.lyngsat-logo.com/tvcountry/China.html)

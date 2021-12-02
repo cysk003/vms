@@ -1,0 +1,96 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV1.png"  group-title="央视",CCTV1 1080
+http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/CCTV1.png"  group-title="央视",CCTV1 1080
+http://yd-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="央视",CCTV13拉伸 1080
+http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="央视",CCTV13拉伸 1080
+http://yd-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"  group-title="卫视",浙江卫视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江公共新闻 1080
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江公共新闻 1080
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江公共新闻 1080
+http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江公共新闻 1080
+http://yd-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-id="70058" tvg-name="浙江国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png"  group-title="地方",浙江国际 1080
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="70058" tvg-name="浙江国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png"  group-title="地方",浙江国际 1080
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 tvg-id="70058" tvg-name="浙江国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png"  group-title="地方",浙江国际 1080
+http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="70058" tvg-name="浙江国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png"  group-title="地方",浙江国际 1080
+http://yd-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 tvg-id="70056" tvg-name="浙江少儿" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjse.png"  group-title="地方",浙江少儿 1080
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="70056" tvg-name="浙江少儿" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjse.png"  group-title="地方",浙江少儿 1080
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 tvg-id="70056" tvg-name="浙江少儿" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjse.png"  group-title="地方",浙江少儿 1080
+http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="70056" tvg-name="浙江少儿" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjse.png"  group-title="地方",浙江少儿 1080
+http://yd-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 tvg-id="70059" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png"  group-title="地方",浙江教科影视 1080
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="70059" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png"  group-title="地方",浙江教科影视 1080
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 tvg-id="70059" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png"  group-title="地方",浙江教科影视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="70059" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png"  group-title="地方",浙江教科影视 1080
+http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 tvg-id="70061" tvg-name="浙江数码时代" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjsmsd.png"  group-title="地方",浙江数码时代 1080
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="70061" tvg-name="浙江数码时代" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjsmsd.png"  group-title="地方",浙江数码时代 1080
+http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 tvg-id="70061" tvg-name="浙江数码时代" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjsmsd.png"  group-title="地方",浙江数码时代 1080
+http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="70061" tvg-name="浙江数码时代" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjsmsd.png"  group-title="地方",浙江数码时代 1080
+http://yd-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 tvg-id="70055" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjmsxy.png"  group-title="地方",浙江民生休闲 1080
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="70055" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjmsxy.png"  group-title="地方",浙江民生休闲 1080
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 tvg-id="70055" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjmsxy.png"  group-title="地方",浙江民生休闲 1080
+http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="70055" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjmsxy.png"  group-title="地方",浙江民生休闲 1080
+http://yd-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 tvg-id="70057" tvg-name="浙江经视生活频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjjjsh.png"  group-title="地方",浙江经济生活 1080
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="70057" tvg-name="浙江经视生活频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjjjsh.png"  group-title="地方",浙江经济生活 1080
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 tvg-id="70057" tvg-name="浙江经视生活频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjjjsh.png"  group-title="地方",浙江经济生活 1080
+http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="70057" tvg-name="浙江经视生活频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjjjsh.png"  group-title="地方",浙江经济生活 1080
+http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 tvg-id="70060" tvg-name="浙江钱江" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjqj.png"  group-title="地方",浙江钱江 1080
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="70060" tvg-name="浙江钱江" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjqj.png"  group-title="地方",浙江钱江 1080
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 tvg-id="70060" tvg-name="浙江钱江" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjqj.png"  group-title="地方",浙江钱江 1080
+http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="70060" tvg-name="浙江钱江" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjqj.png"  group-title="地方",浙江钱江 1080
+http://yd-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江好易购 1080
+http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江好易购 1080
+http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江好易购 1080
+http://yd-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="其他",浙江好易购 1080
+http://yd-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8

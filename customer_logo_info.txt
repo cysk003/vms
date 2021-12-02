@@ -21,9 +21,9 @@
 21 http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png CCTV4K CCTV4K 央视 cctv 20211201 CCTV-4k
 22 http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png CCTV奥林匹克频道 CCTV16 央视 cctv 20211201 CCTV-16
 59 http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png 金鹰卡通 金鹰卡通 少儿动漫 sctv 20211130 湖南金鹰卡通
-63 http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png 教育1台 中国教育1台 教育科学 sctv 20211201
-64 http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png 教育2台 中国教育2台 教育科学 tvsou 20211201
-65 http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png 教育3台 中国教育3台 教育科学 tvsou 20211201
+63 http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png 教育1台 中国教育1台 教育科学 sctv 20211201 CETV1 CETV-2
+64 http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png 教育2台 中国教育2台 教育科学 tvsou 20211201 CETV2 CETV-2
+65 http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png 教育3台 中国教育3台 教育科学 tvsou 20211201 CETV3 CETV-3
 67 http://epg.51zmt.top:8000/tb1/qt/IPTVEFEL.png 外汇理财 外汇理财 其他 tvsou 20211201
 68 http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png 电竞天堂 电竞天堂 其他 sctv 20211130
 69 http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png IPTV5+ IPTV5+ 影视 tvmao 20211201
@@ -60,7 +60,7 @@
 100 http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg 中数摄影频道 摄影频道 央视 tvsou 20211201 CCTV摄影频道
 101 http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg 中数天元围棋 天元围棋 央视 tvmao 20211201 CCTV天元围棋
 102 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE29.jpg 中数现代女性 现代女性 央视 tvsou 20211201 CCTV现代女性
-103 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg 中数早期教育 早期教育 教育 tvsou 20211201 CCTV早期教育 中国教育早教
+103 http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg 中数早期教育 早期教育 教育 tvsou 20211201 CCTV早期教育 中国教育早教 CETV早期教育
 104 http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhengquan.png 中数CCTV证券资讯 证券资讯 央视 tvsou 20211201 CCTV证券资讯
 105 http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png 中数CCTV央视台球 央视台球 央视 tvsou 20211201 CCTV央视台球
 106 http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg 中数茶频道 茶频道 央视 tvsou 20211201 CCTV茶频道
@@ -93,7 +93,7 @@
 133 http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg 华数精品剧场 精品剧场 影视 tvsou 20211201
 134 http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg 华数少儿动漫 少儿动漫 少儿动漫 tvsou 20211201
 135 http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg 华数欧美影院 欧美影院 影视 tvmao 20211201
-136 http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png 教育4台 中国教育4台 教育科学 sctv 20211201
+136 http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png 教育4台 中国教育4台 教育科学 sctv 20211201 CETV4 CETV-4
 137 http://epg.51zmt.top:8000/tb1/qt/kaku.png 卡酷动画 卡酷动画 北京 sctv 20211130 北京卡酷少儿 卡酷少儿
 139 http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png BTV文艺 BTV文艺 北京 tvsou 20211201 北京文艺
 140 http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png BTV科教 BTV科教 北京 tvsou 20211201  北京科教
@@ -104,6 +104,7 @@
 145 http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png BTV新闻 BTV新闻 北京 tvsou 20211201 北京新闻
 204 http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg 沈阳新闻 沈阳新闻 辽宁 tvmao 20211201 沈阳新闻综合
 298 http://epg.51zmt.top:8000/tb1/gt/HMC.png 好莱坞电影台 好莱坞电影台 台湾 tbc 20211201 好莱坞影台
+163 http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png 上海纪实人文 上海纪实 上海 sctv 20211201 纪实人文
 70001 https://gitee.com/wmenjoy/vms/raw/main/logo/huatingdianshi.jpeg 华亭电视台 华亭电视台  地方 iptv 2021111
 70002 https://gitee.com/wmenjoy/vms/raw/main/logo/lingtaixinwenzonghe.jpeg 灵台新闻综合 灵台新闻综合 地方 iptv 2021111
 70003 https://gitee.com/wmenjoy/vms/raw/main/logo/logo_ntd.png 新唐人亚太臺 新唐人亚太台 地方 iptv 2021111
@@ -113,7 +114,7 @@
 70007 https://www.ntdtv.com/assets/themes/ntd/images/ogo/logo_ntd.png 新唐人美东臺 新唐人美东台 地方 iptv 2021111
 70008 https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png 新唐人美西臺 新唐人美西台 地方 iptv 2021111
 70009 https://gitee.com/wmenjoy/vms/raw/main/logo/chaozhou.jpg 潮州公共 潮州公共 地方 iptv 2021111
-70010 https://gitee.com/wmenjoy/vms/raw/main/logo/chaozhou.jpg 潮州综合 潮州综合 地方 iptv 2021111
+70010 https://gitee.com/wmenjoy/vms/raw/main/logo/chaozhou-tv-cn.png 潮州综合 潮州综合 地方 iptv 2021111
 70011 https://gitee.com/wmenjoy/vms/raw/main/logo/loudi.png,娄底综合  地方 iptv 2021111
 70012 https://gitee.com/wmenjoy/vms/raw/main/logo/cctbn_ah.png 中国交通(安徽) 中国交通(安徽) 地方 iptv 2021111
 70013 https://gitee.com/wmenjoy/vms/raw/main/logo/cctbn_hn.png 中国交通（海南）中国交通（海南）地方 iptv 2021111
@@ -133,7 +134,7 @@
 70027 https://gitee.com/wmenjoy/vms/raw/main/logo/da_ai.jpg 大愛1 大愛1 地方  iptv 2021111
 70028 https://gitee.com/wmenjoy/vms/raw/main/logo/ahgg.jpg 安徽公共 安徽公共 地方  iptv 2021111
 70029 https://gitee.com/wmenjoy/vms/raw/main/logo/ahkj.jpg 安徽农业科教 安徽农业科教 地方  iptv 2021111
-70030 https://gitee.com/wmenjoy/vms/raw/main/logo/ahrw.jpg 安徽人物 安徽人物 地方  iptv 2021111
+70030 https://gitee.com/wmenjoy/vms/raw/main/logo/ahrw.jpg 安徽人物频道 安徽人物 地方  iptv 2021111
 70031 https://gitee.com/wmenjoy/vms/raw/main/logo/ahzy.jpg 安徽综艺体育 安徽综艺体育 地方  iptv 2021111
 70032 https://gitee.com/wmenjoy/vms/raw/main/logo/anhys.jpg 安徽影视 安徽影视 地方  iptv 2021111
 70033 https://gitee.com/wmenjoy/vms/raw/main/logo/dunhuangtai.jpg 敦煌电视台 敦煌电视台 地方  iptv 2021111
@@ -277,5 +278,86 @@
 70171 https://gitee.com/wmenjoy/vms/raw/main/logo/GuangdongPearlRiver.cn.png 广东珠江频道  广东珠江 地方 iptv 20211201 珠江
 70172 https://gitee.com/wmenjoy/vms/raw/main/logo/GuangdongInternationalChannel.cn.png 广东国际频道  广东国际 地方 iptv 20211201
 70173 https://gitee.com/wmenjoy/vms/raw/main/logo/CGTNEnglish.cn.png CGTN-English  CGTN-English 央视 iptv 20211201
-70174 https://gitee.com/wmenjoy/vms/raw/main/logo/CGTNEspanol.cn.png CGTN-Español CGTN-Español 央视 iptv 20211201
-70175 https://gitee.com/wmenjoy/vms/raw/main/logo/CGTNFrench.cn.png CGTN-French  CGTN-French 央视 iptv 20211201 Español
+70174 https://gitee.com/wmenjoy/vms/raw/main/logo/CGTNEspanol.cn.png CGTN-Español CGTN-Español 央视 iptv 20211201 CGTN西班牙语
+70175 https://gitee.com/wmenjoy/vms/raw/main/logo/CGTNFrench.cn.png CGTN-French  CGTN-French 央视 iptv 20211201 Español CGTN法语
+70176 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-kangba-tibetan-tv-cn.png 四川康巴卫视  康巴卫视 地方 iptv 20211201
+70177 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-rural-channel-cn.png 四川乡村  四川乡村 地方 iptv 20211201
+70178 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-tv-2-cn.png 四川经济  四川经济 地方 iptv 20211201
+70179 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-science-channel-cn.png 四川科教  四川科教 地方 iptv 20211201
+70180 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-tv-5-cn.png 四川影视文艺  四川影视文艺 地方 iptv 20211201
+70181 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-tv-3-cn.png 四川文化旅游  四川文化旅游 地方 iptv 20211201
+70182 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-tv-4-cn.png 四川新闻  四川新闻 地方 iptv 20211201
+70183 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-tv-6-cn.png 四川星空购物  星空购物 地方 iptv 20211201
+70184 https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-tv-7-cn.png SCTV-7  SCTV7 地方 iptv 20211201
+70185 https://gitee.com/wmenjoy/vms/raw/main/logo/qinghai_tv_cn_anduo_satellite.png 安多卫视  安多卫视  地方 iptv 20211201
+70186 https://gitee.com/wmenjoy/vms/raw/main/logo/anhui-mobile-tv-cn.png 安徽移动电视频道  安徽移动电视  地方 iptv 20211201
+70187 https://gitee.com/wmenjoy/vms/raw/main/logo/anhui-economic-life-cn.png 安徽经济生活  安徽经济生活 地方 iptv 20211201
+70188 https://gitee.com/wmenjoy/vms/raw/main/logo/anhui-international-channel-cn.png 安徽国际  安徽国际 地方 iptv 20211201
+70189 https://gitee.com/wmenjoy/vms/raw/main/logo/beijing-tv-international-channel-cn.png 北京国际频道  北京国际 北京 iptv 20211201
+70190 https://gitee.com/wmenjoy/vms/raw/main/logo/cgtn_cn_arabic.png CGTN阿拉伯  CGTN阿拉伯 央视 iptv 20211201 CGTN阿拉伯
+70191 https://gitee.com/wmenjoy/vms/raw/main/logo/cgtn_cn_russkij.png CGTN俄语  CGTN俄语 央视 iptv 20211201 CGTN俄语
+70192 https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png 动漫秀场  动漫秀场 少儿动漫 iptv 20211201
+70193 https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png 欢笑剧场 欢笑剧场 影视 iptv 20211201 欢笑剧场4k
+70194 https://gitee.com/wmenjoy/vms/raw/main/logo/chongqing-tv-international-cn.png 重庆国际  重庆国际 地方 iptv 20211201
+70195 https://gitee.com/wmenjoy/vms/raw/main/logo/chongqing-tv-shopping-cn.png 重庆时尚购物 时尚购物 地方 iptv 20211201
+70196 https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png 都市剧场 都市剧场  影视 iptv 20211201
+70197 https://gitee.com/wmenjoy/vms/raw/main/logo/collectibles_channel_cn.png 天下收藏 天下收藏  其他 iptv 20211201
+70198 https://gitee.com/wmenjoy/vms/raw/main/logo/guizhou-economic-channel-cn.png 贵州经济频道 贵州经济 地方 iptv 20211201
+70199 https://gitee.com/wmenjoy/vms/raw/main/logo/henan-tv-cn.png 河南电视台 河南电视台 地方 iptv 20211201
+70200 https://gitee.com/wmenjoy/vms/raw/main/logo/henan-tv-international-channel-cn.png 河南国际 河南国际 地方 iptv 20211201
+70201 https://gitee.com/wmenjoy/vms/raw/main/logo/jiangsu-tv-international-cn.png 江苏国际 江苏国际 地方 iptv 20211201
+70202 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-comprehensive-cn.png 湖北电视台 湖北电视台 地方 iptv 20211201 湖北综合
+70203 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-economic-cn.png 湖北经视 湖北经视 地方 iptv 20211201
+70204 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-education-cn.png 湖北教育 湖北教育 地方 iptv 20211201
+70205 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-film-and-tv-cn.png 湖北影视 湖北影视 地方 iptv 20211201
+70206 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-life-cn.png.png 湖北生活 湖北生活 地方 iptv 20211201
+70207 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-mega-shopping-cn.png 美嘉购物 湖北美嘉购物 地方 iptv 20211201
+70208 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-public-news-cn.png 湖北公共新闻 湖北公共新闻 地方 iptv 20211201
+70209 https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-ridge-cn.png 湖北垄上频道 垄上频道 地方 iptv 20211201
+70210 https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-ping-yu-cn.png 湖南先锋乒羽 先锋乒羽 地方 iptv 20211201
+70211 https://gitee.com/wmenjoy/vms/raw/main/logo/hunan_cn_tv.png 湖南广播电视台 湖南电视台 地方 iptv 20211201
+70212 https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png 湖南国际频道 湖南国际 地方 iptv 20211201
+70213 https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png 梨园频道 梨园频道 曲艺 iptv 20211201 河南梨园频道 河南梨园
+70214 https://gitee.com/wmenjoy/vms/raw/main/logo/martial-arts-world-cn.png 武术世界 河南武术世界 体育 iptv 20211201
+70215 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-agriculture-forestry-tv-cn.png 农林卫视 山西农林卫视 地方 iptv 20211201
+70216 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-cn.png 陕西广播电视台 陕西电视台 地方 iptv 20211201
+70217 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-life-channel-cn.png 陕西生活频道 陕西生活 地方 iptv 20211201
+70218 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-news-channel-cn.png 陕西新闻资讯 陕西新闻资讯 地方 iptv 20211201
+70219 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-public-channel-cn.png 陕西公共 陕西公共 地方 iptv 20211201
+70220 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-sports-leisure-channel-cn.png 陕西体育休闲 陕西体育休闲 地方 iptv 20211201
+70221 https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-urban-youth-channel-cn.png 陕西都市青春 陕西都市青春 地方 iptv 20211201
+70222 https://gitee.com/wmenjoy/vms/raw/main/logo/shandong-education-tv-cn.png 山东教育卫视 山东教育 地方 iptv 20211201
+70223 https://gitee.com/wmenjoy/vms/raw/main/logo/shandong-tv-life-channel-cn.png 山东生活频道 山东生活 地方 iptv 20211201
+70224 https://gitee.com/wmenjoy/vms/raw/main/logo/shandong-tv-qilu-channel-cn.png 山东齐鲁频道 山东齐鲁 地方 iptv 20211201
+70225 https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-childrens-channel-cn.png 宁夏少儿频道 宁夏少儿 地方 iptv 20211201
+70226 https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-economic-channel-cn.png 宁夏经济频道 宁夏经济 地方 iptv 20211201
+70227 https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-public-channel-cn.png 宁夏公共频道 宁夏公共 地方 iptv 20211201
+70228 https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-tv-cn.png 宁夏影视频道 宁夏影视 地方 iptv 20211201
+70229 https://gitee.com/wmenjoy/vms/raw/main/logo/oriental-financial-cn.png 东方财经 东方财经 地方 iptv 20211201
+70230 https://gitee.com/wmenjoy/vms/raw/main/logo/oriental_cj_shopping_12.png 东方CJ购物 东方购物 地方 iptv 20211201
+70231 https://gitee.com/wmenjoy/vms/raw/main/logo/nei_monggol_tv_chinese.png 内蒙古电视台 内蒙古电视台 地方 iptv 20211201
+70232 https://gitee.com/wmenjoy/vms/raw/main/logo/nei_monggol_tv.png 内蒙古蒙语电视台 内蒙古蒙语 地方 iptv 20211201
+70233 https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-2-mongolian-culture-channel-cn.png 内蒙古蒙古文化频道 内蒙古蒙古文化 地方 iptv 20211201
+70234 https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-agriculture-and-animal-channel.png 内蒙古农牧频道 内蒙古农牧 地方 iptv 20211201
+70235 https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-children-channel-cn.png 内蒙古少儿频道 内蒙古少儿 地方 iptv 20211201
+70236 https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-culture-entertainment-channel-cn.png 内蒙古文体娱乐频道 内蒙古文体娱乐 地方 iptv 20211201
+70237 https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-economic-and-life-channel-cn.png 内蒙古经济生活频道 内蒙古经济生活 地方 iptv 20211201
+70238 https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-news-channel-cn.png 内蒙古新闻综合频道 内蒙古新闻综合 地方 iptv 20211201
+70239 https://gitee.com/wmenjoy/vms/raw/main/logo/katong-cn.png 中国卡通 中国卡通  少儿动漫 iptv 20211201
+70240 https://gitee.com/wmenjoy/vms/raw/main/logo/lasa_tv_cn.png 拉萨广播电视台  拉萨电视台 地方 iptv 20211201
+70241 https://gitee.com/wmenjoy/vms/raw/main/logo/jilin-basketball-channel-cn.png 吉林篮球频道  吉林篮球 地方 iptv 20211201
+70242 https://gitee.com/wmenjoy/vms/raw/main/logo/jilin-tv-station-cn.png 吉林广播电视台   吉林电视台 地方 iptv 20211201
+70243 https://gitee.com/wmenjoy/vms/raw/main/logo/inner-mongolia-football-tv-cn.png 内蒙古足球频道 内蒙古足球 体育 iptv 20211201
+70244 https://gitee.com/wmenjoy/vms/raw/main/logo/iptv-3plus-cn.png iptv3+ iptv3Plus 影视 iptv 20211201
+70245 https://gitee.com/wmenjoy/vms/raw/main/logo/household-management-tv-cn.png 家政频道 家政 其他 iptv 20211201
+70246 https://gitee.com/wmenjoy/vms/raw/main/logo/guangzhou-tv-cn.png 广州影视 广州影视 影视 iptv 20211201
+70247 https://gitee.com/wmenjoy/vms/raw/main/logo/flash_tv_cn.png 新动漫 新动漫 少儿动漫 iptv 20211201
+70248 https://gitee.com/wmenjoy/vms/raw/main/logo/combos_tv_discovery.png 艺华卫视网 艺华卫视网 地方 iptv 20211201
+70249 https://gitee.com/wmenjoy/vms/raw/main/logo/chinese-speciality-channel-cn.png 中华特产 中华特产 其他 iptv 20211201
+70250 https://gitee.com/wmenjoy/vms/raw/main/logo/chinese_hope_tv.png 中国希望电视台 希望电视台 其他 iptv 20211201
+70251 https://gitee.com/wmenjoy/vms/raw/main/logo/china-weather-tv-cn.png 中国天气 中国天气 其他 iptv 20211201
+70252 https://gitee.com/wmenjoy/vms/raw/main/logo/china_movie_channel.png 中国电影频道 中国电影 其他 iptv 20211201
+
+
+
+

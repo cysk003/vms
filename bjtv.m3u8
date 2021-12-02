@@ -204,8 +204,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 http://125.210.152.21:9120/live/GQYL.m3u8
 #EXTINF:-1 group-title="影视",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="音乐",风尚音乐
-http://125.210.152.21:9120/live/FSYY.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4America.jpg" group-title="中国央视", CCTV-4 中文国际美洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4Europe.jpg" group-title="中国央视", CCTV-4 中文国际欧洲 高清

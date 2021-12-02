@@ -45,11 +45,11 @@ FS=",";
 !/^($|[:space:]*#)/{
     group=""
     name=$1
-    url=$2
+    urls=$2
     if (NF == 3){
         group=$1
         name=$2
-        url=$3
+        urls=$3
     }
 
     split(name, arr, " ");
@@ -70,10 +70,14 @@ FS=",";
         if (group == ""){
           group = array[5]
         }
-        if (id) {
-           print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\""tagName"\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
-        } else {
-           print "#EXTINF:-1 tvg-id=\"-1\" group-title=\""group"\","name"\n"url;
+        split(urls, urlarray, "#")
+        for( idx in urlarray) {
+            url = urlarray[idx]
+            if (id) {
+                print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\""tagName"\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
+            } else {
+                print "#EXTINF:-1 tvg-id=\"-1\" group-title=\""group"\","name"\n"url;
+            }
         }
     } else {
      if (group == ""){
@@ -85,10 +89,15 @@ FS=",";
          }
        }
     }
+    split(urls, urlarray, "#")
+    for( idx in urlarray) {
+       url = urlarray[idx]
+
      if (id) {
        print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\"""\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
      } else {
        print "#EXTINF:-1 tvg-id=\"-1\" tvg-name=\"""\" group-title=\""group"\","name"\n"url;
+     }
      }
     }
 }

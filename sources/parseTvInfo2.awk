@@ -1,21 +1,30 @@
 BEGIN{
 FS=",";
 p=0
+start=0
 }
-
-/<tr >/ {
+/<idv id="country"/ {
+    start=1
+ }
+/<tr>/ {
+    if (start == 1) {
     getline
     p=1;
+    }
 }
 
 
-/<tr >/ {
-    getline
-    p=1;
+/<tr />/ {
+    if (start == 1) {
+        getline
+        p=1;
+    }
 }
 
 /<\/tr>/ {
-  p=0;
+    if (start == 1) {
+      p=0;
+    }
 }
 
 !/^($|[:space:]*#)/{

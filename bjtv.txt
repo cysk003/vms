@@ -97,7 +97,7 @@
 地方,茶频道,http://192.168.50.1:8288/rtp/225.1.0.96:1025
 影视,浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 教育,浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-影视,东方影视FHD,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+影视,东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 影视,福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 影视,CHC高清电影 4M1080,http://hdtv.haust.edu.cn/hls/chchd.m3u8
 影视,都市剧场 HD,http://hdtv.haust.edu.cn/hls/hls185a95.m3u8
@@ -127,7 +127,7 @@
 地方,辽宁经济 HD,http://hdtv.haust.edu.cn/hls/hls185a540.m3u8
 娱乐,快乐垂钓 高清,http://192.168.50.1:8288/rtp/225.1.0.97:1025
 其他,纪实人文 高清,http://192.168.50.1:8288/rtp/225.1.0.129:1025
-中国央视,CGTN 美国,http://192.168.50.1:8288/rtp/225.1.8.176:4222
+中国央视,CGTN d美国,http://192.168.50.1:8288/rtp/225.1.8.176:4222
 中国央视,CGTN纪录,http://192.168.50.1:8288/rtp/225.1.8.177:4222
 中国央视,CGTN西班牙语,http://192.168.50.1:8288/rtp/225.1.8.178:4222
 中国央视,CGTN法语,http://192.168.50.1:8288/rtp/225.1.8.179:4222

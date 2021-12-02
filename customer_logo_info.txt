@@ -20,6 +20,7 @@
 20 http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png CCTV-4美洲 CCTV4AME 央视 cctv 20211201 CCTV-4AME
 21 http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png CCTV4K CCTV4K 央视 cctv 20211201 CCTV-4k
 22 http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png CCTV奥林匹克频道 CCTV16 央视 cctv 20211201 CCTV-16
+56 http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png 延边卫视 延边卫视 卫视 tvsou 20211201 吉林延边卫视
 59 http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png 金鹰卡通 金鹰卡通 少儿动漫 sctv 20211130 湖南金鹰卡通
 63 http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png 教育1台 中国教育1台 教育科学 sctv 20211201 CETV1 CETV-2
 64 http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png 教育2台 中国教育2台 教育科学 tvsou 20211201 CETV2 CETV-2
@@ -161,7 +162,7 @@
 70054 https://gitee.com/wmenjoy/vms/raw/main/logo/suzhou.png 肃州电视台 肃州电视台 地方  iptv 2021111
 70055 https://gitee.com/wmenjoy/vms/raw/main/logo/zjmsxy.png 浙江民生休闲 浙江民生休闲 地方  iptv 2021111
 70056 https://gitee.com/wmenjoy/vms/raw/main/logo/zjse.png 浙江少儿 浙江少儿 地方  iptv 2021111
-70057 https://gitee.com/wmenjoy/vms/raw/main/logo/zjjjsh.png 浙江经济生活 浙江经济生活 地方  iptv 2021111
+70057 https://gitee.com/wmenjoy/vms/raw/main/logo/zjjjsh.png 浙江经视生活频道 浙江经视生活 地方  iptv 2021111
 70058 https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png 浙江国际 浙江国际 地方  iptv 2021111
 70059 https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png 浙江教科影视 浙江教科影视 地方  iptv 2021111
 70060 https://gitee.com/wmenjoy/vms/raw/main/logo/zjqj.png 浙江钱江 浙江钱江 地方  iptv 2021111
@@ -351,7 +352,7 @@
 70244 https://gitee.com/wmenjoy/vms/raw/main/logo/iptv-3plus-cn.png iptv3+ iptv3Plus 影视 iptv 20211201
 70245 https://gitee.com/wmenjoy/vms/raw/main/logo/household-management-tv-cn.png 家政频道 家政 其他 iptv 20211201
 70246 https://gitee.com/wmenjoy/vms/raw/main/logo/guangzhou-tv-cn.png 广州影视 广州影视 影视 iptv 20211201
-70247 https://gitee.com/wmenjoy/vms/raw/main/logo/flash_tv_cn.png 新动漫 新动漫 少儿动漫 iptv 20211201
+70247 https://gitee.com/wmenjoy/vms/raw/main/logo/flash_tv_cn.png 新动漫 新动漫 少儿动漫 iptv 20211201 NNM新动漫
 70248 https://gitee.com/wmenjoy/vms/raw/main/logo/combos_tv_discovery.png 艺华卫视网 艺华卫视网 地方 iptv 20211201
 70249 https://gitee.com/wmenjoy/vms/raw/main/logo/chinese-speciality-channel-cn.png 中华特产 中华特产 其他 iptv 20211201
 70250 https://gitee.com/wmenjoy/vms/raw/main/logo/chinese_hope_tv.png 中国希望电视台 希望电视台 其他 iptv 20211201

@@ -53,7 +53,6 @@
 53 http://epg.51zmt.top:8000/tb1/ws/qinghai.png 青海卫视 青海卫视 卫视 sctv 20211130
 54 http://epg.51zmt.top:8000/tb1/ws/nanfang.png 南方卫视 南方卫视 卫视 tvmao 20211201
 55 http://epg.51zmt.top:8000/tb1/ws/bingtuan.png 兵团卫视 兵团卫视 卫视 tvsou 20211201
-56 http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png 延边卫视 延边卫视 卫视 tvsou 20211201
 57 http://epg.51zmt.top:8000/tb1/ws/huanghe.png 黄河卫视 黄河卫视 卫视 tvsou 20211201
 58 http://epg.51zmt.top:8000/tb1/ws/xiamen.png 厦门卫视 厦门卫视 卫视 tvsou 20211201
 59 http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png 金鹰卡通 金鹰卡通 卫视 sctv 20211130

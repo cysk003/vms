@@ -38,7 +38,6 @@ http://192.168.50.1:8288/rtp/225.1.8.189:8002
 http://192.168.50.1:8288/rtp/225.1.8.17:8144
 #EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国央视", CCTV4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国央视", CETV1 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
 #EXTINF:-1 group-title="4k", CCTV4K 超高清
@@ -143,7 +142,6 @@ http://192.168.50.1:8288/rtp/225.1.8.61:8002
 http://192.168.50.1:8288/rtp/225.1.8.63:8002
 #EXTINF:-1 group-title="北京",北京朝阳
 http://192.168.50.1:8288/rtp/225.1.0.100:1025
-
 #EXTINF:-1 group-title="少儿",浙江少儿台
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 group-title="少儿",福州少儿
@@ -184,8 +182,6 @@ http://192.168.50.1:8288/rtp/225.1.8.189:8002
 http://192.168.50.1:8288/rtp/225.1.8.40:8184
 #EXTINF:-1 group-title="体育",体育赛事
 http://192.168.50.1:8288/rtp/225.1.8.81:8176
-#EXTINF:-1 group-title="体育",内蒙古体育 3m1080
-http://hdtv.haust.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
 http://192.168.50.1:8288/rtp/225.1.0.243:1025
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
@@ -198,7 +194,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="影视",福州影视
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-
 #EXTINF:-1 group-title="影视",超级电视剧
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="影视",超级电影
@@ -211,8 +206,6 @@ http://125.210.152.21:9120/live/GQYL.m3u8
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="音乐",风尚音乐
 http://125.210.152.21:9120/live/FSYY.m3u8
-#EXTINF:-1 group-title="音乐",CCTV风云音乐HD
-http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4America.jpg" group-title="中国央视", CCTV-4 中文国际美洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4Europe.jpg" group-title="中国央视", CCTV-4 中文国际欧洲 高清
@@ -295,7 +288,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=6d175258de7421
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="香港",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-
 #EXTINF:-1 group-title="电影",黑莓电影 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="电影",NewTV东北热剧

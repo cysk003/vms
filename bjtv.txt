@@ -105,7 +105,6 @@
 影视,超级电视剧 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=4
 影视,欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 影视,黑莓电影 HD,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
-影视,黑莓电影 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 影视,海外剧场 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=4
 影视,惊悚悬疑 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=4
 影视,欢乐剧场 NewTV,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8

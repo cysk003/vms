@@ -212,8 +212,6 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",黑莓电影 HD
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="影视",黑莓电影 HD
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="70086" tvg-name="NewTV海外剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new7.png"  group-title="影视",海外剧场 NewTV
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="70091" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new11.png"  group-title="影视",惊悚悬疑 NewTV
@@ -238,14 +236,10 @@ http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",幸福娱乐
 http://192.168.50.1:8288/rtp/225.1.8.99:8002
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",超级综艺
-http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",高清娱乐
-http://125.210.152.21:9120/live/GQYL.m3u8
 #EXTINF:-1 tvg-id="70082" tvg-name="NewTV金牌综艺" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new3.png"  group-title="综艺",金牌综艺 NewTV
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="音乐",风尚音乐
-http://125.210.152.21:9120/live/FSYY.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",炫舞未来 NewTV
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="综艺",超级综艺 NewTV
@@ -266,28 +260,6 @@ http://192.168.50.1:8288/rtp/225.1.8.181:4222
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"  group-title="央视", CCTV4 中文国际欧洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.174:4222
-#EXTINF:-1 tvg-id="87" tvg-name="中数怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg"  group-title="央视",怀旧剧场 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="88" tvg-name="中数兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg"  group-title="央视",兵器科技 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="84" tvg-name="中数第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png"  group-title="央视",第一剧场 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="央视",电视指南 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="85" tvg-name="中数风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png"  group-title="央视",风云剧场 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="75" tvg-name="中数风云足球" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/FengyunFootball.cn.png"  group-title="央视",风云足球 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="93" tvg-name="中数高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg"  group-title="央视",高尔夫网球 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="89" tvg-name="中数女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png"  group-title="央视",女性时尚 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="86" tvg-name="中数世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png"  group-title="央视",世界地理 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="94" tvg-name="中数央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"  group-title="央视",央视精品 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="105" tvg-name="中数CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png"  group-title="央视",央视台球 CCTV 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="231" tvg-name="凤凰卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="香港",凤凰卫视中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",凤凰卫视资讯台
@@ -324,8 +296,6 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684
 http://192.168.50.1:8288/rtp/225.1.0.97:1025
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="其他",纪实人文 高清
 http://192.168.50.1:8288/rtp/225.1.0.129:1025
-#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福州生活
-http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",浙江6套
@@ -354,3 +324,5 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226127/1000010000000006000000000243
 rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福建新闻 8M1080
 rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="地方",福州生活
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8

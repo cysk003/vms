@@ -73,7 +73,7 @@ http://192.168.50.1:8288/rtp/225.1.0.119:1025
 #EXTINF:-1 tvg-id="31" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视", 辽宁卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.127:1025
 #EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png"  group-title="卫视", 海南卫视 高清
-http://hdtv.haust.edu.cn/hls/lyhd.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 #EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视", 山东卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.126:1025
 #EXTINF:-1 tvg-id="34" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png"  group-title="卫视", 天津卫视 高清
@@ -102,8 +102,6 @@ http://192.168.50.1:8288/rtp/225.1.1.9:8164
 rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="45" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png"  group-title="卫视", 吉林卫视 8M1080
 rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
-#EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png"  group-title="卫视", 海南卫视 8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 #EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png"  group-title="卫视", 青海卫视
  http://stream.qhbtv.com/qhws/playlist.m3u8?
 #EXTINF:-1 tvg-id="52" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png"  group-title="卫视", 云南卫视 8M1080

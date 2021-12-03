@@ -117,10 +117,8 @@
 影视,浙江教科影视 1080,http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 影视,福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 综艺,幸福娱乐,http://192.168.50.1:8288/rtp/225.1.8.99:8002
-综艺,超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-综艺,高清娱乐,http://125.210.152.21:9120/live/GQYL.m3u8
 综艺,金牌综艺 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
-音乐,风尚音乐,http://125.210.152.21:9120/live/FSYY.m3u8
+综艺,超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 综艺,炫舞未来 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
 综艺,超级综艺 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=4
 央视,CGTN 美国,http://192.168.50.1:8288/rtp/225.1.8.176:4222
@@ -131,17 +129,6 @@
 央视,CGTN俄语,http://192.168.50.1:8288/rtp/225.1.8.181:4222
 央视, CCTV4 中文国际美洲 高清,http://192.168.50.1:8288/rtp/225.1.8.175:4222
 央视, CCTV4 中文国际欧洲 高清,http://192.168.50.1:8288/rtp/225.1.8.174:4222
-央视,怀旧剧场 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-央视,兵器科技 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-央视,第一剧场 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-央视,电视指南 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-央视,风云剧场 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-央视,风云足球 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-央视,高尔夫网球 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-央视,女性时尚 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-央视,世界地理 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-央视,央视精品 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-央视,央视台球 CCTV 高清,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 香港,凤凰卫视中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 香港,凤凰卫视资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 香港,凤凰卫视香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
@@ -160,7 +147,6 @@
 其他,农业致富 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=4
 娱乐,快乐垂钓 高清,http://192.168.50.1:8288/rtp/225.1.0.97:1025
 其他,纪实人文 高清,http://192.168.50.1:8288/rtp/225.1.0.129:1025
-地方,福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 地方,西安新闻综合,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 地方,浙江6套,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 地方,浙江公共频道,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
@@ -175,4 +161,6 @@
 地方,福建体育 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 地方,福建综合 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
 地方,福建新闻 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+地方,福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+
 

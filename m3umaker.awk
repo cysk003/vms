@@ -73,6 +73,7 @@ FS=",";
         split(urls, urlarray, "#")
         for( idx in urlarray) {
             url = urlarray[idx]
+            gsub(" ","",url)
             if (id) {
                 print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\""tagName"\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
             } else {
@@ -92,7 +93,7 @@ FS=",";
     split(urls, urlarray, "#")
     for( idx in urlarray) {
        url = urlarray[idx]
-
+       gsub(" ","",url)
      if (id) {
        print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\"""\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
      } else {

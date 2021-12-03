@@ -38,7 +38,6 @@ http://192.168.50.1:8288/rtp/225.1.8.189:8002
 http://192.168.50.1:8288/rtp/225.1.8.17:8144
 #EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国央视", CCTV4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国央视", CETV1 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
 #EXTINF:-1 group-title="4k", CCTV4K 超高清
@@ -49,8 +48,6 @@ http://192.168.50.1:8288/rtp/225.1.8.211:8002
 http://192.168.50.1:8288/rtp/225.1.0.205:1025
 #EXTINF:-1 group-title="4k",江苏4k
 http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 group-title="4k",河南卫视4k
-http://218.29.135.2:4000/udp/225.1.4.254:1300
 #EXTINF:-1 group-title="4k", 欢笑剧场4K
 http://hdtv.haust.edu.cn/hls/hls185a97.m3u8
 #EXTINF:-1 group-title="4k",测试4k
@@ -101,16 +98,12 @@ http://192.168.50.1:8288/rtp/225.1.8.77:8076
 http://192.168.50.1:8288/rtp/225.1.8.76:8002
 #EXTINF:-1 tvg-id="46" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国卫视", 黑龙江卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.118:1025
-#EXTINF:-1 tvg-id="47" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国卫视", 河南卫视 高清
-http://hdtv.haust.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国卫视", 河南卫视 4k
+http://218.29.135.2:4000/udp/225.1.4.254:1300
 #EXTINF:-1 tvg-id="48" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国卫视", 湖北卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.123:1025
 #EXTINF:-1 tvg-id="50" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国卫视", 江西卫视 高清
 http://192.168.50.1:8288/rtp/225.1.1.9:8164
-#EXTINF:-1 tvg-id="51" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="中国卫视", 吉林卫视 高清
-http://hdtv.haust.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1 tvg-id="56" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国卫视", 四川卫视 高清
-http://hdtv.haust.edu.cn/hls/hls185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",房山电视台
 http://192.168.50.1:8288/rtp/225.1.0.250:1025
 #EXTINF:-1 group-title="北京",北京科教
@@ -149,7 +142,6 @@ http://192.168.50.1:8288/rtp/225.1.8.61:8002
 http://192.168.50.1:8288/rtp/225.1.8.63:8002
 #EXTINF:-1 group-title="北京",北京朝阳
 http://192.168.50.1:8288/rtp/225.1.0.100:1025
-
 #EXTINF:-1 group-title="少儿",浙江少儿台
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 group-title="少儿",福州少儿
@@ -190,8 +182,6 @@ http://192.168.50.1:8288/rtp/225.1.8.189:8002
 http://192.168.50.1:8288/rtp/225.1.8.40:8184
 #EXTINF:-1 group-title="体育",体育赛事
 http://192.168.50.1:8288/rtp/225.1.8.81:8176
-#EXTINF:-1 group-title="体育",内蒙古体育 3m1080
-http://hdtv.haust.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
 http://192.168.50.1:8288/rtp/225.1.0.243:1025
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
@@ -204,11 +194,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="影视",福州影视
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 group-title="影视",CHC高清电影 4M1080
-http://hdtv.haust.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="影视",都市剧场 HD
-http://hdtv.haust.edu.cn/hls/hls185a95.m3u8
-
 #EXTINF:-1 group-title="影视",超级电视剧
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="影视",超级电影
@@ -219,10 +204,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 http://125.210.152.21:9120/live/GQYL.m3u8
 #EXTINF:-1 group-title="影视",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="音乐",风尚音乐
-http://125.210.152.21:9120/live/FSYY.m3u8
-#EXTINF:-1 group-title="音乐",CCTV风云音乐HD
-http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4America.jpg" group-title="中国央视", CCTV-4 中文国际美洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4Europe.jpg" group-title="中国央视", CCTV-4 中文国际欧洲 高清
@@ -251,12 +232,6 @@ http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江民生休闲 1080
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="地方",沈阳新闻综合 HD
-http://hdtv.haust.edu.cn/hls/hls185a542.m3u8
-#EXTINF:-1 group-title="地方",辽宁公共 HD
-http://hdtv.haust.edu.cn/hls/hls185a541.m3u8
-#EXTINF:-1 group-title="地方",辽宁经济 HD
-http://hdtv.haust.edu.cn/hls/hls185a540.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="娱乐",快乐垂钓[高清]
 http://192.168.50.1:8288/rtp/225.1.0.97:1025
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他",纪实人文[高清]
@@ -274,21 +249,13 @@ http://192.168.50.1:8288/rtp/225.1.8.180:4222
 #EXTINF:-1 tvg-id="Dummy" group-title="中国央视", CGTN 俄语
 http://192.168.50.1:8288/rtp/225.1.8.181:4222
 #EXTINF:-1 tvg-id="6562" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国央视", CCTV 怀旧剧场 高清
-http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国央视", CCTV 怀旧剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6563" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国央视", CCTV 兵器科技 高清
-http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国央视", CCTV 兵器科技 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6558" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中国央视", CCTV 第一剧场 高清
-http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中国央视", CCTV 第一剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="中国央视", CCTV 电视指南 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6559" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国央视", CCTV 风云剧场 高清
-http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国央视", CCTV 风云剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6000" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中国央视", CCTV 风云足球 高清
@@ -319,7 +286,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=6d175258de7421
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="香港",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-
 #EXTINF:-1 group-title="电影",黑莓电影 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="电影",NewTV东北热剧

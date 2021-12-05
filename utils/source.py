@@ -34,13 +34,14 @@ class Source:
             self.addData(data)
             self.T.logger('正在分析[ %s ]: %s' % (str(info['id']) + str(info['title']), url))
         else :
+
             data = {
                 'title'  : str(info['id']) if info['id'] != '' else str(info['title']),
                 'url'    : str(url),
                 'quality': str(info['quality']),
                 'delay'  : netstat,
                 'level'  : str(info['level']),
-                'cros'   : cros,
+                'cros'   : 0,
                 'online' : 1,
                 'udTime' : self.now,
                 'logo': epg.logo,

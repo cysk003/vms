@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from .area import *
 import os
 class EPGInfo(object):
@@ -31,7 +33,7 @@ class EPG(object):
        for file in self.epgfiles:
             self.init(file)
    def init(self, fileName):
-       with open(fileName, 'r') as f:
+       with open(fileName, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             total = len(lines)
             for i in range(0, total):

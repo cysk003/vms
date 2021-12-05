@@ -9,7 +9,7 @@ class FileSource(Source):
         self.file = file
         self.threadNum = threadNum
     def getSource (self):
-        with open(self.file, 'r') as f:
+        with open(self.file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             total = len(lines)
             threads = ThreadPool(self.threadNum)

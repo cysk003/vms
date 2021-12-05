@@ -90,7 +90,10 @@ class EPG(object):
         if result == 1:
             group = "央视"
         elif result == 2:
-            group = "卫视"
+            if title.find("卫视") > 0:
+                group = "卫视"
+            else:
+                group = "地方"
         elif result == 3:
             group = "地方"
         else:

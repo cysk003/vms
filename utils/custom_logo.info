@@ -1,25 +1,25 @@
-1|http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png|CCTV-1综合|CCTV1|央视|cctv|20211201|CCTV-1|CCTV 01
-2|http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png|CCTV-2财经|CCTV2|央视|cctv|20211201|CCTV-2|CCTV 02
-3|http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png|CCTV-3综艺|CCTV3|央视|cctv|20211201|CCTV-3|CCTV 03
-4|http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png|CCTV-4中文国际|CCTV4|央视|cctv|20211201|CCTV-4|CCTV 04
-5|http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png|CCTV-5体育|CCTV5|央视|cctv|20211201|CCTV-5|CCTV 05
-6|http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png|CCTV-5+体育赛事|CCTV5+|央视|cctv|20211201|CCTV5Plus|CCTV5 Plus|CCTV-5+|CCTV 05+
-7|http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png|CCTV-6电影|CCTV6|央视|cctv|20211201|CCTV-6|CCTV 06
-8|http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png|CCTV-7国防军事|CCTV7|央视|cctv|20211201|CCTV-7|CCTV 07
-9|http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png|CCTV-8电视剧|CCTV8|央视|cctv|20211201|CCTV-8|CCTV 08
-10|http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png|CCTV-9纪录|CCTV9|央视|cctv|20211201|CCTV-9|CCTV 09
-11|http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png|CCTV-10科教|CCTV10|央视|cctv|20211201|CCTV-10|CCTV 10
-12|http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png|CCTV-11戏曲|CCTV11|央视|cctv|20211201|CCTV-11|CCTV 11
-13|http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png|CCTV-12社会与法|CCTV12|央视|cctv|20211201|CCTV-12|CCTV 12
-14|http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png|CCTV-13新闻|CCTV13|央视|cctv|20211201|CCTV-13|CCTV 13
-15|http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png|CCTV-14少儿|CCTV14|央视|cctv|20211201|CCTV-14|CCTV 14
-16|http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png|CCTV-15音乐|CCTV15|央视|cctv|20211201|CCTV-15|CCTV 15
-17|http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png|CCTV-17农村农业|CCTV17|央视|cctv|20211201|CCTV-17|CCTV 17
+1|http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png|CCTV-1综合|CCTV1|央视|cctv|20211201|CCTV-1|CCTV 01|央视1|央视01
+2|http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png|CCTV-2财经|CCTV2|央视|cctv|20211201|CCTV-2|CCTV 02|央视2|央视02
+3|http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png|CCTV-3综艺|CCTV3|央视|cctv|20211201|CCTV-3|CCTV 03|央视3|央视03
+4|http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png|CCTV-4中文国际|CCTV4|央视|cctv|20211201|CCTV-4|CCTV 04|央视4|央视04
+5|http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png|CCTV-5体育|CCTV5|央视|cctv|20211201|CCTV-5|CCTV 05|央视5|央视05
+6|http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png|CCTV-5+体育赛事|CCTV5+|央视|cctv|20211201|CCTV5Plus|CCTV5 Plus|CCTV-5+|CCTV 05+|央视5+|央视05+
+7|http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png|CCTV-6电影|CCTV6|央视|cctv|20211201|CCTV-6|CCTV 06|央视6|央视06
+8|http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png|CCTV-7国防军事|CCTV7|央视|cctv|20211201|CCTV-7|CCTV 07|央视7|央视07
+9|http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png|CCTV-8电视剧|CCTV8|央视|cctv|20211201|CCTV-8|CCTV 08|央视8|央视08
+10|http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png|CCTV-9纪录|CCTV9|央视|cctv|20211201|CCTV-9|CCTV 09|央视9|央视09
+11|http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png|CCTV-10科教|CCTV10|央视|cctv|20211201|CCTV-10|CCTV 10|央视10|央视10
+12|http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png|CCTV-11戏曲|CCTV11|央视|cctv|20211201|CCTV-11|CCTV 11|央视11|央视11
+13|http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png|CCTV-12社会与法|CCTV12|央视|cctv|20211201|CCTV-12|CCTV 12|央视12|央视12
+14|http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png|CCTV-13新闻|CCTV13|央视|cctv|20211201|CCTV-13|CCTV 13|央视13|央视13
+15|http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png|CCTV-14少儿|CCTV14|央视|cctv|20211201|CCTV-14|CCTV 14|央视14|央视14
+16|http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png|CCTV-15音乐|CCTV15|央视|cctv|20211201|CCTV-15|CCTV 15|央视15|央视15
+17|http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png|CCTV-17农村农业|CCTV17|央视|cctv|20211201|CCTV-17|CCTV 17|央视16|央视16
 18|http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png|CGTN|CGTN|央视|sctv|20211201
 19|http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png|CCTV-4欧洲|CCTV4EUO|央视|cctv|20211201|CCTV-4EUO
 20|http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png|CCTV-4美洲|CCTV4AME|央视|cctv|20211201|CCTV-4AME
-21|http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png|CCTV4K|CCTV4K|央视|cctv|20211201|CCTV-4k|CCTV 4k
-22|http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png|CCTV奥林匹克频道|CCTV16|央视|cctv|20211201|CCTV 16|CCTV-16
+21|http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png|CCTV4K|CCTV4K|央视|cctv|20211201|CCTV-4k|CCTV 4k||央视4k
+22|http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png|CCTV奥林匹克频道|CCTV16|央视|cctv|20211201|CCTV 16|CCTV-16|央视16
 56|http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png|延边卫视|延边卫视|卫视|tvsou|20211201|吉林延边卫视
 59|http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png|金鹰卡通|金鹰卡通|少儿动漫|sctv|20211130|湖南金鹰卡通
 63|http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png|教育1台|中国教育1台|科教|sctv|20211201|CETV1|CETV-2

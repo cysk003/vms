@@ -7,8 +7,7 @@ import time
 import re
 import json
 import os
-class Iptv (
-object):
+class Iptv (object):
 
     def __init__ (self, file=os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), "tv.m3u8")) :
         self.T = Tools()
@@ -32,7 +31,6 @@ object):
         self.outJson()
 
         self.T.logger("抓取完成")
-
     def output (self) :
         self.T.logger("正在生成m3u8文件")
 

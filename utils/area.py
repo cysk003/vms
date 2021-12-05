@@ -9,7 +9,7 @@ class Area (object):
         provincList = self.provinces()
         cityList = self.cities()
 
-        if 'cctv' in string or 'CCTV' in string :
+        if 'cctv' in string or 'CCTV' in string or '央视' in string:
             level = 1
         else:
             for item in provincList :

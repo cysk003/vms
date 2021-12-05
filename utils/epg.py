@@ -42,7 +42,8 @@ class EPG(object):
                 items = line.split('|')
                 keywords=[items[2].upper(),items[3].upper()]
                 for j in range(7, len(items)):
-                    keywords.append(items[j].upper())
+                    if items[j] != "":
+                        keywords.append(items[j].upper())
 
                 if len(items) <= 6:
                     continue

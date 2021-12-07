@@ -40,6 +40,7 @@
 影视,4k纯享,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
 影视,4k纯享,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 影视,4k纯享,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+影视,黑莓电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
 影视,4k花园电影,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 影视,都市剧场 高清,http://[2001:250:4801::430:89]/hls/hls185a95.m3u8
 影视,欢笑剧场 4K超高清,http://[2001:250:4801::430:89]/hls/hls185a97.m3u8
@@ -70,8 +71,7 @@
 影视,怀旧剧场 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
 影视,第一剧场 CCTV 3M1080,http://[2001:250:4801::430:89]/hls/dyjctv.m3u8
 影视,第一剧场 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
-影视,纯享4K 20M2160,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
-影视,黑莓电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
+Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 影视,NewTV中国功夫 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
 影视,NewTV军旅剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=4
 影视,NewTV动作电影 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=4

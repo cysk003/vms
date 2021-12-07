@@ -1,0 +1,5 @@
+杭州HTV-1HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州HTV-2HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州HTV-3HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+杭州HTV-4HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+杭州HTV-5HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8

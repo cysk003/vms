@@ -1,0 +1,4 @@
+陕西西安新闻台,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+陕西西安白鸽台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+陕西西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+陕西西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8

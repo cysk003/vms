@@ -1,0 +1,14 @@
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+浙江教育,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江留学世界,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江中国蓝新闻,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+绍兴轻纺城时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
+绍兴新闻综合,http://live.scbtv.cn/hls/news/index.m3u8

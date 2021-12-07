@@ -1,0 +1,7 @@
+南宁新闻综合,rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A
+南宁都市生活,rtmp://rtmp.nntv.cn/nnlive/NNTV_METRO_A
+南宁影视娱乐,rtmp://rtmp.nntv.cn/nnlive/NNTV_VOD_A
+南宁公共,rtmp://rtmp.nntv.cn/nnlive/NNTV_PUB_A
+广西综艺旅游,http://mobilelive.gxtv.cn/live/nn_live1005/playlist.m3u8
+广西都市,http://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
+广西影视,http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8

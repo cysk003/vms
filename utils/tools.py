@@ -12,6 +12,7 @@ import socket
 import time
 from .area import *
 import os
+import cv2
 
 socket.setdefaulttimeout(5.0)
 
@@ -185,12 +186,20 @@ class Tools(object):
         return result
     def chkPlayable (self, url) :
         try:
-            startTime = int(round(time.time() * 1000))
-            code = urllib.request.urlopen(url).getcode()
-            if code == 200 :
-                endTime = int(round(time.time() * 1000))
-                useTime = endTime - startTime
-                return int(useTime)
+            if url.strip().startswith("http://"):
+                startTime = int(round(time.time() * 1000))
+                code = urllib.request.urlopen(url).getcode()
+                if code == 200 :
+                    endTime = int(round(time.time() * 1000))
+                    useTime = endTime - startTime
+                    return int(useTime)
+            elif url.strip().startswith("rtsp://"):
+                startTime = int(round(time.time() * 1000))
+                cap = cv2.VideoCapture(url)
+                if cap.isOpened():
+                    endTime = int(round(time.time() * 1000))
+                    useTime = endTime - startTime
+                    return int(useTime)
             else:
                 print(str(code))
                 return 0

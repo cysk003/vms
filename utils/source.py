@@ -42,7 +42,7 @@ class Source:
                 'delay'  : netstat,
                 'level'  : str(info['level']),
                 'cros'   : 0,
-                'online' : 1,
+                'online' : 0,
                 'udTime' : self.now,
                 'logo': epg.logo,
                 'group_name': epg.group,

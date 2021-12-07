@@ -1,4 +1,6 @@
 # 影音资源
+## 常规操作
+### 提取url资源
 ```
  cat cmvideo.php|grep -E "url|tvg-name"|awk '{tmp=$0;getline;tmp=tmp$0;print tmp;}'|awk -F'"' '{print $8","$4}'  > cmvideo.txt
 ```
@@ -8,11 +10,14 @@ curl "http://epg.51zmt.top:8000/" |awk -f parseTvInfo.awk > epg51zmt.txt
 ```
 ### 源文件配置
 参考src， name, 源地址
-# 生成m3u8
+### 生成m3u8
+```
 awk -f m3umaker.awk src.txt
+```
 ### 过滤一些杂的字符
+```
  cat newtv.txt|grep -v "#__#"|grep -v "^$"|awk -f m3umaker.awk
-
+```
 ### 排序
 ```
  cat newtv.txt|grep -v "#__#"|grep -v "#genre#"|sort -t "," -k1 > newtv.txt.bak

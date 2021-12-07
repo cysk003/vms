@@ -1,55 +1,53 @@
 少儿,卡酷动画,http://192.168.50.1:8288/rtp/225.1.8.35:8000
-少儿动漫,CCTV-14少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226641/40418077.smil
 少儿动漫,CCTV14 3M1080,http://[2001:250:4801::430:89]/hls/cctv14hd.m3u8
 少儿动漫,CCTV14 3M1080,http://[2001:250:4801::430:89]/hls/hls140.m3u8
+少儿动漫,CCTV-14,rtsp://183.252.166.199/PLTV/88888888/224/3221226641/40418077.smil
 少儿动漫,Bestv动画1,rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
 少儿动漫,Bestv动画2,rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
-少儿动漫,河北热门动画,http://111.63.77.70/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
-少儿动漫,福建少儿,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-少儿动漫,炫动卡通,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226060/10000100000000060000000002296901_0.smil
-少儿动漫,嘉佳卡通,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226046/10000100000000060000000002296680_0.smil
+少儿动漫,北京IPTV淘BABY,http://192.168.50.1:8288/rtp/225.1.8.36:8002
+少儿动漫,浙江少儿台,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+少儿动漫,福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+少儿动漫,甘肃少儿 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+少儿动漫,优漫卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
 少儿动漫,黑莓动画 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
-少儿,北京IPTV淘BABY,http://192.168.50.1:8288/rtp/225.1.8.36:8002
-少儿,浙江少儿台,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-少儿,福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-少儿,甘肃少儿 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-少儿,优漫卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
-少儿,黑莓动画 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
-少儿,黑莓动画,http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
-少儿,黑莓动画,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-少儿,河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
-少儿,动漫秀场 高清,http://[2001:250:4801::430:89]/hls/hls184a636.m3u8
-少儿,动漫秀场 SiTV,http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
-少儿,动漫秀场 SiTV,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-少儿,动漫秀场 SiTV,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-少儿,BestTV 7.5M720,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
-少儿,广东嘉佳卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225681/index.m3u8
-少儿,湖南金鹰卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225634/index.m3u8
-少儿,嘉佳卡通,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
-少儿,炫动卡通,http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
-少儿,炫动卡通,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226388/index.m3u8
-少儿,金鹰卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8
+少儿动漫,黑莓动画 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
+少儿动漫,黑莓动画,http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
+少儿动漫,黑莓动画,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+少儿动漫,河北热门动画,http://111.63.77.70/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
+少儿动漫,福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+少儿动漫,河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+少儿动漫,动漫秀场 高清,http://[2001:250:4801::430:89]/hls/hls184a636.m3u8
+少儿动漫,动漫秀场 SiTV,http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
+少儿动漫,动漫秀场 SiTV,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+少儿动漫,动漫秀场 SiTV,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+少儿动漫,BestTV 7.5M720,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
+少儿动漫,湖南金鹰卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225634/index.m3u8
+少儿动漫,嘉佳卡通,rtsp://183.252.166.199/PLTV/88888888/224/3221226046/10000100000000060000000002296680_0.smil
+少儿动漫,嘉佳卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225681/index.m3u8
+少儿动漫,嘉佳卡通,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
+少儿动漫,炫动卡通,rtsp://183.252.166.199/PLTV/88888888/224/3221226060/10000100000000060000000002296901_0.smil
+少儿动漫,炫动卡通,http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
+少儿动漫,炫动卡通,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226388/index.m3u8
+少儿动漫,金鹰卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8
+影视,每日影院,http://192.168.50.1:8288/rtp/225.1.8.97:8002
+影视,幸福剧场,http://192.168.50.1:8288/rtp/225.1.8.98:8002
+影视,北京IPTV4K,http://192.168.50.1:8288/rtp/225.1.8.211:8002
+影视,爱上4K,http://192.168.50.1:8288/rtp/225.1.0.101:1025
 影视,CHC高清电影 4M1080,http://[2001:250:4801::430:89]/hls/chchd.m3u8
 影视,CHC家庭电影 高清,http://[2001:250:4801::430:89]/hls/hls259.m3u8
 影视,CHC高清电影 高清,http://[2001:250:4801::430:89]/hls/hls260.m3u8
 影视,CHC动作电影 高清,http://[2001:250:4801::430:89]/hls/hls261.m3u8
-影视,每日影院,http://192.168.50.1:8288/rtp/225.1.8.97:8002
-影视,幸福剧场,http://192.168.50.1:8288/rtp/225.1.8.98:8002
-影视,北京IPTV4K,http://192.168.50.1:8288/rtp/225.1.8.211:8002
-影视,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 影视,4k纯享,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
 影视,4k纯享,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 影视,4k纯享,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-影视,4K电影,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 影视,4k花园电影,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-影视,咪咕4K 31M2160HEVC,http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
 影视,都市剧场 高清,http://[2001:250:4801::430:89]/hls/hls185a95.m3u8
 影视,欢笑剧场 4K超高清,http://[2001:250:4801::430:89]/hls/hls185a97.m3u8
 影视,欢笑剧场,rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil
 影视,欢笑剧场 4K,http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
 影视,欢笑剧场 4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-影视,咪咕4K,http://39.134.39.39/PLTV/88888888/224/3221226227/index.m3u8
-影视,爱上4K,http://192.168.50.1:8288/rtp/225.1.0.101:1025
+影视,咪咕4K 31M2160HEVC,http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
+影视,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 影视,BesTv影院1,rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
 影视,Bestv影院2,rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil
 影视,Bestv影院3,rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
@@ -57,9 +55,7 @@
 影视,Bestv电视剧1,rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
 影视,Bestv电视剧2,rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
 影视,Bestv电视剧3,rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil
-影视,福建电视剧,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
-影视,港剧风云,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
-影视,金色频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
+影视,福建电视剧,rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
 影视,河北爆笑喜剧,http://111.63.77.70/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 影视,河北劲爆动作,http://111.63.77.70/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
 影视,河北战争风云,http://111.63.77.70/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
@@ -94,6 +90,8 @@
 影视,上海影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 影视,杭州影视,http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
 影视,BTV影视 高清,http://[2001:250:4801::430:89]/hls/btv4hd.m3u8
+影视,港剧风云,rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
+影视,金色频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
 综艺,CCTV-15音乐,rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
 综艺,CCTV-15音乐,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
 综艺,风云音乐 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
@@ -106,9 +104,8 @@
 综艺,NewTV超级综艺 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=4
 综艺,NewTV金牌综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
 综艺,NewTV炫舞未来 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
-综艺,CCTV-11戏曲,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
-综艺,CCTV-11,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
-综艺,七彩戏剧,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226054/10000100000000060000000002296895_0.smil
+综艺,CCTV-11,rtsp://183.252.166.199/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
+综艺,七彩戏剧,rtsp://183.252.166.199/PLTV/88888888/224/3221226054/10000100000000060000000002296895_0.smil
 综艺,梨园频道,http://hndxrm1.8686c.com/live/lypd.m3u8
 综艺,河南梨园,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
 科教,中国教育1 3M1080,http://[2001:250:4801::430:89]/hls/cetv1.m3u8
@@ -132,20 +129,18 @@
 体育,北京冬奥纪实 8M1080,http://[2001:250:4801::430:89]/hls/hls162.m3u8
 体育,北京冬奥纪实 8M1080,http://[2001:250:4801::430:89]/hls/hls69a25.m3u8
 体育,内蒙古足球 3M1080,http://[2001:250:4801::430:89]/hls/zqhd.m3u8
-体育,福建体育,rtsp://183.252.166.199:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-体育,福建体育,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+体育,福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 体育,上海五星体育 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=4
 体育,北京冬奥纪实 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=4
 体育,NewTV武搏世界 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
 体育,NewTV精品体育 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=4
 体育,NewTV超级体育 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=4
 体育,NewTV超级体育 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=4
-其他,法治天地,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil
-其他,股评汇,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226024/10000100000000060000000002296865_0.smil
 其他,NewTV潮妈辣婆 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=4
 其他,NewTV魅力潇湘 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=4
 体育,风云足球 CCTV 3M1080,http://[2001:250:4801::430:89]/hls/hls20.m3u8
 体育,风云足球 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
 体育,央视台球 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
-
+其他,法治天地,rtsp://183.252.166.199/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil
+其他,股评汇,rtsp://183.252.166.199/PLTV/88888888/224/3221226024/10000100000000060000000002296865_0.smil
 

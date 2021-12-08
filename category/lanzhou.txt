@@ -76,7 +76,13 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 
-
+甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+甘肃经济频道,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
+甘肃文化影视 ,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+甘肃公共应急,https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+甘肃少儿频道,https://hls.gstv.com.cn/49048r/922k96.m3u8
+甘肃都市频道,https://hls.gstv.com.cn/49048r/l54391.m3u8
+甘肃移动电视,https://hls.gstv.com.cn/49048r/y72q36.m3u8
 甘肃都市,http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
 甘肃公共应急,http://39.134.39.37/PLTV/88888888/224/3221226250/index.m3u8
 甘肃经济,http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8

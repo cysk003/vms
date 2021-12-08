@@ -1,0 +1,147 @@
+CCTV-1 高清,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
+CCTV-2 高清,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
+CCTV-3 高清,http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
+CCTV-4 高清,http://live.scuec.edu.cn:8080/hls/cctv4hd.m3u8
+CCTV-5 高清,http://live.scuec.edu.cn:8080/hls/cctv5hd.m3u8
+CCTV-5+ 高清,http://live.scuec.edu.cn:8080/hls/cctv5phd.m3u8
+CCTV-6 高清,http://live.scuec.edu.cn:8080/hls/cctv6hd.m3u8
+CCTV-7 高清,http://live.scuec.edu.cn:8080/hls/cctv7hd.m3u8
+CCTV-8 高清,http://live.scuec.edu.cn:8080/hls/cctv8hd.m3u8
+CCTV-9 高清,http://live.scuec.edu.cn:8080/hls/cctv9hd.m3u8
+CCTV-10 高清,http://live.scuec.edu.cn:8080/hls/cctv10hd.m3u8
+CCTV-12 高清,http://live.scuec.edu.cn:8080/hls/cctv12hd.m3u8
+CCTV-13 高清,http://live.scuec.edu.cn:8080/hls/cctv13hd.m3u8
+CCTV-14 高清,http://live.scuec.edu.cn:8080/hls/cctv14hd.m3u8
+CCTV-17 高清,http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
+CETV-1 高清,http://live.scuec.edu.cn:8080/hls/cetv1hd.m3u8
+CHC电影 高清,http://live.scuec.edu.cn:8080/hls/chchd.m3u8
+北京少儿 高清,http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
+北京卫视 高清,http://live.scuec.edu.cn:8080/hls/btv1hd.m3u8
+北京文艺 高清,http://live.scuec.edu.cn:8080/hls/btv2hd.m3u8
+北京科教 高清,http://live.scuec.edu.cn:8080/hls/btv3hd.m3u8
+北京影视 高清,http://live.scuec.edu.cn:8080/hls/btv4hd.m3u8
+北京财经 高清,http://live.scuec.edu.cn:8080/hls/btv5hd.m3u8
+北京生活 高清,http://live.scuec.edu.cn:8080/hls/btv7hd.m3u8
+北京青年 高清,http://live.scuec.edu.cn:8080/hls/btv8hd.m3u8
+北京新闻 高清,http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
+北京卡酷少儿 高清,http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
+北京冬奥纪实 高清,http://live.scuec.edu.cn:8080/hls/btv11hd.m3u8
+湖南卫视 高清,http://live.scuec.edu.cn:8080/hls/hunanhd.m3u8
+浙江卫视 高清,http://live.scuec.edu.cn:8080/hls/zjhd.m3u8
+江苏卫视 高清,http://live.scuec.edu.cn:8080/hls/jshd.m3u8
+东方卫视 高清,http://live.scuec.edu.cn:8080/hls/dfhd.m3u8
+安徽卫视 高清,http://live.scuec.edu.cn:8080/hls/ahhd.m3u8
+黑龙江卫视 高清,http://live.scuec.edu.cn:8080/hls/hljhd.m3u8
+辽宁卫视 高清,http://live.scuec.edu.cn:8080/hls/lnhd.m3u8
+深圳卫视 高清,http://live.scuec.edu.cn:8080/hls/szhd.m3u8
+广东卫视 高清,http://live.scuec.edu.cn:8080/hls/gdhd.m3u8
+天津卫视 高清,http://live.scuec.edu.cn:8080/hls/tjhd.m3u8
+湖北卫视 高清,http://live.scuec.edu.cn:8080/hls/hbhd.m3u8
+山东卫视 高清,http://live.scuec.edu.cn:8080/hls/sdhd.m3u8
+重庆卫视 高清,http://live.scuec.edu.cn:8080/hls/cqhd.m3u8
+纪实人文 高清,http://live.scuec.edu.cn:8080/hls/docuchina.m3u8
+金鹰纪实 高清,http://live.scuec.edu.cn:8080/hls/gedocu.m3u8
+福建东南卫视 高清,http://live.scuec.edu.cn:8080/hls/dnhd.m3u8
+四川卫视 高清,http://live.scuec.edu.cn:8080/hls/schd.m3u8
+河北卫视 高清,http://live.scuec.edu.cn:8080/hls/hebhd.m3u8
+江西卫视 高清,http://live.scuec.edu.cn:8080/hls/jxhd.m3u8
+河南卫视 高清,http://live.scuec.edu.cn:8080/hls/hnhd.m3u8
+广西卫视 高清,http://live.scuec.edu.cn:8080/hls/gxhd.m3u8
+吉林卫视 高清,http://live.scuec.edu.cn:8080/hls/jlhd.m3u8
+中国教育电视台1 高清,http://live.scuec.edu.cn:8080/hls/cetv1hd.m3u8
+海南卫视 高清,http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
+贵州卫视 高清,http://live.scuec.edu.cn:8080/hls/gzhd.m3u8
+卡通剧场 高清,http://live.scuec.edu.cn:8080/hls/ktjchd.m3u8
+大众影视 高清,http://live.scuec.edu.cn:8080/hls/dzyshd.m3u8
+家庭影院 高清,http://live.scuec.edu.cn:8080/hls/jtyyhd.m3u8
+家庭剧场 高清,http://live.scuec.edu.cn:8080/hls/jtjchd.m3u8
+CGTN纪实 高清,http://live.scuec.edu.cn:8080/hls/cgtndochd.m3u8
+足球频道 高清,http://live.scuec.edu.cn:8080/hls/zqhd.m3u8
+凤凰资讯 高清,http://live.scuec.edu.cn:8080/hls/fhzxhd.m3u8
+凤凰中文 高清,http://live.scuec.edu.cn:8080/hls/fhzwhd.m3u8
+凤凰中文,http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
+凤凰资讯,http://live.scuec.edu.cn:8080/hls/fhzx.m3u8
+凤凰电影,http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
+Discovery,http://live.scuec.edu.cn:8080/hls/discovery.m3u8
+国家地理,http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
+ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
+星空卫视,http://live.scuec.edu.cn:8080/hls/startv.m3u8
+StarSports,http://live.scuec.edu.cn:8080/hls/starsports.m3u8
+
+CCTV-1综合,http://live.scuec.edu.cn:8080/hls/cctv1.m3u8
+CCTV-2财经,http://live.scuec.edu.cn:8080/hls/cctv2.m3u8
+CCTV-3综艺,http://live.scuec.edu.cn:8080/hls/cctv3.m3u8
+CCTV-4中文国际,http://live.scuec.edu.cn:8080/hls/cctv4.m3u8
+CCTV-5体育,http://live.scuec.edu.cn:8080/hls/cctv5.m3u8
+CCTV-6电影,http://live.scuec.edu.cn:8080/hls/cctv6.m3u8
+CCTV-7国防军事,http://live.scuec.edu.cn:8080/hls/cctv7.m3u8
+CCTV-8电视剧,http://live.scuec.edu.cn:8080/hls/cctv8.m3u8
+CCTV-9纪录,http://live.scuec.edu.cn:8080/hls/cctv9.m3u8
+CCTV-10科教,http://live.scuec.edu.cn:8080/hls/cctv10.m3u8
+CCTV-11戏曲,http://live.scuec.edu.cn:8080/hls/cctv11.m3u8
+CCTV-12社会与法,http://live.scuec.edu.cn:8080/hls/cctv12.m3u8
+CCTV-13新闻,http://live.scuec.edu.cn:8080/hls/cctv13.m3u8
+CCTV-14少儿,http://live.scuec.edu.cn:8080/hls/cctv14.m3u8
+CCTV-15音乐,http://live.scuec.edu.cn:8080/hls/cctv15.m3u8
+CGTN,http://live.scuec.edu.cn:8080/hls/cctv16.m3u8
+CCTV-17农业农村,http://live.scuec.edu.cn:8080/hls/cctv17.m3u8
+文化精品,http://live.scuec.edu.cn:8080/hls/whjptv.m3u8
+老故事,http://live.scuec.edu.cn:8080/hls/lgstv.m3u8
+其他标清
+北京卫视,http://live.scuec.edu.cn:8080/hls/btv1.m3u8
+北京文艺,http://live.scuec.edu.cn:8080/hls/btv2.m3u8
+北京科教,http://live.scuec.edu.cn:8080/hls/btv3.m3u8
+北京影视,http://live.scuec.edu.cn:8080/hls/btv4.m3u8
+北京财经,http://live.scuec.edu.cn:8080/hls/btv5.m3u8
+北京生活,http://live.scuec.edu.cn:8080/hls/btv7.m3u8
+北京青年,http://live.scuec.edu.cn:8080/hls/btv8.m3u8
+北京新闻,http://live.scuec.edu.cn:8080/hls/btv9.m3u8
+北京卡酷少儿,http://live.scuec.edu.cn:8080/hls/btv10.m3u8
+北京冬奥纪实,http://live.scuec.edu.cn:8080/hls/btv11.m3u8
+浙江卫视,http://live.scuec.edu.cn:8080/hls/zjtv.m3u8
+湖南卫视,http://live.scuec.edu.cn:8080/hls/hunantv.m3u8
+江苏卫视,http://live.scuec.edu.cn:8080/hls/jstv.m3u8
+东方卫视,http://live.scuec.edu.cn:8080/hls/dftv.m3u8
+深圳卫视,http://live.scuec.edu.cn:8080/hls/sztv.m3u8
+安徽卫视,http://live.scuec.edu.cn:8080/hls/ahtv.m3u8
+河南卫视,http://live.scuec.edu.cn:8080/hls/hntv.m3u8
+陕西卫视,http://live.scuec.edu.cn:8080/hls/sxtv.m3u8
+吉林卫视,http://live.scuec.edu.cn:8080/hls/jltv.m3u8
+广东卫视,http://live.scuec.edu.cn:8080/hls/gdtv.m3u8
+山东卫视,http://live.scuec.edu.cn:8080/hls/sdtv.m3u8
+湖北卫视,http://live.scuec.edu.cn:8080/hls/hbtv.m3u8
+广西卫视,http://live.scuec.edu.cn:8080/hls/gxtv.m3u8
+河北卫视,http://live.scuec.edu.cn:8080/hls/hebtv.m3u8
+西藏卫视,http://live.scuec.edu.cn:8080/hls/xztv.m3u8
+内蒙古卫视,http://live.scuec.edu.cn:8080/hls/nmtv.m3u8
+青海卫视,http://live.scuec.edu.cn:8080/hls/qhtv.m3u8
+四川卫视,http://live.scuec.edu.cn:8080/hls/sctv.m3u8
+天津卫视,http://live.scuec.edu.cn:8080/hls/tjtv.m3u8
+山西卫视,http://live.scuec.edu.cn:8080/hls/sxrtv.m3u8
+辽宁卫视,http://live.scuec.edu.cn:8080/hls/lntv.m3u8
+厦门卫视,http://live.scuec.edu.cn:8080/hls/xmtv.m3u8
+新疆卫视,http://live.scuec.edu.cn:8080/hls/xjtv.m3u8
+黑龙江卫视,http://live.scuec.edu.cn:8080/hls/hljtv.m3u8
+云南卫视,http://live.scuec.edu.cn:8080/hls/yntv.m3u8
+江西卫视,http://live.scuec.edu.cn:8080/hls/jxtv.m3u8
+福建东南卫视,http://live.scuec.edu.cn:8080/hls/dntv.m3u8
+贵州卫视,http://live.scuec.edu.cn:8080/hls/gztv.m3u8
+宁夏卫视,http://live.scuec.edu.cn:8080/hls/nxtv.m3u8
+甘肃卫视,http://live.scuec.edu.cn:8080/hls/gstv.m3u8
+重庆卫视,http://live.scuec.edu.cn:8080/hls/cqtv.m3u8
+兵团卫视,http://live.scuec.edu.cn:8080/hls/bttv.m3u8
+延边卫视,http://live.scuec.edu.cn:8080/hls/ybtv.m3u8
+三沙卫视,http://live.scuec.edu.cn:8080/hls/sstv.m3u8
+海南卫视,http://live.scuec.edu.cn:8080/hls/lytv.m3u8
+CHC家庭影院,http://live.scuec.edu.cn:8080/hls/chctv.m3u8
+CHC动作电影,http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
+金鹰卡通,http://live.scuec.edu.cn:8080/hls/jykttv.m3u8
+优漫卡通,http://live.scuec.edu.cn:8080/hls/ymkttv.m3u8
+新动漫,http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8
+探案剧场,http://live.scuec.edu.cn:8080/hls/tajctv.m3u8
+辽宁影视剧,http://live.scuec.edu.cn:8080/hls/lnysjtv.m3u8
+辽宁体育,http://live.scuec.edu.cn:8080/hls/lntytv.m3u8
+中国教育电视台1,http://live.scuec.edu.cn:8080/hls/cetv1.m3u8
+中国教育电视台3,http://live.scuec.edu.cn:8080/hls/cetv3.m3u8
+中国教育电视台4,http://live.scuec.edu.cn:8080/hls/cetv4.m3u8
+山东教育电视台,http://live.scuec.edu.cn:8080/hls/sdetv.m3u8

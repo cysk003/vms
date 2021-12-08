@@ -27,5 +27,8 @@ awk -f m3umaker.awk src.txt
 2. [国内地方台2021-10.txt](https://github.com/wmenjoy-music/vms/files/7512001/2021-10.txt)
 3. [logo](https://www.lyngsat-logo.com/tvcountry/China.html)
 
+##  获取虎牙的列表
+ cat 1.json|sed 's/getLiveListJsonpCallback(//g;s/)//g'|jq|grep -E "channel|roomName"
+
 ## 测试网络
 1. [网络连通性测试](https://m.17ce.com/site/http)

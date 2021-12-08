@@ -44,7 +44,7 @@ class Huya(object):
                     totalPage = data["totalPage"]
                 for item in data["datas"]:
                     list.append(item)
-                break
+
             i = i + 1
         return list
     def getRealUrl(self, room_id):

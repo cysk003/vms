@@ -1,0 +1,25 @@
+Cinema,http://195.26.83.96:7024/play/68
+Doctor,http://195.26.83.96:7024/play/69
+ISTORIA,http://195.26.83.96:7024/play/70
+KINO TV,http://195.26.83.96:7024/play/71
+MY PLANET,http://195.26.83.96:7024/play/76
+Mama,http://195.26.83.96:7024/play/73
+Mult,http://195.26.83.96:7024/play/74
+Mult&Musik,http://195.26.83.96:7024/play/75
+NST,http://195.26.83.96:7024/play/78
+Nayka,http://195.26.83.96:7024/play/77
+Russkiy detectiv,http://195.26.83.96:7024/play/79
+Rysskiy bestseller,http://195.26.83.96:7024/play/80
+Rysskiy roman,http://195.26.83.96:7024/play/81
+Sarafan,http://195.26.83.96:7024/play/82
+Techno 24,http://195.26.83.96:7024/play/83
+HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
+東森洋片測試,http://125.227.210.37:18685/VideoInput/play.ts
+CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
+年代新聞測試,http://125.227.210.37:11055/VideoInput/play.ts
+非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
+緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
+FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
+东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
+三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
+

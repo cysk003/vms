@@ -4,8 +4,6 @@
 广东珠江,http://39.135.47.82/PLTV/77777777/224/3221226608/index.m3u8
 南方卫视*,http://111.12.101.23:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 南方卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.m3u8
-南方卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.m3u8
-南方卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.m3u8
 广东体育,http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
 番禺融媒,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 深圳蛇口,http://218.17.99.211:5080/hls/ttsw6ccn.m3u8

@@ -6,10 +6,11 @@
 北京4K超清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 北京4K超清,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京4K超清,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
-纯享4K,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
+纯享4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 CCTV16 奥林匹克,http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 CCTV16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16 奥林匹克,http://113.142.75.96/tc.cdn.hunancatv.com/live/CCTV16HD.m3u8
@@ -53,8 +54,6 @@ UHD4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.
 北京IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 江苏4K,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-纯享4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
-UHD4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
 纯享4K,http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
@@ -71,7 +70,7 @@ CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/
 淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 4K风光,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
 LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
@@ -96,9 +95,7 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225833/index.m3u8
 江苏4K测试,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-纯享4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+
 无线翡翠,https://cdn.hkdtmb.com/hls/81/index.m3u8
 无线翡翠,p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
 爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8

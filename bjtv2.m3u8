@@ -110,6 +110,8 @@ http://192.168.50.1:8288/rtp/225.1.1.9:8164
 http://live.scuec.edu.cn:8080/hls/schd.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="" group-title="卫视",海峡卫视 8M1080
 rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+#EXTINF:-1 tvg-id="-1" tvg-name="" group-title="卫视",海峡卫视
+http://ye23.win/iptv/fjtv.php?id=3
 #EXTINF:-1 tvg-id="45" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png"  group-title="卫视",吉林卫视 8M1080
 http://live.scuec.edu.cn:8080/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png"  group-title="卫视",青海卫视

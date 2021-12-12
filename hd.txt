@@ -1,4 +1,4 @@
-少儿,卡酷动画,http://192.168.50.1:8288/rtp/225.1.8.35:8000
+少儿动漫,卡酷动画,http://192.168.50.1:8288/rtp/225.1.8.35:8000
 少儿动漫,CCTV14 3M1080,http://[2001:250:4801::430:89]/hls/cctv14hd.m3u8
 少儿动漫,CCTV14 3M1080,http://[2001:250:4801::430:89]/hls/hls140.m3u8
 少儿动漫,CCTV-14,rtsp://183.252.166.199/PLTV/88888888/224/3221226641/40418077.smil
@@ -21,6 +21,7 @@
 少儿动漫,动漫秀场 SiTV,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 少儿动漫,动漫秀场 SiTV,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 少儿动漫,BestTV 7.5M720,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
+少儿动漫,湖南金鹰卡通 超清,http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 少儿动漫,湖南金鹰卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225634/index.m3u8
 少儿动漫,嘉佳卡通,rtsp://183.252.166.199/PLTV/88888888/224/3221226046/10000100000000060000000002296680_0.smil
 少儿动漫,嘉佳卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225681/index.m3u8
@@ -49,14 +50,6 @@
 影视,欢笑剧场 4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 影视,咪咕4K 31M2160HEVC,http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
 影视,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-影视,BesTv影院1,rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
-影视,Bestv影院2,rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil
-影视,Bestv影院3,rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
-影视,Bestv影院4,rtsp://183.252.166.199/PLTV/88888888/224/3221226797/47878049.smil
-影视,Bestv电视剧1,rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
-影视,Bestv电视剧2,rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
-影视,Bestv电视剧3,rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil
-影视,福建电视剧,rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
 影视,河北爆笑喜剧,http://111.63.77.70/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 影视,河北劲爆动作,http://111.63.77.70/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
 影视,河北战争风云,http://111.63.77.70/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
@@ -71,7 +64,10 @@
 影视,怀旧剧场 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
 影视,第一剧场 CCTV 3M1080,http://[2001:250:4801::430:89]/hls/dyjctv.m3u8
 影视,第一剧场 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
-Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+影视,Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+影视,港台凤凰电影,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/464663/live_1907351534_29661727.m3u8
+星空影音HD,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/464663/live_1907351534_29661727.m3u8
+星空经典功夫HD,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/829967/live_179302204_68184269_1500.m3u8
 影视,NewTV中国功夫 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
 影视,NewTV军旅剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=4
 影视,NewTV动作电影 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=4
@@ -89,9 +85,20 @@ Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3
 影视,西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 影视,上海影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 影视,杭州影视,http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
+影视,湖南电影 超清,http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+影视,湖南电视剧 超清,http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 影视,BTV影视 高清,http://[2001:250:4801::430:89]/hls/btv4hd.m3u8
+影视,河南电视剧,http://219.150.217.47:6610/PLTV1/660/index.m3u8?icpid=dxrm1&servicetype=
 影视,港剧风云,rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
 影视,金色频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
+影视,福建电视剧,rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+影视,BesTv影院1,rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
+影视,Bestv影院2,rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil
+影视,Bestv影院3,rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
+影视,Bestv影院4,rtsp://183.252.166.199/PLTV/88888888/224/3221226797/47878049.smil
+影视,Bestv电视剧1,rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
+影视,Bestv电视剧2,rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
+影视,Bestv电视剧3,rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil
 综艺,CCTV-15音乐,rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
 综艺,CCTV-15音乐,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
 综艺,风云音乐 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
@@ -105,9 +112,12 @@ Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3
 综艺,NewTV金牌综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
 综艺,NewTV炫舞未来 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
 综艺,CCTV-11,rtsp://183.252.166.199/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
+综艺,湖南娱乐 超清,http://124.232.233.15:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 综艺,七彩戏剧,rtsp://183.252.166.199/PLTV/88888888/224/3221226054/10000100000000060000000002296895_0.smil
 综艺,梨园频道,http://hndxrm1.8686c.com/live/lypd.m3u8
 综艺,河南梨园,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
+综艺,移动戏曲FHD,http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=
+综艺,晴彩梨园FHD,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
 科教,中国教育1 3M1080,http://[2001:250:4801::430:89]/hls/cetv1.m3u8
 科教,中国教育1 3M1080,http://[2001:250:4801::430:89]/hls/cetv1hd.m3u8
 科教,中国教育1 8M1080,http://[2001:250:4801::430:89]/hls/hls67a45.m3u8
@@ -126,6 +136,7 @@ Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3
 科教,世界地理 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
 科教,兵器科技 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
 科教,北大电视,http://stream.tv.pku.edu.cn/tv/playlist.m3u8
+科教,洛阳科教FHD,http://219.150.217.47:6610/PLTV1/1860/index.m3u8?icpid=dxrm1&servicetype=
 体育,北京冬奥纪实 3M1080,http://[2001:250:4801::430:89]/hls/btv11hd.m3u8
 体育,北京冬奥纪实 8M1080,http://[2001:250:4801::430:89]/hls/hls162.m3u8
 体育,北京冬奥纪实 8M1080,http://[2001:250:4801::430:89]/hls/hls69a25.m3u8

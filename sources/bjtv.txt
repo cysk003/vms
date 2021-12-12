@@ -57,6 +57,7 @@
 卫视,海峡卫视,http://ye23.win/iptv/fjtv.php?id=3
 卫视,吉林卫视 8M1080,http://live.scuec.edu.cn:8080/hls/jlhd.m3u8
 卫视,青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8?
+卫视,云南卫视,http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1&servicetype=
 卫视,云南卫视,http://39.130.202.81:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 北京,BTV科教,http://192.168.50.1:8288/rtp/225.1.1.1:8000
 北京,BTV财经,http://192.168.50.1:8288/rtp/225.1.1.2:8000
@@ -89,11 +90,10 @@
 少儿,动漫秀场 SiTV,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 少儿,BestTV 7.5M720,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
 少儿,广东嘉佳卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225681/index.m3u8
-少儿,湖南金鹰卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225634/index.m3u8
+少儿,湖南金鹰卡通 超清,http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 少儿,嘉佳卡通,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
 少儿,炫动卡通,http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
 少儿,炫动卡通,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226388/index.m3u8
-少儿,金鹰卡通,http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8
 科教,浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 科教,精品记录 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
 其他,风尚生活,http://192.168.50.1:8288/rtp/225.1.8.103:8002
@@ -137,10 +137,16 @@
 影视,CHC家庭电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8
 影视,CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 影视,浙江教科影视 1080,http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+影视,港台凤凰电影,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/464663/live_1907351534_29661727.m3u8
+星空影音HD,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/464663/live_1907351534_29661727.m3u8
+星空经典功夫HD,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/829967/live_179302204_68184269_1500.m3u8
 影视,福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 影视,广州影视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 影视,西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+影视,湖南电影 超清,http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+影视,湖南电视剧 超清,http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 影视,上海影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+影视,河南电视剧,http://219.150.217.47:6610/PLTV1/660/index.m3u8?icpid=dxrm1&servicetype=
 影视,杭州影视,http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
 综艺,幸福娱乐,http://192.168.50.1:8288/rtp/225.1.8.99:8002
 综艺,金牌综艺 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
@@ -148,6 +154,7 @@
 综艺,超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 综艺,炫舞未来 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
 综艺,超级综艺 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=4
+综艺,湖南娱乐 超清,http://124.232.233.15:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 央视,CGTN 美国,http://192.168.50.1:8288/rtp/225.1.8.176:4222
 央视,CGTN纪录,http://192.168.50.1:8288/rtp/225.1.8.177:4222
 央视,CGTN西班牙语,http://192.168.50.1:8288/rtp/225.1.8.178:4222
@@ -194,6 +201,8 @@
 地方,兰州生活经济 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
 戏曲,梨园频道,http://hndxrm1.8686c.com/live/lypd.m3u8
 戏曲,河南梨园,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
+戏曲,移动戏曲FHD,http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=
+戏曲,晴彩梨园FHD,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
 其他,军事评论 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4
 其他,农业致富 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=4
 娱乐,快乐垂钓 高清,http://192.168.50.1:8288/rtp/225.1.0.97:1025

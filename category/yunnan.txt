@@ -54,4 +54,5 @@ CCTV17,http://coocaa-ynbit-ws.ifengli.com:2381/live/cctv-17hd/1.m3u8
 云南生活资讯,http://coocaa-ynbit-ws.ifengli.com:2381/live/ynshzx-sd/1.m3u8
 云南少儿,http://coocaa-ynbit-ws.ifengli.com:2381/live/ynsepd-sd/1.m3u8
 澜湄国际,http://coocaa-ynbit-ws.ifengli.com:2381/live/yngj-sd/1.m3u8
+云南安宁,http://tv-live.ynkmit.com/tv/ann ... amp;txTime=632C8680
 

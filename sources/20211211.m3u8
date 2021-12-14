@@ -1666,3 +1666,11 @@ http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
 #EXTINF:-1 tvg-logo=Newtv超级电视剧.png tvg-name=Newtv超级电视剧 group-title=电视剧频道,Newtv超级电视剧
 http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天新闻台" group-title="港澳及国外",中天新闻台
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="港澳及国外",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8

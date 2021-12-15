@@ -7,6 +7,7 @@
 河北战争风云,http://111.63.77.70/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.70/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.70/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.70/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
 
 河北爆笑喜剧,http://111.63.77.69/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 河北劲爆动作,http://111.63.77.69/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
@@ -17,6 +18,8 @@
 河北战争风云,http://111.63.77.69/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.69/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.69/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.69/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
+
 
 河北爆笑喜剧,http://111.63.77.71/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 河北劲爆动作,http://111.63.77.71/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
@@ -27,6 +30,8 @@
 河北战争风云,http://111.63.77.71/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.71/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.71/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.71/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
+
 
 河北爆笑喜剧,http://111.63.77.72/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 河北劲爆动作,http://111.63.77.72/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
@@ -37,6 +42,8 @@
 河北战争风云,http://111.63.77.72/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.72/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.72/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.72/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
+
 
 
 河北爆笑喜剧,http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
@@ -48,6 +55,7 @@
 河北战争风云,http://111.63.77.77/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.77/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.77/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
 
 河北爆笑喜剧,http://111.63.77.79/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 河北劲爆动作,http://111.63.77.79/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
@@ -58,6 +66,7 @@
 河北战争风云,http://111.63.77.79/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.79/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.79/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.79/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
 
 河北爆笑喜剧,http://111.63.77.80/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 河北劲爆动作,http://111.63.77.80/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
@@ -68,6 +77,7 @@
 河北战争风云,http://111.63.77.80/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 河北银河电影,http://111.63.77.80/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 河北大咖影视,http://111.63.77.80/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+河北银河看法,http://111.63.77.80/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
 
 
 

@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+http://data.video.iqiyi.com/videos/v0/20211215/8a/29/26783bc2cb3496a5355d52a43920865b.265ts?start=0&end=1560776&contentlength=1560776&sd=0&qdv=2&qd_uid=0&qd_vip=1&qd_src=03020031010000000000&qd_tm=1639633971943&qd_p=3cf75dbe&qd_k=361a4d2078b25cfa1aa50cd6cc290bf7&qd_index=vod&qd_tvid=3797152311958800&qd_sc=5d2b037a5783cd42fbfb6f5d7275410e&bid=500&qd_vipres=0
+#EXTINF:10,
+http://data.video.iqiyi.com/videos/v0/20211215/8a/29/26783bc2cb3496a5355d52a43920865b.265ts?start=1560776&end=3482888&contentlength=1922112&sd=9760&qdv=2&qd_uid=0&qd_vip=1&qd_src=03020031010000000000&qd_tm=1639633971943&qd_p=3cf75dbe&qd_k=361a4d2078b25cfa1aa50cd6cc290bf7&qd_index=vod&qd_tvid=3797152311958800&qd_sc=5d2b037a5783cd42fbfb6f5d7275410e&bid=500&qd_vipres=0
+#EXTINF:10,
+http://data.video.iqiyi.com/videos/v0/20211215/8a/29/26783bc2cb3496a5355d52a43920865b.265ts?start=3482888&end=4988392&contentlength=1505504&sd=19760&qdv=2&qd_uid=0&qd_vip=1&qd_src=03020031010000000000&qd_tm=1639633971943&qd_p=3cf75dbe&qd_k=361a4d2078b25cfa1aa50cd6cc290bf7&qd_index=vod&qd_tvid=3797152311958800&qd_sc=5d2b037a5783cd42fbfb6f5d7275410e&bid=500&qd_vipres=0
+#EXTINF:5,
+http://data.video.iqiyi.com/videos/v0/20211215/8a/29/26783bc2cb3496a5355d52a43920865b.265ts?start=4988392&end=5200080&contentlength=211688&sd=29320&qdv=2&qd_uid=0&qd_vip=1&qd_src=03020031010000000000&qd_tm=1639633971943&qd_p=3cf75dbe&qd_k=361a4d2078b25cfa1aa50cd6cc290bf7&qd_index=vod&qd_tvid=3797152311958800&qd_sc=5d2b037a5783cd42fbfb6f5d7275410e&bid=500&qd_vipres=0
+#EXT-X-ENDLIST
+

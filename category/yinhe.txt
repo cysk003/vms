@@ -1,0 +1,5 @@
+时移
+http://live.dispatcher.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?p=GITV&area=HBJD&t=-600
+CCTV-1-HD/CCTV-1-HD.m3u8?starttime=20211112T000000.00Z&livemode=2&zte_offset=600-20211112T000000.00Z
+会看
+http://live.dispatcher.gitv.tv/gitv_live/CCTV-1-HD/history.m3u8?p=GITV&area=HBJD&start=1592577300&end=1592582880

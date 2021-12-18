@@ -1,1 +1,2 @@
 4K,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河南4K[3840*2160],http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT

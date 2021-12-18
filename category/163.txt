@@ -56,7 +56,11 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 优漫卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
 哈哈炫动,http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 风尚购物,http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+
 忠县文旅频道,http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_36.stream/playlist.m3u8
 忠县综合频道,http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
 重庆移动公交,http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
 重庆移动机场,http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
+#191 221  http://39.134.116.30:8080/PLTV/88888910/224/3221225638/index.m3u8
+
+162-165 226-238

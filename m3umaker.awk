@@ -81,7 +81,7 @@ FS=",";
             if (id) {
                 print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\""tagName"\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
             } else {
-                print "#EXTINF:-1 tvg-id=\"-1\" group-title=\""group"\","name"\n"url;
+                print "#EXTINF:-1 group-title=\""group"\","name"\n"url;
             }
         }
     } else {
@@ -101,7 +101,7 @@ FS=",";
      if (id) {
        print "#EXTINF:-1 tvg-id=\""id"\" tvg-name=\"""\" tvg-logo=\""logo"\"  group-title=\""group"\","name"\n"url;
      } else {
-       print "#EXTINF:-1 tvg-id=\"-1\" tvg-name=\"""\" group-title=\""group"\","name"\n"url;
+       print "#EXTINF:-1 tvg-name=\"""\" group-title=\""group"\","name"\n"url;
      }
      }
     }

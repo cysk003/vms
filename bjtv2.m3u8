@@ -160,6 +160,8 @@ http://192.168.50.1:8288/rtp/225.1.8.36:8002
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1  group-title="少儿",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿",湖南金鹰卡通 超清
+http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1  group-title="少儿",甘肃少儿 8M1080
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="少儿",优漫卡通
@@ -170,8 +172,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
 #EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿",黑莓动画
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1  group-title="少儿",河北少儿科教
-http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+#EXTINF:-1  group-title="少儿",河北少儿 高清
+http://106.115.24.33:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
 http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
@@ -182,8 +184,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿",广东嘉佳卡通 540
 http://39.134.39.39/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿",湖南金鹰卡通 超清
-http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿",嘉佳卡通
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
 #EXTINF:-1 tvg-id="70101" tvg-name="炫动卡通" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/xdkt.png"  group-title="少儿",炫动卡通
@@ -296,8 +296,20 @@ http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1  group-title="影视",河南电视剧
 http://219.150.217.47:6610/PLTV1/660/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1  group-title="影视",河北影视 高清
+http://106.115.24.33:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1  group-title="影视",杭州影视
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
+#EXTINF:-1  group-title="影视",湖南电影 高清
+http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="影视",湖南电影 高清
+http://124.232.233.15:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="影视",湖南电视剧 高清
+http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="影视",湖南电视剧 高清
+http://124.232.233.15:6610/000000001001/201500000236/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="影视",IPTV4K 16M2160
+http://124.232.233.15:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1  group-title="综艺",幸福娱乐
 http://192.168.50.1:8288/rtp/225.1.8.99:8002
 #EXTINF:-1 tvg-id="70082" tvg-name="NewTV金牌综艺" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new3.png"  group-title="综艺",金牌综艺 NewTV
@@ -400,6 +412,30 @@ http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1  group-title="地方",兰州生活经济 8M1080
 http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
+#EXTINF:-1  group-title="地方",河北经济 高清
+http://106.115.24.33:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1  group-title="地方",河北都市 高清
+http://106.115.24.33:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1  group-title="地方",河北公共 高清
+http://106.115.24.33:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1  group-title="地方",河北农民 高清
+http://106.115.24.33:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1  group-title="地方",湖南都市 高清
+http://124.232.233.15:6610/000000001001/201500000151/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="地方",湖南都市 高清
+http://124.232.233.15:6610/000000001001/201500000235/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="地方",湖南经视 高清
+http://124.232.233.15:6610/000000001001/201500000068/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="地方",湖南经视 高清
+http://124.232.233.15:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="地方",湖南公共 高清
+http://124.232.233.15:6610/000000001001/201500000222/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="地方",湖南公共 高清
+http://124.232.233.15:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="70212" tvg-name="湖南国际频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png"  group-title="地方",湖南国际 高清
+http://124.232.233.15:6610/000000001001/201500000153/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="70212" tvg-name="湖南国际频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png"  group-title="地方",湖南国际 高清
+http://124.232.233.15:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="戏曲",梨园频道
 http://hndxrm1.8686c.com/live/lypd.m3u8
 #EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="戏曲",河南梨园

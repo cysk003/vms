@@ -13,7 +13,7 @@
 少儿动漫,黑莓动画 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 少儿动漫,黑莓动画,http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
 少儿动漫,黑莓动画,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-少儿动漫,河北热门动画,http://111.63.77.70/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
+少儿动漫,河北热门动画,http://111.63.77.77/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
 少儿动漫,福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 少儿动漫,河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 少儿动漫,动漫秀场 高清,http://[2001:250:4801::430:89]/hls/hls184a636.m3u8
@@ -50,11 +50,11 @@
 影视,欢笑剧场 4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 影视,咪咕4K 31M2160HEVC,http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
 影视,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-影视,河北爆笑喜剧,http://111.63.77.70/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
-影视,河北劲爆动作,http://111.63.77.70/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
-影视,河北战争风云,http://111.63.77.70/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
-影视,河北银河电影,http://111.63.77.70/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
-影视,河北大咖影视,http://111.63.77.70/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+影视,河北爆笑喜剧,http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+影视,河北劲爆动作,http://111.63.77.77/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
+影视,河北战争风云,http://111.63.77.77/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
+影视,河北银河电影,http://111.63.77.77/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
+影视,河北大咖影视,http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
 影视,国外影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
 影视,国内影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168.m3u8
 影视,恐怖影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415.m3u8
@@ -104,9 +104,9 @@
 综艺,风云音乐 CCTV 高清,http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
 综艺,BTV文艺 3M1080,http://[2001:250:4801::430:89]/hls/btv2hd.m3u8
 综艺,BTV文艺 高清,http://[2001:250:4801::430:89]/hls/btv2hd.m3u8
-综艺,河北热播综艺,http://111.63.77.70/gitv_live/GITV-HB-4/GITV-HB-4.m3u8?p=GITV&area=HBYD
-综艺,河北情感地图,http://111.63.77.70/gitv_live/GITV-HB-5/GITV-HB-5.m3u8?p=GITV&area=HBYD
-综艺,河北真人秀场,http://111.63.77.70/gitv_live/GITV-HB-6/GITV-HB-6.m3u8?p=GITV&area=HBYD
+综艺,河北热播综艺,http://111.63.77.77/gitv_live/GITV-HB-4/GITV-HB-4.m3u8?p=GITV&area=HBYD
+综艺,河北情感地图,http://111.63.77.77/gitv_live/GITV-HB-5/GITV-HB-5.m3u8?p=GITV&area=HBYD
+综艺,河北真人秀场,http://111.63.77.77/gitv_live/GITV-HB-6/GITV-HB-6.m3u8?p=GITV&area=HBYD
 综艺,NewTV超级综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=4
 综艺,NewTV超级综艺 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=4
 综艺,NewTV金牌综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4

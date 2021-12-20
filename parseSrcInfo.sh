@@ -18,7 +18,7 @@ parseDetail(){
             realBaseUrl=${videoUrl%/share/*}
             m3u8File=$(curl $videoUrl 2>/dev/null|grep playlist |grep url|awk -F '"' '{print $4}')
             if [ ! -z "$m3u8File" ]; then
-               echo $group,$title $playType,$realBaseUrl$m3u8File"?skip=1"|sed 's/ //g' >> $listFile
+               echo $group,$title $playType,$realBaseUrl$m3u8File"?skipl=1"|sed 's/ //g' >> $listFile
             else
                echo "$videoUrl 没找到m3u8"
             fi
@@ -30,7 +30,7 @@ parseDetail(){
           if [ ! -z "$m3u8File" ]; then
             curl $m3u8File 2>/dev/null 1>/dev/null
             if [ "$?" == "0" ]; then
-              echo $group,$title $playType,$m3u8File"?skip=1" >> $listFile
+              echo $group,$title $playType,$m3u8File"?skipl=1" >> $listFile
             else
               echo "$m3u8File 访问不通"
             fi

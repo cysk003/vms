@@ -127,8 +127,6 @@ NewTV明星大片 4M1080[1920*1080],http://223.110.243.152/ott.js.chinamobile.co
 江西风尚购物 4M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
 江苏好享购物 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080[3840*2144],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-
-
 爱情喜剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
 爱情喜剧,http://ott.js.chinamobile.com/PLTV/3/224/3221225525/index.m3u8
 古装剧场,http://ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
@@ -260,10 +258,10 @@ CCTV-17,http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 延边卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
 厦门卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227604/index.m3u8
 兵团卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
-ott.js.chinamobile.com→江苏移动
-223.110.245.138~139 通用
-223.110.245.140~141 通用
-223.110.245.142~143 通用
+#ott.js.chinamobile.com→江苏移动
+#223.110.245.138~139 通用
+#223.110.245.140~141 通用
+#223.110.245.142~143 通用
 223.110.245.144~145 通用
 223.110.245.146~147 通用
 223.110.245.148~149 通用

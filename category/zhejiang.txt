@@ -13,6 +13,19 @@
 绍兴轻纺城时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
 绍兴新闻综合,http://live.scbtv.cn/hls/news/index.m3u8
 
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8" target="iframe-player">浙江卫视</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8" target="iframe-player">浙江新闻</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8" target="iframe-player">浙江国际</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8" target="iframe-player">浙江少儿</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8" target="iframe-player">浙江英语</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8" target="iframe-player">浙江民生</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8" target="iframe-player">浙江娱乐</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8" target="iframe-player">教科影视</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8" target="iframe-player">浙江经济</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8" target="iframe-player">钱江国际</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8" target="iframe-player">好易购</a></p>
+<p><a href="http://h5.3666.co/h5.html?id=http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8" target="iframe-player">数码时代</a></p>
+
 CCTV1 HD,http://125.107.21.17:9901/tsfile/live/0001_1.m3u8
 CCTV2 HD,http://125.107.19.216:9901/tsfile/live/0002_1.m3u8
 CCTV3 HD,http://125.107.59.7:9901/tsfile/live/0003_1.m3u8

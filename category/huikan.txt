@@ -1,0 +1,8 @@
+自从上次公开了自写的、适合超级直播和DIYP的直播时移回看代码后，下载非常踊跃，然后私下询问我不同节目的时移回看格式的私信比较多。今天咪咕通用时移回看格式
+
+本帖隐藏的内容
+时移 后加参数6位数，代表提前多少小时分钟秒  playseek=235559 范围000001到235559
+回看 &playbackbegin=20211128190000&playbackend=20211128191000
+
+http://ip/域名/m3u8参数&playbackbegin=20211128190000&playbackend=20211128191000
+例如（只是举例）： http://ip/hlsmgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=&playbackbegin=20211128190000&playbackend=20211128191000

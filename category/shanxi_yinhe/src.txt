@@ -1,0 +1,4 @@
+# 3, 6, 9 ,12,15 18,21,24 27 ,30 33 36 39 42 45  67 70 73 76 79 82 85 88 97 131 134
+http://39.135.89.3:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=RR412220211109065142576218
+http://39.134.19.230:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com

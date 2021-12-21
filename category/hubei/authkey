@@ -1,0 +1,102 @@
+经本人探索，发现湖北恩施长江云线路的加密方法(auth_key)竟然通用于湖北省台及湖北各市县频道长江云线路！
+
+auth_key的算法为：md5(线路的路径名(pathname)+时间戳(timestamp)+"-0-0-"+密钥(key));
+例如：湖北卫视，路径名pathname=’/hbtv/hbtv-hbws.m3u8‘；
+                            时间戳timestamp=time();
+                            密钥key='VrjxzLTq1I';
+则  hash = md5('/hbtv/hbtv-hbws.m3u8'+ timestamp+'-0-0-'+key);    auth_key= timestamp+'-0-0-'+$hash
+附：cjy.php
+本帖隐藏的内容
+
+<?php
+    $id = isset($_GET['id'])?$_GET['id']:'hbws';
+    $n = array(
+    'hbws' => '/hbtv/hbtv-hbws.m3u8', //湖北卫视
+    'hbjs' => '/hbtv/hbtv-hbjs.m3u8', //湖北经视
+    'hbzh' => '/hbtv/hbtv-hbzh.m3u8', //湖北综合
+    'hbgg' => '/hbtv/hbtv-hbgg.m3u8', //湖北公共
+    'hbys' => '/hbtv/hbtv-hbys.m3u8', //湖北影视
+    'hbsh' => '/hbtv/hbtv-hbsh.m3u8', //湖北生活
+    'hbjy' => '/hbtv/hbtv-hbjy.m3u8', //湖北教育
+    'hbls' => '/hbtv/hbtv-hbls.m3u8', //湖北垄上
+    'mjgw' => '/hbtv/hbtv-mjgw.m3u8', //美嘉购物
+    'hgxw' => '/10120/s10120-xwzh.m3u8', //黄冈新闻
+    'hggg' => '/10120/s10120-xwgg.m3u8', //黄冈公共
+    'hazh' => '/10063/s10063-HAZH.m3u8', //红安综合
+    'ltzh' => '/10013/s10013-LTZH.m3u8', //罗田综合
+    'ltly' => '/10013/s10013-LTLY.m3u8', //罗田旅游
+    'qczh' => '/10126/s10126-TC1T.m3u8', //蕲春综合
+    'qclyys' => '/10126/s10126-TC2T.m3u8', //蕲春旅游养生
+    'tfzh' => '/10113/s10113-tftv2.m3u8', //团风综合
+    'tfsh' => '/10113/s10113-tftv1.m3u8', //团风生活
+    'wxzh' => '/10107/s10107-wxtv1.m3u8', //武穴综合
+    'dytv1' => '/10102/s10102-TC1T.m3u8', //大冶一套
+    'dytv2' => '/10102/s10102-TC2T.m3u8', //大冶二套
+    'xnzh' => '/10140/s10140-XNTV-1.m3u8', //咸宁综合
+    'xngg' => '/10140/s10140-XNGG.m3u8', //咸宁公共
+    'cbtv1' => '/10138/s10138-CBTV1.m3u8', //赤壁一套
+    'jyxwzh' => '/10131/s10131-jyzh.m3u8', //嘉鱼新闻综合
+    'tszh' => '/10134/s10134-TONGSHAN-live.m3u8', //通山综合
+    'xgxwzh' => '/10139/s10139-xg.m3u8', //孝感新闻综合
+    'xggg' => '/10139/s10139-shpd.m3u8', //孝感公共
+    'xcxw' => '/10128/s10128-xcxw.m3u8', //孝昌新闻
+    'xcsh' => '/10128/s10128-xcsh.m3u8', //孝昌生活
+    'dwzh' => '/10129/s10129-dwzhpd.m3u8', //大悟综合
+    'ycxwdj' => '/10135/s10135-YCZH.m3u8', //应城新闻党建
+    'ycsh' => '/10135/s10135-YCDJ.m3u8', //应城生活
+    'jzxw' => '/10085/s10085-jingzhou-tv01.m3u8', //荆州新闻
+    'jzls' => '/10085/s10085-jingzhou-tv02.m3u8', //荆州垄上
+    'jzgg' => '/10085/s10085-jingzhou-tv03.m3u8', //荆州公共
+    'szizh' => '/10194/s10194-songzi-tv1.m3u8', //松滋综合
+    'gazh' => '/10088/s10088-gatv1.m3u8', //公安综合
+    'gash' => '/10088/s10088-gatv3.m3u8', //公安生活
+    'hhxw' => '/10087/s10087-0823-HONGHUTV01.m3u8', //洪湖新闻
+    'hhsh' => '/10087/s10087-0823-HONGHUFM01.m3u8', //洪湖生活
+    'jlzh' => '/10090/s10090-jltv01.m3u8', //江陵综合
+    'jljjsh' => '/10090/s10090-jltv02.m3u8', //江陵经济生活
+    'jmxw' => '/10101/s10101-jmnews.m3u8', //荆门新闻
+    'jmgg' => '/10101/s10101-jmggpd.m3u8', //荆门公共
+    'jmjy' => '/10101/s10101-jmjytv.m3u8', //荆门教育
+    'zxxwzh' => '/10103/s10103-zxzb_linshi01.m3u8', //钟祥新闻综合
+    'sytv' => '/10110/s10110-sytv1.m3u8', //沙洋电视台
+    'xyzh' => '/10125/s10125-news_hd.m3u8', //襄阳综合
+    'xygg' => '/10125/s10125-education_hd.m3u8', //襄阳公共
+    'xyjjsh' => '/10125/s10125-society_hd.m3u8', //襄阳经济生活
+    'gczh' => '/10116/s10116-GCTV1.m3u8', //谷城综合
+    'yczh' => '/10091/10091-yczh.m3u8', //宜昌综合
+    'ycgg' => '/10091/s10091-ycgg.m3u8', //宜昌公共
+    'yclysh' => '/10091/s10091-ycly.m3u8', //宜昌旅游生活
+    'ydzh' => '/10092/s10092-yidushitv01.m3u8', //宜都综合x
+    'cyzh' => '/10114/s10114-cy1t.m3u8', //长阳综合
+    'ylzh' => '/10174/s10174-TC1T.m3u8', //夷陵综合
+    'yatv' => '/10106/s10106-yatv.m3u8', //远安电视台
+    'dyxwzh' => '/10118/s10118-DYZH.m3u8', //当阳电视台
+    'dyysyl' => '/10118/s10118-DYYS.m3u8', //当阳影视娱乐
+    'zgxwzh' => '/10111/s10111-ZGTV1.m3u8', //秭归新闻综合
+    'wftv' => '/10112/s10112-wftv.m3u8', //五峰电视台
+    'xszh' => '/cjyun/s10108-xingshanTV01.m3u8', //兴山综合
+    'zjzh' => '/10120/s10120-zjtv.m3u8', //枝江综合
+    'fxxwzh' => '/10064/s10064-fxtv1-1.m3u8', //房县新闻综合
+    'djkxw' => '/10081/s10081-djktv1.m3u8', //丹江口新闻
+    'eszh' => '/10070/s10070-eszh.m3u8', //恩施综合
+    'eswl' => '/10070/s10070-esgg.m3u8', //恩施文旅
+    'lcxwzh' => '/10093/s10093-lczh.m3u8', //利川新闻综合
+    'xfxwzh' => '/10096/s10096-xftv1.m3u8', //咸丰新闻综合
+    'xfys' => '/10096/s10096-xftv2.m3u8', //咸丰影视
+    'hfzh' => '/10100/s10100-hftv1.m3u8', //鹤峰综合
+    'lfzh' => '/10099/s10099-lfzh.m3u8', //来凤综合
+    'xezh' => '/10097/s10097-xezh2.m3u8', //宣恩综合*
+    'bdxwzh' => '/10095/s10095-bdtv1.m3u8', //巴东综合
+    'jsxwzh' => '/10094/s10094-jstv1.m3u8', //建始综合*
+    'ezxwzh' => '/10098/s10098-EZ1T.m3u8', //鄂州新闻综合
+    'ezgg' => '/10098/s10098-EZ2T.m3u8', //鄂州公共
+    'szzh' => '/10145/s10145-szzhpd.m3u8', //随州综合
+    'gsxw' => '/10146/s10146-GSXW.m3u8', //广水新闻
+);
+   $timestamp = time();
+   $key = 'VrjxzLTq1I';
+   $hash = md5($n[$id]."-".$timestamp."-0-0-".$key);
+   $playurl = 'http://enshi-live21.cjyun.org'.$n[$id].'?auth_key='.$timestamp.'-0-0-'.$hash;
+   header('location:'.$playurl);
+   //echo $playurl;
+?>

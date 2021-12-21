@@ -1,0 +1,4 @@
+梧州,http://live.wzrtv.cn/jysh1/playlist.m3u8
+梧州,http://live.wzrtv.cn/xwzh1/playlist.m3u8
+霸州综合,https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
+长春综合频道直播,http://cloud.quklive.com/cloud/a/embed/1609216214058927

@@ -1,7 +1,7 @@
-hostRanges="165-170 173-186 "
-#hostRanges="164"
+#hostRanges="165-170 173-186 "
+hostRanges="170"
 
-portStart=25500
+portStart=26136
 portEnd=26999
 prefix=211.94.219
 idfmt=%5d
@@ -10,4 +10,4 @@ port=18080
 scanType=0
 checkType=1
 successBreak=false
-urlPath="/PLTV/68/224/32212##tvid##/index.m3u8?icpid=68&from=4&hms_devid=281,283"
+urlPath="/PLTV/68/224/32212##tvid##/index.m3u8"

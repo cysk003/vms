@@ -1,0 +1,13 @@
+hostRanges="162-167 170-173 "
+#hostRanges="170"
+portStart=25000
+portEnd=26999
+prefix=39.135.129
+idfmt=%5d
+#port=18080
+# 直接curl
+scanType=0
+checkType=1
+successBreak=false
+urlPath="/PLTV/88888888/224/32212##tvid##/1.m3u8"
+#http://39.135.129.164/PLTV/88888888/224/3221226763/1.m3u8

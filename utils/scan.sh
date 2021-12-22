@@ -26,7 +26,7 @@ if [ "$scanType" == 1 ]; then
         fi
         originUrl=http://$addr${urlPath//##tvid##/$tvid}
         if [ $checkType == 1 ]; then
-          result=$(curl  $originUrl  2>/dev/null|wc -l)
+          result=$(curl  $originUrl  2>/dev/null|grep "hls.ts"|wc -l)
           # result=`https --headers  $realUrl|grep "404 Not Found"|wc -l`
           echo $host, $tvid,$result
           if [ $result -gt 0 ]; then
@@ -66,7 +66,7 @@ else
         fi
         originUrl=http://$addr${urlPath//##tvid##/$tvid}
         if [ $checkType == 1 ]; then
-          result=$(curl  $originUrl  2>/dev/null|wc -l)
+          result=$(curl  $originUrl  2>/dev/null|grep "hls.ts"|wc -l)
           # result=`https --headers  $realUrl|grep "404 Not Found"|wc -l`
           echo $host, $tvid,$result
           if [ $result -gt 0 ]; then

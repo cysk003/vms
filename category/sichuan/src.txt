@@ -1,0 +1,71 @@
+匿名网友(1个月前 (11-16))：成都1台,http://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=72ffd3b8257ad56096e172cf6ff46b9a&wsTime=61931124
+不知道是不是静态源，给你PHP代码自己撸吧
+//
+新建个txt文档，复制把//去掉，保存更改文件名，把后缀txt改成php（如：chengdu.php），放入你的服务器，就行了，播放地址就是：http://你的服务器IP/chengdu.php?id=1
+没有服务器的话那就每天上网站撸吧，“http://mob.api.cditv.cn/show/192-1.html”，
+一台192-1
+二台192-2
+三台192-3
+四台192-45
+五台192-5
+六台192-6
+参照删掉“\”就行了，http:\/\/cdn1.cditv.cn\/cdtv4\/CDTV4.flv\/playlist.m3u8?wsSecret=eb81e79fc4d629bbc297dce8d5c29776&wsTime=61931397
+
+匿名网友(1个月前 (11-16))：**//
+//$url="http://mob.api.cditv.cn/show/192-".$_GET[id].".html";
+//$ch = curl_init();
+//curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+//curl_setopt($ch, CURLOPT_URL, $url);
+//$re = curl_exec($ch);
+//curl_close($ch);
+//$obj = json_decode($re);
+//$m3u8=$obj->data->android_HDlive_url;
+//header('Location:'.$m3u8);
+**//
+php代码刚才好像被吃掉了，去头去尾看行不行，头尾就php代码头尾
+
+匿名网友(1个月前 (11-16))：是动态源，必须要用PHP抓
+
+YE23(1个月前 (11-16))：成都新闻,http://ye23.win/iptv/cdtvhls.php?id=cdxwzh
+成都新闻,http://ye23.win/iptv/cdtvflv.php?id=cdxwzh
+'cdxwzh' => 1,//成都新闻综合
+'cdjjzx' => 2,//成都经济资讯
+'cddssh' => 3,//成都都市生活
+'cdyswy' => 45,//成都影视文艺
+'cdgg' => 5,//成都公共
+'cdse' => 6,//成都少儿
+'cdss' => 9,//成都时尚
+'cdqc' => 10,//成都汽车
+'cdzxxgx' => 11,//成都资讯新干线
+'cdmsly' => 12,//成都美食旅游
+'cdrcxf' => 15,//成都蓉城先锋
+'cdmrgw' => 18,//成都每日购物
+
+'cdgjyd' => 1152,//成都公交移动*
+'jygw' => 560,//家有购物*
+
+'jntv' => 556,//金牛电视台
+'slzh' => 557,//双流综合
+'wjtv' => 559,//温江电视台
+'gxtv' => 722,//高新电视台
+'xjtv' => 760,//新津电视台
+'dyxwzh' => 790,//大邑综合
+'pztv' => 796,//彭州电视台
+'pjtv' => 828,//蒲江电视台
+'jjtv' => 1541,//锦江电视台
+'jttv' => 840,//金堂电视台
+'pdxwzh' => 845,//郫都新闻综合
+'lqzh' => 882,//龙泉综合
+'qytv' => 910,//青羊电视台
+'qbjtv' => 966,//青白江电视台
+'cztv' => 1257,//崇州电视1套
+'djytv' => 1314,//都江堰电视台
+'chyx' => 1319,//成华有线
+'qltv' => 1427,//邛崃电视台
+'whtv' => 1766,//武侯电视台
+'xdzh' => 1712,//新都电视台
+'jyxwzh' => 1698,//简阳新闻综合
+
+网上代码，未全测，自己套ID
+
+匿名网友(1个月前 (11-16))：SC影视HD,http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8

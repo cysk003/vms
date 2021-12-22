@@ -21,14 +21,15 @@ for hostRange in $hostRanges;
         if [ -z "$line" ]; then
            continue
         fi
-        tvid=`printf $idfmt $line`
-        addr=$prefix.$host$port
-        if [ ! "${urlPath:0:1}" = "/" ]; then
-         urlPath=$urlPath"/"
-        fi
-        originUrl=http://$addr${urlPath//##tvid##/$tvid}
+        #tvid=`printf $idfmt $line`
+        #addr=$prefix.$host$port
+       # if [ ! "${urlPath:0:1}" = "/" ]; then
+       #  urlPath=$urlPath"/"
+      #  fi
+      #  originUrl=http://$addr${urlPath//##tvid##/$tvid}
+        originUrl=`echo $line|awk -F"," '{print $2;}'`
         if [ $checkType == 1 ]; then
-          result=$(curl  $originUrl  2>/dev/null|wc -l)
+          result=$(curl  $originUrl  2>/dev/null|grep "hls.ts"|wc -l)
           # result=`https --headers  $realUrl|grep "404 Not Found"|wc -l`
           echo $host,$result,$originUrl
           if [ $result -gt 0 ]; then
@@ -48,6 +49,6 @@ for hostRange in $hostRanges;
             fi
           fi
         fi
-      done < $src/tvid.txt
+      done < $src/sorted.txt
     done
 done

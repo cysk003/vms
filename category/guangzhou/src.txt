@@ -1,0 +1,22 @@
+
+本帖最后由 艸牛 于 2021-11-30 21:39 编辑
+
+
+本帖隐藏的内容
+广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
+广州综合,http://aplay.gztv.com/sec/zhonghe.flv
+广州法治,https://aplay.gztv.com/sec/fazhi.m3u8
+广州法治,https://aplay.gztv.com/sec/fazhi.flv
+广州影视,https://aplay.gztv.com/sec/yingshi.m3u8
+广州影视,https://aplay.gztv.com/sec/yingshi.flv
+广州新闻,https://aplay.gztv.com/sec/xinwen.m3u8
+广州新闻,https://aplay.gztv.com/sec/xinwen.flv
+广州竞赛,https://aplay.gztv.com/sec/jingsai.m3u8
+广州竞赛,https://aplay.gztv.com/sec/jingsai.flv
+广州南国都市,https://aplay.gztv.com/sec/shenghuos.m3u8
+广州南国都市,https://aplay.gztv.com/sec/shenghuos.flv
+广州综合1080P,http://116.199.5.251/hls/gzds.m3u8
+广州法治1080P,http://116.199.5.251/hls/gzqx.m3u8
+广州新闻1080P,http://116.199.5.251/hls/gzxw.m3u8
+广州影视1080P,http://116.199.5.251/hls/gzys.m3u8
+广州竟赛1080P,http://116.199.5.251/hls/gzjs.m3u8

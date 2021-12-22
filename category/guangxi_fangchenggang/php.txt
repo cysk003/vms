@@ -1,0 +1,39 @@
+<?php
+error_reporting(0);
+header('Content-Type: text/json;charset=UTF-8');
+$id = $_GET['id'];//id=2��3
+$data = json_decode(file_get_contents("http://api-cms.fcgtvb.com/v1/mobile/channel?type=2"))->data;$data = $data[3]->list;
+for($i=0;$i<count($data);$i++){
+if($data[$i]->id == $id){
+$playurl = $data[$i]->stream;
+}
+}
+
+if($id !== NULL){
+$data = getdata($playurl,$id,'1');
+$ts = str_replace('live','fc.php?cid='.$id.'&url='.base64_encode(explode('app',$playurl)[0]).'&ts=live',$data);
+print_r($ts);
+}else{
+$url = $_GET['url'];
+$ts = $_GET['ts'];
+$cid = $_GET['cid'];
+$playurl = base64_decode($url).$ts;
+$ts = getdata($playurl,$cid,'0');
+}
+
+function getdata($playurl,$id,$type){
+$ref = "http://www.fcgtvb.com/lives/".$id;
+$header = array(
+"Referer: ".$ref,
+);
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $playurl);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, $type);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+$data = curl_exec($ch);
+curl_close($ch);
+return $data;
+}
+?>

@@ -270,5 +270,6 @@ CGTN纪录 576,http://39.135.140.165:6610/PLTV/88888888/224/3221225645/2/index.m
 聚鲨环球精选 3.5M576,http://39.135.140.165:6610/PLTV/88888888/224/3221225972/2/index.m3u8?fmt=ts2hls
 CNC 576,http://39.135.140.165:6610/PLTV/88888888/224/3221225693/2/index.m3u8?fmt=ts2hls
 CNC 576,http://39.135.140.165:6610/PLTV/88888888/224/3221225694/2/index.m3u8?fmt=ts2hls
+鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#http://ye23.win/iptv/fh.php?id=zxhd
 
 ##226-238 162-165

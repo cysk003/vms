@@ -1,0 +1,9 @@
+美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+乡村瑶哥,http://48tv.cn/jx/huya.php?id=21354502&type=.m3u8#http://121.12.115.162/txdirect.hls.huya.com/src/1199532433820-1199532433820-5310977183219449856-2399064991096-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=21354502
+乡村美食炊二锅,http://48tv.cn/jx/huya.php?id=24309217&type=.m3u8#http://121.12.115.162/txdirect.hls.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24309217
+胖妹美食,http://48tv.cn/jx/huya.php?id=24430811&type=.m3u8#http://121.12.115.162/txdirect.hls.huya.com/src/2752-2752-11819749998592-2399147056830-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24430811
+舌尖上的中国,http://121.12.115.162/txdirect.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352955
+随手做美食,http://epg.112114.xyz/douyu/9615087#http://dyscdnali1.douyucdn.cn/live/9615087rSP9QV3h8.flv?uuid=
+大海哥美食,http://epg.112114.xyz/douyu/9696878#http://dyscdnali1.douyucdn.cn/live/9696878rRqOmsJ5G.flv?uuid=
+美食作家王刚,http://epg.112114.xyz/douyu/8144937#http://dyscdnali1.douyucdn.cn/live/8144937ru3ptizzM.flv?uuid=
+厨师长农国栋,http://epg.112114.xyz/douyu/8941512#http://dyscdnali1.douyucdn.cn/live/8941512r9N2dwvba.flv?uuid=

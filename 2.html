@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+    <title>CDTV-1 新闻综合频道 - 电视 - 无限成都</title>
+    <meta name="keywords" content="成视新闻,今晚800">
+    <meta name="description" content="成都电视台新闻综合频道(15频道)是成都电视台现有六个频道中开播最早的频道。节目覆盖四川盆地经济最发达区域，覆盖人口三千万，其综合实力跻身于全国省会城市台前列。全天24小时不间断播出，总收视率始终名列成都地区各电视频道前茅。">
+    <meta name="copyright" content="成都市广播电视台 版权所有">
+    <meta name="author" content="成都橙视传媒科技股份公司">
+    <meta name="robots" content="all">
+    <meta name="googlebot" content="all">
+    <link rel="start" title="home" href="https://www.cditv.cn/">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.cditv.cn/favicon.ico">
+    <link rel="stylesheet" href="https://www.cditv.cn/statics/css/cditv2019/base.css">
+    <link rel="stylesheet" href="https://www.cditv.cn/statics/css/cditv2019/common.css?d=20211008">
+    <link rel="stylesheet" href="https://www.cditv.cn/statics/css/cditv2019/list.css">
+    <link rel="stylesheet" href="https://www.cditv.cn/statics/css/cditv2019/show.css">
+    <link rel="stylesheet" href="https://www.cditv.cn/statics/css/cditv2019/comment.css">
+    <script src="https://g.omtech.cn/jquery/v1.12.3/jquery.js"></script>
+<script src="https://g.omtech.cn/jquery.lazyload/1.9.3/jquery.lazyload.js"></script>    <script src="https://www.cditv.cn/statics/js/ismobile.js"></script>
+        <script>
+        if (window.location != top.location) {
+            top.location.replace(window.location.href);
+        }
+        var queryString = window.location.href.split('?'),
+            aGET = {};
+        if (queryString.length > 1) {
+            var params = queryString[1].split('&');
+            for (var i = 0, size = params.length; i < size; i++) {
+                var part = params[i].split('='); // 分离key与Value
+                aGET[part[0]] = part.length > 1 ? part[1] : '';
+            }
+        }
+        if (aGET) {
+            delete aGET['m'];
+            delete aGET['c'];
+            delete aGET['a'];
+        }
+        var mobRedirectURL = 'https://www.cditv.cn/mobnews/192/1.html';
+        if (mobRedirectURL.length > 0 && aGET) {
+            if (mobRedirectURL.indexOf('?') == -1) {
+                mobRedirectURL += '?' + $.param(aGET);
+            } else if (mobRedirectURL.charAt(mobRedirectURL.length - 1) == '&') {
+                mobRedirectURL += $.param(aGET);
+            } else {
+                mobRedirectURL += '&' + $.param(aGET);
+            }
+        }
+
+        // 移动设备跳转
+        if (isMobile.any() && mobRedirectURL != undefined && mobRedirectURL != '') {
+            window.location.href = mobRedirectURL;
+        }
+    </script>
+    </head>
+
+<body>
+    <!-- <img class="toplogo" src="https://g.omtech.cn/rmt-site/jinwenjiang/pc/images/toplogo.png" style="display: block;width: 100%;height: auto;"> -->
+<!-- header begin -->
+<div class="mini-nav">
+    <div class="w clearfix">
+        <div class="nav-btns fl">
+            <a class="btn btn-sitemap" href="https://www.cditv.cn/html/sitemap/" target="_blank" title="网站地图">网站地图</a>
+        </div>
+        <div class="nav-icons fr">
+            <a class="nav-icon icon-coll" href="javascript:void(0);" onclick="AddFavorite(window.location, document.title);"></a>
+            <a class="nav-icon icon-phone" href="http://m.cditv.cn/" target="_blank"></a>
+        </div>
+    </div>
+</div>
+<!-- 窄条导航 end -->
+<div class="header">
+    <div class="mod-header">
+        <div class="w header-main clearfix">
+            <div class="logo fl">
+                <div class="logo-img fl">
+                    <a href="https://www.cditv.cn/"><img src="https://www.cditv.cn/statics/images/cditv2019/bg_logo.png"></a>
+                </div>
+                <div class="logo-boder fl"></div>
+                <div class="logo-title fl">
+                    <span>成都市广播电视台官方网站</span>
+                </div>
+            </div>
+            <div class="ad fr">
+                <a class="top-download" href="//m.cditv.cn" target="_blank">
+                    <img class="image" src="https://www.cditv.cn/statics/images/cditv2019/icon_topdownload.png">
+                    <div class="dib txt">
+                    </div>
+                    <div class="dib btn">立即下载</div>
+                </a>
+                <div class="common-search fr">
+                    <form action="https://www.cditv.cn/index.php" method="get" target="_blank">
+                        <input type="hidden" name="m" value="search">
+                        <input type="hidden" name="c" value="index">
+                        <input type="hidden" name="a" value="init">
+                        <input type="hidden" name="typeid" value="1" id="typeid">
+                        <input type="hidden" name="siteid" value="1" id="siteid">
+                        <input type="text" class="text" name="q" placeholder="请输入关键字" id="q">
+                        <input type="submit" value="" class="button">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="header-nav">
+            <div class="w clearfix">
+                <div class="nav-react clearfix fl" id="J_nav_react">
+                    <ul class="nav-list clearfix fl">
+                        <li class="nav-item ">
+                            <a class="link" href="https://www.cditv.cn/">首页</a>
+                        </li>
+                                                <li class="nav-item ">
+                            <a class="link" href="https://www.cditv.cn/html/zixun/lingdaoren/">新闻资讯</a>
+                                                                                    <ul class="subnav-list J_subnav tc">
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/zixun/lingdaoren/">要闻</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/zixun/">推荐</a>
+                            </ul>
+                                                                                </li>
+                                                <li class="nav-item on">
+                            <a class="link" href="https://www.cditv.cn/show-192-1-1.html">直播频道</a>
+                                                                                    <ul class="subnav-list J_subnav tc">
+                                                                                                                                                                                                                                                                <a class="subnav-item" href="https://www.cditv.cn/show-192-1-1.html">电视</a>
+                                                                                                                                                                                                                                                                                                <a class="subnav-item" href="https://www.cditv.cn/show-433-21-1.html">电台</a>
+                                                                                                                                                                                                                                                                                                <a class="subnav-item" href="https://www.cditv.cn/show-2762-722-1.html">区县</a>
+                                                                                                                                                                                                                                                                                                <a class="subnav-item" href="https://www.cditv.cn/show-2763-18-1.html">其他</a>
+                                                                                        </ul>
+                                                                                </li> 
+                                                <li class="nav-item ">
+                            <a class="link" href="https://www.cditv.cn/html/cdrtv/">视频推荐</a>
+                                                                                    <ul class="subnav-list J_subnav tc">
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/cdrtv/xinwen/">新闻</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/cdrtv/shendu/">深度</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/cdrtv/shenghuo/">生活</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/cdrtv/shaoer/">少儿</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/cdrtv/wenhua/">文化</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/cdrtv/caijing/">财经</a>
+                                                        </ul>
+                                                                                </li>
+                                                <li class="nav-item">
+                            <a class="link" href="https://www.cditv.cn/html/kanduzhuanti/gycs/" target="_blank">公园城市</a>
+                        </li>
+                                                <li class="nav-item">
+                            <a class="link" href="https://www.cditv.cn/html/zt/dysj/" target="_blank">大运频道</a>
+                        </li>
+                                                <li class="nav-item ">
+                            <a class="link" href="https://www.cditv.cn/html/huodong/list/">精彩活动</a>
+                                                                                                            </li>
+                                                <li class="nav-item ">
+                            <a class="link" href="https://www.cditv.cn/html/ktf/jx/">看天府</a>
+                        </li>
+                                                <li class="nav-item ">
+                            <a class="link" href="https://www.cditv.cn/html/jiaoyu/bendi/">四川教育</a>
+                                                                                    <ul class="subnav-list J_subnav tc">
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/jiaoyu/bendi/">本地</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/jiaoyu/sichuan/">四川</a>
+                                                            <a class="subnav-item" href="https://www.cditv.cn/html/jiaoyu/shequ/">社区</a>
+                                                        </ul>
+                                                                                </li>
+                    </ul>
+                </div>
+                <!-- <div class="btn-search" id="J_search"></div> -->
+            </div>
+        </div>
+    </div>
+    <!-- 浮动导航 end -->
+</div>
+<!-- 头部 end -->
+<!-- header end -->    <!-- tab -->
+    <div class="bdb">
+        <div class="tab-change w">
+            <div class="nav-react clearfix">
+                <ul class="nav-list clearfix fl">
+                
+                                                                                                                                                                                                                                                                <li class="on"><a href="https://www.cditv.cn/show-192-1-1.html">电视</a></li>
+                                                                                                                                                                                                                                                                    <li><a href="https://www.cditv.cn/show-433-21-1.html">电台</a></li>
+                                                                                                                                                                                                                                                                    <li><a href="https://www.cditv.cn/show-2762-722-1.html">区县</a></li>
+                                                                                                                                                                                                                                                                    <li><a href="https://www.cditv.cn/show-2763-18-1.html">其他</a></li>
+                                                                    </ul>
+            </div>
+        </div>
+    </div>
+    <!-- tab end -->
+
+    <!-- content -->
+    <div class="content">
+        <div class="list-live w mt30 clearfix of">
+            <div class="show-title-fix" id="J_show_title_fix" style="display: none;">
+                <div class="w clearfix">
+                    <h1 class="fl">正在直播：CDTV-1 新闻综合频道</h1>
+                    <div class="show-title-small fr clearfix bdsharebuttonbox">
+                        <!-- <a class="icon collection" href="javascript:void(0);">收藏</a> -->
+                        <a class="icon share bds_more" data-cmd="more" href="javascript:void(0);">分享</a>
+                        <a class="icon comment" href="#comment">评论</a>
+                    </div>
+                </div>
+            </div>
+            <!-- 浮动标题 end -->
+            <div class="show-title">
+                <div class="show-title-small clearfix">
+                    <h2 class="fl">正在直播：CDTV-1 新闻综合频道</h2>
+                    <div class="fr clearfix bdsharebuttonbox">
+                        <!-- <span class="icon collection">收藏</span> -->
+                        <a class="icon share bds_more" data-cmd="more" href="javascript:void(0);">分享</a>
+                        <script>
+                            window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"16"},"share":{}};
+                            with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+                        </script>
+                        <style>
+                            .bdsharebuttonbox a.icon {
+                                height: 40px;
+                                margin: 0 15px;
+                                padding: 0 0 0 40px;
+                                font-size: 14px;
+                                line-height: 40px;
+                            }
+                        </style>
+                        <a class="icon comment" href="#comment">评论</a>
+                                                <span class="icon like" id="J_show_like">
+                            赞（<span>10</span>）
+                        </span>
+                                            </div>
+                </div>
+            </div>
+            <div class="mt40 clearfix">
+                <div class="fl">
+                    <!--video-->
+                    <div class="video">
+                        <!--视频播放 开始-->
+                        <div class="player" id="J_flash_player"></div>
+                        <script src="https://g.omtech.cn/ckplayer/X2/ckplayer.js"></script>
+                        <!--视频播放 结束-->
+                    </div>
+                </div>
+                <div class="fr nav-live-tv" id="J_tab_live">
+                    <div class="hd clearfix">
+                        <h3 class="mod-title fl"><span>电视</span></h3>
+                        <div class="hd-box fr">
+                            <ul class="clearfix">
+                                                                <li class="on"><a href="javascript:void(0);">回放（前三天）</a></li>
+                                                                <li ><a href="javascript:void(0);">频道切换</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="bd trans-none">
+                                                <div class="tab-box tab-replay" id="J_tab_replay">
+                            <div class="replay-hd" id="J_tab_replay_hd">
+                                <ul class="clearfix"></ul>
+                            </div>
+                            <div class="replay-bd" id="J_tab_replay_bd">
+                                <div class="replay-box"></div>
+                            </div>
+                        </div>
+                                                <div class="tab-box tab-tv">
+                            <ul class="tab-ul">
+                                                                                        <li class=" on">
+                                    <a class="live-item" >
+                                        <span class="tv-state">
+                                            <span>正在播放</span>
+                                        </span>
+                                        <span class="name" title="CDTV-1 新闻综合频道">CDTV-1 新闻综合频道</span>
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a class="live-item"  href="https://www.cditv.cn/show-192-2-1.html">
+                                        <span class="tv-state">
+                                            <span>播放</span>
+                                        </span>
+                                        <span class="name" title="CDTV-2 经济资讯频道">CDTV-2 经济资讯频道</span>
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a class="live-item"  href="https://www.cditv.cn/show-192-3-1.html">
+                                        <span class="tv-state">
+                                            <span>播放</span>
+                                        </span>
+                                        <span class="name" title="CDTV-3 都市生活频道">CDTV-3 都市生活频道</span>
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a class="live-item"  href="https://www.cditv.cn/show-192-45-1.html">
+                                        <span class="tv-state">
+                                            <span>播放</span>
+                                        </span>
+                                        <span class="name" title="CDTV-4 影视文艺频道">CDTV-4 影视文艺频道</span>
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a class="live-item"  href="https://www.cditv.cn/show-192-5-1.html">
+                                        <span class="tv-state">
+                                            <span>播放</span>
+                                        </span>
+                                        <span class="name" title="CDTV-5 公共频道">CDTV-5 公共频道</span>
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a class="live-item"  href="https://www.cditv.cn/show-192-6-1.html">
+                                        <span class="tv-state">
+                                            <span>播放</span>
+                                        </span>
+                                        <span class="name" title="CDTV-6 少儿频道">CDTV-6 少儿频道</span>
+                                    </a>
+                                </li>
+                                                                                    </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="w mt30 mb130 clearfix">
+            <div class="side-info fl">
+                <div class="show-news">
+                    <!-- 评论 begin -->
+<div class="show-comment">
+    <div class="hd grey-box clearfix">
+        <a name="comment"></a>
+        <h3 class="mod-title">
+            <span>评论</span>
+        </h3>
+        <div class="comment-hd-r clearfix fr">
+            <span class="m_num"><b id="J_coment_count">0</b> 条评论</span>
+            <a class="m_cditv" href="https://m.cditv.cn/" target="_blank">手机发评论</a>
+        </div>
+    </div>
+
+    <!-- <div class="comment-login">
+        <div class="c-l-box">
+            <p><a href="#" target="_blank">登录</a>|<a href="#" target="_blank">注册</a></p>
+            <p><i class="btn-warn"></i>请登录后发表您的看法！</p>
+        </div>
+        登录提示 end
+
+        <div class="c-s-box">
+            <div class="c-s-text">
+                <textarea name="" id="" cols="" rows=""></textarea>
+                <p class="tips"><i></i> 提示：请文明评论，遵守国家法律法规</p>
+            </div>
+        </div>
+        <div class="c-s-btn clearfix">
+            <p class="tips fl"><i></i> 您至少需要输入<span>5</span>个字</p>
+            <a class="btn-submit fr" href="javascript:void(0);">发布</a>
+        </div>
+        提交评论 end
+    </div> -->
+
+    <ul class="comment-list" id="J_comment_list" data-commentid="content_192-1-1"></ul>
+    <div class="comment-more" id="J_comment_more">
+        <a class="color-blue" href="javascript:;">加载中...</a>
+    </div>
+</div>
+<!-- 评论 end -->
+                </div>
+            </div>
+            <!-- 新闻列表 end -->
+            <div class="sidebar-right fr">
+                <div class="sidebar-sub mb40">
+    <div class="hd bdb tl mb30 grey-box">
+        <h3 class="mod-title small"><span>下载看度 玩转看度号</span></h3>
+    </div>
+    <div class="sub-hd">
+        <script src="https://www.cditv.cn/index.php?m=poster&c=index&a=show_poster&id=37"></script>
+    </div>
+    <div class="sub-bd">
+        <p>客户端下载
+            <br>
+            <a href="https://itunes.apple.com/cn/app/kan-du/id657222349?mt=8" target="_blank">iPhone版</a>
+            <span>|</span>
+            <a href="https://m.cditv.cn" target="_blank">Android版</a>
+        </p>
+    </div>
+</div>
+<!-- 客户端下载 end -->
+            </div>
+            <!-- 侧边栏 end -->
+        </div>
+    </div>
+    <!-- content end -->
+
+    <!-- footer -->
+<div class="footer">
+    <div class="foot-box clearfix">
+        <div class="fl foot-left">
+            <div class="about">
+                <a href="https://www.cditv.cn/html/about/about/" target="_blank">关于无限成都</a><span>|</span>
+                <a href="https://www.cditv.cn/html/about/aboutus/" target="_blank">关于成都市广播电视台</a><span>|</span>
+                <a href="https://www.cditv.cn/html/about/copyright/" target="_blank">版权声明</a><span>|</span>
+                <a href="https://www.cditv.cn/html/about/hr/" target="_blank">诚聘英才</a><span>|</span>
+                <a href="https://www.cditv.cn/html/about/contactus/" target="_blank">联系我们</a><span>|</span>
+                <a href="https://www.cditv.cn/html/sitemap/" target="_blank">网站地图</a><span>|</span>
+                <a href="https://www.cditv.cn/html/about/commitment/" target="_blank">自律管理承诺</a>
+            </div>
+            <p class="mt20">成都市广播电视台 版权所有 &copy; Copyright 2002--2021</p>
+            <p>
+                <a id="J_icpinfo" href="https://beian.miit.gov.cn" target="blank">蜀ICP备17005119号-5</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002000745" target="blank">
+                    <img src="https://www.cditv.cn/statics/images/icp.png" valign="middle">
+                    川公网安备 51019002000745号
+                </a>
+            </p>
+            <p>互联网新闻信息服务许可证：51120180005&nbsp;&nbsp;&nbsp;&nbsp;增值电信业务经营许可证：川B2-20170191&nbsp;&nbsp;&nbsp;&nbsp;信息网络传播视听节目许可证号：1-23-3-2-0005</p>
+                        <div class="company">
+                <div class="fr mt20">
+                    <span id="_ideConac"><a href="http://bszs.conac.cn/sitename?method=show&amp;id=7C568E7E9C01430AE05310291AAC83C4" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="https://www.cditv.cn/statics/images/cditv2019/blue_error.png" data-bd-imgshare-binded="1"></a></span>
+                </div>
+            </div>
+        </div>
+        <div class="fr foot-right">
+            <div class="clearfix">
+                <p>关注我们</p>
+                <a class="weibo" href="http://weibo.com/cdtv111" target="_blank">
+                    <i></i>
+                    一点橙子
+                </a>
+                <a class="weixin" href="javascript:void(0);">
+                    <i></i>
+                    看度新闻
+                    <div class="qcode">
+                        <img src="https://www.cditv.cn/statics/images/cditv2019/qrcode_weixin.png">
+                    </div>
+                </a>
+            </div>
+            <div class="mt100 clearfix">
+                <p>下载客户端</p>
+                <a class="iphone" href="http://m.cditv.cn" target="_blank">
+                    <i></i>
+                    iPhone
+                </a>
+                <a class="android" href="http://m.cditv.cn" target="_blank">
+                    <i></i>
+                    Android
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer end -->
+<!--[if lte IE 9]>
+<script src='https://www.cditv.cn/statics/js/cditv2019/jquery.xdomainrequest.min.js'></script>
+<![endif]-->
+    <!-- js -->
+    <script src="https://g.omtech.cn/jquery.SuperSlide/2.1.3/jquery.SuperSlide.js"></script>
+    <script src="https://www.cditv.cn/statics/js/cditv2019/common.js"></script>
+    <script src="https://www.cditv.cn/statics/js/cditv2019/show.js?d=20211025"></script>
+    <script src="https://www.cditv.cn/statics/js/cditv2019/show_tv.js?d=20211025"></script>
+    <script src="https://www.cditv.cn/statics/js/cditv2019/show_comment.js"></script>
+    <script>
+        // 设置详情参数
+        var show = new showObj({
+            catid: 192,
+            id: 1,
+            thumbs: ''
+        });
+
+        // 设置电视直播参数
+        var tv = new tvObj({
+            playBillID: 90,
+            title: 'CDTV-1 新闻综合频道'
+        });
+    </script>
+    <!--百度统计代码 begin-->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?2c623902117bc35836162ef581f8cb12";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<!--百度统计代码 end-->
+    <!--统计代码 begin-->
+<script src="https://g.omtech.cn/omt_analytics_sdk/1.0.1/omt_analytics.js"></script>
+<script>
+    (function() {
+    	var tjkey = '1000';
+    	if(typeof isMobile != 'undefined') {
+    		if(isMobile.Tfsmy()) {
+    			tjkey = '60e25c6bd8d94';
+    		}
+    	}
+    	
+        _omta.init(tjkey, "1.0", ["track_links", "track_clicks", "track_forms"]);
+    })();
+</script>
+<!--统计代码 end-->
+<!--电视直播详情 统计代码 begin-->
+<script>
+    var log_live = 1;
+
+    $(function() {
+        // wap 页统计
+        if (window.live && window.live.status) {
+            // status状态：
+            // relive 电视回放|      tv_relive  0
+            // playTv 电视直播|      tv_live    1
+            // preview 活动预告|     tv_live    1
+            // playEvent 活动直播|   tv_live    1
+            // end 活动结束|         tv_live    1
+            // hf 活动回顾|          tv_relive  2
+            if (window.live.status == "preview" || window.live.status == "playTv" || window.live.status == "playEvent" || window.live.status == "end") {
+                log_live = 1;
+            } else if (window.live.status == "relive") {
+                log_live = 0;
+            } else if (window.live.status == "hf") {
+                log_live = 2;
+            }
+            logVideoEnd();
+        }
+    });
+
+
+    function logVideoEnd() {
+        var liveType;
+        switch (log_live) {
+            case 0:
+            case 2:
+                liveType = "tv_relive";
+                break;
+            case 1:
+                liveType = "tv_live";
+                break;
+        }
+
+        _omta.mediaView({
+            type: liveType,
+            title: "CDTV-1 新闻综合频道",
+            cat_id: 192, //内容栏⽬目ID
+            content_id: 1, //内容ID
+            channel: "看度", //来源渠道
+            segmentation: {}
+        });
+    }
+</script>
+<!--电视直播详情 统计代码 end-->
+</body>
+</html>

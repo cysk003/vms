@@ -1,0 +1,31 @@
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'fszh';
+$n = array(
+    "fsgg" => 2,//佛山公共
+    "fszh" => 3,//佛山综合
+    "fsys" => 4,//佛山影视
+    "fsnh" => 5,//佛山南海
+    "fssd" => 6,//佛山顺德
+    "fsgm" => 7,//佛山高明
+    "fsss" => 8,//佛山三水
+    );
+$header = array(
+          'APPKEY: xinmem3.0',
+          'VERSION: 4.0.9',
+          'PLATFORM: ANDROID',
+          'SIGN: b2350fe63e26fbf872b424dece22bd1b',
+          );
+$ch = curl_init('https://xmapi.fstv.com.cn/appapi/tv/index');
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+$data = curl_exec($ch);
+curl_close($ch);
+$d = json_decode($data);
+for($i=0;$i<count($d->data->channel);$i++){
+   if($n[$id] == $d->data->channel[$i]->id)
+   $playurl = $d->data->channel[$i]->stream;
+};
+header('location:'.$playurl);
+//echo $playurl;
+?>

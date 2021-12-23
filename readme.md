@@ -22,6 +22,9 @@ awk -f m3umaker.awk src.txt
 ```
  cat newtv.txt|grep -v "#__#"|grep -v "#genre#"|sort -t "," -k1 > newtv.txt.bak
 ```
+
+https://www.zxzj.fun/video/3620-1-1.html
+curl grep -oP "player_data={[^}]*}"|sed 's/^.*"url":"//g;s#\\/#/#g;s/",.*"}$//g'
 ## 中国新闻与电视
 1. [老生常谈云媒体，党和人民在一起](https://laosheng.top/fly/)
 2. [国内地方台2021-10.txt](https://github.com/wmenjoy-music/vms/files/7512001/2021-10.txt)

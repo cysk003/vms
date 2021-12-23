@@ -3,11 +3,12 @@
 from .area import *
 import os
 class EPGInfo(object):
-   def __init__ (self, tvgId=-1, tvgName="", logo="", group="", src="", time="", keywords=[]):
+   def __init__ (self, tvgId=-1, tvgName="", logo="", group="", category="", src="", time="", keywords=[]):
        self.tvgId = tvgId
        self.tvgName = tvgName
        self.logo = logo
        self.group = group
+       self.category = category
        self.src = src
        self.time = time
        self.keywords = keywords
@@ -43,13 +44,14 @@ class EPG(object):
                     continue
                 items = line.split('|')
                 keywords=[items[2].upper(),items[3].upper()]
-                for j in range(7, len(items)):
+                category= items[7]
+                for j in range(8, len(items)):
                     if items[j] != "":
                         keywords.append(items[j].upper())
 
                 if len(items) <= 6:
                     continue
-                self.dict[items[0]]=EPGInfo(tvgId=int(items[0]),logo=items[1],tvgName=items[3],group=items[4], src=items[5],time=items[6], keywords=keywords)
+                self.dict[items[0]]=EPGInfo(tvgId=int(items[0]),logo=items[1],tvgName=items[3],group=items[4], category=category,src=items[5],time=items[6], keywords=keywords)
    def query(self, title):
         if title == None or title.strip() == "":
             return None

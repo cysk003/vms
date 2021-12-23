@@ -44,6 +44,11 @@ http://www.leshitya.com/shaoer/
 经济生活,
 安徽卫视,
 
+安徽科教HD: http://zbbf2.ahtv.cn/live/754.m3u8
+
+
+
+
 湖北卫视,http://app.cjyun.org/video/player/stream?stream_id=431&site_id=10008
 http://app.cjyun.org/video/player/streamlist?site_id=10008&live_type=1
 curl 'http://app.cjyun.org/video/player/streamlist?site_id=10008&live_type=1' \

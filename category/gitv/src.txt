@@ -432,3 +432,34 @@ NNM家庭理财 576,http://211.137.115.110:8080/gitv_live/G_JIATINGLC/G_JIATINGL
 　　CETV-4：223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 　　CETV-3：223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
+
+
+
+
+
+南京移动的直播源最受移动宽带用户喜爱，延迟小 几乎都是秒开。但是网上流传了许多IP号段的，让人看得云里雾里。今天，我就来给大家开一贴讲明白，先讲IP号段为183.207.X.X。【IP号段为223.110.X.X的另开一贴讲】http://www.tvapk.net/forum.php?m ... 57742&extra=&page=1
+
+
+183.207.X.X常见的有：
+1、183.207.248.71，cntv央视源，包括央视 各省卫视，大量的FHD(1080)源，速度快，质量优，我最喜欢！
+例子：CCTV1FHD,http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
+CCTV14FHD,http://183.207.248.71/cntv/live1/cctv-14/cctv-14
+山东卫视FHD,http://183.207.248.71/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+
+
+2、183.207.248.71，gitv银河源，包括央视 各省卫视，普通SD源居多，一部分是HD(720)源，速度快，资源占用低。
+例子：CCTV1HD,http://183.207.248.71/gitv/live1/CCTV-1-HD/CCTV-1-HD
+CCTV14,http://183.207.248.71/gitv/live1/G_CCTV-14/G_CCTV-14
+江苏卫视HD,http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD
+
+
+3、183.207.248.34~37，这个IP段最大的特点，34~37有98%可以互相替换都能够播放，1.m3u8与index.m3u8也是能够互相替换；速度快，质量优，FHD(1080)源、HD(720)源、普通SD源都有，还包括三个香港凤凰台。
+例子：凤凰香港HD,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+CCTV1FHD,http://183.207.248.36/PLTV/2510088/224/3221227374/index.m3u8
+广东卫视FHD,http://183.207.248.36/PLTV/2510088/224/3221227248/index.m3u8
+
+
+4、183.207.249.7~16，这个IP段也是7~16可以互相替换都能够播放，1.m3u8与index.m3u8也是能够互相替换；速度快，质量优，这个IP段最大的特点，FHD(1080)源、HD(720)源、普通SD源都有，还包括NewTV系列和徐州四个地方台。
+例子：CCTV12FHD,http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
+NewTV动作电影FHD,http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+徐州-4HD,http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8

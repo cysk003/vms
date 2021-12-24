@@ -1,0 +1,50 @@
+
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'yzxwzh';
+$n = array(
+'cctv1' => 177803,
+'cctv1a' => 177512,
+'cctv2' => 177714,
+'cctv3' => 177704,
+'cctv4' => 177705,
+'cctv5' => 177706,
+'cctv6' => 177707,
+'cctv8' => 177709,
+'cctv10' => 177711,
+'cctv13' => 177603,
+'bjws' => 177800,
+'dfws' => 177797,
+'sdws' => 177805,
+'ahws' => 177801,//x失效
+'hnws' => 177798,//x失效
+'jsws' => 177796,
+'zjws' => 177799,
+'gdws' => 177802,
+'szws' => 177804,
+);
+$m = array(
+'yzxwzh' => 235,
+'yzcs' => 291,
+'yzsh' => 236,
+'yzjd' => 290,
+'yzhj' => 292,
+'yzgj' => 177444,
+);
+if(!!$n[$id]) {
+    $url = "http://vapp.96189.com/setsail/external/externalService?service=getChannelDetail&#182;ms={%22channelId%22:%22".$n[$id]."%22}";
+    $data = file_get_contents($url);
+    $str = preg_split("/[\s,]/",json_decode($data) -> data -> playUrl);
+    $playurl = preg_replace('|yftv|','yztv',$str[1]);
+    header('Location:'.$playurl);
+    //echo $playurl;
+};
+if(!!$m[$id]) {
+    $url = "http://vapp.96189.com/setsail/external/externalService?service=getChannelDetail&#182;ms={%22channelId%22:%22".$m[$id]."%22}";
+    $data = file_get_contents($url);
+    $str = preg_split("/[\s,]/",json_decode($data) -> data -> playUrl);
+    $playurl = preg_replace('|yztv.|','yztv-',$str[1]);
+    header('Location:'.$playurl);
+    //echo $playurl;
+};
+?>
+

@@ -1,0 +1,36 @@
+<?php
+    // c4k 切片版
+    $seq = intval((time()-1830)/4);
+    $content = "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-TARGETDURATION:5\n#EXT-X-MEDIA-SEQUENCE:$seq\n";
+    for($i=0;$i<3;$i++)
+    {
+        $content .= "#EXTINF:4.000,\n";
+        $content .= "http://livews-tp4k.cctv.cn/live/4K0219.stream/1-".$seq.".ts\n";
+        $seq = $seq + 1;
+    }
+    header("Content-Disposition: attachment; filename=playlist.m3u8");
+    echo $content;
+
+?>
+
+
+<?php
+//cctv4k
+    $seq = intval((time()-1830)/4);
+    $content = "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-TARGETDURATION:6\n#EXT-X-MEDIA-SEQUENCEseq\n";
+    for($i=0;$i<3;$i++)
+    {
+        $content .= "#EXTINF:6,\n";
+        $content .= "http://58.220.67.45/vod.rxip.sc96655.com/live/8ne5i_sccn/ys4Kcq_hls_pull/8ne5i_sccn,ys4Kcq_hls_pull_2000K/273/349/".$seq.".ts\n";
+$seq = $seq + 1;
+    }
+    header("Content-Disposition: attachment; filename=playlist.m3u8");
+    echo $content;
+
+?>
+根据wjxgzz大神CCTV4K切片版的帖子 https://www.right.com.cn/forum/thread-6557284-1-1.html      拼减减版本的蜀小果CCTV4K版本，，修改了参数后发现出来的切片ts不对，，，求大神指点，造福大家！！！！
+复制代码
+
+前面那个c4k不行的试试这个 ？
+
+另外，C16-4K的有维埃皮的同学分享下链接？

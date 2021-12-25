@@ -1,0 +1,111 @@
+
+[iptv信源 资源分享或寻求] GDTV PHP [复制链接]
+wjxgzz
+
+74
+
+主题
+0
+
+贡献
+793
+
+帖子
+菜鸟元帅
+
+疯子
+
+
+
+恩山币7947 nb
+发消息
+电梯直达
+跳转到指定楼层1#
+ 发表于 2021-12-17 22:29 | 只看该作者 |只看大图 回帖奖励
+本帖最后由 wjxgzz 于 2021-12-17 22:48 编辑
+
+
+我记得触电那个应该正常的哇
+你们要的 gdtv.php
+
+//ps: 为什么辣么长？因为curl没有封装所以有点冗余.
+
+<?php
+
+    /*0: {pk: 43, name: "广东卫视",…}
+    1: {pk: 44, name: "广东珠江",…}
+    2: {pk: 45, name: "广东新闻",…}
+    3: {pk: 48, name: "广东公共",…}
+    4: {pk: 47, name: "广东体育",…}
+    5: {pk: 51, name: "南方卫视",…}
+    6: {pk: 49, name: "经济科教",…}
+    7: {pk: 53, name: "广东影视",…}
+    8: {pk: 16, name: "广东综艺",…}
+    9: {pk: 46, name: "广东国际",…}
+    10: {pk: 54, name: "广东少儿",…}
+    11: {pk: 66, name: "嘉佳卡通",…}
+    12: {pk: 42, name: "南方购物",…}
+    13: {pk: 15, name: "岭南戏曲",…}
+    14: {pk: 67, name: "广东房产",…}
+    15: {pk: 13, name: "现代教育",…}
+    16: {pk: 74, name: "广东移动",…}
+    17: {pk: 75, name: "GRTN文化频道",…}*/
+
+    $id = $_GET['id']; // 43 = 广东卫视
+
+    $ts = time().'324';
+    $headers = [
+        "origin: https://www.gdtv.cn",
+        "x-itouchtv-ca-timestamp: $ts",
+        "x-itouchtv-ca-key: 89541443007807288657755311869534",
+        "x-itouchtv-client: WEB_PC",
+        "x-itouchtv-device-id: WEB_0",
+        "referer: https://www.gdtv.cn/tvChannelDetail/$id",
+        "user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+
+    ];
+
+    $bstrURL = "https://tcdn-api.itouchtv.cn/getParam";
+    $sign = base64_encode(hash_hmac("SHA256","GET\n$bstrURL\n$ts\n","dfkcY1c3sfuw0Cii9DWjOUO3iQy2hqlDxyvDXd1oVMxwYAJSgeB6phO8eW1dfuwX",true));
+    $headers[] = "x-itouchtv-ca-signature: $sign";
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $bstrURL);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER,$headers);
+    $data = curl_exec($ch);
+    curl_close($ch);
+    $json = json_decode($data);
+    $node = $json->node;
+    $bstrURL = "https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel/$id?tvChannelPk=$id&node=".base64_encode($node);
+    $sign = base64_encode(hash_hmac("SHA256","GET\n$bstrURL\n$ts\n","dfkcY1c3sfuw0Cii9DWjOUO3iQy2hqlDxyvDXd1oVMxwYAJSgeB6phO8eW1dfuwX",true));
+    array_pop($headers);
+    $headers[] = "x-itouchtv-ca-signature: $sign";
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $bstrURL);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER,$headers);
+    $data = curl_exec($ch);
+    curl_close($ch);
+    $json = json_decode($data);
+    $playURL = json_decode($json->playUrl)->hd;
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $playURL);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER,["Referer: https://www.gdtv.cn"]);
+    $data = curl_exec($ch);
+    curl_close($ch);
+
+    header("Content-Type: application/vnd.apple.mpegURL");
+    header("Content-Disposition: filename=$id.m3u8");
+    echo $data;
+
+
+?>

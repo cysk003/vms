@@ -292,12 +292,10 @@ http://cloudplay.tk/api/huya.php?id=11352908
 http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
 #EXTINF:-1  group-title="综艺",郭德纲于谦满满都是包袱
 http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",中国教育1 3M1080
-http://[2001:250:4801::430:89]/hls/cetv1.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",中国教育1 3M1080
-http://[2001:250:4801::430:89]/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",中国教育1 8M1080
-http://[2001:250:4801::430:89]/hls/hls67a45.m3u8
+#EXTINF:-1  group-title="综艺",Running Man
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",中国教育1 高清
+http://192.168.50.1:8288/rtp/225.1.8.32:8152
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="科教",CGTN 纪录 高清
 http://[2001:250:4801::430:89]/hls/hls67a44.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV-9纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png"  group-title="科教",CCTV-9纪录
@@ -305,11 +303,13 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226637/40417257.smil
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"  group-title="科教",CCTV-10科教
 rtsp://183.252.166.199/PLTV/88888888/224/3221226718/40417274.smil
 #EXTINF:-1 tvg-id="225" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"  group-title="科教",金鹰纪实 高清
-http://[2001:250:4801::430:89]/hls/hls75a26.m3u8
+http://192.168.50.1:8288/rtp/225.1.0.243:1025
 #EXTINF:-1 tvg-id="154" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png"  group-title="科教",全纪实 高清
-http://[2001:250:4801::430:89]/hls/hls184a639.m3u8
+http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
+#EXTINF:-1  group-title="科教",SiTV全纪实 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"  group-title="科教",BTV科教 高清
-http://[2001:250:4801::430:89]/hls/btv3hd.m3u8
+http://192.168.50.1:8288/rtp/225.1.1.1:8000
 #EXTINF:-1 tvg-id="70093" tvg-name="NewTV军事评论" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new13.png"  group-title="科教",NewTV军事评论 2.5M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="70094" tvg-name="NewTV农业致富" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new14.png"  group-title="科教",NewTV农业致富 4M1080
@@ -317,7 +317,7 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684
 #EXTINF:-1  group-title="科教",NewTV精品纪录 2.5M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="科教",纪实人文 高清
-http://[2001:250:4801::430:89]/hls/docuchina.m3u8
+http://192.168.50.1:8288/rtp/225.1.0.129:1025
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="科教",上海纪实人文 4M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="科教",上海纪实人文 8M1080
@@ -376,8 +376,6 @@ http://121.51.249.99/txdirect.hls.huya.com/src/1199512837905-1199512837905-52268
 http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",TVB官方
 http://cloudplay.tk/api/huya.php?id=23735126
-#EXTINF:-1  group-title="电影",Running Man
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",周星驰电影
 http://cloudplay.tk/api/huya.php?id=11342412
 #EXTINF:-1  group-title="电影",吴孟达电影
@@ -390,8 +388,6 @@ http://cloudplay.tk/api/huya.php?id=11601981
 http://cloudplay.tk/api/huya.php?id=11342390
 #EXTINF:-1  group-title="电影",周润发电影
 http://cloudplay.tk/api/huya.php?id=11342387
-#EXTINF:-1  group-title="电影",洪金宝电影
-http://cloudplay.tk/api/huya.php?id=11602084
 #EXTINF:-1  group-title="电影",成龙电影
 http://cloudplay.tk/api/huya.php?id=11342386
 #EXTINF:-1  group-title="电影",谢霆锋电影
@@ -440,8 +436,6 @@ http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-27
 http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",香港黑帮系列
 http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影",搞笑一家人
-http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",三国演义
 http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",封神榜
@@ -454,12 +448,8 @@ http://txtest-xp2p.p2p.huya.com/src/1199563479483-1199563479483-5444317290487087
 http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",TVB版济公
 http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.xs.flv
-#EXTINF:-1  group-title="电影",马大帅
-http://txtest-xp2p.p2p.huya.com/src/1199560576938-1199560576938-5431850954636918784-2399121277332-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",征服
 http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影",各国赌片 搏一搏单车变摩托
-http://txtest-xp2p.p2p.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",童年回忆 贺岁喜剧
 http://txtest-xp2p.p2p.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",喜剧专场 看喜剧笑一笑吧
@@ -472,8 +462,6 @@ http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-
 http://txtest-xp2p.p2p.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",黑帮大片 山鸡哥重现江湖
 http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影",十万个冷笑话合集
-http://txtest-xp2p.p2p.huya.com/src/1099531752745-1099531752745-86436083688013824-2199063628946-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",西游记张卫健版
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",陈小春版韦小宝
@@ -484,11 +472,5 @@ http://txtest-xp2p.p2p.huya.com/src/1449698763-1449698763-6226408776136654848-28
 http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",经典赛车系列
 http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影",虎牙八点半
-http://txtest-xp2p.p2p.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影",冒险雷探长
 http://txtest-xp2p.p2p.huya.com/src/2288129860-2288129860-9827442917701058560-4576383176-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影",家有儿女
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影",炊事班的故事
-http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs

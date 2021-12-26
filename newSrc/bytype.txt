@@ -1,0 +1,140 @@
+
+杭州影视 高清,http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
+河东影视频道 高清,https://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
+河东影视频道 高清,https://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8
+
+
+内蒙古少儿 高清,http://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
+
+
+
+
+### 影视 720
+河北影视剧 720,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+河北影视剧 720,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
+黑龙江影视 720,http://idclive.hljtv.com:8080/live/hljys_hd.m3u8
+
+四川影视文艺 å720,http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+西安文化影视 720,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+黑龙江都市 720,http://idclive.hljtv.com:8080/live/dushi_hd.m3u8
+黑龙江新闻法治 720,http://idclive.hljtv.com:8080/live/hljxw_hd.m3u8
+
+## 少儿
+浙江少儿台 高清,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+优漫卡通 720,http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
+优漫卡通 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
+优漫卡通 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+河北少儿科教 720,http://live6.plus.hebtv.com/sekjx/playlist.m3u8
+山东少儿 720,https://livealone302.iqilu.com/iqilu/sepd.m3u8
+新科动漫 720,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
+四川妇女儿童 720,http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+深圳少儿 720,https://sztv-live.cutv.com/1SIQj6s/500/g7r1tI0.m3u8
+黑龙江少儿 576,http://stream3.hljtv.com/hljse2/sd/live.m3u8
+
+内蒙古新闻新闻资讯 高清,http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
+内蒙古新闻新闻资讯 高清,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+内蒙古农牧频道 高清,http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8
+内蒙古蒙古语卫视 高清,http://live9.m2oplus.nmtv.cn/nmgmgyws/hd/live.m3u8
+内蒙古蒙古语文化 高清,http://live9.m2oplus.nmtv.cn/nmgmgywh/hd/live.m3u8
+内蒙古文体娱乐 高清, http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
+内蒙古卫视 高清, http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+内蒙古经济生活 高清 http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
+
+
+杭州
+curl 'https://live.hoolo.tv/hztv5_sd/1640498967/1640501441047.ts?auth_key=1640508641-0-0-a7012b5abc8ff849096720aea2d84591' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'Referer: https://tv.hoolo.tv/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  --compressed
+
+广东少儿
+
+curl 'https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel?category=0' \
+  -H 'authority: gdtv-api.gdtv.cn' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'x-itouchtv-ca-timestamp: 1640503559404' \
+  -H 'x-itouchtv-ca-key: 89541443007807288657755311869534' \
+  -H 'x-itouchtv-client: WEB_PC' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'x-itouchtv-device-id: WEB_05628470-661d-11ec-a1d1-e515cac95351' \
+  -H 'content-type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'x-itouchtv-ca-signature: LMtYMZJfn8JYNQ1TRJCeeaYVJL+IwT7dODsOnst9k14=' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'origin: https://www.gdtv.cn' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.gdtv.cn/' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  --compressed
+
+curl 'http://player.521fanli.cn/1691/gd/itouch.php?id=gdse' \
+  -H 'Connection: keep-alive' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Referer: http://www.haoqiu365.com/' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9' \
+  --compressed \
+  --insecure
+
+
+
+
+curl 'https://app.jxntv.cn/Qiniu/liveauth/getPCAuth.php' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'Authorization: 51b38c017e789517cba5508cba3fc2c8' \
+  -H 'Content-Type: application/x-www-form-urlencoded;charset=UTF-8' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'etag: sHpzXDsP' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://www.jxntv.cn' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://www.jxntv.cn/' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9' \
+  -H 'Cookie: insert_cookie=96816998; PHPSESSID=q3guttp6v57urtmjk7bl266t64; PHPSESSID_NS_Sig=oenCV6mf2D13-VO-' \
+  --data-raw 't=1609229748&stream=tv_jxtv6.m3u8&' \
+  --compressed
+
+
+
+  <?php
+  $time = time();
+  $token = md5("com.sobey.cloud.view.jiangxiandroidjxntv".$time);
+  $url = "https://app.jxntv.cn/Qiniu/liveauth/getAuth.php?siteid=10001&t=".$time."&appversion=3.06.02&id=87&type=android&token=".$token;
+  $ch = curl_init();
+  curl_setopt($ch, CURLOPT_URL, $url);
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+  curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+  curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+  curl_setopt($ch, CURLOPT_HTTPHEADER, array('User-Agent: okhttp/3.14.1',));
+  $result = curl_exec($ch);
+  curl_close($ch);
+  $info = json_decode($result, False, 512, JSON_BIGINT_AS_STRING);
+  $id=$_GET[id];
+  $ids = array(
+  "jxtv1"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8",//江西卫视
+  "jxtv2"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8",//都市频道
+  "jxtv3"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8",//经济生活频道
+  "jxtv4"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8",//影视旅游频道
+  "jxtv5"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8",//公共农业频道
+  "jxtv6"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8",//少儿频道
+  "jxtv7"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8",//新闻频道
+  "jxtv8"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8",//移动电视
+  "fsgw"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8",//风尚购物
+  "taoci"=>"http://live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8",//陶瓷频道
+  );
+  $playurl = $ids[$id]."?token=".$info->token."&t=".$info->t;
+  header('Location:'.$playurl);
+  ?>%
+

@@ -26,20 +26,33 @@ if [ "$scanType" == 1 ]; then
         fi
         originUrl=http://$addr${urlPath//##tvid##/$tvid}
         if [ $checkType == 1 ]; then
-          result=$(curl  $originUrl  2>/dev/null|grep "hls.ts"|wc -l)
+          result=$(curl  $originUrl  2>/dev/null|wc -l)
           # result=`https --headers  $realUrl|grep "404 Not Found"|wc -l`
-          echo $host, $tvid,$result
+          echo $host, $originUrl,$result
           if [ $result -gt 0 ]; then
             echo $host,$originUrl >> $outputFile
             if [ "$successBreak" == "true" ]; then
                break
             fi
+           else
+             result=$(https --headers  $originUrl|grep 'HTTP/1.1 302'|wc -l)
+             if [ "$result" -gt 0 ]; then
+                realUrl=$(echo $content|grep "Location"|awk -F":" '{print $2}')
+                result=$(https --headers  $realUrl |grep -E "(302 Moved)|(404 Not Found)"|wc -l)
+                if [ "$result" -eq 0 ]; then
+                   echo $host,$realUrl >> $outputFile
+                    if [ "$successBreak" == "true" ]; then
+                       break
+                    fi
+                fi
+
+             fi
           fi
         else
           result=$(curl  $originUrl  2>/dev/null|grep "404 Not Found"|wc -l)
           # result=`https --headers  $realUrl|grep "404 Not Found"|wc -l`
           echo $host, $tvid,$result
-          if [ $result == 0 ]; then
+          if [ $result -eq 0 ]; then
             echo $host,$originUrl >> $outputFile
             if [ "$successBreak" == "true" ]; then
                break
@@ -66,13 +79,27 @@ else
         fi
         originUrl=http://$addr${urlPath//##tvid##/$tvid}
         if [ $checkType == 1 ]; then
-          result=$(curl  $originUrl  2>/dev/null|grep "hls.ts"|wc -l)
+          result=$(curl  $originUrl  2>/dev/null|wc -l)
           # result=`https --headers  $realUrl|grep "404 Not Found"|wc -l`
-          echo $host, $tvid,$result
+          echo $host, $originUrl,$result
           if [ $result -gt 0 ]; then
             echo $host,$originUrl >> $outputFile
             if [ "$successBreak" == "true" ]; then
                break
+            fi
+          else
+            result=$(https --headers  $originUrl |grep "302 Moved"|wc -l)
+            if [ "$result" -gt 0 ]; then
+               realUrl=$(https --headers  $originUrl |grep "Location"|awk '{print $2}' )
+               result=$(https --headers  $realUrl | grep -E "(302 Moved)|(404 Not Found)"|wc -l)
+               if [ "$result" -eq 0 ]; then
+                  echo $result, $realUrl
+                  echo $host,$realUrl >> $outputFile
+                   if [ "$successBreak" == "true" ]; then
+                      break
+                   fi
+               fi
+
             fi
           fi
         else

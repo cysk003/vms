@@ -1,0 +1,12 @@
+#hostRanges="165-170 173-186 "
+hostRanges="39"
+
+portStart=25600
+portEnd=25999
+prefix=39.134.39
+idfmt=%05d
+# 直接curl
+scanType=0
+checkType=1
+successBreak=false
+urlPath="/PLTV/88888888/224/32212##tvid##/index.m3u8"

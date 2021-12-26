@@ -1,0 +1,12 @@
+#hostRanges="165-170 173-186 "
+hostRanges="85"
+
+portStart=1
+portEnd=300
+prefix=39.134.134
+idfmt=%05d
+# 直接curl
+scanType=0
+checkType=1
+successBreak=false
+urlPath="/000000001000/6000000006##tvid##0630/1.m3u8"

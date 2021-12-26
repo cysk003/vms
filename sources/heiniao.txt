@@ -1099,10 +1099,10 @@ CETV1,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225710/
   安徽公共,http://zbbf2.ahtv.cn/live/752.m3u8
   安徽科教,http://zbbf2.ahtv.cn/live/754.m3u8
 
-  南京生活,http://live.nbs.cn/channels/njtv/shpd/flv:500k/live
-  南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/flv:500k/live
-  南京十八,http://live.nbs.cn/channels/njtv/sbpd/flv:500k/live
-  南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
+  南京生活,http://live.nbs.cn/channels/njtv/shpd/500k.m3u8
+  南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+  南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
+  南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
   徐州-1,http://stream1.huaihai.tv/xwzh/playlist.m3u8
   徐州-2,http://stream1.huaihai.tv/jjsh/playlist.m3u8
   徐州-3,http://stream1.huaihai.tv/wyys/playlist.m3u8

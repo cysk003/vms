@@ -5,7 +5,40 @@
 
 
 内蒙古少儿 高清,http://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
+<?php
+        $id = (isset($_GET['id'])?$_GET['id']:1)-1;
+        $channel_list = array("AxeFRth","ZwxzUXr","4azbkoY","2q76Sw2","3vlcoxP","1q4iPng","1SIQj6s","wDF6KJ3","BJ5u5k2","xO1xQFv","sztvgjpd");
+        $signkey = 'bf9b2cab35a9c38857b82aabf99874aa96b9ffbb';
+        $tokenkey = 'cutvLiveStream|Dream2017';
+        $bstrURL = 'http://cls2.cutv.com/getCutvHlsLiveKey?t=';
+        $t = time(); // Math.floor(z() / 1E3); 因为 js 获取时间戳的问题 这里就不需要再做除法运算
+        $token = md5($t.$channel_list[$id].$tokenkey);
+        $bstrURL = $bstrURL.$t.'&id='.$channel_list[$id].'&token='.$token.'&at=1';
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $bstrURL);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+        curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0" );
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        $data = curl_exec($ch);
+        curl_close($ch);
+        $Q = str_replace('"','',$data);
+        $Q = base64_decode(revstr($Q));
+        $k_server = 'sztv-live.cutv.com';
+        $t = dechex((time() * 1000 + 29413)/483) ;
+        $subKey = '/'.$channel_list[$id].'/500/'.$Q.'.m3u8';
+        $sign = md5($signkey.$subKey.$t);
+        $bstrURL = 'https://sztv-live.cutv.com/'.$channel_list[$id].'/500/'.$Q.'.m3u8?sign='.$sign.'&t='.$t;
+        header('location:'.$bstrURL);
 
+        function revstr($a)  // 最近抖音最热的两极反转
+        {
+                $len = strlen($a);
+                $ret = substr($a,$len/2,$len/2).substr($a,0,$len/2);
+                $ret = strrev($ret);
+                return $ret;
+        }
 
 
 
@@ -138,3 +171,4 @@ curl 'https://app.jxntv.cn/Qiniu/liveauth/getPCAuth.php' \
   header('Location:'.$playurl);
   ?>%
 
+    curl http://149.129.100.78/sztv.php?id=7

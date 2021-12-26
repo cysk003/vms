@@ -3,9 +3,9 @@ http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1  group-title="少儿动漫",北京IPTV淘BABY
 http://192.168.50.1:8288/rtp/225.1.8.36:8002
 #EXTINF:-1  group-title="少儿动漫",熊猫少儿
-http://mail.lacool.tk:8086/rtp239.93.1.189:5140
+http://mail.lacool.tk:8086/rtp/239.93.1.189:5140
 #EXTINF:-1  group-title="少儿动漫",金熊猫卡通高清
-http://mail.lacool.tk:8086/rtp239.93.1.172:5140
+http://mail.lacool.tk:8086/rtp/239.93.1.172:5140
 #EXTINF:-1  group-title="少儿动漫",少儿天地
 http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
 #EXTINF:-1  group-title="少儿动漫",爱幼教

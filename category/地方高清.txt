@@ -2,3 +2,24 @@
 梧州,http://live.wzrtv.cn/xwzh1/playlist.m3u8
 霸州综合,https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 长春综合频道直播,http://cloud.quklive.com/cloud/a/embed/1609216214058927
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'cgtn';
+$n = array(
+'cgtn' => 258,//CGTN
+'cgtnr' => 259,//CGTN俄语
+'cgtnf' => 260,//CGTNN法语
+'cgtne' => 261,//CGTN西班牙语
+'cgtna' => 262,//CGTN阿拉伯语
+'njxwzh' => 228,//南京新闻综合
+'xaxwzh' => 230,//西安新闻综合
+'qzzh' => 229,//泉州综合
+'kmxwzh' => 237,//昆明新闻综合
+);
+    $data = file_get_contents('http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1111');
+    $d = json_decode($data);
+    for($i=0;$i<50;$i++){
+       if($n[$id] == $d -> data -> channelList[$i] -> id)
+       $m3u8 = $d -> data -> channelList[$i] -> m3u8;
+    };
+header('Location:'.$m3u8);
+?>

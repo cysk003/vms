@@ -1,3 +1,4 @@
+#来源：http://epg.51zmt.top:8000/sctvmulticast.html
 CCTV-1,http://scgctvshow.sctv.com/scgc/cctv1/index.m3u8
 CCTV-13,http://scgctvshow.sctv.com/scgc/cctv13/index.m3u8
 四川卫视,http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8

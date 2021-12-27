@@ -42,3 +42,4 @@ https://www.pianba.net/yun/187142-4-1.html
 
 ## 测试网络
 1. [网络连通性测试](https://m.17ce.com/site/http)
+cat 1.txt|grep -oE "subcollectionList\":\[[^]]*\]"|gsed 's#"},{"#\n#g;s/"}]//g;s#subcollectionList"\:\[{"##g;s/index"\://g;s/"subSetId"\:"//g'|awk -F"," '{print "巴巴爸爸,巴巴爸爸第"$1"集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/"$2}' >> dm.txt

@@ -12,12 +12,12 @@ CCTV-11高清,http://mail.lacool.tk:8086/rtp/239.93.0.102:5140
 CCTV-12高清,http://mail.lacool.tk:8086/rtp/239.93.1.30:8124
 CCTV-13高清,http://mail.lacool.tk:8086/rtp/239.93.0.66:5140
 CCTV-14 高清,http://mail.lacool.tk:8086/rtp/239.93.1.29:6000
-CCTV-15高清,http://mail.lacool.tk:8086/rtp/239.93.0.103:5140
-CCTV-16高清,http://mail.lacool.tk:8086/rtp/239.93.42.53:5140
-CCTV-17高清,http://mail.lacool.tk:8086/rtp/239.93.0.92:5140
-CCTV-1杜比高清,http://mail.lacool.tk:8086/rtp/239.93.0.69:5140
+CCTV-15 高清,http://mail.lacool.tk:8086/rtp/239.93.0.103:5140
+CCTV-16 高清,http://mail.lacool.tk:8086/rtp/239.93.42.53:5140
+CCTV-17 高清,http://mail.lacool.tk:8086/rtp/239.93.0.92:5140
+CCTV-1 杜比高清,http://mail.lacool.tk:8086/rtp/239.93.0.69:5140
 CCTV-5＋高清,http://mail.lacool.tk:8086/rtp/239.93.1.36:8004
-CCTV-164K超高清,http://mail.lacool.tk:8086/rtp/239.93.42.54:5140
+CCTV-16 4K超高清,http://mail.lacool.tk:8086/rtp/239.93.42.54:5140
 四川卫视高清,http://mail.lacool.tk:8086/rtp/239.93.0.20:1235
 CDTV-1高清,http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
 湖南卫视高清,http://mail.lacool.tk:8086/rtp/239.93.0.88:5140

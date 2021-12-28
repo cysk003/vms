@@ -19,11 +19,16 @@ CCTV-15-yyH265  CCTV15
 CCTV-16  CCTV16
 CCTV-17  CCTV17
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/CCTV-14H265/CCTV-14H265.m3u8
+
 gfjs  CCTV兵器科技
 dyjc  CCTV第一剧场
 hjjc  CCTV怀旧剧场
 fyjc  CCTV风云剧场
 fyyy  CCTV风云音乐
+ http://111.11.123.43:6610/030000001000/G_FYJC/G_FYJC.m3u8?IASHttpSessionId=RR1338120211228103713999999
+ http://111.11.123.43:6610/030000001000/G_HUBEI-CQ/G_HUBEI-CQ.m3u8?IASHttpSessionId=RR1338120211228103713999999
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/CDTV-1/CDTV-1.m3u8
 fyzq  CCTV风云足球
 sjdl  CCTV世界地理
 ysjp   CCTV央视文化精品

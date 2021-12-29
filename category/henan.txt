@@ -1,2 +1,21 @@
 4K,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河南4K[3840*2160],http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
+
+河南新闻 http://219.150.217.47:6610/PLTV1/720/index.m3u8?icpid=dxrm1
+CCTV2 http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+CCTV2 http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
+CCTV3 http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+CCTV4 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
+CCTV8 http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1
+CCTV7 http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
+CCTV6 http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
+CCTV5 http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+CCTV9 http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
+CCTV10 http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
+CCTV11 http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1
+CCTV12 http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
+CCTV13 http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+CCTV14 http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
+CCTV15 http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
+CGTN http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
+

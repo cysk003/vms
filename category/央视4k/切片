@@ -1,0 +1,176 @@
+主要使用 PHP 进行流量转发，需要消耗自己 PHP 服务器的带宽和流量。
+
+链接例子：https://rtmlive06.secureswiftcontent.com/rtmchannel/06-manifest.m3u8
+
+坛友一（kof97zip）：
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+<?php
+//Author: kof97zip
+error_reporting(0);
+header('Content-Type: text/json;charset=UTF-8');
+$id = $_GET['id'];//1-6
+$header = array(
+    "Host: rtmlive01.secureswiftcontent.com",
+    "Connection: keep-alive",
+    "User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4350.0 Iron Safari/537.36",
+    "Accept: */*",
+    "Origin: https://rtmklik.rtm.gov.my",
+    "Sec-Fetch-Site: cross-site",
+    "Sec-Fetch-Mode: cors",
+    "Sec-Fetch-Dest: empty",
+    "Referer: https://rtmklik.rtm.gov.my/tv/".$id,
+    "Accept-Language: zh-CN,zh;q=0.9",
+);
+if($id !== NULL){
+    $m3u8 = m3u8("https://rtmlive01.secureswiftcontent.com/rtmchannel/0".$id."-1080.m3u8",$header);
+    $m3u8 = str_replace("0".$id."-1080-","my.php?ts=0".$id."-1080-",$m3u8);
+    print_r($m3u8);
+}else{
+    $ts = $_GET['ts'];
+    $data = ts("https://rtmlive01.secureswiftcontent.com/rtmchannel/".trim($ts),$header);
+}
+
+function m3u8($url,$header){
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
+}
+
+function ts($url,$header){
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+    $result = curl_exec($ch);
+    curl_close($ch);
+}
+?>
+《M3U8文件和TS切片加了Referer验证的PHP代理示例》
+坛友二（Taki）：
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+<?php
+//Author: Taki
+error_reporting(0);
+$id = $_GET['id'];
+$m3u8 = empty($_GET['m3u8']) ? "$id-1080" : trim($_GET['m3u8']);
+$time = $_GET['time'];
+$bstr = isset($time)?$time:'';
+if($bstr == '')
+{
+    $url = "https://rtmlive$id.secureswiftcontent.com/rtmchannel/$m3u8.m3u8";
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Referer: https://rtmklik.rtm.gov.my/'));
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    $data = curl_exec($ch);
+    curl_close($ch);
+    $table_change = array("$id-"=>"rtm.php?id=$id&m3u8=$id-",".m3u8"=>"",".ts"=>"","$m3u8-"=>"?id=$id&m3u8=$m3u8&time=");
+    $data = strtr($data,$table_change);
+    echo $data;
+}
+else
+{
+    $url = "https://rtmlive$id.secureswiftcontent.com/rtmchannel/$m3u8-$time.ts";
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Referer: https://rtmklik.rtm.gov.my/'));
+    $data = curl_exec($ch);
+    curl_close($ch);
+}
+header("Cache-Control: no-cache");
+//header("Content-type:application/vnd.apple.mpegurl");
+?>
+搬运的，记录方法，方便套用。

@@ -17,6 +17,7 @@
 央视,CCTV16 奥运4k, http://192.168.50.1:8288/rtp/225.1.8.189:8002
 央视,CCTV17 农业农村 高清,http://192.168.50.1:8288/rtp/225.1.8.17:8144
 央视,CCTV4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+央视,CCTV4K HDR,http://ott.js.chinamobile.com/TVOD/3//224/3221228242/index.m3u8
 央视,中国教育1台 高清,http://192.168.50.1:8288/rtp/225.1.8.32:8152
 4k,北京IPTV4K,http://192.168.50.1:8288/rtp/225.1.8.211:8002
 4k,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
@@ -118,7 +119,7 @@
 影视,NewTV明星大片,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=4
 影视,NewTV动作电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=4
 影视,NewTV超级电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=4
-影视,电影,http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+影视,HB电影,http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 影视,NEWTV中国功夫,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
 影视,超级电视剧 NewTV,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=4
 影视,欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8

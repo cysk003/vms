@@ -1,0 +1,217 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+<?php
+    $cache = new Cache(3600,"cache/");
+    $playUrl = $cache->get('cctv4k_cache');
+    if(!$playUrl)
+    {
+        $bstrURL = "https://ytpvdn.cctv.cn/cctvmobileinf/rest/cctv/videoliveUrl/getstream";
+        $postData = 'appcommon={"ap":"cctv_app_tv","an":"央视投屏助手","adid":"1234123122","av":"1.1.7"}&url=http://live-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8';
+        //4K高清 = 4K10M.stream //4K超高清 = 4K0219.stream
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+        curl_setopt($ch, CURLOPT_URL, $bstrURL);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+        curl_setopt($ch, CURLOPT_HTTPHEADER,array("User-Agent: cctv_app_tv","Referer: api.cctv.cn","UID: 1234123122"));
+        curl_setopt($ch, CURLOPT_POST, TRUE);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);
+        $data = curl_exec($ch);
+
+        curl_close($ch);
+        $obj = json_decode($data);
+        $playUrl = $obj->url;
+
+        $playUrl = str_replace("playlist.m3u8","1.m3u8",$playUrl);
+        $cache->put('cctv4k_cache',$playUrl);
+    }
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+    curl_setopt($ch, CURLOPT_URL, $playUrl);
+    curl_setopt($ch, CURLOPT_HTTPHEADER,array("User-Agent: cctv_app_tv","Referer: api.cctv.cn","UID: 1234123122"));
+    $data = curl_exec($ch);
+    curl_close($ch);
+
+    $data = preg_replace('/(.*?.ts)/i',"http://livews-tp4k.cctv.cn/live/4K0219.stream/$1",$data);
+
+    header("Content-Disposition:attachment;filename=playlist.m3u8");
+    echo $data;
+    exit;
+
+    // 以下缓存类来自互联网，请确保cache目录存在以及读写权限 //
+    class Cache {
+
+        private $cache_path;
+        private $cache_expire;
+        public function __construct($exp_time=3600,$path="cache/"){
+            $this->cache_expire=$exp_time;
+            $this->cache_path=$path;
+        }
+
+        private function fileName($key){  return $this->cache_path.md5($key); }
+        public function put($key, $data){
+
+            $values = serialize($data);
+            $filename = $this->fileName($key);
+            $file = fopen($filename, 'w');
+            if ($file){
+
+                fwrite($file, $values);
+                fclose($file);
+            }
+            else return false;
+        }
+
+        public function get($key){
+
+            $filename = $this->fileName($key);
+
+            if (!file_exists($filename) || !is_readable($filename)){ return false; }
+
+            if ( time() < (filemtime($filename) + $this->cache_expire) ) {
+
+                $file = fopen($filename, "r");
+
+                if ($file){
+
+                    $data = fread($file, filesize($filename));
+                    fclose($file);
+                    return unserialize($data);
+                }
+                else return false;
+
+            }
+            else return false;
+        }
+    }
+?>
+playlist是referer防盗链，ts流是没有(暂时，大概，也许可能吧).以后的事以后再说.
+
+cache 在目录下创建一个这个文件夹，777权限，可以加入以下代码，但浪费性能，还是直接手动好。
+
+1
+2
+3
+4
+5
+$dir="cache/";
+if (!file_exists($dir)){
+mkdir ($dir,0777,true);
+}
+$cache = new Cache(3600,$dir);
+版本二
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+<?php
+    // c4k 切片版
+    $seq = intval((time()-1830)/4);
+    $content = "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-TARGETDURATION:5\n#EXT-X-MEDIA-SEQUENCE:$seq\n";
+    for($i=0;$i<3;$i++)
+    {
+        $content .= "#EXTINF:4.000,\n";
+        $content .= "http://livews-tp4k.cctv.cn/live/4K0219.stream/1-".$seq.".ts\n";
+        $seq = $seq + 1;
+    }
+    header("Content-Disposition: attachment; filename=playlist.m3u8");
+    echo $content;
+
+?>
+
+CCTV-4K http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8

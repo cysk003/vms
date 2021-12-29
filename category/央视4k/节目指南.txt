@@ -1,0 +1,188 @@
+tvsou 节目指南 xmltv 格式的 php 源码
+ 2020-09-03  2 评  11,852 阅  4 赞
+
+
+根据自己需要扩充 $cid 数据，然后服务器定期执行这个脚本，在php文件同目录下会生成 epg_tvs.xml 文件和*.gz 压缩文件。然后可以浏览 xml 文件看效果。该文件适用于 prefect player、progtv、kodi、tivimate 等播放器。
+
+$cid获取如下，打开你需要的电视台的，截取网址高亮部分，根据已有格式（大概第 7 行）加入到以下代码适当位置。
+《tvsou 节目指南 xmltv 格式的 php 源码》
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+<?php
+if(date_default_timezone_get() != "Asia/Shanghai") date_default_timezone_set("Asia/Shanghai");
+$fp="epg_tvs.xml";//压缩版本的扩展名后加.gz
+$id0=100000;//起始节目编号
+
+$cid=array(
+    array('42688016','湖南都市'),
+    array('34d6b6de','湖南经视'),
+    );
+
+function compress_html($string) {
+    $string = str_replace("\r", '', $string); //清除换行符
+    $string = str_replace("\n", '', $string); //清除换行符
+    $string = str_replace("\t", '', $string); //清除制表符
+    return $string;
+}
+
+$dt1=date('Ymd');
+$dt2=date('Ymd',time()+24*3600);
+$w1=date("w");
+if ($w1<'1') {$w1=7;}
+$w2=$w1+1;
+$url0="https://www.tvsou.com/epg/";
+$chn="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE tv SYSTEM \"http://api.torrent-tv.ru/xmltv.dtd\">\n<tv generator-info-name=\"tvsou\" generator-info-url=\"www.tvsou.com/epg\">\n";
+
+$nid=sizeof($cid);
+
+for ($id = 1; $id <= $nid; $id++){
+    $t0=array();
+    $t1=array();
+    $nm=array();
+
+    $url=$url0.$cid[$id-1][0].'/w'.$w1;
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    $re = curl_exec($ch);
+    curl_close($ch);
+    $re=compress_html($re);
+    preg_match('|<table class="layui-table c_table"(.*?)layui-tab-item|i',$re,$u);
+    preg_match_all('|<tr>([\s\S]+?)<\/tr>|', trim($u[1]), $u);
+    $u=$u[1];
+    $num=sizeof($u);
+    for ($i = 0; $i < $num; $i++) {
+        preg_match_all('|_blank\'>(.*?)<\/a>|',$u[$i],$tr);
+        $t0[]=$dt1.str_replace(':','',$tr[1][0]).'00 +0800';
+        $nm[]=$tr[1][1];
+    }
+    $url=$url0.$cid[$id-1][0].'/w'.$w2;
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    $re = curl_exec($ch);
+    curl_close($ch);
+    $re=compress_html($re);
+    preg_match('|<table class="layui-table c_table"(.*?)layui-tab-item|i',$re,$u);
+    preg_match_all('|<tr>([\s\S]+?)<\/tr>|', trim($u[1]), $u);
+    $u=$u[1];
+    $num=sizeof($u);
+    for ($i = 0; $i < $num; $i++) {
+        preg_match_all('|_blank\'>(.*?)<\/a>|',$u[$i],$tr);
+        $t0[]=$dt2.str_replace(':','',$tr[1][0]).'00 +0800';
+        $nm[]=$tr[1][1];
+    }
+
+    $num=sizeof($t0);
+    for ($i = 1; $i < $num; $i++) {$t1[]=$t0[$i];}
+    $t1[]=$dt2.'235959 +0800';
+    $idd=$id0+$id;
+    $chn.="<channel id=\"".$idd."\"><display-name lang=\"zh\">".$cid[$id-1][1]."</display-name></channel>\n";
+    for ($i = 0; $i < $num; $i++) {
+        $chn.="<programme start=\"".$t0[$i]."\" stop=\"".$t1[$i]."\" channel=\"".$idd."\">\n<title lang=\"zh\">".$nm[$i]."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
+    }
+}
+$chn.="</tv>\n";
+
+//写入文件。这里一次性写入，可以自己分次写入操作
+file_put_contents($fp, $chn);
+
+//创建压缩版本
+$fn = gzopen ($fp.'.gz', 'w9');
+gzwrite($fn, file_get_contents($fp));
+gzclose($fn);
+
+?>
+转自大佬“canhuang”。

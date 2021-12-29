@@ -55,3 +55,6 @@
 1港台翡翠J2,http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 1港台翡翠J2,http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 1港台翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+
+澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
+天映频道CCM,http://113.64.147.35:808/hls/62/index.m3u8

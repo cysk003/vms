@@ -5,17 +5,19 @@ http://192.168.50.1:8288/rtp/225.1.8.36:8002
 #EXTINF:-1  group-title="少儿动漫",少儿天地
 http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
 #EXTINF:-1  group-title="少儿动漫",爱幼教
-http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
-#EXTINF:-1  group-title="少儿动漫",爱幼教
 http://39.134.134.85/000000001000/6000000006000180630/1.m3u8
-#EXTINF:-1  group-title="少儿动漫",爱动漫
-http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
+#EXTINF:-1  group-title="少儿动漫",爱幼教
+http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
 #EXTINF:-1  group-title="少儿动漫",爱动漫
 http://39.134.134.85/000000001000/6000000006000280630/1.m3u8
-#EXTINF:-1  group-title="少儿动漫",爱玩具
-http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
+#EXTINF:-1  group-title="少儿动漫",爱动漫
+http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
 #EXTINF:-1  group-title="少儿动漫",爱玩具
 http://39.134.134.85/000000001000/6000000006000220630/1.m3u8
+#EXTINF:-1 tvg-id="456" tvg-name="迪士尼频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="少儿动漫",Disney Channel
+http://60.251.59.178:8507/.m3u8
+#EXTINF:-1  group-title="少儿动漫",爱玩具
+http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"  group-title="少儿动漫",CCTV-14 高清
 http://192.168.50.1:8288/rtp/225.1.0.109:1025
 #EXTINF:-1  group-title="少儿动漫",CIBN动画乐园
@@ -183,25 +185,25 @@ http://39.134.134.85/000000001000/6000000006000060630/1.m3u8
 #EXTINF:-1  group-title="影视",爱经典
 http://mail.lacool.tk:8086/rtp/239.93.42.13:5140
 #EXTINF:-1  group-title="影视",爱谍战
-http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
-#EXTINF:-1  group-title="影视",爱谍战
 http://39.134.134.85/000000001000/6000000006000070630/1.m3u8
-#EXTINF:-1  group-title="影视",爱都市
-http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
+#EXTINF:-1  group-title="影视",爱谍战
+http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
 #EXTINF:-1  group-title="影视",爱都市
 http://39.134.134.85/000000001000/6000000006000080630/1.m3u8
-#EXTINF:-1  group-title="影视",爱青春
-http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
+#EXTINF:-1  group-title="影视",爱都市
+http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
 #EXTINF:-1  group-title="影视",爱青春
 http://39.134.134.85/000000001000/6000000006000100630/1.m3u8
-#EXTINF:-1  group-title="影视",爱怀旧
-http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
+#EXTINF:-1  group-title="影视",爱青春
+http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
 #EXTINF:-1  group-title="影视",爱怀旧
 http://39.134.134.85/000000001000/6000000006000260630/1.m3u8
-#EXTINF:-1  group-title="影视",爱奇谈
-http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
+#EXTINF:-1  group-title="影视",爱怀旧
+http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
 #EXTINF:-1  group-title="影视",爱奇谈
 http://39.134.134.85/000000001000/6000000006000270630/1.m3u8
+#EXTINF:-1  group-title="影视",爱奇谈
+http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
 #EXTINF:-1  group-title="影视",爱猎奇
 http://39.134.134.85/000000001000/6000000006000190630/1.m3u8
 #EXTINF:-1  group-title="影视",咪咕4K 31M2160HEVC
@@ -372,14 +374,36 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226061/index.m3u8
 http://zbbf1.ahtv.cn/live/756.flv
 #EXTINF:-1 tvg-id="70246" tvg-name="广州影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/guangzhou-tv-cn.png"  group-title="影视",广州影视
 https://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1  group-title="影视",河套影视娱乐 高清
+http://[2409:8087:1050:301:2026::14]:80/wh7f454c46tw4140143298_2002671270/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225832/10000100000000060000000000004400_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1  group-title="影视",赤峰影视娱乐 高清
+http://[2409:8087:1050:301:2026::14]:80/wh7f454c46tw4137340509_-1612353421/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225819/10000100000000060000000000004670_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1  group-title="影视",呼和浩特影视娱乐 高清
+http://[2409:8087:1050:301:2026::13]:80/wh7f454c46tw4136211184_-1393296522/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225815/10000100000000060000000000004365_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="影视",港剧风云
 rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
 #EXTINF:-1  group-title="影视",金色频道
 rtsp://183.252.166.199/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
 #EXTINF:-1  group-title="影视",福建电视剧
 rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+#EXTINF:-1  group-title="影视",私人影院
+http://113.64.147.206:808/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="70105" tvg-name="东森电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ebc.png"  group-title="影视",东森电影
+http://113.64.147.206:808/hls/58/index.m3u8
+#EXTINF:-1 tvg-id="70104" tvg-name="东森洋片" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ebcyp.png"  group-title="影视",东森洋片 HD
+http://113.64.147.206:808/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="70076" tvg-name="凤凰电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/fhdy.png"  group-title="影视",凤凰电影
 http://v.mp.haue.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="70106" tvg-name="龍祥時代電影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/long.png"  group-title="影视",龙祥时代 高清
+http://113.64.147.206:808/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="288" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png"  group-title="影视",八大戏剧台
+http://211.23.114.106:8531/.m3u8
+#EXTINF:-1  group-title="影视",Fox Movies
+http://60.250.91.85:8519/.m3u8
+#EXTINF:-1 tvg-id="460" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png"  group-title="影视",CINEMAX
+http://60.250.91.85:8590/.m3u8
+#EXTINF:-1  group-title="影视",较早录影 HD
+http://60.251.59.179:8508/.m3u8
 #EXTINF:-1  group-title="影视",MIGU TVB剧场
 http://117.148.179.159/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1  group-title="影视",MIGU4K剧场
@@ -544,11 +568,11 @@ http://192.168.50.1:8288/rtp/225.1.0.243:1025
 http://192.168.50.1:8288/rtp/225.1.1.1:8000
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="科教",纪实人文 高清
 http://192.168.50.1:8288/rtp/225.1.0.129:1025
-#EXTINF:-1  group-title="科教",cetv2 720
+#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",CETV-2 720
 http://ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png"  group-title="科教",CETV3
+#EXTINF:-1 tvg-id="65" tvg-name="教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png"  group-title="科教",CETV-3
 http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1  group-title="科教",cetv4
+#EXTINF:-1 tvg-id="136" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"  group-title="科教",CETV-4
 http://ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8
 #EXTINF:-1  group-title="科教",爱解密
 http://39.134.134.85/000000001000/6000000006000200630/1.m3u8
@@ -562,10 +586,12 @@ http://39.134.134.85/000000001000/6000000006000160630/1.m3u8
 http://39.134.134.85/000000001000/6000000006000170630/1.m3u8
 #EXTINF:-1  group-title="科教",爱探索
 http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
-#EXTINF:-1  group-title="科教",求索纪录
-http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-id="453" tvg-name="探索发现频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="科教",Discovery Channel
+http://60.251.59.178:8501/.m3u8
 #EXTINF:-1  group-title="科教",求索纪录
 http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
+#EXTINF:-1  group-title="科教",求索纪录
+http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="76" tvg-name="华数求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg"  group-title="科教",求索科学
 http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
 #EXTINF:-1  group-title="科教",求索生活
@@ -618,6 +644,12 @@ http://mail.lacool.tk:8086/rtp/239.93.0.204:9076
 http://mail.lacool.tk:8086/rtp/239.93.0.199:9048
 #EXTINF:-1  group-title="科教",地理高清
 http://mail.lacool.tk:8086/rtp/239.93.0.200:9052
+#EXTINF:-1 tvg-id="433" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="科教",国家地理
+http://60.251.59.178:8521/.m3u8
+#EXTINF:-1 tvg-id="433" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="科教",国家地理 台湾
+http://60.251.59.178:8523/.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"  group-title="综合",CCTV-4k
+http://ye23.win/iptv/4k.cctv.php
 #EXTINF:-1  group-title="综合",NewTV江西 4M1080
 http://39.135.140.165:6610/PLTV/88888888/224/3221225979/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="综合",NewTV山东 4M1080
@@ -708,28 +740,8 @@ http://mail.lacool.tk:8086/rtp/239.93.0.203:9072
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"  group-title="体育",体育赛事 8M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226130/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226132/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226134/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226136/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226138/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226149/index.m3u8
-#EXTINF:-1  group-title="体育",百事通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8
-#EXTINF:-1  group-title="体育",百视通体育 4M1080
-http://39.134.39.39/PLTV/88888888/224/3221226145/index.m3u8
-#EXTINF:-1  group-title="其他",CIBN时尚生活
-http://117.148.179.183/PLTV/88888888/224/3221231489/index.m3u8
+#EXTINF:-1  group-title="体育",美丽足球
+http://113.64.147.206:808/hls/50/index.m3u8
 #EXTINF:-1  group-title="其他",法治天地
 rtsp://183.252.166.199/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil
 #EXTINF:-1  group-title="其他",股评汇

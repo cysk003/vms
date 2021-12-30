@@ -91,7 +91,7 @@ else
             result=$(https --headers  $originUrl |grep "302 Moved"|wc -l)
             if [ "$result" -gt 0 ]; then
                realUrl=$(https --headers  $originUrl |grep "Location"|awk '{print $2}' )
-               result=$(https --headers  $realUrl | grep -E "(302 Moved)|(404 Not Found)"|wc -l)
+               result=$(https --timeout 3 --headers  $realUrl | grep -E "(302 Moved)|(404 Not Found)"|wc -l)
                if [ "$result" -eq 0 ]; then
                   echo $result, $realUrl
                   echo $host,$realUrl >> $outputFile

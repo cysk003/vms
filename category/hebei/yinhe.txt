@@ -1,0 +1,220 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="河北银河",CCTV1
+http://111.63.77.77/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="河北银河",CCTV2
+http://111.63.77.77/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="河北银河",CCTV3
+http://111.63.77.77/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="河北银河",CCTV4
+http://111.63.77.77/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="河北银河",CCTV5
+http://111.63.77.77/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="河北银河",CCTV5+
+http://111.63.77.77/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="河北银河",CCTV6
+http://111.63.77.77/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="河北银河",CCTV7
+http://111.63.77.77/gitv_live/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="河北银河",CCTV8
+http://111.63.77.77/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="河北银河",CCTV9
+http://111.63.77.77/gitv_live/G_CCTV-9-CQ/G_CCTV-9-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="河北银河",CCTV10
+http://111.63.77.77/gitv_live/G_CCTV-10-CQ/G_CCTV-10-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="河北银河",CCTV11
+http://111.63.77.77/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="河北银河",CCTV12
+http://111.63.77.77/gitv_live/G_CCTV-12-CQ/G_CCTV-12-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="河北银河",CCTV13
+http://111.63.77.77/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="河北银河",CCTV14
+http://111.63.77.77/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="河北银河",CCTV15
+http://111.63.77.77/gitv_live/G_CCTV-15/G_CCTV-15.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="河北银河",CCTV奥林匹克频道
+http://111.63.77.77/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="河北银河",CCTV17
+http://111.63.77.77/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="河北银河",CGTN
+http://111.63.77.77/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河爆笑喜剧
+http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河劲爆动作
+http://111.63.77.77/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河热门动画
+http://111.63.77.77/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河热播综艺
+http://111.63.77.77/gitv_live/GITV-HB-4/GITV-HB-4.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河情感地图
+http://111.63.77.77/gitv_live/GITV-HB-5/GITV-HB-5.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河真人秀场
+http://111.63.77.77/gitv_live/GITV-HB-6/GITV-HB-6.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河战争风云
+http://111.63.77.77/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河家庭影院
+http://111.63.77.77/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河大咖影院
+http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",银河新闻法治
+http://111.63.77.77/gitv_live/GITV-HB-10/GITV-HB-10.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="河北银河",中国教育1台
+http://111.63.77.77/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="河北银河",中国教育2台
+http://111.63.77.77/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="河北银河",中国教育3台
+http://111.63.77.77/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="河北银河",中国教育4台
+http://111.63.77.77/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="河北银河",发现之旅
+http://111.63.77.77/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="6564" tvg-name="女时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="河北银河",女时尚
+http://111.63.77.77/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="河北银河",老故事
+http://111.63.77.77/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="河北银河",北京纪实
+http://111.63.77.77/gitv_live/G_BEIJINGJS-CQ/G_BEIJINGJS-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="河北银河",上海纪实
+http://111.63.77.77/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="河北银河",金鹰纪实
+http://111.63.77.77/gitv_live/G_JINYINGJS-HQ/G_JINYINGJS-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="河北银河",金鹰卡通
+http://111.63.77.77/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="河北银河",卡酷动画
+http://111.63.77.77/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="河北银河",优漫卡通
+http://111.63.77.77/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="河北银河",哈哈炫动
+http://111.63.77.77/gitv_live/G_XUANDONG/G_XUANDONG.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="河北银河",嘉佳卡通
+http://111.63.77.77/gitv_live/G_JIAJIA/G_JIAJIA.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="河北银河",北京卫视
+http://111.63.77.77/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="河北银河",东方卫视
+http://111.63.77.77/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="河北银河",浙江卫视
+http://111.63.77.77/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="河北银河",江苏卫视
+http://111.63.77.77/gitv_live/G_JIANGSU-MD/G_JIANGSU-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="河北银河",湖南卫视
+http://111.63.77.77/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="河北银河",辽宁卫视
+http://111.63.77.77/gitv_live/G_LIAONING-MD/G_LIAONING-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="河北银河",重庆卫视
+http://111.63.77.77/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="河北银河",安徽卫视
+http://111.63.77.77/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="河北银河",湖北卫视
+http://111.63.77.77/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="河北银河",广东卫视
+http://111.63.77.77/gitv_live/G_GUANGDONG-MD/G_GUANGDONG-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="河北银河",黑龙江卫视
+http://111.63.77.77/gitv_live/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="河北银河",深圳卫视
+http://111.63.77.77/gitv_live/G_SHENZHEN-MD/G_SHENZHEN-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="河北银河",山东卫视
+http://111.63.77.77/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="河北银河",广西卫视
+http://111.63.77.77/gitv_live/GXWS/GXWS.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="河北银河",四川卫视
+http://111.63.77.77/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河北银河",河南卫视
+http://111.63.77.77/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="河北银河",东南卫视
+http://111.63.77.77/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="河北银河",天津卫视
+http://111.63.77.77/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="河北银河",江西卫视
+http://111.63.77.77/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="河北银河",吉林卫视
+http://111.63.77.77/gitv_live/G_JILIN/G_JILIN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="河北银河",陕西卫视
+http://111.63.77.77/gitv_live/SXWS/SXWS.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="河北银河",山西卫视
+http://111.63.77.77/gitv_live/G_SHANXI/G_SHANXI.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",好享购物
+http://111.63.77.77/gitv_live/G_HAOXIANG/G_HAOXIANG.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="河北银河",贵州卫视
+http://111.63.77.77/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="河北银河",青海卫视
+http://111.63.77.77/gitv_live/G_QINGHAI/G_QINGHAI.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="河北银河",内蒙古卫视
+http://111.63.77.77/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="河北银河",云南卫视
+http://111.63.77.77/gitv_live/G_YUNNAN/G_YUNNAN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="河北银河",宁夏卫视
+http://111.63.77.77/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="河北银河",新疆卫视
+http://111.63.77.77/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="河北银河",海南卫视
+http://111.63.77.77/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="河北银河",甘肃卫视
+http://111.63.77.77/gitv_live/G_GANSU/G_GANSU.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="河北银河",厦门卫视
+http://111.63.77.77/gitv_live/G_XIAMEN/G_XIAMEN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="河北银河",南方卫视
+http://111.63.77.77/gitv_live/G_NANFANG/G_NANFANG.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="河北银河",兵团卫视
+http://111.63.77.77/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",安多卫视
+http://111.63.77.77/gitv_live/G_ANDUO/G_ANDUO.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="河北银河",西藏卫视
+http://111.63.77.77/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="河北银河",康巴卫视
+http://111.63.77.77/gitv_live/G_KANGBA/G_KANGBA.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="河北银河",延边卫视
+http://111.63.77.77/gitv_live/G_YANBIAN/G_YANBIAN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",农林卫视
+http://111.63.77.77/gitv_live/G_NONGLIN/G_NONGLIN.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",山东教育卫视
+http://111.63.77.77/gitv_live/G_SDETV/G_SDETV.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv009/newtv009.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv0014/newtv0014.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001006/newtv001006.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001015/newtv001015.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001008/newtv001008.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001002/newtv001002.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001017/newtv001017.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001019/newtv001019.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001003/newtv001003.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001004/newtv001004.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001013/newtv001013.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001014/newtv001014.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001010/newtv001010.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001012/newtv001012.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001007/newtv001007.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001005/newtv001005.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001016/newtv001016.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001018/newtv001018.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001011/newtv001011.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv001009/newtv001009.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv0018/newtv0018.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv00jiayougw/newtv00jiayougw.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv00yougw/newtv00yougw.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv00huanqiugw/newtv00huanqiugw.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv00zhongshigw/newtv00zhongshigw.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北银河",NewTV
+http://111.63.77.77/gitv_live/newtv00fengshanggw/newtv00fengshanggw.m3u8?p=GITV&area=HBYD

@@ -1,0 +1,24 @@
+新疆2台FHD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb02.m3u8
+新疆2台FHD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb02.m3u8
+新疆3台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb03.m3u8
+新疆4台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb04.m3u8
+新疆5台HD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb05.m3u8
+新疆5台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb05.m3u8
+新疆7台HD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆7台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb07.m3u8
+新疆8台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb08.m3u8
+新疆8台HD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb08.m3u8
+新疆9台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb09.m3u8
+新疆10台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb10.m3u8
+新疆10台HD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆12台HD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb12.m3u8
+新疆12台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb12.m3u8
+新疆卫视,http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
+新疆卫视,http://39.130.202.81:6610/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
+新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+新疆卫视,http://223.110.246.71/ott.js.chinamobile.com/PLTV/4/224/3221225844/index.m3u8
+新疆卫视,http://39.134.39.37/PLTV/88888888/224/3221225704/index.m3u8
+新疆卫视,http://112.74.200.9:88/tv000000/m3u8.php?/migu/635385783
+新疆卫视 (576p),http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+新疆卫视FHD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb01.m3u8
+新疆高清频道   新疆卫视FHD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8

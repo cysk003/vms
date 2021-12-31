@@ -1,0 +1,2 @@
+#EXTINF:-1 ,UHD4K
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8

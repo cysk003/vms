@@ -15,3 +15,8 @@ do
   echo $url, $result2
   [ "$result2" -gt 0 ] && echo  $url >> category/taiwan/28.txt ;
 done
+
+
+
+
+翡翠台,http://fuck.ke22.aihost69.top/play/1.m3u8

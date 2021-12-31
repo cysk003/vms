@@ -1,12 +1,12 @@
-hostRanges="197-224"
-portStart=25713
+hostRanges="7"
+portStart=25000
 portEnd=28000
-prefix=223.110.245
+prefix=183.207.249
 # 直接curl
 scanType=0
 checkType=1
-successBreak=true
-urlPath=PLTV/3/224/32212##tvid##/index.m3u8
+successBreak=false
+urlPath="/PLTV/3/224/32212##tvid##/index.m3u8"
 ##
 ## 182.207.248.5-6 9 11-16 34-37 71 103-112 133-137 165 170  172 174
 ## 182.207.249.5-16 34-37 71 101-102 104 106 109 110 133-136 142 139-144 165 170 173 175-176 203-209 229-230 236 238

@@ -1,0 +1,90 @@
+#EXTINF:-1 ,CCTV1
+http://223.110.242.133:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/
+#EXTINF:-1 ,CCTV2
+http://223.110.242.134:6610/jsyd/live1/G_CCTV-2-MD/G_CCTV-2-MD/
+#EXTINF:-1 ,CCTV3
+http://223.110.242.133:6610/jsyd/live1/G_CCTV-3-MD/G_CCTV-3-MD/
+#EXTINF:-1 ,CCTV4
+http://223.110.242.134:6610/jsyd/live1/G_CCTV-4-MD/G_CCTV-4-MD/
+#EXTINF:-1 ,CCTV5
+http://223.110.242.134:6610/gitv/live1/G_CCTV-5-MD/G_CCTV-5-MD/
+#EXTINF:-1 ,CCTV5+
+http://223.110.242.133:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 ,CCTV6
+http://223.110.242.142:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/
+#EXTINF:-1 ,CCTV7
+http://223.110.242.134:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
+#EXTINF:-1 ,CCTV8
+http://223.110.242.133:6610/jsyd/live1/G_CCTV-8-MD/G_CCTV-8-MD/
+#EXTINF:-1 ,CCTV9
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv9/1.m3u8
+#EXTINF:-1 ,CCTV10
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv10/1.m3u8
+#EXTINF:-1 ,CCTV11
+http://223.110.242.133:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 ,CCTV12
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv12/1.m3u8
+#EXTINF:-1 ,CCTV13
+http://223.110.242.134:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ
+#EXTINF:-1 ,CCTV14
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8
+#EXTINF:-1 ,CCTV15
+http://ott.js.chinamobile.com/TVOD/3/224/3221227723/index.m3u8
+#EXTINF:-1 ,CCTV16
+http://223.110.242.133:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
+#EXTINF:-1 ,CCTV16 4K
+http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv17/1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1 ,浙江卫视
+http://223.110.242.133:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+#EXTINF:-1 ,北京卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227652/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://223.110.242.133:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+#EXTINF:-1 ,广东卫视
+http://223.110.242.133:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ/
+#EXTINF:-1 ,南方卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227587/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227732/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227662/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://223.110.242.133:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
+#EXTINF:-1 ,山东卫视
+http://223.110.242.133:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ/
+#EXTINF:-1 ,天津卫视
+http://223.110.242.133:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
+#EXTINF:-1 ,湖北卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227665/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-chongqingstv/1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://223.110.242.133:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
+#EXTINF:-1 ,江西卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGXI-CQ/G_JIANGXI-CQ/
+#EXTINF:-1 ,甘肃卫视
+http://39.134.39.39/TVOD/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://223.110.242.133:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
+#EXTINF:-1 ,北京卫视
+http://223.110.242.133:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1 ,辽宁卫视
+http://223.110.242.133:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
+#EXTINF:-1 ,东南卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227670/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221227556/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,海南卫视
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=114&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,河北卫视
+http://223.110.242.133:6610/gitv/live1/G_HEBEI-CQ/G_HEBEI-CQ/
+#EXTINF:-1 ,湖北卫视
+http://223.110.242.133:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/

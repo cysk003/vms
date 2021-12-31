@@ -44,14 +44,14 @@
 少儿动漫,河北少儿科教 720,http://live6.plus.hebtv.com/sekjx/playlist.m3u8
 少儿动漫,河北少儿 高清,http://106.115.24.33:9901/tsfile/live/1008_1.m3u8
 少儿动漫,山东少儿 720,https://livealone302.iqilu.com/iqilu/sepd.m3u8
-少儿动漫,CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 少儿动漫,南京少儿,http://ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
 少儿动漫,南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 少儿动漫,福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 少儿动漫,宁夏少儿,http://39.134.93.229:6610/000000001000/nxshaoer/1.m3u8?IASHttpSessionId=
 少儿动漫,云南少儿,http://39.130.202.81:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
-少儿动漫,广东少儿 720,http://cloudplay.tk/api/gdtv.php?id=gdse
-少儿动漫,深圳少儿 720,http://cloudplay.tk/api/gdtv.php?id=szse
+少儿动漫,新疆少儿,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb12.m3u8
+少儿动漫,广东少儿 720,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=44&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+少儿动漫,深圳少儿 720,http://149.129.100.78/sztv.php?id=7
 少儿动漫,深圳少儿 720,https://sztv-live.cutv.com/1SIQj6s/500/g7r1tI0.m3u8
 少儿动漫,超燃 怀旧 经典,http://cloudplay.tk/api/douyu.php?id=1174353
 少儿动漫,斗鱼动漫花园,http://cloudplay.tk/api/douyu.php?id=426517
@@ -60,6 +60,7 @@
 少儿动漫,四川妇女儿童 720,http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 少儿动漫,宝宝动画高清,http://mail.lacool.tk:8086/rtp/239.93.0.147:5140
 少儿动漫,少儿动画高清,http://mail.lacool.tk:8086/rtp/239.93.0.193:9000
+少儿动漫,CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 影视,每日影院,http://192.168.50.1:8288/rtp/225.1.8.97:8002
 影视,幸福剧场,http://192.168.50.1:8288/rtp/225.1.8.98:8002
 影视,北京IPTV4K,http://192.168.50.1:8288/rtp/225.1.8.211:8002
@@ -232,6 +233,9 @@
 影视,星空经典功夫HD,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/829967/live_179302204_68184269_1500.m3u8
 综艺,CCTV3 综艺 高清,http://192.168.50.1:8288/rtp/225.1.8.88:8000
 综艺,CCTV-15音乐,http://192.168.50.1:8288/rtp/225.1.8.74:8136
+综艺, M1 MTV,http://live.m2.tv/hls2/stream.m3u8
+综艺, M2 MTV,http://live.m2.tv/hls3/stream.m3u8
+综艺, MTV Biggest Pop (720p) ,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 综艺,风云音乐高清,http://notwhy.f3322.net:5000/udp/225.1.2.176:5002
 综艺,潮流音乐高清,http://notwhy.f3322.net:5000/udp/225.1.2.55:5002
 综艺,咪咕音乐,http://117.148.179.160/PLTV/88888888/224/3221231622/index.m3u8
@@ -342,6 +346,8 @@
 体育,NewTV超级体育 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=4
 其他,NewTV潮妈辣婆 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=4
 其他,NewTV魅力潇湘 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=4
+体育,4k体育赛事,http://39.134.38.130:80/PLTV/88888888/224/3221226227/index.m3u8
+体育,4k体育,http://39.134.39.62:80/PLTV/88888888/224/3221226351/index.m3u8
 体育,爱体育,http://mail.lacool.tk:8086/rtp/239.93.42.25:5140
 体育,爱体育,http://39.134.134.85/000000001000/6000000006000290630/1.m3u8
 体育,爱赛车,http://mail.lacool.tk:8086/rtp/239.93.42.20:5140

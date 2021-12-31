@@ -1,0 +1,9 @@
+朝日电视,http://203.162.235.41:16906
+东京电视台,http://203.162.235.41:16908
+富士电视台,http://203.162.235.41:16904
+日本-NTV NEWS24,https://www.news24.jp/livestream/index.m3u8
+日本-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+BS朝日,http://203.162.235.41:16914
+BS东京,http://203.162.235.41:16915
+
+ http://69.57.222.151:8082/45/stream.m3u8

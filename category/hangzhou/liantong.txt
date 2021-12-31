@@ -1,0 +1,4 @@
+#EXTINF:-1 ,新视觉
+http://125.210.152.18:9090/live/XSJHD.m3u8
+#EXTINF:-1 ,新视觉
+http://125.210.152.21:9120/live/XSJHD.m3u8

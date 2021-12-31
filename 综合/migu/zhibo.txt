@@ -1,0 +1,661 @@
+608807420 CCTV1
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/651632648 东方卫视
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830 喜剧联盟
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368 吴京作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984 周润发
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313 古龙作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610 古天乐影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112 周星驰影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890 成龙作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526 张国荣影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330 郭富城影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367 解压影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648 刘德华影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318 追剧少女
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558 深夜失眠剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751 经典影视速看
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721 试胆大会
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365 高能烧脑时刻
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386 刘亦菲影视展播
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/631354620 TVB剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337 咪咕云上电影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692 假期剧场
+625155140 黄金剧场
+625643517 军旅剧场
+625526423 少林剧场
+629943678 高清大片
+629943613 热剧联播
+627033504 僵尸剧场
+625574493 神探狄仁杰
+634274665 红色谍战剧场
+625774662 经典贺岁片
+644368714 CHC动作电影
+644368373 CHC家庭影院
+625204865 爆款动画电影
+621640582 怀旧老片
+627198822 igutv-7套武侠剧场
+627198191 逐梦星空
+619495952 新片放映厅
+625774640 金庸频道
+625525181 盗墓方法论
+623674859 欢笑剧场
+{
+	"code": 200,
+	"message": "ok",
+	"body": {
+		"id": "f08583e602f846a5b870f3de3b673326",
+		"name": "全部频道",
+		"title": "全部频道",
+		"branchMark": false,
+		"isEmbedPopupPage": "0",
+		"groups": [{
+			"id": "e3435b12d6324c868ccd45cd74f96120",
+			"name": "全部频道",
+			"branchMark": false,
+			"fitArea": ["10000"],
+			"components": [{
+				"id": "ae17e4153b7743b2bc3529446be02588",
+				"name": "直播导航栏",
+				"compType": "NAV_BAR",
+				"compStyle": "NAV_BAR-01",
+				"fetchDataType": "SEQUENCE",
+				"dataCount": "20",
+				"extraData": {
+					"tabBarExpandStyle": "0",
+					"backgroundColor": "#ffffff",
+					"backgroundImg": "",
+					"expandable": "0",
+					"menus": [{
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "央视",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "68efd476ef83447484b5bab1d8ae809f",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "8cfc42990f214674a2e2fa149e7afd6d",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#68efd476ef83447484b5bab1d8ae809f",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "68efd476ef83447484b5bab1d8ae809f",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "卫视",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "e731daf75ee743acaef35d1382acd272",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "347fb581f1534ee48674504cfef3b4ff",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#e731daf75ee743acaef35d1382acd272",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "e731daf75ee743acaef35d1382acd272",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "地方",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "cc34d3ff0d25416b8dfeb0c805408dbe",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "9f2987425e454cecb8d7257e4848f6fd",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#cc34d3ff0d25416b8dfeb0c805408dbe",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "cc34d3ff0d25416b8dfeb0c805408dbe",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "追剧",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "2f93f221ba5a4fefb109d55ead3db43e",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "6791dc1990b94e3f9e51d941e70f2791",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#2f93f221ba5a4fefb109d55ead3db43e",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "c38bf4689b234905b2778438e5dec1b8",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "影视",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "8b320ab6c24c45d587880623ec180b32",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "cae499c3048e4694bdaba9d775df58f4",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#8b320ab6c24c45d587880623ec180b32",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "b2efb68a142643939434a54038d1e38f",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "体育",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "dd3f679269404e15a2a63dd058775db3",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "b914557e39bc40769751e17936f9f4da",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#dd3f679269404e15a2a63dd058775db3",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "dd3f679269404e15a2a63dd058775db3",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "现场",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "578db33b2a904b65a243531c3f62d9af",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "fe91ce547e6f44e08693d97ccf89fd0e",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#578db33b2a904b65a243531c3f62d9af",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "b602895d1aae402a97ab0ad023de13a7",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "新闻",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "ab415b1c033e42bf8264ce3466d8beb8",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "662bec2b50014396bbb7a478b30c8c39",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#ab415b1c033e42bf8264ce3466d8beb8",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "ab415b1c033e42bf8264ce3466d8beb8",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "教育",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "ad1dca6aa6d84c4c8c319690d7e8c9b1",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "ad0726cb94bc4f5085e9ff3a8c435032",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#ad1dca6aa6d84c4c8c319690d7e8c9b1",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "706cfb4972484dbe8c8325ce428dc9ea",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "熊猫",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "86ea087a9bdb4f48a601aca612d84f48",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "35504167d3cf47c7a7d04ca34cd24d21",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#86ea087a9bdb4f48a601aca612d84f48",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "101d35e7b3ea401e8a2a558adf7b35e1",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "综艺",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "bf854801fa0d45cc833d787b755e3821",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "01594e4bba194e7d85bc7bcf8ec6ef56",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#bf854801fa0d45cc833d787b755e3821",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "6ec93a2fe9ae487a98da016b453a2a90",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "娱乐",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "8a335a6207a641a7b74c37d2d5dd505c",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "f767900714dd4157afd429af74a9ff79",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#8a335a6207a641a7b74c37d2d5dd505c",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "22ee83065c1045ea83781de92f18c086",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "少儿",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "3cdbf0aee6cd4c13ba406a0396e05b77",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "8aff8b858648463aaaadb33eb2dc8850",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#3cdbf0aee6cd4c13ba406a0396e05b77",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "3cdbf0aee6cd4c13ba406a0396e05b77",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "纪实",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "e357233285eb4104b5b6471403751f39",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "480a27de6538424a85416b34d617bd5c",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#e357233285eb4104b5b6471403751f39",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "e357233285eb4104b5b6471403751f39",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "印象天下",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "e918cd3f650c45a58a9b46a0c5afa68f",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "d50f9853af0e4b078a3247a57089d518",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#e918cd3f650c45a58a9b46a0c5afa68f",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "c4b8b22d31d04ce5a67de66f2cf1b68f",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "5G时代",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "4d80ddd5fbd24983a97b9849a7c45c85",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "e4beec810cd04903a2f813f90812136b",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#4d80ddd5fbd24983a97b9849a7c45c85",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "cb6dac2c95f94ec894727648ba4cb91e",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "特色",
+						"grayFilter": "0",
+						"output": "1",
+						"actTextColor": "",
+						"transparency": 0,
+						"tabImg": "",
+						"actionId": "c1c97b813e7c483c80e4dc77eeab7fb9",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "1051b6579d9a4224874fec303d41225c",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#c1c97b813e7c483c80e4dc77eeab7fb9",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "c1c97b813e7c483c80e4dc77eeab7fb9",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "十二时辰",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "eed7ab16eabe440baf25092daad00fe7",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "f4c9a4092a714b5ea111e7eed0cdef26",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#eed7ab16eabe440baf25092daad00fe7",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "eb5408cd695147d7a0da55b73dd1b3e9",
+						"defTextColor": ""
+					}, {
+						"activatedTextColor": "#D60419",
+						"headBackgroundImg": "",
+						"recommendable": "0",
+						"tipImg": "",
+						"icon": "",
+						"deletable": "1",
+						"title": "国剧之光",
+						"grayFilter": "0",
+						"tabImgSize": {},
+						"output": "1",
+						"actTextColor": "",
+						"backgroundImg": "",
+						"manageIcon": "",
+						"tabImg": "",
+						"actionId": "31526905f81f4cb59b634a32cc5e2b95",
+						"action": {
+							"name": "JUMP_INNER_PAGE",
+							"params": {
+								"path": "32aefc20db4b4a758abe7824e770ae32",
+								"frameID": "main-frame",
+								"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588#31526905f81f4cb59b634a32cc5e2b95",
+								"pageID": "NEW_LIVE_DETAIL_PAGE"
+							},
+							"type": "JUMP_INNER_PAGE"
+						},
+						"defaultTextColor": "#333333",
+						"id": "01032576baad4a9b90a7368edb6394ee",
+						"defTextColor": ""
+					}],
+					"grayFilter": "0",
+					"focusId": ""
+				},
+				"isWaterfallFlow": "0",
+				"sortValue": "1",
+				"status": "1",
+				"location": "f08583e602f846a5b870f3de3b673326#e3435b12d6324c868ccd45cd74f96120#ae17e4153b7743b2bc3529446be02588",
+				"fitArea": ["10000"],
+				"platformId": ["APP", "H5", "wechatProgram", "baiduProgram", "toutiaoProgram"],
+				"zIndex": "0",
+				"iosVersion": {
+					"isAllVersion": "1"
+				},
+				"androidVersion": {
+					"isAllVersion": "1"
+				},
+				"userType": ["ALL"],
+				"ipadVersion": {
+					"isAllVersion": "1"
+				},
+				"vrVersion": {
+					"isAllVersion": "1"
+				},
+				"styleRefreshStrategy": "1"
+			}],
+			"platformId": ["APP", "H5", "wechatProgram", "baiduProgram", "toutiaoProgram"],
+			"iosVersion": {
+				"isAllVersion": "1"
+			},
+			"androidVersion": {
+				"isAllVersion": "1"
+			},
+			"userType": ["ALL"],
+			"isSegmentLine": "0",
+			"isPopup": "0",
+			"ipadVersion": {
+				"isAllVersion": "1"
+			},
+			"groupType": "NORMAL",
+			"removeRepeat": false
+		}],
+		"fitArea": ["10000"],
+		"isShared": "0",
+		"platformId": ["APP", "H5", "wechatProgram", "baiduProgram", "toutiaoProgram"],
+		"iosVersion": {
+			"isAllVersion": "1"
+		},
+		"androidVersion": {
+			"isAllVersion": "1"
+		},
+		"transparency": "1",
+		"ipadVersion": {
+			"isAllVersion": "1"
+		},
+		"backToTop": "0",
+		"refreshTime": "20211231142808",
+		"cacheTraceVO": {
+			"refreshTime": "20211231142808",
+			"updateTime": "20211231142808",
+			"hostname": "WX-105.142",
+			"description": "全量page缓存"
+		},
+		"grayFilter": "0",
+		"preloadingGroupCount": "5"
+	},
+	"timeStamp": 1640932170346,
+	"timestamp": 1640932170346,
+	"dataHost": "WX-105.142",
+	"dataVersion": "20211231142808"
+}

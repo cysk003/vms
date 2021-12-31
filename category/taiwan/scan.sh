@@ -1,7 +1,7 @@
 
-for firstRange in `seq 250 251`;
+for firstRange in `seq 251 251`;
 do
-  for iprange in `seq 60 255`;
+  for iprange in `seq 90 255`;
   do
     if [ "$iprange" = "91" -o "$iprange" = "178"   -o "$iprange" = "59" ]; then
       continue

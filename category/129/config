@@ -1,8 +1,8 @@
 #hostRanges="129"
 hostRanges="145"
 
-portStart=28000
-portEnd=32800
+portStart=31510
+portEnd=31544
 prefix=117.148.179
 idfmt=%5d
 #port=18080

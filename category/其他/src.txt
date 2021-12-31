@@ -1,0 +1,8 @@
+#EXTINF:-1 ,求索纪录HD
+http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSJLHD_7000
+#EXTINF:-1 ,求索科学HD
+http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=qiusuokexueHD_7000
+#EXTINF:-1 ,求索动物HD
+http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSDWHD_7000
+#EXTINF:-1 ,求索生活HD
+http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSSHHD_7000

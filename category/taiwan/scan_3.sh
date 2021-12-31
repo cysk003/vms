@@ -1,7 +1,7 @@
 
 for firstRange in `seq 248 249`;
 do
-  for iprange in `seq 0 255`;
+  for iprange in `seq 100 255`;
   do
     for host in `seq 0 255`;
     do

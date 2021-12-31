@@ -1,0 +1,10 @@
+综-中-追光吧哥哥[852*478],http://bp-caster.bestv.com.cn/460/1/video.m3u8
+综-中-极限挑战[848*478],http://bp-caster.bestv.com.cn/511/1/video.m3u8
+小品-相声新人[852*478],http://bp-caster.bestv.com.cn/512/1/video.m3u8
+旅-美-人文秘境[852*478],http://bp-caster.bestv.com.cn/513/1/video.m3u8
+旅-日-云游日本[852*478],http://bp-caster.bestv.com.cn/514/1/video.m3u8
+综-中-花样姐姐[852*478],http://bp-caster.bestv.com.cn/559/1/video.m3u8
+综-中-金曲秦春[848*478],http://bp-caster.bestv.com.cn/561/1/video.m3u8
+电影-CHC解压喜剧[852*478],http://bp-caster.bestv.com.cn/570/1/video.m3u8
+中-劲爆体育[1280*720],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+中-劲爆体育[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8

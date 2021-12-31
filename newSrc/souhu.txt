@@ -1,0 +1,299 @@
+$p_file,"scale"=>15); //视频预览图 */
+$eP = $data['eP'];
+if(!empty($eP)){
+$_tmp['words'] = $_tmp['time'] = '';
+foreach ($eP as $key => $value) {
+$_tmp['time'] .= (int)$value['k'].',';
+$_tmp['words'] .= $value['v'].',';
+}
+$_tmp['words'] = substr($_tmp['words'],0,strlen($_tmp['words'])-1);
+$_tmp['time'] = substr($_tmp['time'],0,strlen($_tmp['time'])-1);
+$videoinfo["data"]["prompt"] = $_tmp;
+}
+$video_json["poster"] = $data['coverImg'];//封面图片
+$su = $data['su'];
+$ck = $data['ck'];
+$clipsURL = $data['clipsURL'];
+$clipsBytes = $data['clipsBytes'];
+$clipsDuration = $data['clipsDuration'];
+
+foreach ($clipsURL as $key => $value) {
+$url = $value;//$clipsURL[$key];
+$url = str_replace("http://data.vod.itc.cn","",$url);
+$bytes = $clipsBytes[$key];
+$duration = $clipsDuration[$key];
+$s_su = $su[$key];
+
+$vurl = "http://data.vod.itc.cn/?new={$s_su}&vid={$vid}&plat=17{$mkey}&user=api&uid={$uid}&prod=ad";
+//$vur = "https://vipgdbgp.vod.tv.itc.cn/cdnList?new=/103/106/I93AhPtwJQnB9uZXUudHNL.mp4&vid=2600794&uid=15332173217091069576&tvid=1782158&ch=tv&sz=1519_500&md=D4RIFFtgDFWWBmm0lI4lfeaLFSBgehlOcymhng==140&prod=flash&pt=1&uuid=23ec3e46-0bd9-fdd6-d9ee-fff9d3f9ccbf";
+$video["file"] = $vurl; //分段视频地址
+$video["duration"] = $duration; //分段视频时间
+$video["bytesTotal"] = $bytes; //分段视频文件大小
+$videos[$key] = $video;
+}
+$video_info["video"] = $videos;
+$video_info["type"] = "mp4";
+$video_info["weight"] = 10;
+$video_info["definition"] = "高清";
+$video_infos[count($video_infos)] = $video_info;
+$videoinfo['code'] = 200;
+$videoinfo['data']["flashplayer"] = true;
+$videoinfo['data']["video"] = $video_infos;
+self::get_report_urls($uid);//向服务器上报
+return $videoinfo;
+}
+
+/*
+获取VIP视频
+*/
+public static function get_vip_video_url($ids)
+{
+
+$uid = '1529490073633502';
+// print_r($ids);exit;
+
+$video_infos = array();
+$data = array();
+$api = 'https://api.tv.sohu.com/v4/video/info/'.$ids['vid'].'.json?site=1&appid=tv&aid=123221&api_key=f351515304020cad28c92f70f002261c&plat=17&sver=1.0&partner=1&uid='.$uid.'&muid='.$uid.'&_c=1&pt=1&qd=680&src=11050001';
+
+$_data = self::curl($api);
+
+$_tmp['data'] = json_decode($_data,true);
+
+if($_tmp['data']['status']!=200){
+return "";
+}
+
+$ids['poster'] = !empty($_tmp['data']['data']['hor_w16_pic']) ? $_tmp['data']['data']['hor_w16_pic'] : $_tmp['data']['data']['hor_w8_pic'];//封面图片
+$ids['title'] = !empty($_tmp['data']['data']['video_name']) ? $_tmp['data']['data']['video_name'] : '';
+
+if(!empty($_tmp['data']['data']['ep'])){
+$_tmp['words'] = $_tmp['time'] = '';
+foreach ($_tmp['data']['data']['ep'] as $key => $value) {
+$_tmp['time'] .= (int)$value['k'].',';
+$_tmp['words'] .= $value['v'].',';
+}
+$_tmp['words'] = substr($_tmp['words'],0,strlen($_tmp['words'])-1);
+$_tmp['time'] = substr($_tmp['time'],0,strlen($_tmp['time'])-1);
+$videoinfo["prompt"] = $_tmp;
+$videoinfo["prompt"]['data'] = null;
+}
+
+if ($_tmp['data']['data']['url_nor_mp4']) {
+$data['0']['type'] = 'sd';
+$data['0']['bytes'] = explode(',',$_tmp['data']['data']['clips_bytes_nor']);
+$data['0']['duration'] = explode(',',$_tmp['data']['data']['clips_duration_nor']);
+$data['0']['mp4'] = explode(',',$_tmp['data']['data']['url_nor_mp4']);
+}
+
+if ($_tmp['data']['data']['url_high_mp4']) {
+$data['1']['type'] = 'hd';
+$data['1']['bytes'] = explode(',',$_tmp['data']['data']['clips_bytes_high']);
+$data['1']['duration'] = explode(',',$_tmp['data']['data']['clips_duration_high']);
+$data['1']['mp4'] = explode(',',$_tmp['data']['data']['url_high_mp4']);
+}
+
+if ($_tmp['data']['data']['url_super_mp4']) {
+$data['2']['type'] = 'vhd';
+$data['2']['bytes'] = explode(',',$_tmp['data']['data']['clips_bytes_super']);
+$data['2']['duration'] = explode(',',$_tmp['data']['data']['clips_duration_super']);
+$data['2']['mp4'] = explode(',',$_tmp['data']['data']['url_super_mp4']);
+}
+if ($_tmp['data']['data']['url_original_mp4']) {
+$data['3']['type'] = 'shd';
+$data['3']['bytes'] = explode(',',$_tmp['data']['data']['clips_bytes_original']);
+$data['3']['duration'] = explode(',',$_tmp['data']['data']['clips_duration_original']);
+$data['3']['mp4'] = explode(',',$_tmp['data']['data']['url_original_mp4']);
+}
+
+$_tmp['duration'] = explode(',', $_tmp['data']['data']['clips_duration_super']);
+$_tmp['bytes'] = explode(',', $_tmp['data']['data']['clips_bytes_super']);
+$_tmp['video'] = explode(',', $_tmp['data']['data']['url_super_mp4']);
+
+foreach ($data as $key => $value) {
+// print_r($value);exit;
+switch ($value['type']) {
+case "sd": $type = "mp4";$def = "标清"; break; # 640 & 248
+case "hd": $type = "mp4";$def = "高清"; break; #1024 & 430
+case "shd": $type = "mp4";$def = "原画"; break; #1920 * 808
+case "vhd": $type = "mp4";$def = "超清"; break; #1280 * 538
+}
+
+foreach ($value['mp4'] as $k => $v) {
+
+$video["file"] = $value['mp4'][$k].'&uid='.$uid.'&qd=68001&src=11050001&ca=4&cateCode=101&_c=1&appid=tv&oth=&cd=&prod=h5'; //分段视频地址
+$video["duration"] = $value['duration'][$k]; //分段视频时间
+$video["bytesTotal"] = $value['bytes'][$k]; //分段视频文件大小
+$videos[$k] = $video;
+}
+
+$video_info["video"] = $videos;
+$video_info["type"] = "mp4";
+$video_info["weight"] = $value['type'] != 'hd' ? 0:10;
+$video_info["definition"] = $def;
+$video_infos[count($video_infos)] = $video_info;
+
+if (isset($_REQUEST['pangu']) && $_REQUEST['pangu'] == 'parse') {
+$videoinfo["flashplayer"] = true;
+$videoinfo["poster"] = $ids['poster'];
+$videoinfo["title"] = $ids['title'];
+$videoinfo["video"] = $video_infos;
+} else {
+$videoinfo['code'] = 200;
+$videoinfo["data"]["flashplayer"] = true;
+$videoinfo["data"]["poster"] = $ids['poster'];
+$videoinfo["title"] = $ids['title'];
+$videoinfo["data"]["video"] = $video_infos;
+}
+
+}
+$ids['i_url'] = !empty($_tmp['data']['data']['download_url']) ? $_tmp['data']['data']['download_url'].'&vid='.$ids['vid'].'&uid=1704291352423486&plat=17&SOHUSVP=YGJx1z7gDAHdUUPlK2mQOFbvUzK7xZdoqWcqoErv_08&pt=5&prod=h5&pg=1&eye=0&cv=1.0.0&qd=68000&src=11060001&ca=4&cateCode=101&_c=1&appid=tv' : '';
+self::get_report_urls($uid);//向服务器上报
+if (GlobalBase::is_ipad()) {
+$url = get_headers($ids["i_url"], TRUE);
+$i_pid["data"]["url"] = !empty($url['Location']) ? $url['Location'] : null;
+$i_pid["type"] = "sohu";
+$i_pid["play"] = "html5";
+$i_pid["code"] = 200;
+return $i_pid;
+}else{
+return $videoinfo;
+}
+
+//print_r($_tmp['video']);exit;
+//http://data.vod.itc.cn/?k=tWaizEIOfJWHWJb4l2PA0LWRgTet8TdLbLElyTXXuTdWN4xHqM14r&a=XfGFjpCGqAOL4p3Cj6O3XUaAz95d4EOLsHJlsUIAoD2sWY6sWYbSqM9Auh2gqtkOzKA4R8etqSovNtcb0DWBWS9moeNUetCBW4c4TJoVqTPcWh1sfhAtfOesWZ&vid=2643421&uid=1704291352423486&plat=17&SOHUSVP=YGJx1z7gDAHdUUPlK2mQOFbvUzK7xZdoqWcqoErv_08&pt=5&prod=h5&pg=1&eye=0&cv=1.0.0&qd=68000&src=11060001&ca=4&cateCode=101&_c=1&appid=tv
+//http://data.vod.itc.cn/?k=tWaizEIXWJcOfJAHehAebDALTpksqBe3hS8NfGb4gK12bFXUyYk&a=XfGFjpCGqAOL4p3Cj6O3XUaAz95d4EOLsHJlsUIAoD2sWY6sWh1SqM9Auh2VbJbtDTKCg4wl0YAdbe6IZqp0aIm8684We9XfVwLgYWS0mEAZD6sfYvXfJNXWYO
+
+}
+public static function get_video_phone_playinfo($vid)
+{
+$uid = "1704291352423486";
+$time = number_format(microtime(true),3,'','');
+$api = "http://m.tv.sohu.com/phone_playinfo?vid={$vid}&site=1&appid=tv&api_key=f351515304020cad28c92f70f002261c&plat=17&sver=1.0&partner=1&uid={$uid}&muid=1508052529396230&_c=1&pt=5&qd=680&src=11060001&ssl=2&_={$time}";
+/*
+https://m.tv.sohu.com/phone_playinfo?vid=4819265&site=1&appid=tv&api_key=f351515304020cad28c92f70f002261c&plat=17&sver=1.0&partner=1&uid=1805111229294297&muid=1529507168363105&_c=1&pt=3&qd=680&src=11060001&ssl=1&_=1529507168644
+*/
+$content = self::curl($api);
+$content = mb_check_encoding($content,'gbk')?iconv('gbk','utf-8//IGNORE',$content):$content;//将字符串的编码从gbk转到UTF-8
+$body = json_decode($content,true);
+//print_r(json_encode($body));exit;
+$data = $body['data'];
+$title = $data['video_name'];//视频标题
+$urls = $data['urls'];//视频文件列表
+$vurl = get_headers($urls["downloadUrl"][0][0], TRUE);
+$m3u8s = $urls["m3u8"];
+$m3u8 = $m3u8s["sup"][0];
+
+$videoinfo['code'] = 200;
+$videoinfo["data"]["url"] = $vurl['Location'];
+$videoinfo["play"] = "html5";
+$videoinfo["type"] = 'sohu';
+self::get_report_urls($uid);//向服务器上报
+return $videoinfo;
+}
+
+public static function get_tv_data($ids) //搜狐TV 接口
+{
+
+$uid = "02ffff10741010a17686c5e2232479fd2626b6b301207a";
+$headers = array(
+'model:oppo+R11',
+'pgid:x010741502ff0e2b179d2343d0002a0dac44a58b7b6f',
+'packageName: com.sohuott.tv.vod',
+'version_sdk_int: 19',
+'cpu: armeabi-v7a',
+'partnerNo: 80151101',
+'service_version: 2.5.1',
+'ip: 172.17.99.15',
+'productId: 11',
+'fingerprint: vivo%2Fvivo+v3%2Fx86%3A4.4.2%2FLMY48Z%2F3.8.017.1102%3Auser%2Frelease-keys%2Fqcom%2FG750-T00',
+'plat: 15',
+'model_id: LMY48Z',
+'manufacturer: oppe',
+'api_key: 4eda5b5735fb430b2e8dfba6c003941b',
+'company: snm',
+'gid: 02ffff10741010a17686c5e2232479fd2626b6b301207a',
+'pappid: 107415',
+'ua: Mozilla/5.0 (Linux; Android 4.4.2; oppo R11 Build/LMY48Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36',
+'brand: vivo',
+'app_id: 22',
+'android_system_version: 4.4.2',
+'sver: 6.5.2'
+);
+$api = 'http://api.ott.tv.snmsohu.aisee.tv/ott-api-v4/v4/video/videoInfo.json?partner=80151101&aid='.$ids['pid'].'&h265=0&dts=0&tvVerId='.$ids['vid'];
+//$api = 'http://api.ott.tv.snmsohu.aisee.tv/ott-api-v4/v4/album/videos.json?albumId=9434506&type=0&sortOrder=1&partner=80151101&page=1&pageSize=10';
+$ids['ua'] = 'okhttp/3.4.1';
+$ids['httpheader'] = $headers;
+$ids['ip'] = '172.17.99.15';
+$data = self::curl($api,$ids);
+
+$data = json_decode($data,true);
+
+$videolist = $data['data']['playInfo'];
+
+$ids['poster'] = !empty($data['data']['videoExtendsPic_640_360']) ? $data['data']['videoExtendsPic_640_360'] : $data['data']['videoExtendsPic_320_180'];
+
+//print_r($data);exit;
+
+$count = 0;
+foreach ($videolist as $key => $value) {
+if ($value['versionId'] == 2 || $value['versionId'] == 31 ) {
+continue;
+}
+$video[0] = $value['vrUrl'];
+$video[1] = "video/m3u8";
+$video[2] = $value['name'];
+$video[3] = $value['versionId'] == 21 ? 10: 0;
+$videoinfo1["video"][$count] = $video;
+$count++;
+
+}
+if (isset($_REQUEST['pangu']) && $_REQUEST['pangu'] == 'parse') {
+$videoinfo["flashplayer"] = true;
+$videoinfo["poster"] = $ids['poster'];
+$videoinfo["title"] = $ids['title'];
+$videoinfo["video"] = $videoinfo1["video"];
+} else {
+$videoinfo['code'] = 200;
+$videoinfo["data"]["flashplayer"] = true;
+$videoinfo["data"]["poster"] = $ids['poster'];
+$videoinfo["title"] = $ids['title'];
+$videoinfo["data"]["video"] = $videoinfo1["video"];
+}
+self::get_report_urls($uid);//向服务器上报
+return $videoinfo;
+
+}
+
+public static function get_report_urls($uid){
+$time = time();
+//$report_urls = "http://mb.hd.sohu.com.cn/mc.gif?uid={$uid}&url=1002&value=&memo=%7B%22status%22%3A%220%22%7D&passport=&mtype=12<ype=0&cv=3.7.0&mos=3&mosv=10.0.15063.674&pro=1&mfo=To+Be+Filled+By+O.E.M.&mfov=To+Be+Filled+By+O.E.M.&webtype=wifi&vid=&time={$time}&type=&channelid=419&sim=0&playlistid=&catecode=&preid=&newuser=0&enterid=0&startid={$time}";
+//file_get_contents($report_urls,false,stream_context_create(array('http'=>array('method'=>'GET','timeout'=>3))));
+
+$report_urls = "https://z.m.tv.sohu.com/h5_cc.gif?t={$time}&uid={$uid}&position=ad_request_new&op=click&details=%7B%7D&nid=&url=http%3A%2F%2Ftv.sohu.com%2Fupload%2Fstatic%2Fshare%2Fshare_play.html%23_6457518_0_2_1&refer=&screen=1326x550&os=android&platform=android&passport=&vid=&pid=&channeled=1211010000&MTV_SRC=11050001";
+
+file_get_contents($report_urls,false,stream_context_create(array('http'=>array('method'=>'GET','timeout'=>3))));
+
+//$report_urls = "https://z.m.tv.sohu.com/pv.gif?url=https%253A%252F%252Fm.tv.sohu.com%252F20161027%252Fn471587159.shtml&refer=http%253A%252F%252Ftv.sohu.com%252F20161027%252Fn471587159.shtml&uid=1704291352423486&webtype=2g&screen=1326x550&catecode=101112%3B101124&pid=9174927&vid=3349737&tvid=85617187&site=1&os=android&platform=android&passport=957099461778374656%40sohu.com&t=1517025723446&channeled=1211010000&oth=&cd=&isplay=1&MTV_SRC=11060001&sd=";
+
+//$report_urls = "https://z.m.tv.sohu.com/h5_cc.gif?t=1517025729747&uid=1704291352423486&position=play_verify1&op=click&details=%7B%7D&nid=&url=https%253A%252F%252Fm.tv.sohu.com%252F20161027%252Fn471587159.shtml&refer=http%253A%252F%252Ftv.sohu.com%252F20161027%252Fn471587159.shtml&screen=1326x550&os=android&platform=android&passport=957099461778374656%40sohu.com&vid=3349737&pid=9174927&channeled=1211010000&MTV_SRC=11060001";
+
+//$report_urls = "https://z.m.tv.sohu.com/h5_cc.gif?t=1517025798548&uid=1704291352423486&position=play_videopause&op=click&details=%7B%7D&nid=&url=https%253A%252F%252Fm.tv.sohu.com%252F20161027%252Fn471587159.shtml&refer=http%253A%252F%252Ftv.sohu.com%252F20161027%252Fn471587159.shtml&screen=1326x550&os=android&platform=android&passport=957099461778374656%40sohu.com&vid=3349737&pid=9174927&channeled=1211010000&MTV_SRC=11060001";
+
+}
+
+public static function curl($url,$ids)
+{
+//$data = mb_check_encoding($data,'gbk')?iconv('gbk','utf-8//IGNORE',$data):$data;//将字符串的编码从gbk转到UTF-8
+$params["ua"] = !empty($ids['ua']) ? $ids['ua'] : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36";
+$params["cookie"] = isset($ids['cookie']) ? $ids['cookie'] : COOKIE_SOHU ;
+if (isset($ids['httpheader'])) {
+$params["httpheader"] = $ids['httpheader'];
+}
+if (isset($ids['ip'])) {
+$params['ip'] = $ids['ip'];
+}
+return GlobalBase::curl($url,$params);
+}
+}
+?>

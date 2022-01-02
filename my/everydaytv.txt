@@ -1,0 +1,118 @@
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"  group-title="央视",3
+http://play01.everydaytv.top/etv/iptv/3/3/0.flv?token=2022
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"  group-title="央视",4
+http://play01.everydaytv.top/etv/iptv/3/4/0.flv?token=2022
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"  group-title="央视",9
+http://play01.everydaytv.top/etv/iptv/3/9/0.flv?token=2022
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",12
+http://play01.everydaytv.top/etv/iptv/3/12/0.flv?token=2022
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"  group-title="央视",14
+http://play01.everydaytv.top/etv/iptv/3/14/0.flv?token=2022
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"  group-title="央视",16
+http://play01.everydaytv.top/etv/iptv/3/16/0.flv?token=2022
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="央视",18
+http://play01.everydaytv.top/etv/iptv/3/18/0.flv?token=2022
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV奥林匹克频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png"  group-title="央视",22
+http://play01.everydaytv.top/etv/iptv/3/22/0.flv?token=2022
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿动漫",30
+http://play01.everydaytv.top/etv/iptv/3/30/0.flv?token=2022
+#EXTINF:-1 tvg-id="131" tvg-name="北广财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png"  group-title="财经",31
+http://play01.everydaytv.top/etv/iptv/3/31/0.flv?token=2022
+#EXTINF:-1 tvg-id="296" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"  group-title="台湾",民视新闻台 HD
+http://play01.everydaytv.top/etv/iptv/3/5/0.flv?token=2022
+#EXTINF:-1 tvg-id="301" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png"  group-title="台湾",非凡新闻 HD
+http://play01.everydaytv.top/etv/iptv/3/6/0.flv?token=2022
+#EXTINF:-1 tvg-id="294" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png"  group-title="台湾",年代新闻 HD
+http://play01.everydaytv.top/etv/iptv/3/7/0.flv?token=2022
+#EXTINF:-1 tvg-id="310" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png"  group-title="台湾",纬来日本 HD
+http://play01.everydaytv.top/etv/iptv/3/10/0.flv?token=2022
+#EXTINF:-1 tvg-id="309" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png"  group-title="台湾",纬来体育 HD
+http://play01.everydaytv.top/etv/iptv/3/11/0.flv?token=2022
+#EXTINF:-1 tvg-id="70106" tvg-name="龍祥時代電影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/long.png"  group-title="影视",龙祥时代 HD
+http://play01.everydaytv.top/etv/iptv/3/13/0.flv?token=2022
+#EXTINF:-1  group-title="其他",天映频道 HD
+http://play01.everydaytv.top/etv/iptv/3/15/0.flv?token=2022
+#EXTINF:-1 tvg-id="390" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  group-title="台湾",中视新闻 HD
+http://play01.everydaytv.top/etv/iptv/3/19/0.flv?token=2022
+#EXTINF:-1 tvg-id="193" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png"  group-title="辽宁",GTV 八大娱乐台 HD
+http://play01.everydaytv.top/etv/iptv/3/20/0.flv?token=2022
+#EXTINF:-1 tvg-id="193" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png"  group-title="辽宁",GTV 八大第一台 HD
+http://play01.everydaytv.top/etv/iptv/3/21/0.flv?token=2022
+#EXTINF:-1 tvg-id="278" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png"  group-title="台湾",三立台湾台
+http://play01.everydaytv.top/etv/iptv/3/24/0.flv?token=2022
+#EXTINF:-1 tvg-id="279" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png"  group-title="台湾",三立都会台
+http://play01.everydaytv.top/etv/iptv/3/25/0.flv?token=2022
+#EXTINF:-1 tvg-id="297" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png"  group-title="台湾",三立新闻台
+http://play01.everydaytv.top/etv/iptv/3/26/0.flv?token=2022
+#EXTINF:-1 tvg-id="70104" tvg-name="东森洋片" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ebcyp.png"  group-title="影视",东森洋片 HD
+http://play01.everydaytv.top/etv/iptv/3/28/0.flv?token=2022
+#EXTINF:-1 tvg-id="70105" tvg-name="东森电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ebc.png"  group-title="影视",东森电影 HD
+http://play01.everydaytv.top/etv/iptv/3/29/0.flv?token=2022
+#EXTINF:-1 tvg-id="281" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png"  group-title="台湾",东森综合台
+http://play01.everydaytv.top/etv/iptv/3/32/0.flv?token=2022
+#EXTINF:-1 tvg-id="295" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"  group-title="台湾",东森新闻台
+http://play01.everydaytv.top/etv/iptv/3/33/0.flv?token=2022
+#EXTINF:-1  group-title="其他",一新闻 HD
+http://play01.everydaytv.top/etv/iptv/3/34/0.flv?token=2022
+#EXTINF:-1 tvg-id="136" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"  group-title="教育科学",36
+http://play01.everydaytv.top/etv/iptv/3/36/0.flv?token=2022
+#EXTINF:-1 tvg-id="116" tvg-name="中数书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg"  group-title="央视",37
+http://play01.everydaytv.top/etv/iptv/3/37/0.flv?token=2022
+#EXTINF:-1 tvg-id="70038" tvg-name="朔州1" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shuozhou.jpg"  group-title="地方",38
+http://play01.everydaytv.top/etv/iptv/3/38/0.flv?token=2022
+#EXTINF:-1 tvg-id="139" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png"  group-title="北京",39
+http://play01.everydaytv.top/etv/iptv/3/39/0.flv?token=2022
+#EXTINF:-1 tvg-id="140" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"  group-title="北京",40
+http://play01.everydaytv.top/etv/iptv/3/40/0.flv?token=2022
+#EXTINF:-1 tvg-id="141" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"  group-title="北京",41
+http://play01.everydaytv.top/etv/iptv/3/41/0.flv?token=2022
+#EXTINF:-1 tvg-id="70136" tvg-name="中天新闻" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zhongtian.png"  group-title="新闻",中天新闻
+http://play01.everydaytv.top/etv/iptv/3/42/0.flv?token=2022
+#EXTINF:-1 tvg-id="143" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"  group-title="北京",43
+http://play01.everydaytv.top/etv/iptv/3/43/0.flv?token=2022
+#EXTINF:-1 tvg-id="144" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png"  group-title="北京",44
+http://play01.everydaytv.top/etv/iptv/3/44/0.flv?token=2022
+#EXTINF:-1 tvg-id="145" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png"  group-title="北京",45
+http://play01.everydaytv.top/etv/iptv/3/45/0.flv?token=2022
+#EXTINF:-1 tvg-id="146" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="上海",46
+http://play01.everydaytv.top/etv/iptv/3/46/0.flv?token=2022
+#EXTINF:-1 tvg-id="70047" tvg-name="山西经济与科技" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shanxijjykj.jpg"  group-title="地方",47
+http://play01.everydaytv.top/etv/iptv/3/47/0.flv?token=2022
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿动漫",59
+http://play01.everydaytv.top/etv/iptv/3/59/0.flv?token=2022
+#EXTINF:-1 tvg-id="70062" tvg-name="浙江影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ZJYS.png"  group-title="地方",62
+http://play01.everydaytv.top/etv/iptv/3/62/0.flv?token=2022
+#EXTINF:-1 tvg-id="72" tvg-name="IPTV热播剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png"  group-title="影视",72
+http://play01.everydaytv.top/etv/iptv/3/72/0.flv?token=2022
+#EXTINF:-1 tvg-id="73" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png"  group-title="少儿动漫",73
+http://play01.everydaytv.top/etv/iptv/3/73/0.flv?token=2022
+#EXTINF:-1 tvg-id="74" tvg-name="IPTV魅力时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png"  group-title="其他",74
+http://play01.everydaytv.top/etv/iptv/3/74/0.flv?token=2022
+#EXTINF:-1 tvg-id="76" tvg-name="华数求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg"  group-title="教育科学",76
+http://play01.everydaytv.top/etv/iptv/3/76/0.flv?token=2022
+#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",77
+http://play01.everydaytv.top/etv/iptv/3/77/0.flv?token=2022
+#EXTINF:-1 tvg-id="78" tvg-name="华数求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg"  group-title="教育科学",78
+http://play01.everydaytv.top/etv/iptv/3/78/0.flv?token=2022
+#EXTINF:-1 tvg-id="79" tvg-name="华数求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg"  group-title="教育科学",79
+http://play01.everydaytv.top/etv/iptv/3/79/0.flv?token=2022
+#EXTINF:-1 tvg-id="84" tvg-name="中数第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png"  group-title="影视",84
+http://play01.everydaytv.top/etv/iptv/3/84/0.flv?token=2022
+#EXTINF:-1 tvg-id="85" tvg-name="中数风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png"  group-title="影视",85
+http://play01.everydaytv.top/etv/iptv/3/85/0.flv?token=2022
+#EXTINF:-1 tvg-id="89" tvg-name="中数女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png"  group-title="其他",89
+http://play01.everydaytv.top/etv/iptv/3/89/0.flv?token=2022
+#EXTINF:-1 tvg-id="92" tvg-name="中数CCTV-电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE12.jpg"  group-title="电影",92
+http://play01.everydaytv.top/etv/iptv/3/92/0.flv?token=2022
+#EXTINF:-1 tvg-id="93" tvg-name="中数高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg"  group-title="体育",93
+http://play01.everydaytv.top/etv/iptv/3/93/0.flv?token=2022
+#EXTINF:-1 tvg-id="94" tvg-name="中数央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"  group-title="央视",94
+http://play01.everydaytv.top/etv/iptv/3/94/0.flv?token=2022
+#EXTINF:-1 tvg-id="95" tvg-name="中数彩民在线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/caiminzaixian.png"  group-title="央视",95
+http://play01.everydaytv.top/etv/iptv/3/95/0.flv?token=2022
+#EXTINF:-1 tvg-id="96" tvg-name="中数法律服务" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE17.jpg"  group-title="央视",96
+http://play01.everydaytv.top/etv/iptv/3/96/0.flv?token=2022
+#EXTINF:-1 tvg-id="97" tvg-name="中数汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg"  group-title="央视",97
+http://play01.everydaytv.top/etv/iptv/3/97/0.flv?token=2022
+#EXTINF:-1 tvg-id="98" tvg-name="中数留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg"  group-title="央视",98
+http://play01.everydaytv.top/etv/iptv/3/98/0.flv?token=2022

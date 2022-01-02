@@ -7,7 +7,7 @@
 凤凰香港(代),https://www.chahaoquan.com/wz/epg/fhdl.php?id=3
 https://www.hkdtmb.com/
 
-
+http://211.23.114.106:8510/.m3u8
 
 http://61.216.67.119:1935/TWHG/E1/.m3u8
 http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8

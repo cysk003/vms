@@ -16,7 +16,7 @@ class Main (object):
     def run (self):
         args=get_args()
         if args.url != None and args.url != "":
-            fetch = Youku()
+            fetch = Migu()
             print(fetch.getUrl(args.url))
 
 def get_args():

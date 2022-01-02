@@ -22,7 +22,19 @@ https://www.yijingying.com/202.html
 https://www.appmews.cn/
 https://www.libvio.com/type/1.html
 
-
+curl 'https://v.ddys.tv:19543/video?id=Q4%2FHUbdFaY372U0FjOugjg4ZHu%2BOmeF3N4dOhvNvwEHT%2F83kH1IkCjXcmYgQI0nVe7jzVPm4%2FceO2mPksDPZsg%3D%3D&type=mix' \
+  -H 'authority: v.ddys.tv:19543' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'accept: */*' \
+  -H 'origin: https://ddys.tv' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  --compressed
 
 ## 视频
 4K屋：http://www.kkkkwu.com

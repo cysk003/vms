@@ -2155,3 +2155,19 @@ James和Aaron趣味数学系列,James和Aaron趣味数学系列启蒙版（中�
 历史成语故事,历史成语故事第13集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/705439354
 历史成语故事,历史成语故事第14集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/705440268
 历史成语故事,历史成语故事第15集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/705440294
+
+
+curl 'http://hlsmgspvod.miguvideo.com:8080/depository_yqv/asset/zhengshi/5103/470/579/5103470579/media/5103470579_5010489228_56.mp4_0-65.ts?msisdn=e617e2497d502bd75cbefd4a06087877&mdspid=&spid=800033&netType=0&sid=5700078387&pid=2028600738&timestamp=20211231203052&Channel_ID=0131_10010001005&ProgramID=715458484&ParentNodeID=-99&preview=1&playseek=000000-000300&assertID=5700078387&client_ip=112.74.200.9&SecurityKey=20211231203052&mvid=5103470579&mcid=601382&mpid=130000158964&playurlVersion=SJ-A1-4.12.2.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&FreePlay=1&encrypt=c7ebda55d36367d0506cfb53b5d7b128&hls_type=2&HlsSubType=2&HlsProfileId=0&mtv_session=c56c2e5247647bb988492b8363ab0d9f' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://www.miguvideo.com' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://www.miguvideo.com/' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9' \
+  --compressed

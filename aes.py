@@ -9,6 +9,19 @@ from utils.tools import *
 import json
 import sys
 
+#		function oneTime(){
+# 				let srvdate = new Date($.ajax({async: false}).getResponseHeader("Date"));
+ #				let eTimes = srvdate.getTime() + 600000;
+ #				let uTxt = CryptoJS.enc.Utf8.parse("{\"path\":\"" + vtracksrc0 + "\",\"expire\":" + eTimes.toString() + "}");
+ #				let uKey = CryptoJS.enc.Utf8.parse("zevS%th@*8YWUm%K");
+ #				let waiv = CryptoJS.enc.Utf8.parse("5080305495198718");
+ #				var ttestvtrack = CryptoJS.AES.encrypt(uTxt,uKey,{
+ #					iv: waiv,
+ #					mode: CryptoJS.mode.CBC
+ #				});
+ #				vtracksrc = encodeURIComponent(ttestvtrack.ciphertext.toString(CryptoJS.enc.Base64));
+ #			}
+
 key=b'zevS%th@*8YWUm%K'
 BS = 16
 pad = lambda s: s + (BS - len(s) % BS) * chr(BS - len(s) % BS)

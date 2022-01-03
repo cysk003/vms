@@ -33,3 +33,13 @@ do
 done
 
 
+http://58.244.50.82:808/hls/51/index.m3u8
+for i in `seq 1 500`;
+do
+  url="http://58.244.50.82:808/hls/$i/index.m3u8"
+  result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
+  echo $url, $result
+  if [ $result -eq 0 ]; then
+      echo $i,$url >> newSrc/changchun.txt
+  fi
+done

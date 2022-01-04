@@ -1,0 +1,108 @@
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167a07ab5edd.jpg",SETANTA SPORTS UA FHD
+https://95-213-224-169.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167a07ab5edd.jpg",SETANTA SPORTS UA FHD
+https://95-213-224-173.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167a07ab5edd.jpg",SETANTA SPORTS UA FHD
+https://95-213-224-175.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg",SETANTA SPORTS + UA FHD
+https://95-213-224-169.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg",SETANTA SPORTS + UA FHD
+https://95-213-224-173.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg",SETANTA SPORTS + UA FHD
+https://95-213-224-175.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg",Футбол 1
+https://95-213-224-169.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg",Футбол 1
+https://95-213-224-173.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg",Футбол 1
+https://95-213-224-175.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg",Футбол 2
+https://95-213-224-169.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg",Футбол 2
+https://95-213-224-173.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg",Футбол 2
+https://95-213-224-175.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg",Футбол 3
+https://95-213-224-169.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg",Футбол 3
+https://95-213-224-173.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg",Футбол 3
+https://95-213-224-175.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d5ffe93bb.jpg",SPORT 1 UA
+https://95-213-224-169.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d5ffe93bb.jpg",SPORT 1 UA
+https://95-213-224-173.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d5ffe93bb.jpg",SPORT 1 UA
+https://95-213-224-175.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167b1079db62.jpg",BELARUS 5 FHD
+https://95-213-224-169.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167b1079db62.jpg",BELARUS 5 FHD
+https://95-213-224-173.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167b1079db62.jpg",BELARUS 5 FHD
+https://95-213-224-175.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg",SETANTA SPORTS FHD
+https://95-213-224-169.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg",SETANTA SPORTS FHD
+https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg",SETANTA SPORTS FHD
+https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg",ФУТБОЛ
+https://95-213-224-169.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg",ФУТБОЛ
+https://95-213-224-173.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg",ФУТБОЛ
+https://95-213-224-175.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg",МАТЧ! ФУТБОЛ 1
+https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg",МАТЧ! ФУТБОЛ 1
+https://95-213-224-173.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg",МАТЧ! ФУТБОЛ 1
+https://95-213-224-175.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d3a2a1f15.jpg",МАТЧ! ФУТБОЛ 2
+https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d3a2a1f15.jpg",МАТЧ! ФУТБОЛ 2
+https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d3a2a1f15.jpg",МАТЧ! ФУТБОЛ 2
+https://95-213-224-175.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d3a232bbb.jpg",МАТЧ! ФУТБОЛ 3
+https://95-213-224-169.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d3a232bbb.jpg",МАТЧ! ФУТБОЛ 3
+https://95-213-224-173.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6167d3a232bbb.jpg",МАТЧ! ФУТБОЛ 3
+https://95-213-224-175.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6169006935a9c.jpg",МАТЧ! Арена Arena
+https://95-213-224-169.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6169006935a9c.jpg",МАТЧ! Арена Arena
+https://95-213-224-173.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6169006935a9c.jpg",МАТЧ! Арена Arena
+https://95-213-224-175.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f82109fc1.jpg",МАТЧ! Боец Fighter
+https://95-213-224-169.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f82109fc1.jpg",МАТЧ! Боец Fighter
+https://95-213-224-173.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f82109fc1.jpg",МАТЧ! Боец Fighter
+https://95-213-224-175.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f38d3bba5.jpg",МАТЧ! Премьер Premier
+https://95-213-224-169.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f38d3bba5.jpg",МАТЧ! Премьер Premier
+https://95-213-224-173.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f38d3bba5.jpg",МАТЧ! Премьер Premier
+https://95-213-224-175.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f46876e41.jpg",МАТЧ! Планета Planet
+https://95-213-224-169.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f46876e41.jpg",МАТЧ! Планета Planet
+https://95-213-224-173.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f46876e41.jpg",МАТЧ! Планета Planet
+https://95-213-224-175.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f28c60cc4.jpg",МАТЧ! Страна Country
+https://95-213-224-169.livesports24.online/mnashsport.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f28c60cc4.jpg",МАТЧ! Страна Country
+https://95-213-224-173.livesports24.online/mnashsport.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168f28c60cc4.jpg",МАТЧ! Страна Country
+https://95-213-224-175.livesports24.online/mnashsport.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg",Eurosport 2
+https://95-213-224-169.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg",Eurosport 2
+https://95-213-224-173.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1 group-title="东欧体育频道" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg",Eurosport 2
+https://95-213-224-175.livesports24.online/ruseurosport2.m3u8

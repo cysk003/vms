@@ -1,0 +1,16 @@
+欧美影院 720,http://121.12.115.15/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2000.m3u8
+喜剧影院,http://39.134.39.39/270000001322/69900158041111100000002189/index.m3u8
+动作影院,http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
+武侠剧场,http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
+古装剧场,http://va.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv
+动作大片,http://121.12.115.156/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
+精彩电视剧 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+精彩综艺 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+精彩体育 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+
+每日薦影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+武俠劇場,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+KK_经典好剧,http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+KK_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8

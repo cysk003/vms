@@ -19,18 +19,38 @@ do
   fi
 done
 
-for i in `seq 25000 29999`;
+for i in `seq 25310 29999`;
 do
   tvid=`printf %5d $i`
-  url="http://111.12.101.13:6610/PLTV/77777777/224/32212$tvid/index.m3u8?"
-  realUrl=`curl -I  $url 2>/dev/null |grep Location|awk  '{print $2}' `
-
-  result=`https --headers $realUrl |grep "404 Not Found"|wc -l`
+  url="http://39.134.67.226/PLTV/88888888/224/32212$tvid/index.m3u8"
+  result=`https --headers $url 2>/dev/null |grep "HTTP/1.1"|awk  '{print $2}' `
   echo $url, $result
-  if [ $result -eq 0 ]; then
-      echo $i,$url >> newSrc/guangdong.txt
+  if [ "$result" = "200" -o "$result" = "302" ]; then
+      echo $i,$url >> newSrc/harebing.txt
   fi
 done
+
+for i in `seq 25400 25999`;
+do
+  tvid=`printf %5d $i`
+  url="http://39.134.65.230/PLTV/88888888/224/32212$tvid/index.m3u8"
+  result=`curl $url 2>/dev/null| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $i,$url >> newSrc/harebing.txt
+  fi
+done
+
+cat newSrc/harebing.txt| while read -r line
+do
+  url=$(echo $line |awk -F"," '{print $2}')
+  result=`curl $url 2>/dev/null|wc -l`
+  if [ "$result" -gt 0 ]; then
+     echo "$line" >> newSrc/harebing2.txt
+  else
+    echo "$line"
+  fi
+done < newSrc/harebing.txt
 
 
 http://58.244.50.82:808/hls/51/index.m3u8
@@ -43,3 +63,16 @@ do
       echo $i,$url >> newSrc/changchun.txt
   fi
 done
+
+http://58.244.50.82:808/hls/51/index.m3u8
+for i in `seq 700 900`;
+do
+  id=`printf %03d $i`
+  url="http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000$id"
+  result=` https --headers  $url 2>/dev/null | grep "200 OK"|wc -l`
+  echo $url, $result
+  if [ $result -eq 1 ]; then
+      echo $i,$url >> newSrc/jiangxi.txt
+  fi
+done
+

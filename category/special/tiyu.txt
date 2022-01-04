@@ -1,0 +1,322 @@
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg",NBA TV
+http://84.22.33.214:80/nbatv/index.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育
+http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",魅力足球
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",极速汽车
+http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=008&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广东体育
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=08&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广州竞赛
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广州竞赛
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=000&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",广州竞赛
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=0&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png",Fox Sports Asia
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png",Fox Sports 2 Asia
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png",Captital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://i.imgur.com/6h10JDk.png",EDGEsport
+https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://i.imgur.com/AjRCYwR.png",EDGEsport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://i.imgur.com/aAUbLhE.png",EDGEsport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61cae54680a8d.jpg",True Premier Football 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61cae5468dcd1.jpg",True Premier Football 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61cae598f17d5.jpg",True Premier Football 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61cae598f1cbe.jpg",True Premier Football 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61cae598f39e9.jpg",True Premier Football 5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bdb7a98aefc.jpg",True Sports HD
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bdb7a98e22d.jpg",True Sports HD 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bdb7a973e30.jpg",True Sports HD 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bde9701cfd3.jpg",Bein Sports 1
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",True Sports 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bde9700cb00.jpg",Bein Sports 2
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",True Sports 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",Fox Sports HD
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",Fox Sports 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BT_Sport_1_2019.svg/revision/latest/scale-to-width-down/250?cb=20191227182608",BT SPORT HD1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/BT_Sport_2_2019.svg/revision/latest/scale-to-width-down/250?cb=20191227182625",BT SPORT HD2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg",Golf Channel
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",SPORTTV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",SPORTTV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",SPORTTV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",SPORTTV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",SPORTTV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道",1 CH5
+https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bc8a37266dc.jpg",Astro SuperSport HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bc8a375a125.jpg",Astro SuperSport 2 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bc8a375efa4.jpg",Astro SuperSport 3 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.hualigs.cn/image/61bc8a375e503.jpg",Astro SuperSport 4 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+
+
+
+#EXTINF:-1 group-title="印尼新马测试",SCTV
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",SCTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="印尼新马测试",INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",INDOSIAR HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="印尼新马测试",KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",TVONE
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",NETTV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",RTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a6a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="印尼新马测试",TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",DAAITV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="印尼新马测试",ELSHINTA TV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="印尼新马测试",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="印尼新马测试",ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",ONE HD
+http://210.210.155.35/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+#EXTINF:-1 group-title="印尼新马测试",Sony One
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",Sony One
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+#EXTINF:-1 group-title="印尼新马测试",GEM
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",SONY GEM
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",TVN MOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",TVN
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",CINEMA WOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="印尼新马测试",Rock Entertainment
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",Rock Entertainment
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png",Rock Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png",Rock Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",MYKIDZ
+http://playlist.urfan.web.id/uq2663/h/h98/index.m3u8
+#EXTINF:-1 group-title="印尼新马测试",MYCN
+http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="印尼新马测试",MYCE
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png",ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",ANI PLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",EGG NETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",MOTOR VISION TV
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",GOLF
+http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",BLOOMBERG
+http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",CNA
+http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHK WORLD
+http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",ALJAZEERA WORLD
+http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 group-title="印尼新马测试",TRT WORLD
+http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1 group-title="印尼新马测试",WION
+http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1 group-title="印尼新马测试",Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png",Disney Channel
+http://rec2.distv.net/aurora/123456/138
+#EXTINF:-1 group-title="印尼新马测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png",Disney Junior
+http://rec2.distv.net/aurora/123456/139
+#EXTINF:-1 group-title="印尼新马测试",Disney XD
+http://rec2.distv.net/aurora/123456/140
+#EXTINF:-1 group-title="印尼新马测试",Unifi Sport 1
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="印尼新马测试",Unifi Sport 2
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
+
+
+CCTV-5体育 HD,http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
+CCTV-5体育 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5体育 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+CCTV-5体育 HD,http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV-5体育 HD,http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=32&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5体育 HD,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=32&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5体育 HD,http://183.207.248.71/cntv/live1/cctv-5/cctv-5
+
+
+
+CCTV-5+体育赛事 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+体育赛事 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV-5+体育赛事 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+体育赛事 HD,http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
+CCTV-5+体育赛事 HD,http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus
+CCTV-5+体育赛事 HD,http://183.207.248.71/cntv/live1/CCTV5+/hdcctv05plus
+CCTV-5+体育赛事 HD,http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 HD,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
+
+CCTV-风云足球,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/index.m3u8?fmt=ts2hls
+CCTV-风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+CCTV-风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV-风云足球,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/index.m3u8?fmt=ts2hls
+
+
+
+
+
+
+PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/2300000/mnf.m3u8
+新视觉,http://125.210.152.18:9090/live/XSJHD.m3u8
+新视觉,http://125.210.152.21:9120/live/XSJHD.m3u8
+
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
+魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+
+五星体育,http://111.26.225.19/PLTV/2/224/3221225857/index.m3u8
+五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+
+极速汽车,http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
+极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+极速汽车,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226234/1/index.m3u8?fmt=ts2hls
+极速汽车,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
+极速汽车,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
+极速汽车,http://117.136.154.98/PLTV/88888888/224/3221225614/index.m3u8
+
+
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+
+迪拜一号,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+迪拜体育-1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+迪拜体育-2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+迪拜体育-3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
+福克斯,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+快乐垂钓,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
+
+天元围棋,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
+
+体育赛事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
+体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225706/index.m3u8
+体育赛事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
+体育赛事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
+
+游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+游戏风云,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
+游戏风云,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226252/1/index.m3u8?fmt=ts2hls
+游戏风云,http://117.136.154.86/PLTV/88888888/224/3221225840/index.m3u8
+游戏风云,http://223.110.245.148/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
+游戏风云,http://117.136.154.98/PLTV/88888888/224/3221225840/index.m3u8
+游戏风云,http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
+游戏风云,http://117.136.154.98/PLTV/88888888/224/3221225611/index.m3u8
+游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+
+29坛春秋,http://23.110.246.6/ott.js.chinamobile.com/PLTV/3/224/3221/index.m38u
+2坛2春秋,http://233.110.246.7/ott.js.chinamobile.com/PLTV/3/224/3211/index.m38
+2坛28春秋,http://23.110.246.6/ott.js.chinamobile.com/PLTV/3/224/3211/index.m38

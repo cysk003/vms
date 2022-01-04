@@ -89,5 +89,22 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226403/1.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/1.m3u8
 
 网友提供
-
-
+河南卫视,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河南都市,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
+河南新闻,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+河南乡村,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
+河南民生,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+河南公共,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8
+河南法治,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8
+欢腾购物,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226432/index.m3u8
+河南国际,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+移动戏曲,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
+河南武术,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
+河南文宝,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8
+睛彩中原,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
+风尚河南,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
+美食汇,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+棋牌汇,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8
+http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226319/index.m3u8
+求索, http://[2409:8087:4401:20:1:f01:1:11]//iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+cctv 赛事http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226161/index.m3u8

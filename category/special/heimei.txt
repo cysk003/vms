@@ -1,0 +1,36 @@
+
+#EXTINF:-1 group-title="影视动画" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="影视动画" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+#EXTINF:-1 group-title="影视动画" tvg-logo="https://www.hualigs.cn/image/6153d999ee4fd.jpg",黑莓动画
+http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="影视动画" tvg-logo="https://www.hualigs.cn/image/6153d999ee4fd.jpg",黑莓动画
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+
+黑莓电影FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225764/2/index.m3u8?fmt=ts2hls
+黑莓电影FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225769/2/index.m3u8?fmt=ts2hls
+黑莓电影FHD,http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电影FHD,http://223.110.243.136/PLTV/3/224/3221225567/index.m3u8
+黑莓电影FHD,http://223.110.243.171/PLTV/3/224/3221227520/index.m3u8
+黑莓电影FHD,http://223.110.243.137/PLTV/3/224/3221225567/index.m3u8
+黑莓电影FHD,http://223.110.243.138/PLTV/3/224/3221225567/index.m3u8
+黑莓电影FHD,http://223.110.243.139/PLTV/3/224/3221225567/index.m3u8
+黑莓电影FHD,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影FHD,http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
+黑莓电影FHD,http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
+黑莓电影FHD,http://117.136.154.86/PLTV/88888888/224/3221225557/index.m3u8
+黑莓电影FHD,http://39.135.34.142:8080/000000001000/8785669936177902664/1.m3u8?
+
+黑莓动画FHD,http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
+黑莓动画FHD,http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls
+黑莓动画FHD,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+黑莓动画FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls
+
+黑莓电竞FHD,http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225653/2/index.m3u8?fmt=ts2hls
+黑莓电竞FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225653/2/index.m3u8?fmt=ts2hls
+黑莓电竞FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225749/2/index.m3u8?fmt=ts2hls
+黑莓电竞FHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225750/2/index.m3u8?fmt=ts2hls
+黑莓电竞FHD,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+

@@ -1,0 +1,194 @@
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155602517945.jpg",AL Jazeera FHD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b68fe67.jpg",ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg",ABC News US HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",BloombergTV HD
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",BloombergTV
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615553ec9a923.jpg",Bloomberg HT HD
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155648caf500.jpg",CNN HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615555aaccc03.jpg",CBS News US HD
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61559410220b4.jpg",Cheddar Big News HD
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155941083b2a.jpg",DW FHD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615594101c9b1.jpg",Euronews HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615691c3949a7.jpg",Fox News Channel HD
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615595663b05d.jpg",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61555d6181a5b.jpg",MSNBC HD
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61555d61ab15d.jpg",NBC NEWS FHD
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61569181bd6eb.jpg",NBC News Now FHD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld FHD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554e11f2db6.jpg",NHKWorld 华语世界 HD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg",Sky Sports 24 HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615560258b362.jpg",TRT World HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="英语新闻",VOA HD
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+
+#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO OASIS HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37334
+#EXTINF:-1 group-title="大马 ASTRO",MY - TV ALHIJRAH
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37337
+#EXTINF:-1 group-title="大马 ASTRO",MY - ZEE Tamil HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37343
+#EXTINF:-1 group-title="大马 ASTRO",MY - STAR VIJAY HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37345
+#EXTINF:-1 group-title="大马 ASTRO",MY - iQIYI HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37349
+#EXTINF:-1 group-title="大马 ASTRO",MY - XIAO TAI YANG HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37351
+#EXTINF:-1 group-title="大马 ASTRO",MY - QUAN JIA HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37354
+#EXTINF:-1 group-title="大马 ASTRO",MY - CELESTIAL HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37355
+#EXTINF:-1 group-title="大马 ASTRO",MY - TVB JADE
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37356
+#EXTINF:-1 group-title="大马 ASTRO",MY - CTI ASIA
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37358
+#EXTINF:-1 group-title="大马 ASTRO",MY - TVB E-NEWS
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37359
+#EXTINF:-1 group-title="大马 ASTRO",MY - TVB XING HE HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37360
+#EXTINF:-1 group-title="大马 ASTRO",MY - TVBS ASIA HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37361
+#EXTINF:-1 group-title="大马 ASTRO",MY - AOD 353 HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37366
+#EXTINF:-1 group-title="大马 ASTRO",MY - AOD 354 HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37367
+#EXTINF:-1 group-title="大马 ASTRO",MY - KBS World HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37369
+#EXTINF:-1 group-title="大马 ASTRO",MY - ONE HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37370
+#EXTINF:-1 group-title="大马 ASTRO",MY - tvN Movies
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37376
+#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO AWANI
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37377
+#EXTINF:-1 group-title="大马 ASTRO",MY - CGTN
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37379
+#EXTINF:-1 group-title="大马 ASTRO",MY - CNA HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37384
+#EXTINF:-1 group-title="大马 ASTRO",MY - NGW HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37388
+#EXTINF:-1 group-title="大马 ASTRO",MY - HISTORY HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37393
+#EXTINF:-1 group-title="大马 ASTRO",MY - TUTOR TV UPSR
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37395
+#EXTINF:-1 group-title="大马 ASTRO",MY - TUTOR TV PT3
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37396
+#EXTINF:-1 group-title="大马 ASTRO",MY - TVIQ
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37398
+#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO CERIA HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37399
+#EXTINF:-1 group-title="大马 ASTRO",MY - NICKELODEON HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37404
+#EXTINF:-1 group-title="大马 ASTRO",MY - NICK JR
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37405
+#EXTINF:-1 group-title="大马 ASTRO",MY - HITS HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37409
+#EXTINF:-1 group-title="大马 ASTRO",MY - FOOD NTWK HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37411
+#EXTINF:-1 group-title="大马 ASTRO",MY - AFN HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37412
+#EXTINF:-1 group-title="大马 ASTRO",MY - WARNER TV
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37414
+#EXTINF:-1 group-title="大马 ASTRO",MY - C&I HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37415
+#EXTINF:-1 group-title="大马 ASTRO",MY - DMAX HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37417
+#EXTINF:-1 group-title="大马 ASTRO",MY - ANIMAX
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37420
+#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO ARENA HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37422
+#EXTINF:-1 group-title="大马 ASTRO",MY - EUROSPORT HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37434
+#EXTINF:-1 group-title="大马 ASTRO",MY - WWE NETWORK
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37435
+#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO CRICKET
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37438
+#EXTINF:-1 group-title="大马 ASTRO",MY - Colors Cineplex
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37455
+#EXTINF:-1 group-title="大马 ASTRO",MY - MTV Asia
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37460
+#EXTINF:-1 group-title="大马 ASTRO",MY - Astro Rania HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37467
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",BERNAMA
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7190
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6730
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6727
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6724
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",Awesome TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9016
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6725
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6713
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6714
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6715
+#EXTINF:-1 group-title="ASTRO | 限制IP播放",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6693
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TV 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8750
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",beIN MAX
+http://iptv.tvmalaysia.cc:80/174726/174726/6748
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/174726/174726/6576
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/174726/174726/6582
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/174726/174726/7142
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",BT Sport 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6611
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/174726/174726/6614
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/174726/174726/6617
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/174726/174726/6618
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",MUTV
+http://iptv.tvmalaysia.cc:80/174726/174726/7236

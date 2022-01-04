@@ -1,0 +1,43 @@
+cctv16 4k, http://live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+cctv 4k, http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
+
+
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1综合
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2财经
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3综艺
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2_hd/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4亚洲
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4美洲
+http://cctvalih5ca.v.myalicdn.com:80/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4欧洲
+http://cctvalih5ca.v.myalicdn.com:80/live/cctveurope_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5体育
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+体育赛事
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6电影
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7国防军事
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8电视剧
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9纪录
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10科教
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11戏曲
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12社会与法
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13新闻
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14少儿
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv15_2/index.m3u8
+#EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17农业农村
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+

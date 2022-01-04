@@ -1,0 +1,76 @@
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1综合频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2经济频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3综艺频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4中文国际HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5体育频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+体育赛事HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225494/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6电影频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225609/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7国防军事HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226002/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8电视剧频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225492/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9纪录频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10科教频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11戏曲频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12社会与法HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13新闻频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226062/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14少儿频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17农业频道HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225590/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",冬奥纪实HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225589/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226064/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225594/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226063/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225505/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225592/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225600/index.m3u8
+#EXTINF:-1 group-title="陕西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视HD
+http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225588/index.m3u8

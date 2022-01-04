@@ -39,3 +39,7 @@ CCTV-7国防军事[1920*1080],http://183.207.249.9/PLTV/3/224/3221225546/index.m
 CCTV-6电影[1920*1080],http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
 中-魅力足球[1920*1080],http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 中-新视觉体育[1920*1080],http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7国防军事
+http://183.207.248.10/PLTV/3/224/3221225546/index.m3u8
+,CCTV-10科教频道 http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8

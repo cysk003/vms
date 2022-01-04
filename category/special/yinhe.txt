@@ -1,0 +1,12 @@
+#EXTINF:-1 group-title="影视动画",银河爆笑喜剧
+http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 group-title="影视动画",银河劲爆动作
+http://111.63.77.77/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 group-title="影视动画",银河热门动画
+http://111.63.77.77/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 group-title="影视动画",银河战争风云
+http://111.63.77.77/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 group-title="影视动画",银河家庭影院
+http://111.63.77.77/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
+#EXTINF:-1 group-title="影视动画",银河大咖影院
+http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD

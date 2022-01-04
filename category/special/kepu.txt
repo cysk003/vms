@@ -1,0 +1,23 @@
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg",求索科学
+http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg",求索纪录
+http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
+#EXTINF:-1 group-title="科普记录",求索生活
+http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg",求索动物
+http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1”, group-title=",爱探索
+http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文
+http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",全纪实
+http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="科普记录" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
+http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+
+求索科学,http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
+求索记录,http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
+求索生活,http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
+求索动物,http://39.134.134.85/000000001000/6000000002000010046/1.m3u8

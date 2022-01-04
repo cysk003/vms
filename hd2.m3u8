@@ -2,22 +2,14 @@
 http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1  group-title="少儿动漫",北京IPTV淘BABY
 http://192.168.50.1:8288/rtp/225.1.8.36:8002
-#EXTINF:-1  group-title="少儿动漫",少儿天地
-http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
 #EXTINF:-1  group-title="少儿动漫",爱幼教
 http://39.134.134.85/000000001000/6000000006000180630/1.m3u8
-#EXTINF:-1  group-title="少儿动漫",爱幼教
-http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
 #EXTINF:-1  group-title="少儿动漫",爱动漫
 http://39.134.134.85/000000001000/6000000006000280630/1.m3u8
-#EXTINF:-1  group-title="少儿动漫",爱动漫
-http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
 #EXTINF:-1  group-title="少儿动漫",爱玩具
 http://39.134.134.85/000000001000/6000000006000220630/1.m3u8
 #EXTINF:-1 tvg-id="456" tvg-name="迪士尼频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="少儿动漫",Disney Channel
 http://60.251.59.178:8507/.m3u8
-#EXTINF:-1  group-title="少儿动漫",爱玩具
-http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"  group-title="少儿动漫",CCTV-14 高清
 http://192.168.50.1:8288/rtp/225.1.0.109:1025
 #EXTINF:-1  group-title="少儿动漫",CIBN动画乐园
@@ -68,14 +60,14 @@ http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
 http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226388/index.m3u8
 #EXTINF:-1  group-title="少儿动漫",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226070/index.m3u8
+#EXTINF:-1  group-title="少儿动漫",江西少儿
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000549&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1  group-title="少儿动漫",江西少儿 8M1080
 http://39.135.140.165:6610/PLTV/88888888/224/3221226194/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="70235" tvg-name="内蒙古少儿频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-children-channel-cn.png"  group-title="少儿动漫",内蒙古少儿 高清
 http://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
 #EXTINF:-1  group-title="少儿动漫",浙江少儿台 高清
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 tvg-id="172" tvg-name="四川妇女儿童频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png"  group-title="少儿动漫",四川妇女儿童 高清
-http://mail.lacool.tk:8086/rtp/239.93.0.219:5140
 #EXTINF:-1  group-title="少儿动漫",杭州少儿
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1  group-title="少儿动漫",福州少儿
@@ -112,16 +104,8 @@ https://sztv-live.cutv.com/1SIQj6s/500/g7r1tI0.m3u8
 http://cloudplay.tk/api/douyu.php?id=1174353
 #EXTINF:-1  group-title="少儿动漫",斗鱼动漫花园
 http://cloudplay.tk/api/douyu.php?id=426517
-#EXTINF:-1  group-title="少儿动漫",熊猫少儿
-http://mail.lacool.tk:8086/rtp/239.93.1.189:5140
-#EXTINF:-1  group-title="少儿动漫",金熊猫卡通高清
-http://mail.lacool.tk:8086/rtp/239.93.1.172:5140
 #EXTINF:-1 tvg-id="172" tvg-name="四川妇女儿童频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png"  group-title="少儿动漫",四川妇女儿童 720
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
-#EXTINF:-1  group-title="少儿动漫",宝宝动画高清
-http://mail.lacool.tk:8086/rtp/239.93.0.147:5140
-#EXTINF:-1  group-title="少儿动漫",少儿动画高清
-http://mail.lacool.tk:8086/rtp/239.93.0.193:9000
 #EXTINF:-1 tvg-id="112" tvg-name="中数新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png"  group-title="少儿动漫",CCTV新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 #EXTINF:-1  group-title="影视",每日影院
@@ -132,6 +116,8 @@ http://192.168.50.1:8288/rtp/225.1.8.98:8002
 http://192.168.50.1:8288/rtp/225.1.8.211:8002
 #EXTINF:-1  group-title="影视",爱上4K
 http://192.168.50.1:8288/rtp/225.1.0.101:1025
+#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",CHC高清电影 8M1080
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000115
 #EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",CHC高清电影 高清
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"  group-title="影视",CHC家庭电影 高清
@@ -147,7 +133,11 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1  group-title="影视",4k花园电影
 http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="70196" tvg-name="都市剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="影视",都市剧场 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
+#EXTINF:-1 tvg-id="70196" tvg-name="都市剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="影视",都市剧场 高清
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+#EXTINF:-1  group-title="影视",DOXTV高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000126
 #EXTINF:-1  group-title="影视",SiTV欢笑剧场
 rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil
 #EXTINF:-1  group-title="影视",SiTV欢笑剧场 4K
@@ -158,6 +148,8 @@ http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1  group-title="影视",黑莓电影 4M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
+#EXTINF:-1  group-title="影视",轮播 高清
+http://39.134.67.4/PLTV/88888888/224/3221225521/index.m3u8
 #EXTINF:-1  group-title="影视",爱家庭
 http://39.134.134.85/000000001000/6000000006000090630/1.m3u8
 #EXTINF:-1  group-title="影视",爱江湖
@@ -168,44 +160,24 @@ http://39.134.134.85/000000001000/6000000006000040630/1.m3u8
 http://39.134.134.85/000000001000/6000000006000320630/1.m3u8
 #EXTINF:-1  group-title="影视",爱喜剧
 http://39.134.134.85/000000001000/6000000006000010630/1.m3u8
-#EXTINF:-1  group-title="影视",爱喜剧
-http://mail.lacool.tk:8086/rtp/239.93.42.9:5140
 #EXTINF:-1  group-title="影视",爱科幻
 http://39.134.134.85/000000001000/6000000006000020630/1.m3u8
-#EXTINF:-1  group-title="影视",爱科幻
-http://mail.lacool.tk:8086/rtp/239.93.42.10:5140
 #EXTINF:-1  group-title="影视",爱院线
 http://39.134.134.85/000000001000/6000000006000030630/1.m3u8
-#EXTINF:-1  group-title="影视",爱院线
-http://mail.lacool.tk:8086/rtp/239.93.42.11:5140
 #EXTINF:-1  group-title="影视",爱悬疑
 http://39.134.134.85/000000001000/6000000006000050630/1.m3u8
-#EXTINF:-1  group-title="影视",爱悬疑
-http://mail.lacool.tk:8086/rtp/239.93.42.12:5140
 #EXTINF:-1  group-title="影视",爱经典
 http://39.134.134.85/000000001000/6000000006000060630/1.m3u8
-#EXTINF:-1  group-title="影视",爱经典
-http://mail.lacool.tk:8086/rtp/239.93.42.13:5140
 #EXTINF:-1  group-title="影视",爱谍战
 http://39.134.134.85/000000001000/6000000006000070630/1.m3u8
-#EXTINF:-1  group-title="影视",爱谍战
-http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
 #EXTINF:-1  group-title="影视",爱都市
 http://39.134.134.85/000000001000/6000000006000080630/1.m3u8
-#EXTINF:-1  group-title="影视",爱都市
-http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
 #EXTINF:-1  group-title="影视",爱青春
 http://39.134.134.85/000000001000/6000000006000100630/1.m3u8
-#EXTINF:-1  group-title="影视",爱青春
-http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
 #EXTINF:-1  group-title="影视",爱怀旧
 http://39.134.134.85/000000001000/6000000006000260630/1.m3u8
-#EXTINF:-1  group-title="影视",爱怀旧
-http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
 #EXTINF:-1  group-title="影视",爱奇谈
 http://39.134.134.85/000000001000/6000000006000270630/1.m3u8
-#EXTINF:-1  group-title="影视",爱奇谈
-http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
 #EXTINF:-1  group-title="影视",爱猎奇
 http://39.134.134.85/000000001000/6000000006000190630/1.m3u8
 #EXTINF:-1  group-title="影视",咪咕4K 31M2160HEVC
@@ -248,6 +220,8 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=4
 #EXTINF:-1  group-title="影视",NewTV超级电视剧 2.5M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=4
+#EXTINF:-1  group-title="影视",Hot精彩影视 8M1080
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000149
 #EXTINF:-1  group-title="影视",河北爆笑喜剧
 http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 #EXTINF:-1  group-title="影视",河北劲爆动作
@@ -322,12 +296,18 @@ http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
 http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
 #EXTINF:-1  group-title="影视",IPTV古装剧场
 http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="中数第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png"  group-title="影视",CCTV第一剧场 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000569
 #EXTINF:-1  group-title="影视",第一剧场高清
 http://notwhy.f3322.net:5000/udp/225.1.2.175:5002
-#EXTINF:-1  group-title="影视",怀旧剧场高清
-http://notwhy.f3322.net:5000/udp/225.1.2.173:5002
+#EXTINF:-1 tvg-id="85" tvg-name="中数风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png"  group-title="影视",CCTV风云剧场 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000570
 #EXTINF:-1  group-title="影视",风云剧场高清
 http://notwhy.f3322.net:5000/udp/225.1.2.174:5002
+#EXTINF:-1 tvg-id="87" tvg-name="中数怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg"  group-title="影视",CCTV怀旧剧场 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000571
+#EXTINF:-1  group-title="影视",怀旧剧场高清
+http://notwhy.f3322.net:5000/udp/225.1.2.173:5002
 #EXTINF:-1  group-title="影视",精彩电影 10M1080
 http://211.137.115.110:8080/gitv_live/GITV-6/GITV-6.m3u8
 #EXTINF:-1  group-title="影视",精彩电视剧 10M1080
@@ -336,10 +316,6 @@ http://211.137.115.110:8080/gitv_live/GITV-8/GITV-8.m3u8
 http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1  group-title="影视",湖南电视剧 超清
 http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="影视",四川峨眉影视 高清
-http://mail.lacool.tk:8086/rtp/239.93.1.54:5140
-#EXTINF:-1  group-title="影视",熊猫影院 高清
-http://mail.lacool.tk:8086/rtp/239.93.0.214:5140
 #EXTINF:-1 tvg-id="141" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"  group-title="影视",BTV影视 高清
 http://192.168.50.1:8288/rtp/225.1.8.82:8000
 #EXTINF:-1 tvg-id="70044" tvg-name="西安影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/xatv4.jpg"  group-title="影视",西安影视
@@ -480,8 +456,6 @@ http://notwhy.f3322.net:5000/udp/225.1.2.176:5002
 http://notwhy.f3322.net:5000/udp/225.1.2.55:5002
 #EXTINF:-1  group-title="综艺",咪咕音乐
 http://117.148.179.160/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1  group-title="综艺",音乐现场高清
-http://mail.lacool.tk:8086/rtp/239.93.0.198:9044
 #EXTINF:-1  group-title="综艺",音乐20TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="139" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png"  group-title="综艺",BTV文艺 高清
@@ -496,8 +470,8 @@ http://111.63.77.77/gitv_live/GITV-HB-4/GITV-HB-4.m3u8?p=GITV&area=HBYD
 http://111.63.77.77/gitv_live/GITV-HB-5/GITV-HB-5.m3u8?p=GITV&area=HBYD
 #EXTINF:-1  group-title="综艺",河北真人秀场
 http://111.63.77.77/gitv_live/GITV-HB-6/GITV-HB-6.m3u8?p=GITV&area=HBYD
-#EXTINF:-1  group-title="综艺",幸福娱乐
-http://mail.lacool.tk:8086/rtp/239.93.42.31:5140
+#EXTINF:-1  group-title="综艺",CBN幸福娱乐
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000567
 #EXTINF:-1  group-title="综艺",NewTV超级综艺 2.5M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=4
 #EXTINF:-1  group-title="综艺",NewTV超级综艺 4M1080
@@ -510,8 +484,6 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://111.12.101.23:6610/PLTV/77777777/224/3221225728/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1  group-title="综艺",NewTV综艺[1920*1080]
 http://39.135.138.59:18890/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1  group-title="综艺",热门综艺 高清
-http://mail.lacool.tk:8086/rtp/239.93.0.151:5140
 #EXTINF:-1  group-title="综艺",湖南娱乐 超清
 http://124.232.233.15:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="70236" tvg-name="内蒙古文体娱乐频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-culture-entertainment-channel-cn.png"  group-title="综艺",内蒙古文体娱乐
@@ -536,10 +508,6 @@ http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1&IASHtt
 http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=
 #EXTINF:-1  group-title="综艺",晴彩梨园FHD
 http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
-#EXTINF:-1  group-title="综艺",戏曲精选
-http://mail.lacool.tk:8086/rtp/239.93.0.144:5140
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png"  group-title="综艺",戏曲
-http://mail.lacool.tk:8086/rtp/239.93.0.217:9208
 #EXTINF:-1  group-title="综艺",经典小品
 http://cloudplay.tk/api/douyu.php?id=9322175
 #EXTINF:-1  group-title="综艺",爱娱乐
@@ -598,8 +566,8 @@ http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
 http://60.251.59.178:8501/.m3u8
 #EXTINF:-1  group-title="科教",求索纪录
 http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
-#EXTINF:-1  group-title="科教",求索纪录
-http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
+#EXTINF:-1  group-title="科教",求索纪录 8M1080
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000144
 #EXTINF:-1 tvg-id="76" tvg-name="华数求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg"  group-title="科教",求索科学
 http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
 #EXTINF:-1  group-title="科教",求索生活
@@ -620,8 +588,6 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=4
 #EXTINF:-1  group-title="科教",NewTV精品纪录 2.5M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
-#EXTINF:-1 tvg-id="70179" tvg-name="四川科教" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/sichuan-science-channel-cn.png"  group-title="科教",四川科教 高清
-http://mail.lacool.tk:8086/rtp/239.93.42.44:5140
 #EXTINF:-1  group-title="科教",洛阳科教 高清
 http://219.150.217.47:6610/PLTV1/1860/index.m3u8?icpid=dxrm1&servicetype=
 #EXTINF:-1  group-title="科教",天津科教 高清
@@ -640,18 +606,14 @@ https://jsylivealone302.iqilu.com/guangrao/guangrao_tv02.m3u8
 http://zbbf2.ahtv.cn/live/754.m3u8
 #EXTINF:-1  group-title="科教",世界地理高清
 http://notwhy.f3322.net:5000/udp/225.1.2.171:5002
-#EXTINF:-1  group-title="科教",兵器科技高清
+#EXTINF:-1 tvg-id="88" tvg-name="中数兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg"  group-title="科教",兵器科技 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000572
+#EXTINF:-1 tvg-id="88" tvg-name="中数兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg"  group-title="科教",兵器科技 高清
 http://notwhy.f3322.net:5000/udp/225.1.2.166:5002
-#EXTINF:-1  group-title="科教",央视文化精品高清
+#EXTINF:-1 tvg-id="94" tvg-name="中数央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"  group-title="科教",央视文化精品 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000573
+#EXTINF:-1 tvg-id="94" tvg-name="中数央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"  group-title="科教",央视文化精品 高清
 http://notwhy.f3322.net:5000/udp/225.1.2.177:5002
-#EXTINF:-1  group-title="科教",墨宝高清
-http://mail.lacool.tk:8086/rtp/239.93.0.215:9132
-#EXTINF:-1  group-title="科教",军事高清
-http://mail.lacool.tk:8086/rtp/239.93.0.204:9076
-#EXTINF:-1  group-title="科教",解密高清
-http://mail.lacool.tk:8086/rtp/239.93.0.199:9048
-#EXTINF:-1  group-title="科教",地理高清
-http://mail.lacool.tk:8086/rtp/239.93.0.200:9052
 #EXTINF:-1 tvg-id="433" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="科教",国家地理
 http://60.251.59.178:8521/.m3u8
 #EXTINF:-1 tvg-id="433" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="科教",国家地理 台湾
@@ -699,18 +661,28 @@ http://39.134.38.130:80/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1  group-title="体育",4k体育
 http://39.134.39.62:80/PLTV/88888888/224/3221226351/index.m3u8
 #EXTINF:-1  group-title="体育",爱体育
-http://mail.lacool.tk:8086/rtp/239.93.42.25:5140
-#EXTINF:-1  group-title="体育",爱体育
 http://39.134.134.85/000000001000/6000000006000290630/1.m3u8
 #EXTINF:-1  group-title="体育",爱赛车
-http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
-#EXTINF:-1  group-title="体育",爱赛车
 http://39.134.134.85/000000001000/6000000006000240630/1.m3u8
-#EXTINF:-1  group-title="体育",风云足球高清
-http://notwhy.f3322.net:5000/udp/225.1.2.168:5002
-#EXTINF:-1  group-title="体育",高尔夫网球高清
+#EXTINF:-1  group-title="体育",SiTV劲爆体育 8M1080
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000116
+#EXTINF:-1 tvg-id="94" tvg-name="中数央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"  group-title="体育",央视文化精品 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000573
+#EXTINF:-1 tvg-id="93" tvg-name="中数高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg"  group-title="体育",高尔夫网球 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000574
+#EXTINF:-1 tvg-id="93" tvg-name="中数高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg"  group-title="体育",高尔夫网球 高清
 http://notwhy.f3322.net:5000/udp/225.1.2.169:5002
-#EXTINF:-1  group-title="体育",央视台球高清
+#EXTINF:-1 tvg-id="75" tvg-name="中数风云足球" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/FengyunFootball.cn.png"  group-title="体育",风云足球 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000576
+#EXTINF:-1 tvg-id="75" tvg-name="中数风云足球" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/FengyunFootball.cn.png"  group-title="体育",风云足球 高清
+http://notwhy.f3322.net:5000/udp/225.1.2.168:5002
+#EXTINF:-1 tvg-id="167" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png"  group-title="体育",魅力足球 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000577
+#EXTINF:-1  group-title="体育",美丽足球
+http://113.64.147.206:808/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="中数CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png"  group-title="央视",央视台球 高清
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000596
+#EXTINF:-1 tvg-id="105" tvg-name="中数CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png"  group-title="体育",央视台球 高清
 http://notwhy.f3322.net:5000/udp/225.1.2.170:5002
 #EXTINF:-1  group-title="体育",NewTV体育[1920*1080]
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
@@ -738,28 +710,14 @@ http://notwhy.f3322.net:5000/udp/225.1.2.1:5002
 http://notwhy.f3322.net:5000/udp/225.1.1.105:5002
 #EXTINF:-1  group-title="体育",赛事频道
 http://notwhy.f3322.net:5000/udp/225.1.1.107:5002
-#EXTINF:-1  group-title="体育",中国体育1
-http://mail.lacool.tk:8086/rtp/239.93.42.25:5140
-#EXTINF:-1  group-title="体育",麻辣体育
-http://mail.lacool.tk:8086/rtp/239.93.42.2:5140
-#EXTINF:-1  group-title="体育",足球高清
-http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
-#EXTINF:-1  group-title="体育",高网高清
-http://mail.lacool.tk:8086/rtp/239.93.0.202:9068
-#EXTINF:-1  group-title="体育",台球高清
-http://mail.lacool.tk:8086/rtp/239.93.0.203:9072
 #EXTINF:-1 tvg-id="70083" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new4.png"  group-title="体育",精品体育 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"  group-title="体育",体育赛事 8M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1  group-title="体育",美丽足球
-http://113.64.147.206:808/hls/50/index.m3u8
 #EXTINF:-1  group-title="其他",法治天地
 rtsp://183.252.166.199/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil
 #EXTINF:-1  group-title="其他",股评汇
 rtsp://183.252.166.199/PLTV/88888888/224/3221226024/10000100000000060000000002296865_0.smil
-#EXTINF:-1  group-title="其他",来钓鱼吧
-http://mail.lacool.tk:8086/rtp/239.93.42.8:5140
 #EXTINF:-1  group-title="其他",爱电竞
 http://39.134.134.85/000000001000/6000000006000230630/1.m3u8
 #EXTINF:-1  group-title="其他",爱旅行

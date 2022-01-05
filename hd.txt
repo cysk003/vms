@@ -9,6 +9,7 @@
 少儿动漫,CIBN动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
 少儿动漫,Bestv动画1,rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
 少儿动漫,Bestv动画2,rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
+少儿动漫,NewTV动画王国,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 少儿动漫,黑莓动画 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
 少儿动漫,黑莓动画 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 少儿动漫,黑莓动画,http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
@@ -163,6 +164,7 @@
 影视,湖南电影 超清,http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 影视,湖南电视剧 超清,http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #影视,四川峨眉影视 高清,http://mail.lacool.tk:8086/rtp/239.93.1.54:5140
+影视,四川峨眉影视,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #影视,熊猫影院 高清,http://mail.lacool.tk:8086/rtp/239.93.0.214:5140
 影视,BTV影视 高清,http://192.168.50.1:8288/rtp/225.1.8.82:8000
 影视,西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
@@ -231,6 +233,7 @@
 综艺, M1 MTV,http://live.m2.tv/hls2/stream.m3u8
 综艺, M2 MTV,http://live.m2.tv/hls3/stream.m3u8
 综艺, MTV Biggest Pop (720p) ,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+综艺,Hot风尚音乐 2M1080,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000294
 综艺,风云音乐高清,http://notwhy.f3322.net:5000/udp/225.1.2.176:5002
 综艺,潮流音乐高清,http://notwhy.f3322.net:5000/udp/225.1.2.55:5002
 综艺,咪咕音乐,http://117.148.179.160/PLTV/88888888/224/3221231622/index.m3u8

@@ -432,3 +432,17 @@ http://111.11.121.184:6610/030000001001/ljiankangyouyue/1.m3u8?channel-id=ystenl
 http://111.11.121.184:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北易视-低码",搏击HD
 http://111.11.121.184:6610/030000001001/SD-1500k-576P-bokesen/1.m3u8?channel-id=ystenlive
+
+
+#EXTINF:-1 ,黑莓电影
+http://111.11.121.184:6610/030000001001/jdianying/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,军旅剧场
+http://111.11.121.184:6610/030000001001/junlvjc/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,海外剧场
+http://111.11.121.184:6610/030000001001/xiqumd/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,精品记录
+http://111.11.121.184:6610/030000001001/jingpinjl/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,明星大片
+http://111.11.121.184:6610/030000001001/mingxingdp/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,军事评论
+http://111.11.121.184:6610/030000001001/junshipl/1.m3u8?channel-id=ystenlive

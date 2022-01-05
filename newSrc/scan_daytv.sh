@@ -76,3 +76,52 @@ do
   fi
 done
 
+for id in `seq 1000 1050`;
+do
+  url=http://60.26.13.217:9901/tsfile/live/${id}_1.m3u8
+  result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
+  echo $url, $result
+  if [ $result -eq 0 ]; then
+      echo $id,$url >> category/shandong/jinan.txt
+  fi
+done
+
+http://60.26.13.217:9901/tsfile/live/1001_1.m3u8
+
+
+for i in `seq 27000 27999`;
+do
+  tvid=`printf %5d $i`
+  url="http://211.94.219.169:18080/PLTV/68/224/32212$tvid/index.m3u8"
+  result=`curl $url 2>/dev/null| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $i,$url >> category/tianjin/tianjin_liantong.txt
+  fi
+done
+
+
+for i in `seq 25800 26999`;
+do
+  tvid=`printf %5d $i`
+  url="http://211.94.219.169:18080/PLTV/68/224/32212$tvid/index.m3u8"
+  result=`curl $url 2>/dev/null|grep "hls.ts"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $i,"http://211.94.219.169:18080/PLTV/68/224/32212$tvid/index.m3u8" >> category/tianjin/tianjin_liantong.txt
+  fi
+done
+
+for i in `seq 27000 27500`;
+do
+  tvid=`printf %5d $i`
+  url="http://39.135.129.166/PLTV/88888888/224/32212$tvid/index.m3u8"
+  result=`curl $url 2>/dev/null| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $i,"$url" >> category/liaoning/chaoyang.txt
+  fi
+done
+
+
+

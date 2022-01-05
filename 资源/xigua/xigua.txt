@@ -1,0 +1,15 @@
+curl 'https://www.ixigua.com/api/albumv2/details?_signature=_02B4Z6wo00f016FKHagAAIDCXwZhm.TytYehbhkAAImQf8&albumId=6932768163914318343&episodeId=6933021627793801741&block=1' \
+  -H 'authority: www.ixigua.com' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'tt-anti-token: ' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  -H 'cookie: MONITOR_WEB_ID=b926358f-9253-4063-939a-7c6687c2726b; ttwid=1%7CR8SbX-Dj5nilK2_IzDbNa4vaz_u4T7lc7YL16sWGG04%7C1641164150%7Cb0653db0050ac390641c66fe624450864b4605d4fc6959012ff86102e94c4584; support_webp=true; support_avif=true; __ac_nonce=061d577c90030da868cab; __ac_signature=_02B4Z6wo00f014OYaQgAAIDCfdQVOnsu5x-DvG2AAIE7e7; _tea_utm_cache_1300=undefined; ixigua-a-s=1' \
+  --compressed

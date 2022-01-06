@@ -290,3 +290,8 @@ http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 东森洋片SD,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 靖天电影,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
+中天新闻,http://193.38.51.87/iptv/ztxw.m3u8
+东森电影,http://113.64.147.9:808/hls/58/index.m3u8
+http://113.64.147.3:808/hls/67/index.m3u8
+http://193.38.51.87/iptv/fct.m3u8
+国家地理TW,http://211.23.114.106:8509/.m3u8

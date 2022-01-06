@@ -18,6 +18,8 @@ http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
 rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
 #EXTINF:-1  group-title="少儿动漫",Bestv动画2
 rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
+#EXTINF:-1  group-title="少儿动漫",NewTV动画王国
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿动漫",黑莓动画 4M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿动漫",黑莓动画 HD
@@ -316,6 +318,8 @@ http://211.137.115.110:8080/gitv_live/GITV-8/GITV-8.m3u8
 http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1  group-title="影视",湖南电视剧 超清
 http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  group-title="影视",四川峨眉影视
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"  group-title="影视",BTV影视 高清
 http://192.168.50.1:8288/rtp/225.1.8.82:8000
 #EXTINF:-1 tvg-id="70044" tvg-name="西安影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/xatv4.jpg"  group-title="影视",西安影视
@@ -450,6 +454,8 @@ http://live.m2.tv/hls2/stream.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="324" tvg-name="MTVLiveHD音乐频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png"  group-title="综艺", MTV Biggest Pop (720p) 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1  group-title="综艺",Hot风尚音乐 2M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000294
 #EXTINF:-1  group-title="综艺",风云音乐高清
 http://notwhy.f3322.net:5000/udp/225.1.2.176:5002
 #EXTINF:-1  group-title="综艺",潮流音乐高清

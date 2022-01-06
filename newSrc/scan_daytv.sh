@@ -123,5 +123,36 @@ do
   fi
 done
 
+for id in `seq 3000 3500`;
+do
+  url="http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel$id/index.m3u8"
+  result=`curl -I $url 2>/dev/null| grep HTTP |awk '{print $2}'`
+  echo $url, $result
+  if [ "$result" = "200" ]; then
+      echo $id,"$url" >> newSrc/otvcloud2.txt
+  fi
+done
 
+
+
+curl http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8 -I
+
+for host in `seq 1 112`;
+do
+for id in `seq 1 5000`;
+do
+  url="http://122.140.20.203:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  result=`curl --connect-timeout 1 -m3  $url 2>/dev/null|grep "404错误" |wc -l`
+  echo $url, $result
+  if [ "$result" -eq 0 ]; then
+      echo $id,"$url" >> category/jilin/122.txt
+  fi
+done
+done
+
+
+http://27.47.68.3:808/hls/62/index.m3u8
+
+
+http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
 

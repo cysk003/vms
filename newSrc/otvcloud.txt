@@ -16,23 +16,4 @@ CCTV4K超高清,http://wuxi201314.eu5.org/ab.php?id=51021
 #
 
 ## 38 82 179-180
-43036,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
-43038,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
-43041,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43041/index.m3u8
-43064,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43064/index.m3u8
-43095,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43095/index.m3u8
-43096,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43096/index.m3u8
-43097,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43097/index.m3u8
-31001,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel31001/index.m3u8
-31002,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel31002/index.m3u8
-31003,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel31003/index.m3u8
-31004,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel31004/index.m3u8
-31005,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel31005/index.m3u8
-31006,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel31006/index.m3u8
-32010,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel32010/index.m3u8
-50004,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel50004/index.m3u8
-51016,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel51016/index.m3u8
-52001,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52001/index.m3u8
-52002,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-52003,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-52004,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52004/index.m3u8
+

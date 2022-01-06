@@ -50,19 +50,43 @@ def get_video_list(url):
     resp = requests.get(url, headers=headers)
     resp.encoding="utf-8"
     title=re.findall(r"<title[^>]+>([^<]+)", resp.text)[0].split("-")[0].split()[0]
-    albumId=re.search("data-album-id=\"([^\"]*)", resp.text).group(1)
-    episodeId=re.search("data-episode-id=\"([^\"]*)", resp.text).group(1)
-
-    detailUrl = "https://www.ixigua.com/api/albumv2/details?albumId=%s&episodeId=%s&block=1" %(albumId, episodeId)
-    resp = requests.get(detailUrl, headers=headers)
-    resp.encoding="utf-8"
-    j_resp = resp.json()
-    playlist = j_resp["data"]["playlist"]
-    if len(playlist) > 1:
-        for playItem in playlist:
-            print("%s,%s,http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/%s?id=%s"%(title,playItem["bottomLabel"]+" " + playItem["name"],albumId,playItem["episodeId"]))
+    albumId = ""
+    groupId = ""
+    episodeId=""
+    albumIdInfo=re.search("data-album-id=\"([^\"]*)", resp.text)
+    if albumIdInfo == None:
+        group =re.search("projection-series-header-title\" title=\"([^\"]+)",resp.text).group(1)
+        groupId=re.search("data-group-id=\"([^\"]*)", resp.text).group(1)
+        albumId=re.search("data-p-series-id=\"([^\"]*)", resp.text).group(1)
+        i = 0
+        detailUrl = "https://www.ixigua.com/api/videov2/pseries_more_v2?pSeriesId=%s&rank=%s&tailCount=30" %(albumId, i)
+        resp = requests.get(detailUrl, headers=headers)
+        resp.encoding="utf-8"
+        j_resp = resp.json()
+        playlist = j_resp["data"]
+        print(albumId)
+        while len(playlist) != 0:
+            for playItem in playlist:
+                print("%s,%s,http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/%s?id=%s"%(group,playItem["title"],albumId,playItem["group_id"]))
+            i = i+30
+            detailUrl = "https://www.ixigua.com/api/videov2/pseries_more_v2?pSeriesId=%s&rank=%s&tailCount=30" %(albumId, i)
+            resp = requests.get(detailUrl, headers=headers)
+            resp.encoding="utf-8"
+            j_resp = resp.json()
+            playlist = j_resp["data"]           
     else:
-        print("电影,%s,http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/%s?id=%s"%(playlist[0]["title"],albumId,playlist[0]["episodeId"]))
+        albumId = albumIdInfo.group(1)
+        episodeId=re.search("data-episode-id=\"([^\"]*)", resp.text).group(1)
+        detailUrl = "https://www.ixigua.com/api/albumv2/details?albumId=%s&episodeId=%s&block=1" %(albumId, episodeId)
+        resp = requests.get(detailUrl, headers=headers)
+        resp.encoding="utf-8"
+        j_resp = resp.json()
+        playlist = j_resp["data"]["playlist"]
+        if len(playlist) > 1:
+            for playItem in playlist:
+                print("%s,%s,http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/%s?id=%s"%(title,playItem["bottomLabel"]+" " + playItem["name"],albumId,playItem["episodeId"]))
+        else:
+            print("电影,%s,http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/%s?id=%s"%(playlist[0]["title"],albumId,playlist[0]["episodeId"]))
 
     
 def main():

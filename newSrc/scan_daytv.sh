@@ -112,16 +112,18 @@ do
   fi
 done
 
-for i in `seq 27000 27500`;
+for i in `seq 25000 29000`;
 do
   tvid=`printf %5d $i`
-  url="http://39.135.129.166/PLTV/88888888/224/32212$tvid/index.m3u8"
+  url="http://39.135.46.246:6610/PLTV/77777777/224/32212$tvid/index.m3u8?IASHttpSessionId=OTT10201320220107075958000779"
   result=`curl $url 2>/dev/null| wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
-      echo $i,"$url" >> category/liaoning/chaoyang.txt
+      echo $i,"$url" >> category/guangxi/guilin.txt
   fi
 done
+
+http://39.135.46.246:6610/PLTV/77777777/224/3221225923/index.m3u8?
 
 for id in `seq 3000 3500`;
 do

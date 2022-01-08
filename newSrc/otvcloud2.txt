@@ -11,8 +11,8 @@
 11,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
 12,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 13,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
-16,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
-17,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
+广东卫视 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/2300.m3u8
+深圳卫视 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/2300.m3u8
 18,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
 19,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
 20,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8

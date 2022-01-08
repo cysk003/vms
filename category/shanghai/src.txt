@@ -137,3 +137,4 @@ SiTV东方财经 540,http://183.207.255.190/live/program/live/dfcj/1300000/mnf.m
 百事通体育 1080,http://183.207.255.190/live/program/live/hdnba4/4000000/mnf.m3u8
 百事通体育 1080,http://183.207.255.190/live/program/live/hdnba6/4000000/mnf.m3u8
 百事通体育 1080,http://183.207.255.190/live/program/live/hdnba7/4000000/mnf.m3u8
+

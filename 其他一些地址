@@ -37,6 +37,7 @@ curl 'https://v.ddys.tv:19543/video?id=Q4%2FHUbdFaY372U0FjOugjg4ZHu%2BOmeF3N4dOh
   --compressed
 
 ## 视频
+饭团 ios https://fantuan.tv/ https://gitee.com/CCSHCoder/APP/raw/master/XPath/fantuan.json
 4K屋：http://www.kkkkwu.com
 4K鸭：https://yanetflix.com
 8号影院：http://www.8hyyw.com
@@ -66,12 +67,13 @@ V6电影版：https://www.66s.cc
 爱看美剧：https://www.akmeiju.com
 爱美剧：https://agmov.com
 爱迪影视：http://aidi.tv
-极品影视：https://www.jpysvip.net
+极品影视：https://www.jpysvip.net           https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json
 电影先生：http://www.dianyingim.com
 哔嘀影视：https://www.mp4er.com
 影视饭TV：https://www.ysftv.com
 韩迷TV：https://www.hmtv.me
 CCTV：http://tv.cctv.com/live/m/
+神马影院 https://www.smdyy.cc/ https://gitee.com/CCSHCoder/APP/raw/master/XPath/smdyy.json
 牛视网在线免费网络电视直播平台：https://www.chaojidianshi.net/
 
 https://alltubedownload.net/

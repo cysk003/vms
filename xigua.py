@@ -38,7 +38,8 @@ def get_video_id(url):
     # 获取video_id
     return re.search("videoId: '([^\']+)'", resp.text).group(1)
 
-
+def get_ablums_list(url):
+    return
 def get_video_list(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",

@@ -2,7 +2,7 @@
 http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1  group-title="少儿动漫",北京IPTV淘BABY
 http://192.168.50.1:8288/rtp/225.1.8.36:8002
-#EXTINF:-1  group-title="xc少儿动漫",少儿天地
+#EXTINF:-1  group-title="少儿动漫",少儿天地
 http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
 #EXTINF:-1  group-title="少儿动漫",爱幼教
 http://39.134.134.85/000000001000/6000000006000180630/1.m3u8
@@ -100,6 +100,8 @@ http://39.130.202.81:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
 http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb12.m3u8
 #EXTINF:-1 tvg-id="70145" tvg-name="广东少儿" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ZhuhaiTV2Guangdong.cn.png"  group-title="少儿动漫",广东少儿 720
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=44&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="70145" tvg-name="广东少儿" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ZhuhaiTV2Guangdong.cn.png"  group-title="少儿动漫",广东少儿 720
+http://192.168.50.223:8880/referer?id=GDSE
 #EXTINF:-1  group-title="少儿动漫",深圳少儿 720
 http://149.129.100.78/sztv.php?id=7
 #EXTINF:-1  group-title="少儿动漫",深圳少儿 720
@@ -558,8 +560,14 @@ http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-
 http://192.168.50.1:8288/rtp/225.1.8.9:8112
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"  group-title="科教",CCTV10 科教 高清
 http://192.168.50.1:8288/rtp/225.1.8.10:8116
-#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",中国教育1 高清
+#EXTINF:-1  group-title="科教",CETV-1 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
+#EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="科教",CETV-2 720
+http://192.168.50.223:8880/referer?id=CETV-2
+#EXTINF:-1 tvg-id="65" tvg-name="教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png"  group-title="科教",CETV-3 720
+http://192.168.50.223:8880/referer?id=CETV-3
+#EXTINF:-1 tvg-id="136" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"  group-title="科教",CETV-4 720
+http://192.168.50.223:8880/referer?id=CETV-4
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="科教",CGTN 纪录 高清
 http://192.168.50.1:8288/rtp/225.1.8.177:4222
 #EXTINF:-1 tvg-id="225" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"  group-title="科教",金鹰纪实 高清

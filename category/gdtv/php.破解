@@ -31,7 +31,7 @@ $m = array(
 'yzgj' => 177444,
 );
 if(!!$n[$id]) {
-    $url = "http://vapp.96189.com/setsail/external/externalService?service=getChannelDetail&#182;ms={%22channelId%22:%22".$n[$id]."%22}";
+    $url = "http://vapp.96189.com/setsail/external/externalService?service=getChannelDetail&params={%22channelId%22:%22".$n[$id]."%22}";
     $data = file_get_contents($url);
     $str = preg_split("/[\s,]/",json_decode($data) -> data -> playUrl);
     $playurl = preg_replace('|yftv|','yztv',$str[1]);

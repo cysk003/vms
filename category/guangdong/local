@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东频道",南方卫视
+http://hongyanqiang.top/chudian.php?id=nfws
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视上星" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东频道",南方卫视上星
+http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东频道",广东珠江
+http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东频道",广东珠江 1080
+http://host496323.us.ooqr.com/pltv/gdgz.php?id=41&upt=63a44f4ef2f3c6ce
+#EXTINF:-1 tvg-id="广东体育" tvg-name="" tvg-logo="" group-title="广东频道",广东体育 1080
+http://host496323.us.ooqr.com/pltv/gdgz.php?id=gdty&upt=63a44f4ef2f3c6ce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",广东体育(GRTN)
+http://hongyanqiang.top/chudian.php?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="GuangDongTiYu.cn" group-title="广东频道",广东体育
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",广东新闻
+http://hongyanqiang.top/chudian.php?id=gdxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",广州新闻
+https://aplay.gztv.com/sec/xinwen.m3u8
+
+
+广东公共,http://hongyanqiang.top/chudian.php?id=gdgg
+广东新闻,http://hongyanqiang.top/chudian.php?id=gdxw
+广东影视,http://hongyanqiang.top/chudian.php?id=gdys
+广东少儿,http://hongyanqiang.top/chudian.php?id=gdse
+广东体育,http://hongyanqiang.top/chudian.php?id=gdty
+广东国际,http://hongyanqiang.top/chudian.php?id=gdgj

@@ -1,0 +1,86 @@
+湖南星视界php官播地址:https://xs0.csxxsj.cn/wxtv/#/liv ... rl=&state=STATE
+
+[hide]
+
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'cctv1';
+$n = array(
+  'cctv1' => 63143,//CCTV1
+  'cctv2' => 63144,//CCTV2
+  'cctv3' => 70070,//CCTV3
+  'cctv4' => 70071,//CCTV4
+  'cctv5' => 70072,//CCTV5
+  'cctv5p' => 70125,//CCTV5+
+  'cctv6' => 70073,//CCTV6
+  'cctv7' => 70074,//CCTV7
+  'cctv8' => 70075,//CCTV8
+  'cctv9' => 70077,//CCTV9
+  'cctv10' => 70076,//CCTV10
+  'cctv11' => 70078,//CCTV11
+  'cctv12' => 70079,//CCTV12
+  'cctv13' => 70080,//CCTV13
+  'cctv14' => 70081,//CCTV14
+  'cctv15' => 70082,//CCTV15
+  'fyyy' => 70118,//CCTV风云音乐
+  'fyzq' => 70120,//CCTV风云足球
+  'ystq' => 70122,//CCTV央视台球
+
+  'hnws' => 70090,//湖南卫视
+  'zjws' => 70100,//浙江卫视
+  'cqws' => 70101,//重庆卫视
+  'sdws' => 70102,//山东卫视
+  'jsws' => 70103,//江苏卫视
+  'gzws' => 70104,//贵州卫视
+  'dnws' => 70105,//东南卫视
+  'scws' => 70106,//四川卫视
+  'lnws' => 70107,//辽宁卫视
+  'hbws' => 70108,//湖北卫视
+  'bjws' => 70109,//北京卫视
+  'dfws' => 70110,//东方卫视
+  'lyws' => 70111,//海南卫视
+  'ahws' => 70112,//安徽卫视
+  'qhws' => 70113,//青海卫视
+  'hljws' => 70114,//黑龙江卫视
+  'gdws' => 70115,//广东卫视
+  'jlws' => 70116,//吉林卫视
+  'szws' => 70117,//深圳卫视
+
+  'hnjs' => 70091,//湖南经视
+  'hnyl' => 70092,//湖南娱乐
+  'hnds' => 70093,//湖南都市
+  'hngg' => 70094,//湖南公共
+  'hndsj' => 70095,//湖南电视剧
+  'jyjs' => 70096,//金鹰纪实
+  'jykt' => 70097,//金鹰卡通
+  'hndy' => 70098,//湖南电影
+  'hnjy' => 70099,//湖南教育
+  'klcd' => 70121,//快乐垂钓
+
+  'csxw' => 70086,//长沙新闻
+  'cszf' => 70087,//长沙政法
+  'csys' => 70088,//长沙影视
+  'csnx' => 70089,//长沙女性
+  'csxxwzh' => 70129,//长沙县新闻综合
+  'csxdssh' => 70130,//长沙县都市生活
+
+  'jllq' => 70123,//吉林篮球
+  'jbty' => 70124,//劲爆体育
+  'qjs' => 70126,//全纪实
+  'mryy' => 70127,//CBN每日影院
+  'xfjc' => 70128,//CBN幸福剧场
+);
+//接口测试：[url]https://xs0.csxxsj.cn/cms/interfaces/vod/v1/play?clientId=0&busiType=live&channelId=63143[/url]
+$ch = curl_init('https://xs0.csxxsj.cn/cms/interfaces/vod/v1/play?clientId=0&busiType=live&channelId='.$n[$id]);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+$d = curl_exec($ch);
+curl_close($ch);
+
+$playurl = json_decode($d) -> contentList -> content[0] -> url;
+
+header('Location:'.$playurl);//注：要用VLC播放。
+//echo $playurl;
+?>
+复制代码
+
+
+http://mediaxjtvs.chinamcache.com/hyw/liveChannel/PC/videoAll.jsonp?callback=channels_jsonpCallback&_=1636730567802

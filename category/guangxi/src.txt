@@ -1,2 +1,3 @@
 
 广西卫视,http://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8
+广西资源县,https://cdn.gdlive.gdmain.com:443/live/5r3gy2d5.m3u8?vhost=pushs.myun.tv

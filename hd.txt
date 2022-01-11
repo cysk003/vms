@@ -1,6 +1,6 @@
 少儿动漫,卡酷动画,http://192.168.50.1:8288/rtp/225.1.8.35:8000
 少儿动漫,北京IPTV淘BABY,http://192.168.50.1:8288/rtp/225.1.8.36:8002
-少儿动漫,少儿天地,http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
+#少儿动漫,少儿天地,http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
 少儿动漫,爱幼教,http://39.134.134.85/000000001000/6000000006000180630/1.m3u8
 少儿动漫,爱动漫,http://39.134.134.85/000000001000/6000000006000280630/1.m3u8
 少儿动漫,爱玩具,http://39.134.134.85/000000001000/6000000006000220630/1.m3u8
@@ -47,18 +47,17 @@
 少儿动漫,福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 少儿动漫,宁夏少儿,http://39.134.93.229:6610/000000001000/nxshaoer/1.m3u8?IASHttpSessionId=
 少儿动漫,云南少儿,http://39.130.202.81:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
-少儿动漫,新疆少儿,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb12.m3u8
+少儿动漫,新疆少儿,http://192.168.50223:8880/referer?id=XJSE
 少儿动漫,广东少儿 720,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=44&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 少儿动漫,广东少儿 720,http://192.168.50.223:8880/referer?id=GDSE
-少儿动漫,深圳少儿 720,http://149.129.100.78/sztv.php?id=7
-少儿动漫,深圳少儿 720,https://sztv-live.cutv.com/1SIQj6s/500/g7r1tI0.m3u8
+少儿动漫,深圳少儿 720,http://192.168.50.223:8880/referer?id=SZSE
 少儿动漫,超燃 怀旧 经典,http://cloudplay.tk/api/douyu.php?id=1174353
 少儿动漫,斗鱼动漫花园,http://cloudplay.tk/api/douyu.php?id=426517
-少儿动漫,熊猫少儿,http://mail.lacool.tk:8086/rtp/239.93.1.189:5140
-少儿动漫,金熊猫卡通高清,http://mail.lacool.tk:8086/rtp/239.93.1.172:5140
+#少儿动漫,熊猫少儿,http://mail.lacool.tk:8086/rtp/239.93.1.189:5140
+#少儿动漫,金熊猫卡通高清,http://mail.lacool.tk:8086/rtp/239.93.1.172:5140
 少儿动漫,四川妇女儿童 720,http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
-少儿动漫,宝宝动画高清,http://mail.lacool.tk:8086/rtp/239.93.0.147:5140
-少儿动漫,少儿动画高清,http://mail.lacool.tk:8086/rtp/239.93.0.193:9000
+#少儿动漫,宝宝动画高清,http://mail.lacool.tk:8086/rtp/239.93.0.147:5140
+#少儿动漫,少儿动画高清,http://mail.lacool.tk:8086/rtp/239.93.0.193:9000
 少儿动漫,CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 影视,每日影院,http://192.168.50.1:8288/rtp/225.1.8.97:8002
 影视,幸福剧场,http://192.168.50.1:8288/rtp/225.1.8.98:8002
@@ -165,7 +164,7 @@
 影视,精彩电视剧 10M1080,http://211.137.115.110:8080/gitv_live/GITV-8/GITV-8.m3u8
 影视,湖南电影 超清,http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 影视,湖南电视剧 超清,http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-影视,四川峨眉影视 高清,http://mail.lacool.tk:8086/rtp/239.93.1.54:5140
+#影视,四川峨眉影视 高清,http://mail.lacool.tk:8086/rtp/239.93.1.54:5140
 影视,四川峨眉影视,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #影视,熊猫影院 高清,http://mail.lacool.tk:8086/rtp/239.93.0.214:5140
 影视,BTV影视 高清,http://192.168.50.1:8288/rtp/225.1.8.82:8000
@@ -268,8 +267,8 @@
 综艺,河南梨园,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
 综艺,移动戏曲FHD,http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=
 综艺,晴彩梨园FHD,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
-综艺,戏曲精选,http://mail.lacool.tk:8086/rtp/239.93.0.144:5140
-综艺,戏曲,http://mail.lacool.tk:8086/rtp/239.93.0.217:9208
+#综艺,戏曲精选,http://mail.lacool.tk:8086/rtp/239.93.0.144:5140
+#综艺,戏曲,http://mail.lacool.tk:8086/rtp/239.93.0.217:9208
 综艺,经典小品,http://cloudplay.tk/api/douyu.php?id=9322175
 综艺,爱娱乐,http://39.134.134.85/000000001000/6000000006000130630/1.m3u8
 综艺,演技专场 来看爆表演技,http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
@@ -291,9 +290,6 @@
 科教,金鹰纪实 高清,http://192.168.50.1:8288/rtp/225.1.0.243:1025
 科教,BTV科教 高清,http://192.168.50.1:8288/rtp/225.1.1.1:8000
 科教,纪实人文 高清,http://192.168.50.1:8288/rtp/225.1.0.129:1025
-科教,CETV-2 720,http://ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8
-科教,CETV-3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-科教,CETV-4,http://ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8
 科教,爱解密,http://39.134.134.85/000000001000/6000000006000200630/1.m3u8
 科教,爱世界,http://39.134.134.85/000000001000/6000000006000210630/1.m3u8
 科教,爱历史,http://39.134.134.85/000000001000/6000000006000150630/1.m3u8
@@ -328,10 +324,10 @@
 科教,兵器科技 高清,http://notwhy.f3322.net:5000/udp/225.1.2.166:5002
 科教,央视文化精品 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000573
 科教,央视文化精品 高清,http://notwhy.f3322.net:5000/udp/225.1.2.177:5002
-科教,墨宝高清,http://mail.lacool.tk:8086/rtp/239.93.0.215:9132
-科教,军事高清,http://mail.lacool.tk:8086/rtp/239.93.0.204:9076
-科教,解密高清,http://mail.lacool.tk:8086/rtp/239.93.0.199:9048
-科教,地理高清,http://mail.lacool.tk:8086/rtp/239.93.0.200:9052
+#科教,墨宝高清,http://mail.lacool.tk:8086/rtp/239.93.0.215:9132
+#科教,军事高清,http://mail.lacool.tk:8086/rtp/239.93.0.204:9076
+#科教,解密高清,http://mail.lacool.tk:8086/rtp/239.93.0.199:9048
+#科教,地理高清,http://mail.lacool.tk:8086/rtp/239.93.0.200:9052
 科教,国家地理,http://60.251.59.178:8521/.m3u8
 科教,国家地理 台湾,http://60.251.59.178:8523/.m3u8
 综合,CCTV-4k,http://ye23.win/iptv/4k.cctv.php
@@ -357,19 +353,19 @@
 体育,4k体育,http://39.134.39.62:80/PLTV/88888888/224/3221226351/index.m3u8
 #体育,爱体育,http://mail.lacool.tk:8086/rtp/239.93.42.25:5140
 体育,爱体育,http://39.134.134.85/000000001000/6000000006000290630/1.m3u8
-体育,爱赛车,http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
+#体育,爱赛车,http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
 体育,爱赛车,http://39.134.134.85/000000001000/6000000006000240630/1.m3u8
 体育,SiTV劲爆体育 8M1080,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000116
 体育,央视文化精品 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000573
 体育,高尔夫网球 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000574
 体育,高尔夫网球 高清,http://notwhy.f3322.net:5000/udp/225.1.2.169:5002
-体育,高网高清,http://mail.lacool.tk:8086/rtp/239.93.0.202:9068
+#体育,高网高清,http://mail.lacool.tk:8086/rtp/239.93.0.202:9068
 体育,风云足球 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000576
 体育,风云足球 高清,http://notwhy.f3322.net:5000/udp/225.1.2.168:5002
 体育,魅力足球 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000577
 体育,美丽足球,http://113.64.147.206:808/hls/50/index.m3u8
 央视台球 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000596
-体育,台球高清,http://mail.lacool.tk:8086/rtp/239.93.0.203:9072
+#体育,台球高清,http://mail.lacool.tk:8086/rtp/239.93.0.203:9072
 体育,央视台球 高清,http://notwhy.f3322.net:5000/udp/225.1.2.170:5002
 体育,NewTV体育[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 体育,NewTV体育[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
@@ -384,9 +380,9 @@
 体育,羽球精品赛事,http://notwhy.f3322.net:5000/udp/225.1.2.1:5002
 体育,IPTV足球,http://notwhy.f3322.net:5000/udp/225.1.1.105:5002
 体育,赛事频道,http://notwhy.f3322.net:5000/udp/225.1.1.107:5002
-体育,中国体育1,http://mail.lacool.tk:8086/rtp/239.93.42.25:5140
-体育,麻辣体育,http://mail.lacool.tk:8086/rtp/239.93.42.2:5140
-体育,足球高清,http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
+#体育,中国体育1,http://mail.lacool.tk:8086/rtp/239.93.42.25:5140
+#体育,麻辣体育,http://mail.lacool.tk:8086/rtp/239.93.42.2:5140
+#体育,足球高清,http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
 体育,精品体育 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 体育,体育赛事 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
 其他,法治天地,rtsp://183.252.166.199/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil

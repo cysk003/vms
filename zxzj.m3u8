@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-logo="https://cpu374.bvimg.com/13631/01bac827dccd65f5.jpg" group-title="电影",彼得罗夫的流感
-https://vod.pipi.cn/8f6897d9vodgzp1251246104/7821dbeb387702294323217271/f0.mp4
-#EXTINF:-1 tvg-logo="https://cpu374.bvimg.com/13631/cc6de1093efd48b2.jpg" group-title="电影",在你面前
-https://vod.pipi.cn/8f6897d9vodgzp1251246104/41c8f8a9387702294312392240/f0.mp4
 #EXTINF:-1  group-title="电影",小巨人3D
 http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/6809106702953087496?id=6809506487266705933
 #EXTINF:-1  group-title="电影",自然世界：黑曼巴，白女巫
@@ -20,6 +16,10 @@ http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/6769394753717928456?i
 http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/6769394753717928456?id=6769418411307958792
 #EXTINF:-1  group-title="熊猫总动员",第5集 孕事风波
 http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/6769394753717928456?id=6769418488013390349
+#EXTINF:-1 tvg-logo="https://cpu374.bvimg.com/13631/01bac827dccd65f5.jpg" group-title="电影",彼得罗夫的流感
+https://vod.pipi.cn/8f6897d9vodgzp1251246104/7821dbeb387702294323217271/f0.mp4
+#EXTINF:-1 tvg-logo="https://cpu374.bvimg.com/13631/cc6de1093efd48b2.jpg" group-title="电影",在你面前
+https://vod.pipi.cn/8f6897d9vodgzp1251246104/41c8f8a9387702294312392240/f0.mp4
 #EXTINF:-1 tvg-logo="https://cpu374.bvimg.com/13631/46d9156a70ef964e.jpg" group-title="电影",超能敢死队
 https://vod.pipi.cn/8f6897d9vodgzp1251246104/5ed8a97e387702294027909668/f0.mp4
 #EXTINF:-1 tvg-logo="https://cpu374.bvimg.com/13631/bc40eeee235d6e61.jpg" group-title="电影",魔法满屋

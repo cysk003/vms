@@ -9,15 +9,18 @@ do
   fi
 done
 
-for i in `seq 1 500`;
+for i in `seq 1 999`;
 do
-  url="http://116.23.97.203:808/hls/$i/index.m3u8"
-  result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
+  url="http://60.26.15.147:9901/tsfile/live/`printf %04d $i`_1.m3u8"
+  result=`curl -I  $url 2>/dev/null | grep "404"|wc -l`
   echo $url, $result
   if [ $result -eq 0 ]; then
-      echo $i,$url >> newSrc/guangdong.txt
+      echo $i,$url >> category/baodi.txt
   fi
 done
+
+
+http://60.26.15.147:9901/tsfile/live/0136_1.m3u8
 
 for i in `seq 25310 29999`;
 do

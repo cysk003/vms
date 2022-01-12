@@ -361,13 +361,13 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226115/1000010000000006000000000235
 #EXTINF:-1  group-title="影视",私人影院
 http://113.64.147.206:808/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="70105" tvg-name="东森电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ebc.png"  group-title="影视",东森电影
-http://113.64.147.206:808/hls/58/index.m3u8
+http://113.64.147.8:808/hls/58/index.m3u8
 #EXTINF:-1 tvg-id="70104" tvg-name="东森洋片" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ebcyp.png"  group-title="影视",东森洋片 HD
-http://113.64.147.206:808/hls/59/index.m3u8
+http://113.64.147.8:808/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="70076" tvg-name="凤凰电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/fhdy.png"  group-title="影视",凤凰电影
 http://v.mp.haue.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="70106" tvg-name="龍祥時代電影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/long.png"  group-title="影视",龙祥时代 高清
-http://113.64.147.206:808/hls/39/index.m3u8
+http://113.64.147.8:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png"  group-title="影视",八大戏剧台
 http://211.23.114.106:8531/.m3u8
 #EXTINF:-1  group-title="影视",Fox Movies

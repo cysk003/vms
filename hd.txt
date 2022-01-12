@@ -64,21 +64,21 @@
 影视,北京IPTV4K,http://192.168.50.1:8288/rtp/225.1.8.211:8002
 影视,爱上4K,http://192.168.50.1:8288/rtp/225.1.0.101:1025
 影视,CHC高清电影 8M1080,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000115
-影视,CHC高清电影 高清,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+影视,CHC高清电影 高清,http://39.134.18.81/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 影视,CHC家庭电影 高清,http://117.148.179.150:80/PLTV/88888888/224/3221231799/index.m3u8
-影视,CHC家庭电影 高清,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-影视,CHC动作电影 高清,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+影视,CHC家庭电影 高清,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+影视,CHC动作电影 高清,http://39.134.18.84/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 影视,4k纯享,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
 影视,4k纯享,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 影视,4k花园电影,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 影视,都市剧场 高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
-影视,都市剧场 高清,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+影视,都市剧场 高清,http://39.134.18.81/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 影视,DOXTV高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000126
 影视,电影台 高清,http://beifeng.site:4000/udp/239.3.1.97:8001
 影视,SiTV欢笑剧场,rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil
 影视,SiTV欢笑剧场 4K,http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
 影视,SiTV欢笑剧场 4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-影视,SiTV欢笑剧场4K 12M2160,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+影视,SiTV欢笑剧场4K 12M2160,http://39.134.18.81/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 影视,黑莓电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
 影视,轮播 高清,http://39.134.67.4/PLTV/88888888/224/3221225521/index.m3u8
 影视,爱家庭,http://39.134.134.85/000000001000/6000000006000090630/1.m3u8
@@ -304,7 +304,7 @@
 科教,求索生活,http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
 科教,求索动物,http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
 科教,SiTV全纪实 高清,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
-科教,SiTV全纪实 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+科教,SiTV全纪实 8M1080,http://39.134.18.81/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 科教,SiTV全纪实 高清,http://notwhy.f3322.net:5000/udp/225.1.1.145:5002
 科教,CIBN纪录片,http://117.148.179.154/PLTV/88888888/224/3221231594/index.m3u8
 科教,NewTV军事评论 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4

@@ -1,0 +1,3 @@
+package special
+华数轮播,https://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+李子柒,https://hls-ott-zhibo.wasu.tv/live/443/index.m3u8

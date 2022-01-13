@@ -9,3 +9,4 @@ CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 安徽人物HDhttp://zbbf2.ahtv.cn/live/da9.m3u8
 安徽科教HDhttp://zbbf2.ahtv.cn/live/754.m3u8
 安徽综艺HDhttp://zbbf2.ahtv.cn/live/758.m3u8
+亳州2HD,http://223.241.17.28:808/hls/22/index.m3u8

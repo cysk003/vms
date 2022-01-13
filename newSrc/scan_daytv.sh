@@ -140,6 +140,27 @@ do
   fi
 done
 
+#48 67,68,70
+for id in `seq 1 999`;
+do
+  url="http://223.241.17.48:808/hls/$id/index.m3u8"
+  result=`curl -I $url 2>/dev/null| grep HTTP |awk '{print $2}'`
+  echo $url, $result
+  if [ "$result" = "200" ]; then
+      echo $id,"$url" >> category/anhui/bozhou.txt
+  fi
+done
+
+for id in `seq 1 999`;
+do
+  url="http://219.150.217.47:6610/PLTV1/$id/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT"
+  result=`curl --connect-timeout 1 $url 2>/dev/null | wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/henan/xinxiang.txt
+  fi
+done
+
 
 
 curl http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8 -I

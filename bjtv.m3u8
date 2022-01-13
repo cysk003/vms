@@ -123,7 +123,7 @@ http://live.scuec.edu.cn:8080/hls/schd.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视
 http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"  group-title="卫视",新疆卫视
-http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=XJWS
 #EXTINF:-1  group-title="卫视",海峡卫视 8M1080
 rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1  group-title="卫视",海峡卫视

@@ -1,0 +1,7 @@
+http://183.0.187.47:808/hls/81/index.m3u8
+CHC高清,http://183.0.187.32:808/hls/81/index.m3u8
+
+CHC家庭,http://y3y4.f3322.net:808/hls/83/index.m3u8
+CHC家庭,http://y3y4.f3322.net:808/hls/81/index.m3u8
+CHC高清,http://y3y4.f3322.net:808/hls/81/index.m3u8
+CHC高清,http://y3y4.f3322.net:808/hls/82/index.m3u8

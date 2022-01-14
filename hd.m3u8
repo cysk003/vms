@@ -115,13 +115,13 @@ http://192.168.50.1:8288/rtp/225.1.0.101:1025
 #EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",CHC高清电影 8M1080
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000115
 #EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",CHC高清电影 高清
-http://[2409:8087:7000:20::F]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"  group-title="影视",CHC家庭电影 高清
 http://117.148.179.150:80/PLTV/88888888/224/3221231799/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"  group-title="影视",CHC家庭电影 高清
-http://[2409:8087:7000:20::F]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="影视",CHC动作电影 高清
-http://[2409:8087:7000:20::F]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1  group-title="影视",4k纯享
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
 #EXTINF:-1  group-title="影视",4k纯享
@@ -143,7 +143,7 @@ http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1  group-title="影视",SiTV欢笑剧场 4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1  group-title="影视",SiTV欢笑剧场4K 12M2160
-http://[2409:8087:7000:20::F]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1  group-title="影视",黑莓电影 4M1080
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
 #EXTINF:-1  group-title="影视",轮播 高清

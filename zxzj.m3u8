@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="电影",测试
+http://192.168.50.223:8880/movies?url=https://www.jiujiukanpian.com/play/58a5331626/1/2.html
 #EXTINF:-1  group-title="电影",小巨人3D
 http://192.168.50.223:8880/vip2?url=https://www.ixigua.com/6809106702953087496?id=6809506487266705933
 #EXTINF:-1  group-title="电影",自然世界：黑曼巴，白女巫

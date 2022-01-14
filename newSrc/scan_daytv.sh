@@ -172,11 +172,11 @@ for host in `seq 1 112`;
 do
 for id in `seq 1000 1499`;
 do
-  url="http://125.107.18.88:9901/tsfile/live/`printf %04d $id`_2.m3u8"
+  url="http://122.140.20.66:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
-      echo $id,"$url" >> category/zhejiang/shaoxin.txt
+      echo $id,"$url" >> category/jilin/songyua.txt
   fi
 done
 done

@@ -712,3 +712,53 @@ http://42.176.185.28:9901/tsfile/live/1038_1.m3u8
 http://42.176.185.28:9901/tsfile/live/1039_1.m3u8
 #EXTINF:-1  group-title="其他",1040
 http://42.176.185.28:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",1
+http://113.195.117.200:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png"  group-title="央视",10
+http://113.195.117.200:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"  group-title="央视",14
+http://113.195.117.200:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="中数国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg"  group-title="央视",110
+http://113.195.117.200:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿动漫",111
+http://113.195.117.200:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",112
+http://113.195.117.200:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿动漫",113
+http://113.195.117.200:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="中数快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg"  group-title="央视",115
+http://113.195.117.200:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="中数书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg"  group-title="央视",116
+http://113.195.117.200:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="华诚DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg"  group-title="影视",117
+http://113.195.117.200:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="华诚先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg"  group-title="体育",118
+http://113.195.117.200:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",120
+http://113.195.117.200:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="北广环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg"  group-title="其他",123
+http://113.195.117.200:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"  group-title="教育科学",136
+http://113.195.117.200:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="北京",137
+http://113.195.117.200:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-id="139" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png"  group-title="北京",139
+http://113.195.117.200:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"  group-title="北京",140
+http://113.195.117.200:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"  group-title="北京",141
+http://113.195.117.200:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"  group-title="北京",143
+http://113.195.117.200:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1  group-title="其他",1002
+http://113.195.117.200:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1  group-title="其他",1003
+http://113.195.117.200:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1  group-title="其他",1004
+http://113.195.117.200:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1  group-title="其他",1005
+http://113.195.117.200:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1  group-title="其他",1006
+http://113.195.117.200:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",CCTV-6 高清
+http://113.195.117.200:9901/tsfile/live/0001_2.m3u8

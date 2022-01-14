@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",1
+http://123.147.77.225:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",2
+http://123.147.77.225:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"  group-title="央视",3
+http://123.147.77.225:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"  group-title="央视",4
+http://123.147.77.225:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",5
+http://123.147.77.225:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"  group-title="央视",6
+http://123.147.77.225:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",7
+http://123.147.77.225:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",8
+http://123.147.77.225:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"  group-title="央视",9
+http://123.147.77.225:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png"  group-title="央视",10
+http://123.147.77.225:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",11
+http://123.147.77.225:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",112
+http://123.147.77.225:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="中数书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg"  group-title="央视",116
+http://123.147.77.225:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="北广车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg"  group-title="其他",119
+http://123.147.77.225:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",120
+http://123.147.77.225:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="北广动感音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC5.jpg"  group-title="音乐",122
+http://123.147.77.225:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="北广环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg"  group-title="其他",123
+http://123.147.77.225:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="北广新娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC7.jpg"  group-title="娱乐",124
+http://123.147.77.225:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="北广弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg"  group-title="其他",126
+http://123.147.77.225:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="北广央广健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC14.jpg"  group-title="其他",127
+http://123.147.77.225:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="北广财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png"  group-title="财经",131
+http://123.147.77.225:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="北广百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg"  group-title="其他",132
+http://123.147.77.225:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="北京",137
+http://123.147.77.225:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-id="70138" tvg-name="珠海生活频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ZhuhaiTV2Guangdong.cn"  group-title="地方",138
+http://123.147.77.225:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"  group-title="北京",143
+http://123.147.77.225:9901/tsfile/live/0143_1.m3u8

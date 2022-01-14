@@ -149,7 +149,9 @@ do
   if [ "$result" = "200" ]; then
       echo $id,"$url" >> category/anhui/bozhou.txt
   fi
-done
+
+
+http://123.147.77.225:9901/tsfile/live/0001_1.m3u8
 
 for id in `seq 1 999`;
 do
@@ -164,19 +166,21 @@ done
 
 
 curl http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8 -I
+http://123.147.77.225:9901/tsfile/live/0001_1.m3u8
 
 for host in `seq 1 112`;
 do
-for id in `seq 1 5000`;
+for id in `seq 1000 1499`;
 do
-  url="http://122.140.20.203:9901/tsfile/live/`printf %04d $id`_1.m3u8"
-  result=`curl --connect-timeout 1 -m3  $url 2>/dev/null|grep "404错误" |wc -l`
+  url="http://180.175.126.86:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  result=`curl --connect-timeout 2 $url 2>/dev/null|grep ".ts" |wc -l`
   echo $url, $result
-  if [ "$result" -eq 0 ]; then
-      echo $id,"$url" >> category/jilin/122.txt
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/shanghai/jinshan.txt
   fi
 done
 done
+http://60.26.15.147:9901/tsfile/live/0143_1.m3u8
 
 
 http://27.47.68.3:808/hls/62/index.m3u8

@@ -20,10 +20,10 @@
 央视,CCTV4K HDR,http://ott.js.chinamobile.com/TVOD/3//224/3221228242/index.m3u8
 央视,中国教育1台 高清,http://192.168.50.1:8288/rtp/225.1.8.32:8152
 4k,北京IPTV4K,http://192.168.50.1:8288/rtp/225.1.8.211:8002
-4k,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 4k,4k纯享,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 4k,4k纯享,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 4k,4K电影,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+4k,江苏 4k,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 4k,4k花园电影,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 4k,咪咕4K 31M2160HEVC,http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
 4k,欢笑剧场 4K,http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8

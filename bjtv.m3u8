@@ -268,8 +268,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png"  group-title="影视",影视
 黑莓电影HD
-#EXTINF:-1 tvg-id="70086" tvg-name="NewTV海外剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new7.png"  group-title="影视",海外剧场 NewTV
-http://39.134.65.135/PLTV/88888888/224/3221225521/index.m3u8
 #EXTINF:-1 tvg-id="70091" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new11.png"  group-title="影视",惊悚悬疑 NewTV
 http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
 #EXTINF:-1  group-title="影视",欢乐剧场 NewTV

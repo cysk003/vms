@@ -133,7 +133,6 @@
 影视,超级电视剧 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
 影视,欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 影视,黑莓电影 HD,,http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8
-影视,海外剧场 NewTV,http://39.134.65.135/PLTV/88888888/224/3221225521/index.m3u8
 影视,惊悚悬疑 NewTV,http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
 影视,欢乐剧场 NewTV,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
 影视,东北热剧 NewTV,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8

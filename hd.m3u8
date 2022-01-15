@@ -7,7 +7,7 @@ http://192.168.50.223:8880/iptv.m3u8?id=ZJHZQSTY
 #EXTINF:-1 group-title="测试",移动戏曲
 http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
 #EXTINF:-1 group-title="测试",爱电竞高清
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226353/index.m3u8
+http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226353/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="测试",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="测试",海南公共

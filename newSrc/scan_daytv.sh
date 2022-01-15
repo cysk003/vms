@@ -180,6 +180,18 @@ do
   fi
 done
 done
+
+
+for id in `seq 1 200`;
+do
+  url="http://113.64.147.7:808/hls/$id/index.m3u8"
+  result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/guangdong/206.txt
+  fi
+done
+
 http://60.26.15.147:9901/tsfile/live/0143_1.m3u8
 
 

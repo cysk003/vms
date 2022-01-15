@@ -1,0 +1,8 @@
+
+NASA TV,https://iptv.jmsooo.com/live/nasa/index.m3u8
+NBA TV,https://iptv.jmsooo.com/live/nbatv/index.m3u8
+凤凰卫视中文,https://iptv.jmsooo.com/live/fhzw/fhwszw.m3u8
+凤凰卫视咨询,https://iptv.jmsooo.com/live/fhzx/fhwszx.m3u8
+凤凰卫视香港台,https://iptv.jmsooo.com/live/fhwsxg/fhwsxg.m3u8
+莲花卫视,https://iptv.jmsooo.com/live/amlh/amlh.m3u8
+卡塔尔半岛电视台,https://iptv.jmsooo.com/live/aljazen/index.m3u8

@@ -1,0 +1,141 @@
+广东卫视 高清,http://27.39.123.6:9901/tsfile/live/1000_1.m3u8
+广东珠江 高清,http://27.39.123.6:9901/tsfile/live/1001_1.m3u8
+广东新闻 720,http://27.39.123.6:9901/tsfile/live/1002_1.m3u8
+广东公共 720,http://27.39.123.6:9901/tsfile/live/1003_1.m3u8
+广东体育 高清,http://27.39.123.6:9901/tsfile/live/1004_1.m3u8
+广东经济科教 高清,http://27.39.123.6:9901/tsfile/live/1006_1.m3u8
+南方卫视 720,http://27.39.123.6:9901/tsfile/live/1007_1.m3u8
+广东综艺,http://hongyanqiang.top/chudian.php?id=gdzy
+广东影视 720,http://27.39.123.6:9901/tsfile/live/1008_1.m3u8
+CCTV-1 高清,http://27.39.123.6:9901/tsfile/live/1010_1.m3u8
+CCTV-2 高清,http://27.39.123.6:9901/tsfile/live/1011_1.m3u8
+1013,http://27.39.123.6:9901/tsfile/live/1013_1.m3u8
+CCTV-5高清,http://27.39.123.6:9901/tsfile/live/1014_1.m3u8
+1015,http://27.39.123.6:9901/tsfile/live/1015_1.m3u8
+1016,http://27.39.123.6:9901/tsfile/live/1016_1.m3u8
+1017,http://27.39.123.6:9901/tsfile/live/1017_1.m3u8
+1018,http://27.39.123.6:9901/tsfile/live/1018_1.m3u8
+1019,http://27.39.123.6:9901/tsfile/live/1019_1.m3u8
+CCTV-10 高清,http://27.39.123.6:9901/tsfile/live/1020_1.m3u8
+1021,http://27.39.123.6:9901/tsfile/live/1021_1.m3u8
+1022,http://27.39.123.6:9901/tsfile/live/1022_1.m3u8
+1023,http://27.39.123.6:9901/tsfile/live/1023_1.m3u8
+cctv5,http://27.39.123.6:9901/tsfile/live/1025_1.m3u8
+CGTN,http://27.39.123.6:9901/tsfile/live/1026_1.m3u8,
+嘉佳卡通 720,http://27.39.123.6:9901/tsfile/live/1027_1.m3u8
+卡酷少儿,http://27.39.123.6:9901/tsfile/live/1028_1.m3u8
+金鹰卡通,http://27.39.123.6:9901/tsfile/live/1030_1.m3u8
+湖南卫视 高清,http://27.39.123.6:9901/tsfile/live/1031_1.m3u8
+浙江卫视 高清,http://27.39.123.6:9901/tsfile/live/1032_1.m3u8
+江苏卫视 高清,http://27.39.123.6:9901/tsfile/live/1033_1.m3u8
+东方卫视 高清,http://27.39.123.6:9901/tsfile/live/1034_1.m3u8
+安徽卫视 高清,http://27.39.123.6:9901/tsfile/live/1035_1.m3u8
+北京卫视 高清,http://27.39.123.6:9901/tsfile/live/1036_1.m3u8
+天津卫视 高清,http://27.39.123.6:9901/tsfile/live/1037_1.m3u8
+山东卫视 高清,http://27.39.123.6:9901/tsfile/live/1038_1.m3u8
+江西卫视 高清,http://27.39.123.6:9901/tsfile/live/1039_1.m3u8
+深圳卫视 高清,http://27.39.123.6:9901/tsfile/live/1040_1.m3u8
+湖北卫视 高清,http://27.39.123.6:9901/tsfile/live/1041_1.m3u8
+辽宁卫视 高清,http://27.39.123.6:9901/tsfile/live/1042_1.m3u8
+黑龙江卫视 高清,http://27.39.123.6:9901/tsfile/live/1043_1.m3u8
+贵州卫视,http://27.39.123.6:9901/tsfile/live/1044_1.m3u8
+四川卫视 高清,http://27.39.123.6:9901/tsfile/live/1045_1.m3u8
+重庆卫视 高清,http://27.39.123.6:9901/tsfile/live/1046_1.m3u8
+河北卫视 高清,http://27.39.123.6:9901/tsfile/live/1047_1.m3u8
+东南卫视 高清,http://27.39.123.6:9901/tsfile/live/1048_1.m3u8
+吉林卫视,http://27.39.123.6:9901/tsfile/live/1049_1.m3u8
+CETV-1 高清,http://27.39.123.6:9901/tsfile/live/1051_1.m3u8
+金鹰纪实 高清,http://27.39.123.6:9901/tsfile/live/1052_1.m3u8
+纪实人文 高清,http://27.39.123.6:9901/tsfile/live/1054_1.m3u8
+河南卫视,http://27.39.123.6:9901/tsfile/live/1055_1.m3u8
+云南卫视,http://27.39.123.6:9901/tsfile/live/1056_1.m3u8
+陕西卫视,http://27.39.123.6:9901/tsfile/live/1058_1.m3u8
+山西卫视,http://27.39.123.6:9901/tsfile/live/1059_1.m3u8
+内蒙古卫视,http://27.39.123.6:9901/tsfile/live/1060_1.m3u8
+青海卫视,http://27.39.123.6:9901/tsfile/live/1061_1.m3u8
+海南卫视,http://27.39.123.6:9901/tsfile/live/1062_1.m3u8
+宁夏卫视,http://27.39.123.6:9901/tsfile/live/1063_1.m3u8
+西藏卫视,http://27.39.123.6:9901/tsfile/live/1064_1.m3u8
+新疆卫视,http://27.39.123.6:9901/tsfile/live/1065_1.m3u8
+甘肃卫视兵团卫视,http://27.39.123.6:9901/tsfile/live/1067_1.m3u8
+厦门卫视,http://27.39.123.6:9901/tsfile/live/1068_1.m3u8
+南方购物 高清,http://27.39.123.6:9901/tsfile/live/1069_1.m3u8
+岭南戏曲,http://27.39.123.6:9901/tsfile/live/1070_1.m3u8
+广东房产,http://27.39.123.6:9901/tsfile/live/1071_1.m3u8
+现代教育,http://27.39.123.6:9901/tsfile/live/1072_1.m3u8
+广东移动,http://27.39.123.6:9901/tsfile/live/1074_1.m3u8
+1076,http://27.39.123.6:9901/tsfile/live/1076_1.m3u8
+1077,http://27.39.123.6:9901/tsfile/live/1077_1.m3u8
+1078,http://27.39.123.6:9901/tsfile/live/1078_1.m3u8
+1000,http://iptv.eatuo.com:9901/tsfile/live/1000_1.m3u8
+1001,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+1002,http://iptv.eatuo.com:9901/tsfile/live/1002_1.m3u8
+1003,http://iptv.eatuo.com:9901/tsfile/live/1003_1.m3u8
+1004,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
+1006,http://iptv.eatuo.com:9901/tsfile/live/1006_1.m3u8
+1007,http://iptv.eatuo.com:9901/tsfile/live/1007_1.m3u8
+1008,http://iptv.eatuo.com:9901/tsfile/live/1008_1.m3u8
+1009,http://iptv.eatuo.com:9901/tsfile/live/1009_1.m3u8
+1010,http://iptv.eatuo.com:9901/tsfile/live/1010_1.m3u8
+1011,http://iptv.eatuo.com:9901/tsfile/live/1011_1.m3u8
+1012,http://iptv.eatuo.com:9901/tsfile/live/1012_1.m3u8
+1014,http://iptv.eatuo.com:9901/tsfile/live/1014_1.m3u8
+1015,http://iptv.eatuo.com:9901/tsfile/live/1015_1.m3u8
+1016,http://iptv.eatuo.com:9901/tsfile/live/1016_1.m3u8
+1017,http://iptv.eatuo.com:9901/tsfile/live/1017_1.m3u8
+1018,http://iptv.eatuo.com:9901/tsfile/live/1018_1.m3u8
+1019,http://iptv.eatuo.com:9901/tsfile/live/1019_1.m3u8
+1020,http://iptv.eatuo.com:9901/tsfile/live/1020_1.m3u8
+1021,http://iptv.eatuo.com:9901/tsfile/live/1021_1.m3u8
+1022,http://iptv.eatuo.com:9901/tsfile/live/1022_1.m3u8
+1023,http://iptv.eatuo.com:9901/tsfile/live/1023_1.m3u8
+1024,http://iptv.eatuo.com:9901/tsfile/live/1024_1.m3u8
+1025,http://iptv.eatuo.com:9901/tsfile/live/1025_1.m3u8
+1026,http://iptv.eatuo.com:9901/tsfile/live/1026_1.m3u8
+1027,http://iptv.eatuo.com:9901/tsfile/live/1027_1.m3u8
+1028,http://iptv.eatuo.com:9901/tsfile/live/1028_1.m3u8
+1029,http://iptv.eatuo.com:9901/tsfile/live/1029_1.m3u8
+1030,http://iptv.eatuo.com:9901/tsfile/live/1030_1.m3u8
+1031,http://iptv.eatuo.com:9901/tsfile/live/1031_1.m3u8
+1032,http://iptv.eatuo.com:9901/tsfile/live/1032_1.m3u8
+1033,http://iptv.eatuo.com:9901/tsfile/live/1033_1.m3u8
+1034,http://iptv.eatuo.com:9901/tsfile/live/1034_1.m3u8
+1035,http://iptv.eatuo.com:9901/tsfile/live/1035_1.m3u8
+1036,http://iptv.eatuo.com:9901/tsfile/live/1036_1.m3u8
+1037,http://iptv.eatuo.com:9901/tsfile/live/1037_1.m3u8
+1038,http://iptv.eatuo.com:9901/tsfile/live/1038_1.m3u8
+1039,http://iptv.eatuo.com:9901/tsfile/live/1039_1.m3u8
+1040,http://iptv.eatuo.com:9901/tsfile/live/1040_1.m3u8
+1041,http://iptv.eatuo.com:9901/tsfile/live/1041_1.m3u8
+1042,http://iptv.eatuo.com:9901/tsfile/live/1042_1.m3u8
+1043,http://iptv.eatuo.com:9901/tsfile/live/1043_1.m3u8
+1044,http://iptv.eatuo.com:9901/tsfile/live/1044_1.m3u8
+1045,http://iptv.eatuo.com:9901/tsfile/live/1045_1.m3u8
+1046,http://iptv.eatuo.com:9901/tsfile/live/1046_1.m3u8
+1047,http://iptv.eatuo.com:9901/tsfile/live/1047_1.m3u8
+1048,http://iptv.eatuo.com:9901/tsfile/live/1048_1.m3u8
+1049,http://iptv.eatuo.com:9901/tsfile/live/1049_1.m3u8
+1051,http://iptv.eatuo.com:9901/tsfile/live/1051_1.m3u8
+1052,http://iptv.eatuo.com:9901/tsfile/live/1052_1.m3u8
+1054,http://iptv.eatuo.com:9901/tsfile/live/1054_1.m3u8
+1055,http://iptv.eatuo.com:9901/tsfile/live/1055_1.m3u8
+1056,http://iptv.eatuo.com:9901/tsfile/live/1056_1.m3u8
+1058,http://iptv.eatuo.com:9901/tsfile/live/1058_1.m3u8
+1059,http://iptv.eatuo.com:9901/tsfile/live/1059_1.m3u8
+1060,http://iptv.eatuo.com:9901/tsfile/live/1060_1.m3u8
+1061,http://iptv.eatuo.com:9901/tsfile/live/1061_1.m3u8
+1062,http://iptv.eatuo.com:9901/tsfile/live/1062_1.m3u8
+1063,http://iptv.eatuo.com:9901/tsfile/live/1063_1.m3u8
+1064,http://iptv.eatuo.com:9901/tsfile/live/1064_1.m3u8
+1065,http://iptv.eatuo.com:9901/tsfile/live/1065_1.m3u8
+1066,http://iptv.eatuo.com:9901/tsfile/live/1066_1.m3u8
+1067,http://iptv.eatuo.com:9901/tsfile/live/1067_1.m3u8
+1068,http://iptv.eatuo.com:9901/tsfile/live/1068_1.m3u8
+1069,http://iptv.eatuo.com:9901/tsfile/live/1069_1.m3u8
+1070,http://iptv.eatuo.com:9901/tsfile/live/1070_1.m3u8
+1071,http://iptv.eatuo.com:9901/tsfile/live/1071_1.m3u8
+1072,http://iptv.eatuo.com:9901/tsfile/live/1072_1.m3u8
+1074,http://iptv.eatuo.com:9901/tsfile/live/1074_1.m3u8
+1076,http://iptv.eatuo.com:9901/tsfile/live/1076_1.m3u8
+1077,http://iptv.eatuo.com:9901/tsfile/live/1077_1.m3u8
+中国交通,http://iptv.eatuo.com:9901/tsfile/live/1078_1.m3u8

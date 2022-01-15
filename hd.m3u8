@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="测试",江西少儿
+http://192.168.50.223:8880/referer?id=JXSE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="测试",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="测试",海南公共

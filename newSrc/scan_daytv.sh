@@ -231,3 +231,16 @@ do
       echo $id,$url >> category/hainan/iptv6.txt
   fi
 done
+
+for id in `seq 25192 29999`;
+do
+  tvid=`printf %05d $id`
+  url="http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/32212$tvid/index.m3u8"
+  result=`curl  $url 2>/dev/null|grep "\.m3u8"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/henan/cdn.txt
+  fi
+done
+
+

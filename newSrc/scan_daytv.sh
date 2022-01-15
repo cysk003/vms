@@ -221,10 +221,10 @@ do
 done
 
 
-for id in `seq 2000 3999`;
+for id in `seq 10000 13999`;
 do
-  tvid=`printf %04d $id`
-  url="http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/0898440000000006000000000000$tvid/index.m3u8?IAS=&IASHttpSessionId=OTT2821120220115111210006281"
+  tvid=`printf %05d $id`
+  url="http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/089844000000000600000000000$tvid/index.m3u8?IAS=&IASHttpSessionId=OTT2821120220115111210006281"
   result=`curl  $url 2>/dev/null|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then

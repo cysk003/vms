@@ -93,7 +93,7 @@ http://192.168.50.1:8288/rtp/225.1.8.79:8148
 #EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 高清
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 高清
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="卫视",广西卫视 高清
 http://live.scuec.edu.cn:8080/hls/gxhd.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png"  group-title="卫视",贵州卫视 高清
@@ -118,8 +118,6 @@ http://223.110.251.219:6610/gitv/live1/SXWS/SXWS/.m3u8
 http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视
 http://live.scuec.edu.cn:8080/hls/schd.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视
-http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"  group-title="卫视",新疆卫视
 http://192.168.50.223:8880/iptv.m3u8?id=XJWS
 #EXTINF:-1  group-title="卫视",海峡卫视 8M1080
@@ -137,7 +135,7 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png"  group-title="卫视",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png"  group-title="卫视",云南卫视
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+http://coocaa-ynbit-ws.ifengli.com:2381/live/ynws-hd/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"  group-title="卫视",山西卫视
 http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133
 #EXTINF:-1 tvg-id="62" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png"  group-title="卫视",三沙卫视

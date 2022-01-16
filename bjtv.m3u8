@@ -81,7 +81,7 @@ http://192.168.50.1:8288/rtp/225.1.0.119:1025
 #EXTINF:-1 tvg-id="31" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视",辽宁卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.127:1025
 #EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png"  group-title="卫视",海南卫视 高清
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
+http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视",山东卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.126:1025
 #EXTINF:-1 tvg-id="34" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png"  group-title="卫视",天津卫视 高清
@@ -95,9 +95,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 高清
 http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="卫视",广西卫视 高清
-http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="卫视",广西卫视
-http://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8
+http://live.scuec.edu.cn:8080/hls/gxhd.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png"  group-title="卫视",贵州卫视 高清
 http://192.168.50.1:8288/rtp/225.1.8.77:8076
 #EXTINF:-1 tvg-id="40" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"  group-title="卫视",河北卫视 高清
@@ -116,8 +114,6 @@ http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"  group-title="卫视",山西卫视 HD
 http://223.110.251.219:6610/gitv/live1/SXWS/SXWS/.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png"  group-title="卫视",陕西卫视 高清
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png"  group-title="卫视",陕西卫视
 http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视

@@ -243,4 +243,16 @@ do
   fi
 done
 
+for id in `seq 1 1000`;
+do
+  url="http://218.204.153.158/$id.m3u8"
+  result=`curl  $url 2>/dev/null|grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/jiangxi/jian.txt
+  fi
+done
+
+吉州HD,http://218.204.153.158/10.m3u8
+
 

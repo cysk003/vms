@@ -1,3 +1,5 @@
+ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
+
 #43-44 30-35
 CCTV1综合,http://39.134.165.31/live.gq.miguvideo.com/wd_r2/cctv/cctv1/350/index.m3u8?&encrypt=
 CCTV1综合,http://39.134.165.31/live.gq.miguvideo.com/wd_r2/cctv/cctv1/600/index.m3u8?&encrypt=

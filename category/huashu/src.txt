@@ -292,3 +292,167 @@ http://hls-ott-zhibo.wasu.tv/live/97/index.m3u8
 30*file*http://hls-ott-zhibo.wasu.tv/live/382/index.m3u8
 30*title*粤语港剧
 30*played*0
+
+
+
+CCTV-01，http://cmvideoott.dnion.com/cctv1.m3u8?stbId=&Contentid=5068253659616166748&channel-id=wasusyt
+高清CCTV1，http://cmvideoott.dnion.com/HDcctv1.m3u8?stbId=&Contentid=8813322615956633846&channel-id=wasusyt
+CCTV-01，http://cmvideoott.dnion.com/HDcctv1.m3u8?stbId=&Contentid=8813322615956633846&channel-id=wasusyt
+CCTV-02，http://cmvideoott.dnion.com/cctv2.m3u8?stbId=&Contentid=8878432746825677699&livemode=1&channel-id=wasusyt
+CCTV-03, http://cmvideoott.dnion.com/cctv3.m3u8?stbId=&Contentid=4890526699577299046&livemode=1&channel-id=wasusyt
+CCTV-04, http://cmvideoott.dnion.com/cctv4.m3u8?stbId=&Contentid=4719673858948437836&channel-id=wasusyt
+CCTV-05, http://cmvideoott.dnion.com/cctv5.m3u8?stbId=&Contentid=4867251683694877276&livemode=1&channel-id=wasusyt
+CCTV-5+, http://cmvideoott.dnion.com/cctv5plus.m3u8?stbId=&Contentid=7680777599813046442&livemode=1&channel-id=wasusyt
+CCTV-06，http://cmvideoott.dnion.com/cctv6.m3u8?stbId=&Contentid=6994512760913257617&livemode=1&channel-id=wasusyt
+CCTV-07，http://cmvideoott.dnion.com/cctv7.m3u8?stbId=&Contentid=7823098201377312515&livemode=1&channel-id=wasusyt
+CCTV-08，http://cmvideoott.dnion.com/cctv8.m3u8?stbId=&Contentid=8967744667154419073&livemode=1&channel-id=wasusyt
+CCTV-09，http://cmvideoott.dnion.com/cctv9.m3u8?stbId=&Contentid=6350727550077620987&livemode=1&channel-id=wasusyt
+CCTV-10，http://cmvideoott.dnion.com/cctv10.m3u8?stbId=&Contentid=7284663355496915828&livemode=1&channel-id=wasusyt
+CCTV-11，http://cmvideoott.dnion.com/cctv11.m3u8?stbId=&Contentid=8983629816140945539&livemode=1&channel-id=wasusyt
+CCTV-12，http://cmvideoott.dnion.com/cctv12.m3u8?stbId=&Contentid=6865782700657580918&livemode=1&channel-id=wasusyt
+CCTV-13，http://cmvideoott.dnion.com/cctv13.m3u8?stbId=&Contentid=8593685226043367730&livemode=1&channel-id=wasusyt
+CCTV-14，http://cmvideoott.dnion.com/cctv14.m3u8?stbId=&Contentid=6113730085955692619&livemode=1&channel-id=wasusyt
+CCTV-15，http://cmvideoott.dnion.com/cctv15.m3u8?stbId=&Contentid=5565738654152032083&livemode=1&channel-id=wasusyt
+CCTV-ne，http://cmvideoott.dnion.com/cctvnews.m3u8?stbId=&Contentid=4864750119738201239&channel-id=wasusyt
+江苏卫视，http://cmvideoott.dnion.com/jsws.m3u8?stbId=&Contentid=8882597464305884054&channel-id=wasusyt
+高清江苏，http://cmvideoott.dnion.com/HDjsws.m3u8?stbId=&Contentid=4796578844398773391&channel-id=wasusyt
+北京卫视，http://cmvideoott.dnion.com/HDbjws.m3u8?stbId=&Contentid=8848252191536870228&channel-id=wasusyt
+高清北京，http://cmvideoott.dnion.com/HDbjws.m3u8?stbId=&Contentid=8848252191536870228&channel-id=wasusyt
+天津卫视，http://cmvideoott.dnion.com/HDtjws.m3u8?stbId=&Contentid=6492213982750251972&channel-id=wasusyt
+高清天津，http://cmvideoott.dnion.com/HDtjws.m3u8?stbId=&Contentid=6492213982750251972&channel-id=wasusyt
+东方卫视，http://cmvideoott.dnion.com/dfws.m3u8?stbId=&Contentid=9218440193709267246&channel-id=wasusyt
+高清东方，http://cmvideoott.dnion.com/HDdfws.m3u8?stbId=&Contentid=6690661682550849647&channel-id=wasusyt
+浙江卫视，http://cmvideoott.dnion.com/zjws.m3u8?stbId=&Contentid=8108840632531209254&channel-id=wasusyt
+高清浙江，http://cmvideoott.dnion.com/HDzjws.m3u8?stbId=&Contentid=8717793494045622160&channel-id=wasusyt
+湖南卫视，http://cmvideoott.dnion.com/hnws.m3u8?stbId=&Contentid=8134921218700225128&channel-id=wasusyt
+高清湖南，http://cmvideoott.dnion.com/HDhnws.m3u8?stbId=&Contentid=6837496099179515295&channel-id=wasusyt
+湖北卫视，http://cmvideoott.dnion.com/hbws.m3u8?stbId=&Contentid=6541115572191786119&channel-id=wasusyt
+深圳卫视，http://cmvideoott.dnion.com/szws.m3u8?stbId=&Contentid=4873394821243125848&channel-id=wasusyt
+高清深圳，http://cmvideoott.dnion.com/HDszws.m3u8?stbId=&Contentid=6606401455222064705&channel-id=wasusyt
+安徽卫视，http://cmvideoott.dnion.com/ahws.m3u8?stbId=&Contentid=8859407404905883946&channel-id=wasusyt
+河北卫视，http://cmvideoott.dnion.com/hebws.m3u8?stbId=&Contentid=7314569012827301115&channel-id=wasusyt
+河南卫视，http://cmvideoott.dnion.com/henws.m3u8?stbId=&Contentid=8857751356853051322&channel-id=wasusyt
+陕西卫视，http://cmvideoott.dnion.com/shxws.m3u8?stbId=&Contentid=6194965711565916623&channel-id=wasusyt
+宁夏卫视，http://cmvideoott.dnion.com/nxws.m3u8?stbId=&Contentid=5793735126731753680&channel-id=wasusyt
+四川卫视，http://cmvideoott.dnion.com/scws.m3u8?stbId=&Contentid=8765503395601010087&channel-id=wasusyt
+山东卫视，http://cmvideoott.dnion.com/sdws.m3u8?stbId=&Contentid=5240243759878962058&channel-id=wasusyt
+山西卫视，http://cmvideoott.dnion.com/sxws.m3u8?stbId=&Contentid=7582242998896540942&channel-id=wasusyt
+广东卫视，http://cmvideoott.dnion.com/gdws.m3u8?stbId=&Contentid=5306115082857917057&channel-id=wasusyt
+广西卫视，http://cmvideoott.dnion.com/gxws.m3u8?stbId=&Contentid=5509594920701152353&channel-id=wasusyt
+黑龙卫视，http://cmvideoott.dnion.com/hljws.m3u8?stbId=&Contentid=9057930323360434903&channel-id=wasusyt
+辽宁卫视，http://cmvideoott.dnion.com/lnws.m3u8?stbId=&Contentid=5295474231391856291&channel-id=wasusyt
+重庆卫视，http://cmvideoott.dnion.com/cqws.m3u8?stbId=&Contentid=8403513971272460267&channel-id=wasusyt
+东南卫视，http://cmvideoott.dnion.com/dnws.m3u8?stbId=&Contentid=8777806939525783846&channel-id=wasusyt
+云南卫视，http://cmvideoott.dnion.com/ynws.m3u8?stbId=&Contentid=6810887655606226378&channel-id=wasusyt
+贵州卫视，http://cmvideoott.dnion.com/gzws.m3u8?stbId=&Contentid=7043811073576958573&channel-id=wasusyt
+旅游卫视，http://cmvideoott.dnion.com/lyws.m3u8?stbId=&Contentid=4676690988340017823&channel-id=wasusyt
+内蒙卫视，http://cmvideoott.dnion.com/nmgws.m3u8?stbId=&Contentid=8960557517876415203&channel-id=wasusyt
+陕西卫视，http://cmvideoott.dnion.com/shxws.m3u8?stbId=&Contentid=6194965711565916623&channel-id=wasusyt
+吉林卫视，http://cmvideoott.dnion.com/jlws.m3u8?stbId=&Contentid=4754049812030405539&channel-id=wasusyt
+兵团卫视，http://cmvideoott.dnion.com/HDbtws.m3u8?stbId=&Contentid=5417511929530418061&channel-id=wasusyt
+新疆卫视，http://cmvideoott.dnion.com/xjws.m3u8?stbId=&Contentid=6986657152785429375&channel-id=wasusyt
+青海卫视，http://cmvideoott.dnion.com/qhws.m3u8?stbId=&Contentid=6399324389404552555&channel-id=wasusyt
+西藏卫视，http://cmvideoott.dnion.com/xzws.m3u8?stbId=&Contentid=7179022603798868495&channel-id=wasusyt
+甘肃卫视，http://cmvideoott.dnion.com/gsws.m3u8?stbId=&Contentid=6688526389678198988&channel-id=wasusyt
+厦门卫视，http://cmvideoott.dnion.com/xmws.m3u8?stbId=&Contentid=5498680055419166566&livemode=1&channel-id=wasusyt
+日韩剧场，http://cmvideoott.dnion.com/rhjc.m3u8?stbId=&Contentid=6180510234758796029&channel-id=wasusyt
+欧美影院，http://cmvideoott.dnion.com/omyy.m3u8?stbId=&Contentid=7185203501769528108&channel-id=wasusyt
+偶像剧场，http://cmvideoott.dnion.com/oxjc.m3u8?stbId=&Contentid=8852020701775510057&channel-id=wasusyt
+港台剧场，http://cmvideoott.dnion.com/gtjc.m3u8?stbId=&Contentid=7139719018277455208&channel-id=wasusyt
+历史剧场，http://cmvideoott.dnion.com/lsjc.m3u8?stbId=&Contentid=5951095082880949124&channel-id=wasusyt
+社会纪实，http://cmvideoott.dnion.com/shjs.m3u8?stbId=&Contentid=7181440198806260112&channel-id=wasusyt
+人文记录，http://cmvideoott.dnion.com/rwjl.m3u8?stbId=&Contentid=4808316357663825767&channel-id=wasusyt
+社会纪实，http://221.181.100.149/shjs.m3u8?stbId=&Contentid=7181440198806260112&channel-id=wasusyt
+人文记录，http://221.181.100.149/rwjl.m3u8?stbId=&Contentid=4808316357663825767&channel-id=wasusyt
+
+
+
+
+      "url": "http://gslbserv.itv.cmvideo.cn/HDcctv1.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8813322615956633846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "CCTV-1综合高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDcctv5.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4867251683694877276&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "CCTV-5体育高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDcctv5plus.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=7680777599813046442&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "CCTV-5+体育赛事高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDbjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8848252191536870228&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "北京卫视高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDdfws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6690661682550849647&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "东方卫视高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDtjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6492213982750251972&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "天津卫视高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDzjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8717793494045622160&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "浙江卫视高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDhnws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6837496099179515295&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "湖南卫视高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDjsws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=4796578844398773391&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "江苏卫视高清"
+    },
+    {
+      "url": "http://gslbserv.itv.cmvideo.cn/HDszws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6606401455222064705&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt",
+      "name": "深圳卫视高清"
+    },
+    {
+
+
+大家不要下，骗人的，不是HK的源
+
+是这些
+天津卫视高清,http://gslbserv.itv.cmvideo.cn/HDtjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6492213982750251972&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+东方卫视高清,http://117.144.248.49/HDdfws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6690661682550849647&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+浙江卫视高清,http://gslbserv.itv.cmvideo.cn/HDzjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8717793494045622160&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+湖南卫视高清,http://gslbserv.itv.cmvideo.cn/HDhnws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6837496099179515295&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+江苏卫视高清,http://gslbserv.itv.cmvideo.cn/HDjsws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=4796578844398773391&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+深圳卫视高清,http://gslbserv.itv.cmvideo.cn/HDszws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6606401455222064705&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+    }
+    ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8
+    高清剧场,http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&amp;protocol=ts&amp;programid=4200000164&amp;playtype=live&amp;auth=no
+    高清纪实,http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&amp;protocol=ts&amp;programid=4200000165&amp;playtype=live&amp;auth=no
+    高清影院,http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&amp;protocol=ts&amp;programid=4200000166&amp;playtype=live&amp;auth=no
+    高清时尚,http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&amp;protocol=ts&amp;programid=4200000167&amp;playtype=live&amp;auth=no
+    高清军事,http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&amp;protocol=ts&amp;programid=4200000168&amp;playtype=live&amp;auth=no
+    高清少儿,http://httpdvb.slave.ttcatv.tv:13160/playurl?
+    导视,rtsp://113.136.42.168/PLTV/88888888/224/0/3221225558/iptv19044.smil
+    中国气象,rtsp://113.136.42.168/PLTV/88888888/224/0/3221225623/iptv19040.smil
+    中国教育-1,rtsp://113.136.42.168/PLTV/88888888/224/0/3221225609/iptv19019.smil
+    中国教育-2,rtsp://113.136.42.168/PLTV/88888888/224/0/3221225610/iptv19020.smil
+    空中课堂,rtsp://113.136.42.168/PLTV/88888888/224/0/3221225611/iptv19021.smil
+    中国交通,http://r.gslb.lecloud.com/live/hls/20151111300009925/desc.m3u8
+    大衣哥直播,http://c1.web.yystatic.com/r/rc/entjs/main/1/11/main.swf?type=entjs&amp;topSid=31801984&amp;subSid=31801984&amp;newtuna=1&amp;referer=http%3A%2F%2Fm.yy.com%
+    中国电影,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+    珠江电影,http://aiseet.lszb.atianqi.com/app_4/zjdy.m3u8?bitrate=2000
+    中国微电视,http://125.88.39.101/live.aishang.ctlcdn.com/00000110240264_1/encoder/1/playlist.m3u8
+    东方电影,http://sohucao.duapp.com/proxy/sohupp.php/300149.m3u8?type=phone.ios|http://web-play.pptv.com/web-m3u8-300149.m3u8?type=m3u8.web.phone&amp;playback=0&amp;kk=&amp;o=pub.pptv.com
+    母婴健康,http://125.88.39.101/live.aishang.ctlcdn.com/00000110240258_1/encoder/1/playlist.m3u8
+    湖南卫视HD,http://gslbserv.itv.cmvideo.cn/HDhnws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6837496099179515295&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    浙江卫视HD,http://gslbserv.itv.cmvideo.cn/HDzjws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=8717793494045622160&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    江苏卫视HD,http://gslbserv.itv.cmvideo.cn/HDjsws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=4796578844398773391&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    北京卫视HD,http://gslbserv.itv.cmvideo.cn/HDbjws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=8848252191536870228&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    江苏卫视,http://gslbserv.itv.cmvideo.cn/jsws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=8882597464305884054&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    北京卫视,http://gslbserv.itv.cmvideo.cn/HDbjws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=8848252191536870228&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    天津卫视,http://gslbserv.itv.cmvideo.cn/HDtjws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6492213982750251972&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    天津卫视HD,http://gslbserv.itv.cmvideo.cn/HDtjws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6492213982750251972&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    东方卫视,http://gslbserv.itv.cmvideo.cn/dfws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=9218440193709267246&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    东方卫视HD,http://gslbserv.itv.cmvideo.cn/HDdfws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6690661682550849647&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    甘肃卫视,http://gslbserv.itv.cmvideo.cn/gsws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6688526389678198988&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    陕西卫视,http://gslbserv.itv.cmvideo.cn/shxws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6194965711565916623&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    兵团卫视,http://gslbserv.itv.cmvideo.cn/HDbtws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=5417511929530418061&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    厦门卫视,http://gslbserv.itv.cmvideo.cn/xmws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=5498680055419166566&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    浙江卫视,http://gslbserv.itv.cmvideo.cn/zjws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=8108840632531209254&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
+    湖北卫视,http://gslbserv.itv.cmvideo.cn/hbws.m3u8?authCode=07110409322147352675&amp;stbId=00600
+    深圳卫视,http://gslbserv.itv.cmvideo.cn/HDszws.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=6606401455222064705&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt

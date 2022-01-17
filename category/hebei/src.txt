@@ -38,3 +38,10 @@
 丰宁综合,[url]https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8[/url]
 平泉综合,[url]https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8[/url]
 平泉影视,[url]https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8[/url]
+
+晴彩河北,http://121.24.99.246:8090/hls/67/index.m3u8
+河北影视剧,http://121.24.99.246:8090/hls/29/index.m3u8
+河北少儿,http://121.24.99.246:8090/hls/30/index.m3u8
+河北公共,http://121.24.99.246:8090/hls/31/index.m3u8
+河北收视指南,http://121.24.99.246:8090/hls/44/index.m3u8
+河北杂技,http://121.24.99.246:8090/hls/60/index.m3u8

@@ -41,3 +41,13 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv15_2/index.m3u8
 #EXTINF:-1 group-title="央视标清-海外专用" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17农业农村
 http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 
+
+
+CCTV女性时尚1080,http://astream.apk1088.com:18888/channel.php?id=DOXyuanxianHD_7000
+CCTV世界地理1080,http://astream.apk1088.com:18888/channel.php?id=DOXhanliuHD_7000
+CCTV央视文化精品1080,http://astream.apk1088.com:18888/channel.php?id=DOXyijiaHD_7000
+CCTV央视台球1080,http://astream.apk1088.com:18888/channel.php?id=DOXyinglunHD_7000
+CCTV风云音乐1080,http://astream.apk1088.com:18888/channel.php?id=DOXxinyiHD_7000
+CCTV风云剧场1080,http://astream.apk1088.com:18888/channel.php?id=DOXxinzhiHD_7000
+CCTV第一剧场1080,http://astream.apk1088.com:18888/channel.php?id=DOXyinghuaHD_7000
+CCTV怀旧剧场1080,http://astream.apk1088.com:18888/channel.php?id=DOXjuchangHD_7000

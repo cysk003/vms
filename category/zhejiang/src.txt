@@ -1,0 +1,5 @@
+杭州新闻综合,http://125.210.152.19:9090/live/hzgq-hzzhgq-h264.m3u8
+杭州明珠,http://125.210.152.19:9090/live/hzgq-xhmzgq-h264.m3u8
+杭州生活,http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
+杭州影视,http://125.210.152.19:9090/live/hzgq-hzysgq-h264.m3u8
+杭州导视,http://125.210.152.19:9090/live/hzgq-hzdsgq-h264.m3u8

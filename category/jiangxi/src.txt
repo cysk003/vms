@@ -160,3 +160,27 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
 爱情喜剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225748/index.m3u8
 PS:可换39.135.139.214:6610
+
+新余教育频道 https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd3.m3u8
+赣州信丰,http://live.mudu.tv/watch/ucmev8.m3u8
+赣州定南,http://live.mudu.tv/watch/ufdxhy.m3u8
+鹰潭贵溪,http://zb9.jxnews.com.cn/live/guixi.m3u8
+赣州上犹,http://live.mudu.tv/watch/rv2n8f.m3u8
+梁浮综合,http://40195.hlsplay.aodianyun.com/diantaizhibo/stream.m3u8
+上饶鄱阳,http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8
+上饶铅山,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_yanshan.m3u8
+上饶余干,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
+井冈山台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
+庐山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+莲花综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
+芦溪综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_luxi2.m3u8
+都昌新闻,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
+彭泽综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
+武宁综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
+万载综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
+修水综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
+永修综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+宁都综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
+广信综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao.m3u8
+广昌综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8

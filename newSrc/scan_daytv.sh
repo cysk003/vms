@@ -9,13 +9,13 @@ do
   fi
 done
 
-for i in `seq 1 999`;
+for i in `seq 1 2000`;
 do
-  url="http://60.26.15.147:9901/tsfile/live/`printf %04d $i`_1.m3u8"
+  url="http://123.147.77.225:9901/tsfile/live/`printf %04d $i`_1.m3u8"
   result=`curl -I  $url 2>/dev/null | grep "404"|wc -l`
   echo $url, $result
   if [ $result -eq 0 ]; then
-      echo $i,$url >> category/baodi.txt
+      echo $i,$url >> category/chongqing/yuzhong.txt
   fi
 done
 
@@ -143,13 +143,14 @@ done
 #48 67,68,70
 for id in `seq 1 999`;
 do
-  url="http://223.241.17.48:808/hls/$id/index.m3u8"
+  url="http://110.72.64.57:808/hls/$id/index.m3u8"
   result=`curl -I $url 2>/dev/null| grep HTTP |awk '{print $2}'`
   echo $url, $result
   if [ "$result" = "200" ]; then
-      echo $id,"$url" >> category/anhui/bozhou.txt
+      echo $id,"$url" >> category/guangxi/pingnan.txt
   fi
-
+done
+http://110.72.64.57:808/hls/26/index.m3u8
 
 http://123.147.77.225:9901/tsfile/live/0001_1.m3u8
 

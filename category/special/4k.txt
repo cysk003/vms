@@ -1,1 +1,19 @@
 4K电影,http://60.255.49.202/live/emdy4k_8000.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",CCTV-4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",4K花园娱乐 UHD
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227746/index.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",4K花园影视 UHD
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227749/index.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",4K花园电影 UHD
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227813/index.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",广东珠江4K
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="== 未分组 ==",欢笑剧场4K
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",4K风光
+http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",LOVE自然1080
+http://177.20.208.58:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="== 未分组 ==",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8

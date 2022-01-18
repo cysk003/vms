@@ -1,0 +1,86 @@
+#EXTINF:-1 ,黄余呢（精品电影赏）
+http://103.140.229.13/BOBO/bibi.php?id=10513567
+#EXTINF:-1 ,【大秦帝国】：秦武安
+http://103.140.229.13/BOBO/bibi.php?id=11259274
+#EXTINF:-1 ,剧集电影综艺音乐剧
+http://103.140.229.13/BOBO/bibi.php?id=1215668
+#EXTINF:-1 ,【阿梅】大片经典
+http://103.140.229.13/BOBO/bibi.php?id=127343
+#EXTINF:-1 ,【伪装者】
+http://103.140.229.13/BOBO/bibi.php?id=14386552
+#EXTINF:-1 ,炊事班的故事1、2部
+http://103.140.229.13/BOBO/bibi.php?id=14457148
+#EXTINF:-1 ,鱼肉烧
+http://103.140.229.13/BOBO/bibi.php?id=2010774
+#EXTINF:-1 ,大明宫词轮播
+http://103.140.229.13/BOBO/bibi.php?id=21046732
+#EXTINF:-1 ,曲线救国贾队长晴天
+http://103.140.229.13/BOBO/bibi.php?id=21070039
+#EXTINF:-1 ,医馆笑传
+http://103.140.229.13/BOBO/bibi.php?id=21070400
+#EXTINF:-1 ,[炊事班的故事]超清
+http://103.140.229.13/BOBO/bibi.php?id=21354981
+#EXTINF:-1 ,西片
+http://103.140.229.13/BOBO/bibi.php?id=21377115
+#EXTINF:-1 ,破旧的音悦台（点歌姬已开放）
+http://103.140.229.13/BOBO/bibi.php?id=215057
+#EXTINF:-1 ,橙子台影视2台
+http://103.140.229.13/BOBO/bibi.php?id=21571201
+#EXTINF:-1 ,鱼缸
+http://103.140.229.13/BOBO/bibi.php?id=21665630
+#EXTINF:-1 ,一起看
+http://103.140.229.13/BOBO/bibi.php?id=21680912
+#EXTINF:-1 ,161全集猫和老鼠少儿
+http://103.140.229.13/BOBO/bibi.php?id=2171135
+#EXTINF:-1 ,经典功夫台
+http://103.140.229.13/BOBO/bibi.php?id=21715386
+#EXTINF:-1 ,【大秦帝国】放映厅
+http://103.140.229.13/BOBO/bibi.php?id=21733247
+#EXTINF:-1 ,经典番剧/动漫/剧场少儿版
+http://103.140.229.13/BOBO/bibi.php?id=21751462
+#EXTINF:-1 ,邵氏影院老电影
+http://103.140.229.13/BOBO/bibi.php?id=21759196
+#EXTINF:-1 ,怀旧经典剧 武侠 神话 神断案
+http://103.140.229.13/BOBO/bibi.php?id=21763462
+#EXTINF:-1 ,经典国剧
+http://103.140.229.13/BOBO/bibi.php?id=21791019
+#EXTINF:-1 ,捉鬼
+http://103.140.229.13/BOBO/bibi.php?id=22033743
+#EXTINF:-1 ,电视剧 电影 动画 动漫 点播
+http://103.140.229.13/BOBO/bibi.php?id=22054619
+#EXTINF:-1 ,【经典影剧馆】终极三国
+http://103.140.229.13/BOBO/bibi.php?id=22527703
+#EXTINF:-1 ,1905电影网
+http://103.140.229.13/BOBO/bibi.php?id=22728767
+#EXTINF:-1 ,神话时空电影
+http://103.140.229.13/BOBO/bibi.php?id=22747403
+#EXTINF:-1 ,新版猫和老鼠
+http://103.140.229.13/BOBO/bibi.php?id=22905626
+#EXTINF:-1 ,随便看看
+http://103.140.229.13/BOBO/bibi.php?id=23020622
+#EXTINF:-1 ,少年包青天高清123神雕侠侣雕英雄传天八
+http://103.140.229.13/BOBO/bibi.php?id=23145747
+#EXTINF:-1 ,经典影视台
+http://103.140.229.13/BOBO/bibi.php?id=23169468
+#EXTINF:-1 ,影视剧轮播Cassiel
+http://103.140.229.13/BOBO/bibi.php?id=23304182
+#EXTINF:-1 ,橙子影视3台
+http://103.140.229.13/BOBO/bibi.php?id=23318768
+#EXTINF:-1 ,橙子影视1台
+http://103.140.229.13/BOBO/bibi.php?id=23318788
+#EXTINF:-1 ,【周星驰】喜剧 动作 僵尸
+http://103.140.229.13/BOBO/bibi.php?id=47917
+#EXTINF:-1 ,林正英 鬼片 僵尸 女鬼 经典 高能
+http://103.140.229.13/BOBO/bibi.php?id=5226265
+#EXTINF:-1 ,【烧包谷】树莓派不断电少儿
+http://103.140.229.13/BOBO/bibi.php?id=5977175
+#EXTINF:-1 ,松鼠电影屋动作片专场
+http://103.140.229.13/BOBO/bibi.php?id=6827037
+#EXTINF:-1 ,林正英 鬼片 僵尸 经典 护体
+http://103.140.229.13/BOBO/bibi.php?id=70155
+#EXTINF:-1 ,神话 胡歌 成龙
+http://103.140.229.13/BOBO/bibi.php?id=7251976
+#EXTINF:-1 ,小央上班追综艺
+http://103.140.229.13/BOBO/bibi.php?id=8178490
+#EXTINF:-1 ,【怀旧影视】国语专场
+http://103.140.229.13/BOBO/bibi.php?id=8199817

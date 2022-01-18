@@ -1,5 +1,7 @@
 可替换地址
 
+
+http://183.207.255.190/live/program/live/id/mnf.m3u8 //140.207.241.3:8080 //stream-shbu.bestvcdn.com:8080 //shbu.live.bestvcdn.com.cn:8080 //shbu4k.live.bestvcdn.com:8080  cctv1hd/4000000  CCTV-1HD cctv2/1300000  CCTV-2怎么使用？
 贵阳电信,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 兰州电信,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 四川移动,http://36.170.16.48/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8

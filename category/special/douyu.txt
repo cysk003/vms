@@ -587,3 +587,172 @@ dou2yu152,http://dyscdnali1.douyucdn.cn/live/9564766reJxQqlLs.flv?uuid=
 情景喜剧1_dou2yu,http://dyscdnali1.douyucdn.cn/live/3980787rPteuucBO.flv?uuid=
 
 情景喜剧3_dou2yu,http://dyscdnali1.douyucdn.cn/live/240196rJiSwtAy5d.flv?uuid=
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼邵氏影院1
+http://dyscdnali1.douyucdn.cn/live/4246519rnUuoyxCd.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼港剧直播间1
+http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼港剧直播间2
+http://dyscdnali1.douyucdn.cn/live/59612rJxL5j4gcW4.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼哈利波特1
+http://dyscdnali1.douyucdn.cn/live/8814650rDAtinSct.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼一起看电影
+http://dyscdnali1.douyucdn.cn/live/6079455rSck78lUy.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼欧美科幻经典1
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼7116591
+http://dyscdnali1.douyucdn.cn/live/7116591ryiBG2B2T.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼2793084
+http://dyscdnali1.douyucdn.cn/live/2793084rOv5omCuI.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼喜剧1
+http://dyscdnali1.douyucdn.cn/live/10298856rIbBUUJi.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼成龙历险记7066113
+http://tx2play1.douyucdn.cn/live/7066113rtmxVLRd6.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼恐怖科幻1
+http://dyscdnali1.douyucdn.cn/live/263824rY7r7Ykt7m.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼越狱
+http://dyscdnali1.douyucdn.cn/live/7575350rvP2Ubs6f.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼使徒行者
+http://dyscdnali1.douyucdn.cn/live/7810803r2uicBMU9.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼鉴证实录
+http://dyscdnali1.douyucdn.cn/live/8323493rSc77mmGQ.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼MV点播3186217
+http://tx2play1.douyucdn.cn/live/3186217r9fT4DN1a.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼黑白老电影10411518
+http://tx2play1.douyucdn.cn/live/10411518r4J6YSIP.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼经典港剧4290711
+http://dyscdnali1.douyucdn.cn/live/4290711r58wJsHRc.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼动漫直播间1487654
+http://tx2play1.douyucdn.cn/live/1487654rsVfcPzng.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼林正英1经典9275635
+http://tx2play1.douyucdn.cn/live/9275635rKgnnv0Bw.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼欧美3经典2793084
+http://tx2play1.douyucdn.cn/live/2793084rOv5omCuI.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼港剧天地6596220
+http://tx2play1.douyucdn.cn/live/6596220rmGYdXdIS.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼港剧经典轮播6241733
+http://tx2play1.douyucdn.cn/live/6241733rxkXLJ0fI.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼豆瓣高分电影8770422
+http://dyscdnali1.douyucdn.cn/live/8770422rkzstZonJ.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼漫威宇宙6778960
+http://dyscdnali1.douyucdn.cn/live/6778960rJ8BwKq6O.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼果子哥哥9372950
+http://tx2play1.douyucdn.cn/live/9372950rAfsTa1Xn.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼5522351
+http://tx2play1.douyucdn.cn/live/5522351rfdh4CG1L.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼747764
+http://tx2play1.douyucdn.cn/live/747764rr7m3QcnAb.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼315457
+http://tx2play1.douyucdn.cn/live/315457rGxEJOfxKX.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼6706214
+http://tx2play1.douyucdn.cn/live/6706214rP5ORl02o.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼323876
+http://tx2play1.douyucdn.cn/live/323876rVG9fNP17E.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼4332
+http://tx2play1.douyucdn.cn/live/4332rNZFUb6QhJOJ.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼5423
+http://tx2play1.douyucdn.cn/live/5423rdm8bBRFcMxU.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼3928
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼223521
+http://tx2play1.douyucdn.cn/live/223521rTicMZtNWt.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼1735337
+http://tx2play1.douyucdn.cn/live/1735337rNjUv8MGL.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼85894
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼10395986
+http://tx2play1.douyucdn.cn/live/10395986rlYyrSC4.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼8770422
+http://tx2play1.douyucdn.cn/live/8770422rkzstZonJ.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼老三国
+http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼新三国6546908
+http://tx2play1.douyucdn.cn/live/6546908rMiLHVzbo.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼CCTV6放映室10011042
+http://tx2play1.douyucdn.cn/live/10011042rx4ZSmFQ.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼厚学法考8805
+http://dyscdnali1.douyucdn.cn/live/8628746rAI5y4fy2.flv?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼纪录片5464884
+http://tx2play1.douyucdn.cn/live/5464884rwldu5oDS.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼263824
+http://tx2play1.douyucdn.cn/live/263824rY7r7Ykt7m.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼5033502
+http://tx2play1.douyucdn.cn/live/5033502rf2fLWOXi.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼赵四专场9356342
+http://tx2play1.douyucdn.cn/live/9356342rhyi5sAWA.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼超清港剧223521
+http://tx2play1.douyucdn.cn/live/223521rTicMZtNWt.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播5261342
+http://tx2play1.douyucdn.cn/live/5261342rvYiYVv6V.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播10395937
+http://tx2play1.douyucdn.cn/live/10395937rKWyzMMI.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播3990812
+http://tx2play1.douyucdn.cn/live/3990812rd84QrBeO.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播同年阴影7784862
+http://tx2play1.douyucdn.cn/live/7784862rZnMk9b3P.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播柯南6484910
+http://tx2play1.douyucdn.cn/live/6484910rnM9Qpe8m.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播风云9290755
+http://tx2play1.douyucdn.cn/live/9290755rbouO6bH4.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播6921334
+http://tx2play1.douyucdn.cn/live/6921334rPARWW8W1.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,斗鱼直播华语老歌9660203
+http://tx2play1.douyucdn.cn/live/9660203rG3HIzm6L.xs?uuid=.m3u8
+
+#EXTINF:-1 logo="" group-title="" ,哔哩哔哩22015508
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/375432/live_473837611_14189661/index.m3u8
+

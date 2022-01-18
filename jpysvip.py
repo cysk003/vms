@@ -129,5 +129,5 @@ class JpySvip(object):
 
 if __name__ == '__main__':
     vip = JpySvip()
-    print(vip.sign("99445e00ead9dc5e5868eb273b2bde26"))
-   # print(vip.getUrl('https://v.qq.com/x/cover/im60meg91bo9dbr.html'))
+    #print(vip.sign("99445e00ead9dc5e5868eb273b2bde26"))
+    print(vip.getUrl('https://v.qq.com/x/cover/im60meg91bo9dbr.html'))

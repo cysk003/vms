@@ -213,11 +213,11 @@ http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
 
 for id in `seq 1000 1299`;
 do
-  url=http://iptv.eatuo.com:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url=http://223.13.2.170:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/guangdong/meizhou.txt
+      echo $id,$url >> category/shanxi/jiudian.txt
   fi
 done
 

@@ -4,6 +4,8 @@ http://dyzy.pub:8000/udp/235.254.199.166:7980
 http://14.106.96.49:9999/udp/235.254.199.180:7980
 #EXTINF:-1  group-title="测试",深圳少儿
 http://jdsw.top:8000/udp/239.77.1.244:5146
+#EXTINF:-1  group-title="测试",天津少儿频道
+http://117.13.120.174:4022/udp/225.1.1.125:5002
 #EXTINF:-1 tvg-id="137" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="少儿动漫",卡酷动画
 http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1  group-title="少儿动漫",北京IPTV淘BABY

@@ -75,7 +75,7 @@
 影视,电影台 高清,http://beifeng.site:4000/udp/239.3.1.97:8001
 影视,SiTV欢笑剧场,rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil
 影视,SiTV欢笑剧场 4K,http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
-影视,SiTV欢笑剧场 4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+影视,SiTV欢笑剧场 4K,http://39.134.35.213/PLTV/88888888/224/3221226203/index.m3u8
 影视,SiTV欢笑剧场4K 12M2160,http://39.134.18.81/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 影视,黑莓电影 4M1080,http://39.134.134.89/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 影视,轮播 高清,http://39.134.67.4/PLTV/88888888/224/3221225521/index.m3u8

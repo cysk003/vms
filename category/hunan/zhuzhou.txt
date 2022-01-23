@@ -1,1 +1,11 @@
 湖南教育1080p8m50fps超高清,http://119.39.128.12:88/hls/25/index.m3u8
+
+kubectl apply -f https://beta.isignet.cn:10443/v3/import/cmtqng26sjvzkhmszdj5ms57z9phnjn9ff52tj8xmhsljhhfdvxmv8_c-m-nrrrg8cn.yaml
+curl --insecure -sfL https://beta.isignet.cn:10443/v3/import/cmtqng26sjvzkhmszdj5ms57z9phnjn9ff52tj8xmhsljhhfdvxmv8_c-m-nrrrg8cn.yaml | kubectl apply -f -
+kubectl create clusterrolebinding cluster-admin-binding --clusterrole cluster-admin --user <your username from your kubeconfig>
+
+
+kubectl apply -f https://beta.isignet.cn:10443/v3/import/vk89vm986xv5jxhcsrkfrnfwnctdhl5fw2c5pkjxnmphfr6x9q4jcs_c-m-9dkwplp4.yaml
+
+curl --insecure -sfL https://beta.isignet.cn:10443/v3/import/vk89vm986xv5jxhcsrkfrnfwnctdhl5fw2c5pkjxnmphfr6x9q4jcs_c-m-9dkwplp4.yaml | kubectl apply -f -
+kubectl create clusterrolebinding cluster-admin-binding --clusterrole cluster-admin --user <your username from your kubeconfig>

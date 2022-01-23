@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 group-title="影视频道",斗鱼电影
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+
+#EXTINF:-1 group-title="影视频道",福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+
+#EXTINF:-1 group-title="影视频道",CHC动作电影
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 group-title="影视频道",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+
+#EXTINF:-1 group-title="影视频道",CHC家庭影院
+http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+
+#EXTINF:-1 tvg-id="DongFangYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方影视
+http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://parco-zh.github.io/demo/ZJYS.png",浙江影视
+http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+
+#EXTINF:-1 tvg-id="DongZuoDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",动作电影
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="NanNingYingShiYuLe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+
+#EXTINF:-1 tvg-id="SiChuanISiChuanYingShiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",四川影视台
+http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+
+#EXTINF:-1 tvg-id="JiaTingYingYuan.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",家庭影院
+http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+
+#EXTINF:-1 tvg-id="XuZhouYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",徐州影视
+http://stream1.huaihai.tv/wyys/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DouYuDianYing2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",斗鱼电影2
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+
+#EXTINF:-1 tvg-id="XinChangXiuXianYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+
+#EXTINF:-1 tvg-id="ZheJiangYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/ZJYS.png" group-title="影视频道",浙江影视
+http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ZheJiangJiaoKeYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png" group-title="影视频道",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+#EXTINF:-1 tvg-id="FuZhouYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+
+#EXTINF:-1 tvg-id="JingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="影视频道",黑莓电影
+http://183.207.248.71/cntv/live1/jdianying/jdianying
+
+#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="影视频道",西安影视
+http://stream2.xiancity.cn/xatv4/playlist.m3u8

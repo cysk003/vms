@@ -3,6 +3,11 @@ http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&access
 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=&programid=4200900218
 宁夏教育高清
 
+时尚 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900151.m3u8
+游戏风云 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900157.m3u8
+劲爆体育: http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900153.m3u8
+动漫秀场: http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900156.m3u8
+美丽足球 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900154.m3u8
 宁夏卫视https://hhytv.ningxiahuangheyun.com:443/live/nxws1M.m3u8
 宁夏经济https://hhylive.ningxiahuangheyun.com:443/live/nxjj1M.m3u8
 宁夏公共https://hhytv.ningxiahuangheyun.com:443/live/nxgg1M.m3u8

@@ -195,11 +195,11 @@ done
 
 for id in `seq 1 200`;
 do
-  url="http://113.64.147.7:808/hls/$id/index.m3u8"
+  url="http://220.176.60.234:808/hls/$id/index.m3u8"
   result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
-      echo $id,"$url" >> category/guangdong/206.txt
+      echo $id,"$url" >> category/jiangxi/yudu.txt
   fi
 done
 
@@ -211,13 +211,13 @@ http://27.47.68.3:808/hls/62/index.m3u8
 
 http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
 
-for id in `seq 1000 1299`;
+for id in `seq 900 999`;
 do
-  url=http://iptv.eatuo.com:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url=http://114.228.15.158:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/guangdong/meizhou.txt
+      echo $id,$url >> category/jiangsu/changzhou.txt
   fi
 done
 

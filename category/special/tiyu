@@ -35,3 +35,81 @@ CNTV完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 22:00英超 利物浦vs布伦特福德MG1080p,http://39.134.19.135/PLTV/88888888/224/3221225537/1.m3u8
 22:00英超 西汉姆vs利兹联MG1080P,http://39.134.39.4/PLTV/88888888/224/3221226102/index.m3u8
+
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
+rtmp://161.202.204.248/sat/md011
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
+rtmp://161.202.204.248/sat/md051
+#EXTINF:-1 group-title="体育" tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png",博斯网球
+rtmp://161.202.204.248/sat/md031
+#EXTINF:-1 group-title="体育" tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png",博斯魅力
+rtmp://161.202.204.248/sat/md041
+#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/IslRkR.png",日本MLB
+rtmp://161.202.204.248:1935/sat/jp071
+#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/Islqyz.png",有线18台
+rtmp://161.202.204.248/sat/hk041
+#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1e/Sports_Plus.png",有线 SPORTS 1
+rtmp://161.202.204.248:1935/sat/hk021
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png",有线603
+rtmp://161.202.204.248:1935/sat/hk011
+#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育",博斯运动2
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="体育",智林体育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",魅力足球
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",极速汽车[1920*1080]
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png",山东体育[1920*1080]
+http://livealone302.iqilu.com/iqilu/typd.m3u8
+#EXTINF:-1 group-title="体育",精品体育[1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 group-title="体育",超级体育[1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="体育",咪咕视频·PP体育1
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg",弈坛春秋[1047*576]
+http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
+#EXTINF:-1 group-title="体育",吉林篮球[1047*576]
+http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+#EXTINF:-1 group-title="体育",ufc 2[512*288]
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="体育",ufc 3[1280*720]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="体育",sports[1280*720]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png",Canal+ Sport HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg",ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8

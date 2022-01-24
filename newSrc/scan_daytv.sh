@@ -1,21 +1,24 @@
 
-for i in `seq 101 500`;
+for i in `seq 1000 2000`;
 do
-  url="http://play01.everydaytv.top/etv/iptv/3/$i/0.flv?token=2022"
+  url="http://183.0.186.207:8088/hls/$i/index.m3u8"
   result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
-  echo $url, $result
+  #echo $url, $result
   if [ $result -eq 0 ]; then
-      echo $i,$url >> newSrc/everydaytv.txt
+      echo $i,$url
   fi
 done
 
-for i in `seq 1 2000`;
+http://183.11.239.32:808/hls/1051/index.m3u8
+
+http://171.38.148.173:9901/tsfile/live/1002_1.m3u8
+for i in `seq 1 200`;
 do
-  url="http://123.147.77.225:9901/tsfile/live/`printf %04d $i`_1.m3u8"
+  url="http://171.38.148.173:9901/tsfile/live/`printf %04d $i`_1.m3u8"
   result=`curl -I  $url 2>/dev/null | grep "404"|wc -l`
   echo $url, $result
   if [ $result -eq 0 ]; then
-      echo $i,$url >> category/chongqing/yuzhong.txt
+      echo $i,$url >> category/guangxi/qinzhou.txt
   fi
 done
 

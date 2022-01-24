@@ -218,3 +218,22 @@ http://39.130.202.81:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8
 http://39.130.202.81:6610/gitv_live/G_DIQINGDQ/G_DIQINGDQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",维西电视台
 http://39.130.202.81:6610/gitv_live/G_DIQINGWX/G_DIQINGWX.m3u8
+
+云南广电云几套节目，分辨率辣眼：
+云南卫视,http://live.ynbit.com/hls/yn-1/index.m3u8
+昆 明新闻综合,http://live.ynbit.com/hls/km-1/index.m3u8
+曲靖一套,http://live.ynbit.com/hls/qj-1/index.m3u8
+大理新闻综合,http://live.ynbit.com/hls/dl-1/index.m3u8
+红河一套,http://live.ynbit.com/hls/hh-1/index.m3u8
+楚雄新闻,http://live.ynbit.com/hls/cx-1/index.m3u8
+保山一套,http://live.ynbit.com/hls/bs-1/index.m3u8
+德宏新闻综合,http://live.ynbit.com/hls/dh-1/index.m3u8
+文山新闻综合,http://live.ynbit.com/hls/ws-1/index.m3u8
+西双版纳一套,http://live.ynbit.com/hls/bn-1/index.m3u8
+迪庆新闻综合,http://live.ynbit.com/hls/dq-1/index.m3u8
+玉溪新闻综合,http://live.ynbit.com/hls/yx-1/index.m3u8
+
+暂失效：
+临沧一套,http://live.ynbit.com/hls/lc-1/index.m3u8
+普洱一套,http://live.ynbit.com/hls/pe-1/index.m3u8
+昭通一套,http://live.ynbit.com/hls/zt-1/index.m3u8

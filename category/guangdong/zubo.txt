@@ -339,11 +339,7 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 深圳龙岗,http://jdsw.top:8000/udp/239.77.1.223:5146
 深圳东部,http://jdsw.top:8000/udp/239.77.1.224:5146
 深圳众创,http://jdsw.top:8000/udp/239.77.1.247:5146
-深圳都市频道,http://183.11.239.36:808/hls/101/index.m3u8
-深圳娱乐频道,http://183.11.239.36:808/hls/104/index.m3u8
-深圳少儿频道,http://183.11.239.36:808/hls/106/index.m3u8
-深圳公共频道,http://183.11.239.36:808/hls/107/index.m3u8
-深圳体育健康,http://183.11.239.36:808/hls/105/index.m3u8
+
 深圳卫视,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳卫视,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 惠州一台,http://livehuiz.chinamcache.com/live/zb01.m3u8

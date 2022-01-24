@@ -1,0 +1,65 @@
+CCTV4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4k,https://p.ggiptv.com/v/4k.m3u8
+CCTV4k,http://ye23.win/iptv/4k.cctv.php
+CCTV4k,http://223.110.236.8/ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+CCTV4k,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+CCTV16,<a href="http://ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8" target="_blank">http://ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8</a><br />
+CCTV16,<a href="http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8" target="_blank">http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8</a><br />
+CCTV16,<a href="https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8" target="_blank">https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8</a><br />
+CCTV16,<a href="http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8" target="_blank">http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8</a><br />
+CCTV16,<a href="http://223.110.244.77/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8" target="_blank">http://223.110.244.77/ott.js.chi ... 21228144/index.m3u8</a><br />
+CCTV16,<a href="http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8" target="_blank">http://39.135.138.58:18890/PLTV/ ... 21226233/index.m3u8</a><br />
+另外附送央视4k频道五个链接，看春晚用<br />
+<div class="locked">yinsu，如果您要查看本帖隐藏内容请<a href="forum.php?mod=post&amp;action=reply&amp;fid=182&amp;tid=8006757" onclick="showWindow('reply', this.href)">回复</a></div><br />
+<br />
+其他央视频道链接免费送CCTV13,<a href="http://223.110.230.17:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ/" target="_blank">http://223.110.230.17:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ/</a><br />
+CCTV13,<a href="http://223.110.254.137:6610/cntv/live1/cctv-13/cctv-13.m3u8" target="_blank">http://223.110.254.137:6610/cntv/live1/cctv-13/cctv-13.m3u8</a><br />
+CCTV13,<a href="http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8" target="_blank">http://39.135.138.60:18890/PLTV/ ... 21225638/index.m3u8</a><br />
+CCTV13,<a href="http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1" target="_blank">http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1</a><br />
+CCTV13,<a href="http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228224/index.m3u8" target="_blank">http://39.134.71.75/ott.js.china ... 21228224/index.m3u8</a><br />
+CCTV13,<a href="rtsp://183.252.166.199/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil" target="_blank">rtsp://183.252.166.199/PLTV/8888 ... 000002298296_0.smil</a><br />
+CCTV1,<a href="http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228146/index.m3u8" target="_blank">http://39.134.71.75/ott.js.china ... 21228146/index.m3u8</a><br />
+CCTV1,<a href="http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8" target="_blank">http://116.128.128.197/liveplay- ... hd/4000000/mnf.m3u8</a><br />
+CCTV1,<a href="http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8" target="_blank">http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8</a><br />
+CCTV1,<a href="http://223.110.230.17:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/" target="_blank">http://223.110.230.17:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/</a><br />
+CCTV1,<a href="http://222.175.202.90:9901/tsfile/live/0001_1.m3u8" target="_blank">http://222.175.202.90:9901/tsfile/live/0001_1.m3u8</a><br />
+CCTV1,<a href="http://117.148.179.165/PLTV/88888888/224/3221231468/index.m3u8" target="_blank">http://117.148.179.165/PLTV/88888888/224/3221231468/index.m3u8</a><br />
+CCTV1,<a href="http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/index.m3u8" target="_blank">http://live.aikan.miguvideo.com/ ... 21231468/index.m3u8</a><br />
+CCTV1,<a href="rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil" target="_blank">rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil</a><br />
+CCTV1,<a href="http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1" target="_blank">http://183.207.248.71:80/cntv/li ... D-8000k-1080P-cctv1</a><br />
+CCTV1,<a href="rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil" target="_blank">rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil</a><br />
+CCTV2,<a href="http://39.135.89.100:6610/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com" target="_blank">http://39.135.89.100:6610/yinhe/ ... he.live_hls.zte.com</a><br />
+CCTV2,<a href="http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226195/index.m3u8" target="_blank">http://39.134.18.82/dbiptv.sn.ch ... 21226195/index.m3u8</a><br />
+CCTV2,<a href="http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8" target="_blank">http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8</a><br />
+CCTV2,<a href="rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil" target="_blank">rtsp://183.252.176.54:554/PLTV/8 ... 26655/40417429.smil</a><br />
+CCTV-3,<a href="http://39.134.19.64/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8" target="_blank">http://39.134.19.64/dbiptv.sn.ch ... 21226009/index.m3u8</a><br />
+CCTV-3,<a href="http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8" target="_blank">http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8</a><br />
+CCTV-4,<a href="http://39.130.202.76:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8" target="_blank">http://39.130.202.76:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8</a><br />
+CCTV-4,<a href="http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8" target="_blank">http://39.134.115.163:8080/PLTV/ ... 21225621/index.m3u8</a><br />
+CCTV-4,<a href="http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/index.m3u8" target="_blank">http://39.134.18.82/dbiptv.sn.ch ... 21226191/index.m3u8</a><br />
+CCTV5,<a href="http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8" target="_blank">http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8</a><br />
+CCTV5,<a href="http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8" target="_blank">http://39.134.115.163:8080/PLTV/ ... 21225633/index.m3u8</a><br />
+CCTV5+,<a href="http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8" target="_blank">http://111.63.117.13:6060/030000 ... S/G_CCTV-5PLUS.m3u8</a><br />
+CCTV6,<a href="http://223.110.242.156:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/" target="_blank">http://223.110.242.156:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/</a><br />
+CCTV6,<a href="http://117.148.179.165/PLTV/88888888/224/3221231724/index.m3u8" target="_blank">http://117.148.179.165/PLTV/88888888/224/3221231724/index.m3u8</a><br />
+CCTV6,<a href="http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8" target="_blank">http://live.aikan.miguvideo.com/ ... 21231724/index.m3u8</a><br />
+CCTV8,<a href="http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-8hd/1.m3u8" target="_blank">http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-8hd/1.m3u8</a><br />
+CCTV8,<a href="http://223.110.244.212:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/" target="_blank">http://223.110.244.212:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/</a><br />
+CCTV10,<a href="http://117.148.179.165/PLTV/88888888/224/3221232492/index.m3u8" target="_blank">http://117.148.179.165/PLTV/88888888/224/3221232492/index.m3u8</a><br />
+CCTV10,<a href="http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8" target="_blank">http://live.aikan.miguvideo.com/ ... 21231666/index.m3u8</a><br />
+CCTV10,<a href="rtsp://183.252.166.199/PLTV/88888888/224/3221226718/40417274.smil" target="_blank">rtsp://183.252.166.199/PLTV/88888888/224/3221226718/40417274.smil</a><br />
+CCTV少儿,<a href="http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8" target="_blank">http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8</a><br />
+CCTV15音乐,<a href="http://223.110.254.137:6610/cntv/live1/cctv-15/cctv-15.m3u8#" target="_blank">http://223.110.254.137:6610/cntv/live1/cctv-15/cctv-15.m3u8#[url]http://39.130.202.76:6610/gitv_live/G_CCTV-15/G_CCTV-15.m3u8</a>[/url]<br />
+江苏高码,<a href="http://223.110.244.211:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/" target="_blank">http://223.110.244.211:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/</a><br />
+江苏高码8m,<a href="http://223.110.244.212:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/" target="_blank">http://223.110.244.212:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/</a><br />
+兰州电信,<a href="http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8" target="_blank">http://125.74.5.39/liveplay-kk.r ... hd/4000000/mnf.m3u8</a><br />
+四川移动,<a href="http://36.170.16.48/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8" target="_blank">http://36.170.16.48/liveplay-kk. ... hd/4000000/mnf.m3u8</a><br />
+延边联通,<a href="http://122.136.191.250/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8" target="_blank">http://122.136.191.250/liveplay- ... hd/4000000/mnf.m3u8</a><br />
+青岛联通,<a href="http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8" target="_blank">http://119.167.229.31/liveplay-k ... hd/4000000/mnf.m3u8</a><br />
+青海联通,<a href="http://116.177.25.42:8080/live/program/live/cctv1hd/4000000/mnf.m3u8" target="_blank">http://116.177.25.42:8080/live/p ... hd/4000000/mnf.m3u8</a><br />
+易凤代理,<a href="http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8" target="_blank">http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8</a><br />
+tv凤代理,<a href="http://iptv.tvfix.org/hls/cctv2hd.m3u8" target="_blank">http://iptv.tvfix.org/hls/cctv2hd.m3u8</a><br />
+河南新乡,<a href="http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1" target="_blank">http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1</a><br />
+南宁移动,<a href="http://39.135.32.39:6610/000000001000/1000000001000018602/1.m3u8?" target="_blank">http://39.135.32.39:6610/000000001000/1000000001000018602/1.m3u8?</a><br />
+清华大学电视台,<a href="http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8" target="_blank">http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8</a><br />

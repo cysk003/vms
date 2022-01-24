@@ -12,3 +12,6 @@
 港-凤凰卫视香港[1920*1080],http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 港-凤凰卫视香港[1920*1080],http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS
 港-凤凰卫视香港[1920*1080],http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+
+
+http://223.110.247.227:6610/gitv/live1/G_NANFANG/G_NANFANG

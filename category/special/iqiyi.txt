@@ -162,3 +162,11 @@ DOTA2,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb05.php?id==d
 我的团长我的团,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb05.php?id=wdtzwdt
 周润发古天乐,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb05.php?id=yyzrfgtl
 刘德华刘青云,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb05.php?id=yypldhlqy
+
+怀旧动画,http://mmitv.top/pltv/iqiyi.php?id=180054122&tk=77572454
+动画电影,http://mmitv.top/pltv/iqiyi.php?id=180056522&tk=d8e6f98f
+童年经典,http://mmitv.top/pltv/iqiyi.php?id=380067422&tk=43d5c9eb
+神探狄仁杰,http://localhost:8001/bl.php?id=22621344#http://mmitv.top/pltv/iqiyi.php?id=180056822&tk=bfa3f56b
+喜羊,http://mmitv.top/pltv/iqiyi.php?id=180054422&tk=1dd31337
+赘婿,http://mmitv.top/pltv/iqiyi.php?id=380073622&tk=d87d51ec
+知否,http://mmitv.top/pltv/iqiyi.php?id=380075122&tk=b9d9606c

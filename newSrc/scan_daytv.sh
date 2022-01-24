@@ -1,21 +1,24 @@
 
-for i in `seq 101 500`;
+for i in `seq 1000 2000`;
 do
-  url="http://play01.everydaytv.top/etv/iptv/3/$i/0.flv?token=2022"
+  url="http://183.0.186.207:8088/hls/$i/index.m3u8"
   result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
-  echo $url, $result
+  #echo $url, $result
   if [ $result -eq 0 ]; then
-      echo $i,$url >> newSrc/everydaytv.txt
+      echo $i,$url
   fi
 done
 
-for i in `seq 1 2000`;
+http://183.11.239.32:808/hls/1051/index.m3u8
+
+http://171.38.148.173:9901/tsfile/live/1002_1.m3u8
+for i in `seq 1 200`;
 do
-  url="http://123.147.77.225:9901/tsfile/live/`printf %04d $i`_1.m3u8"
+  url="http://171.38.148.173:9901/tsfile/live/`printf %04d $i`_1.m3u8"
   result=`curl -I  $url 2>/dev/null | grep "404"|wc -l`
   echo $url, $result
   if [ $result -eq 0 ]; then
-      echo $i,$url >> category/chongqing/yuzhong.txt
+      echo $i,$url >> category/guangxi/qinzhou.txt
   fi
 done
 
@@ -193,13 +196,21 @@ do
   fi
 done
 
-for id in `seq 1 200`;
+for id in `seq 200 300`;
 do
+<<<<<<< HEAD
   url="http://220.176.60.234:808/hls/$id/index.m3u8"
   result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
       echo $id,"$url" >> category/jiangxi/yudu.txt
+=======
+  url="http://183.0.186.207:8088/hls/$id/index.m3u8"
+  result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/guangdong/nanming.txt
+>>>>>>> 700d1b466e12f633b9753221a03cd9183191fa6a
   fi
 done
 
@@ -210,6 +221,7 @@ http://27.47.68.3:808/hls/62/index.m3u8
 
 
 http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
+<<<<<<< HEAD
 
 for id in `seq 900 999`;
 do
@@ -218,6 +230,16 @@ do
   echo $url, $result
   if [ $result -gt 0 ]; then
       echo $id,$url >> category/jiangsu/changzhou.txt
+=======
+http://113.57.109.37:9901/tsfile/live/1018_1.m3u8
+for id in `seq 1000 1299`;
+do
+  url=http://113.57.109.37:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/hubei/wuhan.txt
+>>>>>>> 700d1b466e12f633b9753221a03cd9183191fa6a
   fi
 done
 
@@ -244,16 +266,26 @@ do
   fi
 done
 
-for id in `seq 1 1000`;
+for id in `seq 1 999`;
 do
-  url="http://218.204.153.158/$id.m3u8"
+  tvid=`printf %03d $id`
+  url="http://39.134.3.73:6610/000000001666/100000000100111$tvid/1.m3u8?IASHttpSessionId=OTT"
   result=`curl  $url 2>/dev/null|grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/jiangxi/jian.txt
+      echo $id,$url >> category/chongqing/yishiteng.txt
   fi
 done
 
 吉州HD,http://218.204.153.158/10.m3u8
 
+for id in `seq 8500 8799`;
+do
+  url=http://60.250.92.249:$id/.m3u8
+  result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/taiwan/121.txt
+  fi
+done
 

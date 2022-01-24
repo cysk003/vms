@@ -1,14 +1,10 @@
 
-for firstRange in `seq 249 249`;
+for firstRange in `seq 250 251`;
 do
-  for iprange in `seq 125 255`;
+  for iprange in `seq 231 255`;
   do
-    if [ "$iprange" = "91" -o "$iprange" = "178"   -o "$iprange" = "59" ]; then
-      continue
-    fi
     for host in `seq 0 255`;
     do
-
       url=http://60.$firstRange.$iprange.$host;
       result=`curl -m1 --connect-time 1 $url 2>/dev/null |grep player-live|wc -l`
       echo "scan $url, $result"
@@ -17,7 +13,7 @@ do
         do
           result2=`curl -m1 --connect-timeout 2 $url:$port/.m3u8 2>/dev/null |grep EXTM3U| wc -l`;
           echo  $url:$port/.m3u8,$result2 ;
-          [ "$result2" -gt 0 ] && echo  $url:$port/.m3u8 >> tw.txt ;
+          [ "$result2" -gt 0 ] && echo  $url:$port/.m3u8 >> tw4.txt ;
         done
       fi
     done

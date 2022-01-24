@@ -321,3 +321,246 @@ emdy4k 4K超高清电影
 
 test1 凤凰中文
 test2 凤凰资讯
+永嘉电视台新闻综合：id=1335&uin=2768
+新昌县 https://web.guangdianyun.tv/tv/?id=1361&uin=2840
+无锡教育， https://web.guangdianyun.tv/tv/1639?uin=2019
+https://web.guangdianyun.tv/tv/?id=425
+射洪综合 ： https://web.guangdianyun.tv/tv/?id=391&uin=1743&fxbs=1
+安吉新闻： https://web.guangdianyun.tv/tv/?id=1499&uin=1253
+叶县今朝(yxjzwx) 直播地址:https://web.guangdianyun.tv/live/?id=21129
+宿迁 https://web.guangdianyun.tv/live/42869?uin=3100
+
+沙县综合：https://1812501212048408.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/node-api.online/node-api/tv/getPlayAddress?id=425&uin=1567&clientId=c1c49d6a-63ee-4c88-9e4b-1682caabfb04
+Request URL: https://1812501212048408.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/node-api.online/node-api/tv/getPlayAddress?id=1639&uin=2019&clientId=9d004ddb-56ed-44e7-a2b5-cfa437d05587
+curl https://1812501212048408.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/node-api.online/node-api/tv/getPlayAddress\?id\=1361\&uin\=2840\&clientId\=279eed8c-ae82-4bb2-a001-64304d2d2b56 -H "Referer: https://web.guangdianyun.tv"
+{"code":200,"errorCode":0,"data":{"hlsUrl":"http://42483.hlsplay.aodianyun.com/tv_radio_42483/tv_channel_1361.m3u8?auth_key=1643100717-0-0-b02137195b868e0821f19152b7ef3df6"},"errMessage":""}%
+
+{"code":200,"errorCode":0,"data":{"hlsUrl":"http://33684.hlsplay.aodianyun.com/tv_radio_33684/tv_channel_1066.m3u8?auth_key=1643100510-0-0-284d27a8d13db9be0bedd702a692c4b8"},"errMessage":""}
+https://1812501212048408.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/node-api.online/node-api/tv/getPlayAddress?id=1066&uin=1332&clientId=0a27c47a-afa5-44cc-98c9-779f7b5c9203
+http://40278.hlsplay.aodianyun.com/tv_radio_40278/tv_channel_2042.m3u8 汉川新闻综合
+http://40278.hlsplay.aodianyun.com/tv_radio_40278/tv_channel_2043.m3u8 汉川生活资讯(暂失效)
+http://49121.hlsplay.aodianyun.com/tv_radio_49121/tv_channel_2057.m3u8 芮城综合
+http://40419.hlsplay.aodianyun.com/tv_radio_40419/tv_channel_2063.m3u8 布尔津汉语综合
+http://40419.hlsplay.aodianyun.com/tv_radio_40419/tv_channel_2064.m3u8 布尔津哈语综合
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2066.m3u8 阜阳新闻综合
+http://hwzbout.yunshicloud.com/8rj7c1/o8e95b_hd.m3u8 阜阳新闻综合（云视云）
+http://41442.hlsplay.aodianyun.com/tv_radio_41442/tv_channel_2068.m3u8 闽侯综合
+
+
+curl 'https://45218.live-vod.cdn.aodianyun.com/m3u8/0x0/guangdianyun_45218.program_live_channel_42869.1590994779/guangdianyun_45218.program_live_channel_42869.1590994779.m3u8' \
+  -H 'authority: 45218.live-vod.cdn.aodianyun.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'accept: */*' \
+  -H 'origin: https://web.guangdianyun.tv' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://web.guangdianyun.tv/' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  --compressed
+
+  <?php
+  $id = isset($_GET['id'])?$_GET['id']:'cctv1';
+  $n = array(
+  'cctv1' => 633,
+  'cctv1a' => 1725,
+  'cctv1b' => 1589,
+  'cctv1c' => 2405,
+
+  'cctv3' => 589,
+  'cctv3a' => 636,
+  'cctv5' => 634,
+  'cctv6' => 676,
+  'cctv8' => 635,
+  'cctv14' => 2411,
+  'ahws' => 547, //安徽卫视
+  'hunws' => 632, //湖南卫视
+  'hunwsa' => 810, //湖南卫视
+  'hunwsb' => 1726, //湖南卫视2
+  'dnws' => 785, //东南卫视'
+
+  64 孝感新闻综合频道 //不太好用
+  93 山东成武新闻综合 //不能用
+  98 栖霞网络电视台 //不太好用
+
+
+  'zggx' => 1399, //中国供销
+
+  'mdjxwzh' => 1315, //牡丹江新闻综合 黑龙江
+  'mdjjy' => 1546, //牡丹江教育
+  'mdjgg' => 1547, //牡丹江公共
+  'dqxwzh' => 2281, //大庆新闻综合 黑龙江
+  'dqgg' => 2282, //大庆公共
+  'dqjy' => 2283, //大庆教育
+  'wkzh' => 1794, //望奎电视台 黑龙江绥化
+
+  'gbdxwzh' => 206, //高碑店新闻综合 河北保定
+  'pszh' => 593, //平山综合 河北石家庄
+  'jzxwzh' => 732, //冀州新闻综合 河北衡水
+  'jzshzx' => 734, //冀州生活资讯
+  'lqtv1' => 998, //鹿泉一套 河北省石家庄
+  'lqtv2' => 999, //鹿泉二套
+  'hlzh' => 1222, //怀来综合 河北张家口
+  'zhzh' => 2361, //遵化综合 河北唐山
+
+  'qwtv1' => 1203, //曲沃新闻综合 山西临汾
+  'lztv' => 1886, //潞州电视台 山西省长治
+  'hmxwzh' => 2125, //侯马新闻综合 山西临汾
+
+  'lyzh' => 564, //临沂综合 山东
+  'lygg' => 1243, //临沂公共
+  'lynk' => 1244, //临沂农科
+  'lytw' => 1245, //临沂图文 x
+  'jxxw' => 1306, //嘉祥新闻 山东济宁
+  'jxsh' => 1307, //嘉祥生活
+
+  'ngxwzh' => 1588, //宁国新闻综合 安徽宣城
+  'ngcssh' => 1589, //宁国城市生活
+  'xnxwzh' => 1697, //休宁新闻综合 安徽黄山
+  'fyxwzh' => 2066, //阜阳新闻综合 安徽
+  'fyjg' => 2453, //阜阳交广
+  'fdxwzh' => 1155, //肥东新闻综合 安徽合肥
+  'fdjjsh' => 2093, //肥东经济生活
+  'dsxwzh' => 2334, //砀山新闻综合 安徽宿州
+  'dsjjwh' => 2336, //砀山经济文化
+
+  'nyzh' => 142, //南阳新闻综合 河南
+  'nyzhhd' => 1833, //南阳新闻综合高清
+  'nygg' => 295, //南阳公共
+  'nykj' => 296, //南阳科教
+  'sstv2' => 1084, //商水二套 河南周口
+  'sstv1' => 1085, //商水一套
+
+  'szzh' => 304, //随州综合 湖北
+  'sznc' => 305, //随州农村
+  'xyzh' => 390, //襄阳综合 湖北
+  'xyjjsh' => 257, //襄阳经济生活
+  'cdxwzh' => 1982, //蔡甸新闻综合 湖北武汉
+  'hcxwzh' => 2042, //汉川新闻综合 湖北孝感
+  'syjy' => 2073, //十堰教育 湖北
+  'jlzh' => 2199, //监利综合 湖北荆州x
+
+  'hunjs' => 585, //湖南经视
+  'csxw' => 346, //长沙新闻 湖南
+  'cszf' => 348, //长沙政法
+  'csnx' => 349, //长沙女性
+  'csys' => 350, //长沙影视
+  'csjlg' => 354, //长沙嘉丽购
+  'csydcf' => 355, //长沙移动电视-磁浮
+  'csyddt' => 356, //长沙移动电视-地铁
+  'csydgj' => 357, //长沙移动电视-公交
+  'syxtv' => 560, //邵阳县电视台 湖南邵阳
+  'yzxwzh' => 567, //宜章新闻综合 湖南郴州
+  'czgg' => 679, //郴州公共 湖南
+  'xyinzh' => 800, //湘阴综合湖南岳阳
+  'dxzh' => 1343, //道县综合 湖南永州
+  'xxxwzh' => 1382, //湘西综合 湖南
+  'xxgg' => 1381, //湘西公共
+  'yyxwzh' => 812, //岳阳新闻综合 湖南
+  'yyxwzh2' => 1699, //岳阳新闻综合
+  'yykj' => 1700, //岳阳科教
+  'yygg' => 1701, //岳阳公共
+  'nxtv' => 1724, //南县新闻 湖南益阳
+  'yuanlxwzh' => 1729, //沅陵新闻综合 湖南怀化
+  'lyxw' => 1788, //浏阳新闻 湖南长沙
+  'htsz' => 1943, //会同时政 湖南怀化
+  'zzxwzh' => 2053, //株洲新闻综合 湖南
+  'zzgg' => 2134, //株洲公共
+
+  'wxjy' => 1639, //无锡教育 江苏
+  'wjxwzh' => 239, //吴江新闻综合 江苏苏州
+  'gyzh' => 777, //灌云综合 江苏连云港
+  'gyys' => 774, //灌云影视
+  'lhxwzh' => 1997, //六合新闻综合 江苏南京
+  'lhys' => 1998, //六合影视
+  'xztv2' => 2482, //徐州二套 江苏
+  'xztv3' => 2483, //徐州三套
+  'xztv4' => 2484, //徐州四套
+
+  'yqzh' => 171, //乐清综合 浙江温州
+  'yqxw' => 170, //乐清新闻
+  'fyzh' => 1181, //富阳新闻综合 浙江杭州
+  'wlxwzh' => 911, //温岭新闻综合 浙江台州
+  'wlmsxx' => 1287, //温岭民生休闲
+  'yjxwzh' => 1335, //永嘉新闻综合 浙江温州
+  'xcxw' => 1361, //新昌新闻 浙江绍兴
+  'xcsh' => 1362, //新昌生活
+  'nhxwzh' => 1423, //宁海新闻综合 浙江宁波
+  'ajxw' => 1499, //安吉新闻综合 浙江湖州
+  'ajsh' => 1526, //安吉生活
+  'ajys' => 1528, //安吉影视
+  'ywxwzh' => 1796, //义乌新闻综合 浙江金华
+
+  'zztv1' => 175, //漳州一套 福建
+  'cltv' => 327, //长乐台 福建福州
+  'sxxwzh' => 425, //沙县新闻综合 福建三明
+  'sxxcly' => 426, //沙县小吃旅游
+  'fqzh' => 699, //福清综合 福建福州
+  'yxxwzh' => 765, //尤溪新闻综合 福建福州
+  'yxcssh' => 766, //尤溪城市生活
+  'yxlyxc' => 767, //尤溪旅游宣传
+  'ptxwzh' => 907, //平潭新闻综合 福建
+  'ptwl' => 908, //平潭文旅
+  'axtv' => 1025, //安溪电视台 福建泉州
+  'shzh' => 1476, //上杭综合 福建龙岩
+  'yctv1' => 1792, //永春综合 福建泉州
+  'yctv2' => 1793, //永春公共(CCTV第一剧场)
+  'smtv1' => 1994, //三明1套HD 福建
+  'smtv2' => 1995, //三明2套HD
+  'mhzh' => 2068, //闽侯综合 福建福州
+  'qgtv' => 2333, //泉港一套 福建泉州
+  'dhzh' => 2467, //德化综合 福建泉州
+
+  'xytv' => 643, //信宜电视台 广东茂名
+  'kpzh' => 1434, //开平综合 广东江门
+  'kpsh' => 1435, //开平生活
+
+  'txtv' => 256, //藤县综合 广西梧州
+  'lzxwzh' => 1902, //柳州新闻综合 广西
+  'lzkj' => 1808, //柳州科教
+
+  'bztv' => 898, //播州电视台 贵州遵义
+
+  'bzzh' => 246, //巴中综合 四川
+  'bzgg' => 247, //巴中公共
+  'baztv' => 1839, //巴州电视 四川巴中
+  'shtv' => 391, //射洪综合 四川遂宁
+  'lxzh' => 1645, //泸县综合 四川泸州
+  'njtv' => 1670, //南江电视台 四川巴中
+  'mztv' => 1933, //绵竹电视 四川德阳
+
+  'bejhy' => 2063, //布尔津汉语综合 新疆阿勒泰
+  'bejhay' => 2064, //布尔津哈语综合
+  'akstv1' => 2229, //阿克苏1套汉语综合 新疆
+  'akstv2' => 2232, //阿克苏2套汉语文艺
+  'akstv3' => 2233, //阿克苏3套维语综合
+  'aksdj' => 2234, //阿克苏党教
+
+  'dztv' => 1330, //儋州台 海南
+  );
+
+  $url = 'https://1812501212048408.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/node-api.online/node-api/tv/channelInfo?id='.$n[$id];
+  $ch = curl_init();
+  curl_setopt($ch, CURLOPT_URL, $url);
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+  $data = curl_exec($ch);
+  curl_close($ch);
+  $playurl = json_decode($data)->data->hlsUrl;
+  header('location:'.$playurl);
+  //echo $playurl;
+  ?>
+  [/hide]
+
+  for id in `seq 5001 6000`;
+  do
+    result=`curl "https://1812501212048408.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/node-api.online/node-api/tv/channelInfo?id=$id" 2>/dev/null | grep "\"code\":200"`
+    echo $id
+    if [ $(echo "$result"|grep -v "\"errorCode\":1"|wc -l) -gt 0 ] ; then
+        echo $result | grep -v "测试"|grep -oE "\"id\":[0-9]*|\"name\":\"[^\"]+|\"company\":\"[^\"]+|\"introduce\":\"[^\"]*" >> guangdian2.txt
+    fi
+  done

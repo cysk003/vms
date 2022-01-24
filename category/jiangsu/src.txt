@@ -41,3 +41,11 @@ CCTV-15音乐，http://223.110.245.142/PLTV/3/224/3221225817/index.m3u8
 CGTN英语，http://223.110.245.148/PLTV/3/224/3221225917/index.m3u8
 
 高淳新闻综合,http://223.110.242.133:6610/gitv/live1/G_GAOCHUNXW/G_GAOCHUNXW
+睢宁综合,http://suining-hls-tv-yf.cm.jstv.com/live/suiningzh/online.m3u8
+睢宁生活,http://suining-hls-tv-yf.cm.jstv.com/live/suiningsh/online.m3u8
+睢宁三农,http://suining-hls-tv-yf.cm.jstv.com/live/suiningsn/online.m3u8
+睢宁资讯,http://suining-hls-tv-yf.cm.jstv.com/live/suiningys/online.m3u8
+电影[1280*1029],http://117.148.179.182/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231513/index.m3u8
+仪征新闻综合,http://yizheng-hls-tv-yf.cm.jstv.com/live/yzxwzh/online.m3u8
+仪征生活http://yizheng-hls-tv-yf.cm.jstv.com/live/yzshsh/online.m3u8
+仪征化纤有线,http://ott.js.chinamobile.com/PLTV/4/224/3221227702/index.m3u8

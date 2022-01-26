@@ -1,6 +1,14 @@
 #EXTINF:-1 ,卡酷少儿 FHD
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+海东综合,https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8
 
+湟中区电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+
+囊谦县电视台,http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+BTV文艺-高清,http://v.mp.haue.edu.cn/hls/btv2hd.m3u8
+BTV科教-高清,http://v.mp.haue.edu.cn/hls/btv3hd.m3u8
+BTV影视-高清,http://v.mp.haue.edu.cn/hls/btv4hd.m3u8
+BTV财经-高清,http://v.mp.haue.edu.cn/hls/btv5hd.m3u8海东综合,https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8
 
 
 #EXTINF:-1 ,北京IPTV淘电影

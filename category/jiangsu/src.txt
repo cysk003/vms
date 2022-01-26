@@ -2,7 +2,7 @@
 重庆卫视,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
 重庆卫视,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227632/index.m3u8
 # 166-167 160-161
-CCTV-1综合，http://223.110.245.151/PLTV/3/224/3221225530/index.m3u8
+CCTV-1综合，http://223.110.245.151/PLTV/3/224/3221227568/index.m3u8
 CCTV-3综艺，http://223.110.245.151/PLTV/3/224/3221225588/index.m3u8
 CCTV-4中文国际，http://223.110.245.151/PLTV/3/224/3221225534/index.m3u8
 CCTV-5体育+，http://223.110.245.134/PLTV/3/224/3221225604/index.m3u8

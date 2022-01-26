@@ -1,13 +1,28 @@
 
-for i in `seq 1000 2000`;
+for i in `seq 1 1000`;
 do
-  url="http://183.0.186.207:8088/hls/$i/index.m3u8"
+  url="http://183.0.186.193:8088/hls/$i/index.m3u8"
   result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
   #echo $url, $result
   if [ $result -eq 0 ]; then
       echo $i,$url
   fi
 done
+
+140.238.51.187
+
+for i in `seq 1 1000`;
+do
+  url="http://140.238.51.187:8080/hls/`printf %02d $i`/index.m3u8"
+  result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
+  #echo $url, $result
+  if [ $result -eq 0 ]; then
+      echo $i,$url
+  fi
+done
+
+
+183.0.186.193:8088
 
 http://183.11.239.32:808/hls/1051/index.m3u8
 
@@ -216,11 +231,11 @@ http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
 http://113.57.109.37:9901/tsfile/live/1018_1.m3u8
 for id in `seq 1000 1299`;
 do
-  url=http://113.57.109.37:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url=http://113.59.10.216:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/hubei/wuhan.txt
+      echo $id,$url >> category/hainan/danzhou.txt
   fi
 done
 
@@ -270,3 +285,31 @@ do
   fi
 done
 
+
+
+for id in `seq 0 245`;
+do
+for host in `seq 1 255`;
+do
+  url=http://119.36.$id.$host:9901/tsfile/live/1009_1.m3u8
+  result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id.$host,$url >> category/wuhan/ip.txt
+  fi
+done
+done
+
+
+for id in `seq 15 19`;
+do
+for host in `seq 1 255`;
+do
+  url=http://114.228.$id.$host:9901/tsfile/live/1009_1.m3u8
+  result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id.$host,$url >> category/jiangsu/ip.txt
+  fi
+done
+done

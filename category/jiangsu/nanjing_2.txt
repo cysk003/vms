@@ -6,7 +6,7 @@
 7,http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
 7,http://183.207.249.7/PLTV/3/224/3221225949/index.m3u8
 7,http://183.207.249.7/PLTV/3/224/3221227523/index.m3u8
-
+223.110.243.215
 
 CCTV-3综艺[1920*1080],http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
 北京卫视[1920*1080],http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv

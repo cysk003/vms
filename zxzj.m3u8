@@ -1,3 +1,13 @@
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/3168101.jpg" group-title="电影",毒液：致命守护者
+http://192.168.50.223:8880/didy?id=venom&ep=0
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/30382416.jpg" group-title="电影",毒液2 Venom: Let There Be Carnage
+http://192.168.50.223:8880/didy?id=venom&ep=1
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/3001114.jpg" group-title="电影",沙丘
+http://192.168.50.223:8880/didy?id=dune
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/30223888.jpg" group-title="电影",永恒族 Imax
+http://192.168.50.223:8880/didy?id=eternals
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/30344474.jpg" group-title="电影",暗处的女儿
+http://192.168.50.223:8880/didy?id=the-lost-daughter
 #EXTINF:-1 group-title="电影",测试
 http://192.168.50.223:8880/movies?url=https://www.jiujiukanpian.com/play/58a5331626/1/2.html
 #EXTINF:-1  group-title="电影",小巨人3D

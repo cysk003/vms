@@ -213,6 +213,11 @@ done
 
 for id in `seq 200 300`;
 do
+  url="http://220.176.60.234:808/hls/$id/index.m3u8"
+  result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/jiangxi/yudu.txt
   url="http://183.0.186.207:8088/hls/$id/index.m3u8"
   result=`curl --connect-timeout 2 $url 2>/dev/null|grep "\.ts" |wc -l`
   echo $url, $result
@@ -228,6 +233,16 @@ http://27.47.68.3:808/hls/62/index.m3u8
 
 
 http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
+<<<<<<< HEAD
+
+for id in `seq 900 999`;
+do
+  url=http://114.228.15.158:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/jiangsu/changzhou.txt
+=======
 http://113.57.109.37:9901/tsfile/live/1018_1.m3u8
 for id in `seq 1000 1299`;
 do
@@ -235,7 +250,12 @@ do
   result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
+<<<<<<< HEAD
       echo $id,$url >> category/hainan/danzhou.txt
+=======
+      echo $id,$url >> category/hubei/wuhan.txt
+>>>>>>> 700d1b466e12f633b9753221a03cd9183191fa6a
+>>>>>>> d3c0a2e4f5a3d0f43b68570e0de92ca71ef20428
   fi
 done
 

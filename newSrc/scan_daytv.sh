@@ -198,6 +198,20 @@ do
       echo $id,"$url" >> category/guangdong/meizhou.txt
   fi
 done
+
+
+for host in `seq 134 188`;
+do
+for id in `seq 1 255`;
+do
+  url="http://202.109.$host.$id:808/hls/1/index.m3u8"
+  result=`curl --connect-timeout 1  $url 2>/dev/null|grep "\.ts" |wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/jiangxi/ip.txt
+  fi
+done
+done
 http://iptv.eatuo.com:9901/tsfile/live/1035_1.m3u8
 done
 http://iptv.eatuo.com:9901/tsfile/live/1035_1.m3u8
@@ -233,7 +247,6 @@ http://27.47.68.3:808/hls/62/index.m3u8
 
 
 http://122.140.20.203:9901/tsfile/live/5003_1.m3u8
-<<<<<<< HEAD
 
 for id in `seq 900 999`;
 do
@@ -242,7 +255,6 @@ do
   echo $url, $result
   if [ $result -gt 0 ]; then
       echo $id,$url >> category/jiangsu/changzhou.txt
-=======
 http://113.57.109.37:9901/tsfile/live/1018_1.m3u8
 for id in `seq 1000 1299`;
 do
@@ -250,12 +262,7 @@ do
   result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-<<<<<<< HEAD
       echo $id,$url >> category/hainan/danzhou.txt
-=======
-      echo $id,$url >> category/hubei/wuhan.txt
->>>>>>> 700d1b466e12f633b9753221a03cd9183191fa6a
->>>>>>> d3c0a2e4f5a3d0f43b68570e0de92ca71ef20428
   fi
 done
 
@@ -333,3 +340,15 @@ do
   fi
 done
 done
+
+for i in `seq 1 1000`;
+do
+  url=http://39.134.32.102:6610/270000001111/111000`printf %04d $i`/index.m3u8?IASHttpSessionId=OTT
+  result=`curl $url 2>/dev/null | grep -E "\.ts|m3u8"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id.$host,$url >> category/gansu/lanzhou_6610.txt
+  fi
+done
+
+

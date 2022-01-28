@@ -112,8 +112,8 @@ do
   echo $i;
   curl --connect-timeout 1 http://14.106.96.49:$port/udp/235.254.199.250:7980
 done
-
 http://dyzy.pub:8000/udp/235.254.197.199:7980
+
 
 重庆|重庆卫视,http://49.234.207.37/tv/cq.php?id=1
 重庆|重庆卫视,http://49.234.207.217/tv/cq.php?id=2

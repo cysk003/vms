@@ -288,6 +288,18 @@ do
       echo $id,$url >> category/henan/cdn.txt
   fi
 done
+3221225717
+for id in `seq 25000 29999`;
+do
+  tvid=`printf %05d $id`
+  url="http://111.12.101.23:6610/PLTV/77777777/224/32212$tvid/index.m3u8?"
+  testurl="http://111.12.101.23:6610/PLTV/77777777/224/32212$tvid/index.m3u8?IASHttpSessionId=OTT2912420220129161644001282"
+  result=`curl  $testurl 2>/dev/null|grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/guangdong/zhujiang.txt
+  fi
+done
 
 for id in `seq 1 999`;
 do
@@ -332,13 +344,23 @@ for id in `seq 15 19`;
 do
 for host in `seq 1 255`;
 do
-  url=http://114.228.$id.$host:9901/tsfile/live/1009_1.m3u8
+  url=http://113.57.109.37:9901/tsfile/live/1009_1.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
       echo $id.$host,$url >> category/jiangsu/ip.txt
   fi
 done
+done
+
+for id in `seq 1000 1299`;
+do
+  url=http://171.38.149.151:9901/tsfile/live/`printf %04d $id`_2.m3u8
+  result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/guangxi/qinzhou2.txt
+  fi
 done
 
 for i in `seq 1 1000`;
@@ -352,3 +374,12 @@ do
 done
 
 
+for id in `seq 8500 8900`;
+do
+  url=http://211.23.114.106:$id/.m3u8
+  result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $id,$url >> category/taiwan/211.txt
+  fi
+done

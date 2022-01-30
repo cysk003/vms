@@ -510,3 +510,4 @@ http://60.250.121.103/
 http://60.250.121.217/
 http://60.250.92.249/
 http://45.11.1.58:8080/channels/now_news/playlist.m3u8
+http://61.222.202.191/gttv.php?id=15131&cid=15294

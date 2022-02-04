@@ -349,7 +349,7 @@ class Tools(object):
                     endTime = int(round(time.time() * 1000))
                     useTime = endTime - startTime
                     return int(useTime)
-            elif url.strip().startswith("rtsp://"):
+            elif url.strip().startswith("rtsp://") or url.strip().startswith("rtmp://"):
                 startTime = int(round(time.time() * 1000))
                 cap = cv2.VideoCapture(url)
                 if cap.isOpened():
@@ -357,7 +357,7 @@ class Tools(object):
                     useTime = endTime - startTime
                     return int(useTime)
             else:
-                print(str(code))
+               # print(str(code))
                 return 0
         except:
             return 0

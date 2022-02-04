@@ -1,13 +1,16 @@
 
-for i in `seq 1 1000`;
+for i in `seq 1000 2000`;
 do
-  url="http://183.0.186.193:8088/hls/$i/index.m3u8"
-  result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
-  #echo $url, $result
-  if [ $result -eq 0 ]; then
-      echo $i,$url
+  url="http://112.102.234.185:807/hls/$i/index.m3u8"
+  result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $i,$url  >> category/heilongjiang/haerbin_hotel
   fi
 done
+
+http://112.102.234.185:807/hls/215/index.m3u8
+
 
 140.238.51.187
 
@@ -267,6 +270,8 @@ do
 done
 
 
+
+
 for id in `seq 10000 13999`;
 do
   tvid=`printf %05d $id`
@@ -352,16 +357,38 @@ do
   fi
 done
 done
+http://115.52.173.172:9901/tsfile/live/0001_1.m3u8
+http://115.48.163.208:9901/tsfile/live/0001_1.m3u8
 
-for id in `seq 1000 1299`;
+http://115.56.40.73:9901/tsfile/live/0001_1.m3u8
+http://115.56.56.214:9901/tsfile/live/0001_1.m3u8
+http://115.61.134.170:9901/tsfile/live/0001_1.m3u8
+http://115.61.211.211:9901/tsfile/live/0001_1.m3u8
+http://58.20.64.205:9901/tsfile/live/0001_1.m3u8
+http://123.10.17.242:9901/tsfile/live/0001_1.m3u8
+http://123.10.23.159:9901/tsfile/live/0001_1.m3u8
+http://123.10.34.34:9901/tsfile/live/0001_1.m3u8
+http://123.11.38.179:9901/tsfile/live/0001_1.m3u8
+http://58.20.64.205:9901/tsfile/live/0001_1.m3u8
+http://58.20.156.136:9901/tsfile/live/0001_1.m3u8
+http://58.20.161.33:9901/tsfile/live/0001_1.m3u8
+http://106.35.22.83:9901/tsfile/live/0001_1.m3u8 //内蒙古赤峰
+http://171.116.157.79:9901/tsfile/live/0001_1.m3u8
+http://171.116.159.84:9901/tsfile/live/0001_1.m3u8
+http://171.117.68.223:9901/tsfile/live/0001_1.m3u8
+http://171.117.203.61:9901/tsfile/live/0001_1.m3u8
+http://58.18.134.142:9901/tsfile/live/0001_1.m3u8
+for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url=http://171.38.149.151:9901/tsfile/live/`printf %04d $id`_2.m3u8
+  url=http://58.18.134.142:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/guangxi/qinzhou2.txt
+      echo $id,$url >> category/neimeng/chifeng_ningcheng.txt
   fi
 done
+
+http://115.58.243.59:9901/tsfile/live/0001_1.m3u8
 
 for i in `seq 1 1000`;
 do
@@ -383,3 +410,43 @@ do
       echo $id,$url >> category/taiwan/211.txt
   fi
 done
+
+
+for id in `seq 8400 8499`;
+do
+  url="http://59.125.101.187:$id/.m3u8"
+  result=`curl $url 2>/dev/null|grep -E "\.ts"|wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/taiwan/59.125.txt
+  fi
+done
+
+for id in `seq 1 500`;
+do
+  url="http://dllb.jxin122.top/jj.php?id=$id&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52"
+  result=`curl --connect-timeout 1 -m 5 -I $url 2>/dev/null|grep -E "location: http"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/taiwan/jxin.txt
+  fi
+done
+
+http://211.23.114.106:%s/.m3u8
+
+WLDY|8555||20|超高清||
+HMC|8554||20|超高清||
+
+
+
+for id in `seq 326 999`;
+do
+  tvid=`printf %03d $id`
+  url="http://58.99.33.16:1935/liveedge17/live_${tvid}_3.stream/chunklist.m3u8"
+  result=`curl --connect-timeout 1 -m 5  $url 2>/dev/null|grep  "\.ts"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/taiwan/liveedge.txt
+  fi
+done
+

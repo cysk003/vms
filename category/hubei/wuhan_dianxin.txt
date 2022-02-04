@@ -1,0 +1,7 @@
+湖北综合,http://116.211.156.28/live.local18.ctlcdn.com/00000110240226_1/encoder/0/playlist.m3u8
+湖北经视,http://116.211.156.28/live.local18.ctlcdn.com/00000110240227_1/encoder/0/playlist.m3u8
+湖北公共新闻,http://116.211.156.28/live.local18.ctlcdn.com/00000110240229_1/encoder/0/playlist.m3u8
+湖北影视,http://116.211.156.28/live.local18.ctlcdn.com/00000110240232_1/encoder/0/playlist.m3u8
+湖北生活,http://116.211.156.28/live.local18.ctlcdn.com/00000110240231_1/encoder/0/playlist.m3u8
+湖北教育,http://116.211.156.28/live.local18.ctlcdn.com/00000110240230_1/encoder/0/playlist.m3u8
+湖北陇上,http://116.211.156.28/live.local18.ctlcdn.com/00000110240228_1/encoder/0/playlist.m3u8

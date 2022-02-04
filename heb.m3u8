@@ -1,0 +1,136 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",2
+http://112.102.234.185:807/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"  group-title="央视",9
+http://112.102.234.185:807/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"  group-title="央视",14
+http://112.102.234.185:807/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV奥林匹克频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png"  group-title="央视",22
+http://112.102.234.185:807/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="中数留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg"  group-title="央视",24
+http://112.102.234.185:807/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="北广弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg"  group-title="其他",26
+http://112.102.234.185:807/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿动漫",30
+http://112.102.234.185:807/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="中数早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg"  group-title="教育",33
+http://112.102.234.185:807/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="70058" tvg-name="浙江国际" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjgj.png"  group-title="地方",58
+http://112.102.234.185:807/hls/58/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png"  group-title="少儿动漫",73
+http://112.102.234.185:807/hls/73/index.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="IPTV魅力时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png"  group-title="其他",74
+http://112.102.234.185:807/hls/74/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="中数梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg"  group-title="曲艺",82
+http://112.102.234.185:807/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="中数女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png"  group-title="其他",89
+http://112.102.234.185:807/hls/89/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="中数CCTV-娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVyule.png"  group-title="娱乐",90
+http://112.102.234.185:807/hls/90/index.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="中数CCTV-电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE12.jpg"  group-title="电影",92
+http://112.102.234.185:807/hls/92/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",201
+http://112.102.234.185:807/hls/201/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",202
+http://112.102.234.185:807/hls/202/index.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg"  group-title="辽宁",204
+http://112.102.234.185:807/hls/204/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="中数风云足球" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/FengyunFootball.cn.png"  group-title="体育",205
+http://112.102.234.185:807/hls/205/index.m3u8
+#EXTINF:-1 tvg-id="70206" tvg-name="湖北生活" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-life-cn.png.png"  group-title="地方",206
+http://112.102.234.185:807/hls/206/index.m3u8
+#EXTINF:-1 tvg-id="70207" tvg-name="美嘉购物" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-mega-shopping-cn.png"  group-title="地方",207
+http://112.102.234.185:807/hls/207/index.m3u8
+#EXTINF:-1 tvg-id="70208" tvg-name="湖北公共新闻" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-public-news-cn.png"  group-title="地方",208
+http://112.102.234.185:807/hls/208/index.m3u8
+#EXTINF:-1 tvg-id="70209" tvg-name="湖北垄上频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hubei-ridge-cn.png"  group-title="地方",209
+http://112.102.234.185:807/hls/209/index.m3u8
+#EXTINF:-1 tvg-id="70210" tvg-name="湖南先锋乒羽" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-ping-yu-cn.png"  group-title="地方",210
+http://112.102.234.185:807/hls/210/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"  group-title="央视",211
+http://112.102.234.185:807/hls/211/index.m3u8
+#EXTINF:-1 tvg-id="70212" tvg-name="湖南国际频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png"  group-title="地方",212
+http://112.102.234.185:807/hls/212/index.m3u8
+#EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="曲艺",213
+http://112.102.234.185:807/hls/213/index.m3u8
+#EXTINF:-1 tvg-id="70214" tvg-name="武术世界" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/martial-arts-world-cn.png"  group-title="体育",214
+http://112.102.234.185:807/hls/214/index.m3u8
+#EXTINF:-1 tvg-id="70215" tvg-name="农林卫视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-agriculture-forestry-tv-cn.png"  group-title="地方",215
+http://112.102.234.185:807/hls/215/index.m3u8
+#EXTINF:-1 tvg-id="70216" tvg-name="陕西广播电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-cn.png"  group-title="地方",216
+http://112.102.234.185:807/hls/216/index.m3u8
+#EXTINF:-1 tvg-id="70217" tvg-name="陕西生活频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-life-channel-cn.png"  group-title="地方",217
+http://112.102.234.185:807/hls/217/index.m3u8
+#EXTINF:-1 tvg-id="70218" tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-news-channel-cn.png"  group-title="地方",218
+http://112.102.234.185:807/hls/218/index.m3u8
+#EXTINF:-1 tvg-id="70219" tvg-name="陕西公共" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-public-channel-cn.png"  group-title="地方",219
+http://112.102.234.185:807/hls/219/index.m3u8
+#EXTINF:-1 tvg-id="70220" tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/shaanxi-tv-sports-leisure-channel-cn.png"  group-title="地方",220
+http://112.102.234.185:807/hls/220/index.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="少儿动漫",221
+http://112.102.234.185:807/hls/221/index.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿动漫",223
+http://112.102.234.185:807/hls/223/index.m3u8
+#EXTINF:-1 tvg-id="225" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"  group-title="湖南",225
+http://112.102.234.185:807/hls/225/index.m3u8
+#EXTINF:-1 tvg-id="70226" tvg-name="宁夏经济频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-economic-channel-cn.png"  group-title="地方",226
+http://112.102.234.185:807/hls/226/index.m3u8
+#EXTINF:-1 tvg-id="70227" tvg-name="宁夏公共频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-public-channel-cn.png"  group-title="地方",227
+http://112.102.234.185:807/hls/227/index.m3u8
+#EXTINF:-1 tvg-id="70228" tvg-name="宁夏影视频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/ningxia-tv-cn.png"  group-title="地方",228
+http://112.102.234.185:807/hls/228/index.m3u8
+#EXTINF:-1 tvg-id="70230" tvg-name="东方CJ购物" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/oriental_cj_shopping_12.png"  group-title="地方",230
+http://112.102.234.185:807/hls/230/index.m3u8
+#EXTINF:-1 tvg-id="70231" tvg-name="内蒙古电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nei_monggol_tv_chinese.png"  group-title="地方",231
+http://112.102.234.185:807/hls/231/index.m3u8
+#EXTINF:-1 tvg-id="70232" tvg-name="内蒙古蒙语电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nei_monggol_tv.png"  group-title="地方",232
+http://112.102.234.185:807/hls/232/index.m3u8
+#EXTINF:-1 tvg-id="70234" tvg-name="内蒙古农牧频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-agriculture-and-animal-channel.png"  group-title="地方",234
+http://112.102.234.185:807/hls/234/index.m3u8
+#EXTINF:-1 tvg-id="70235" tvg-name="内蒙古少儿频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-children-channel-cn.png"  group-title="地方",235
+http://112.102.234.185:807/hls/235/index.m3u8
+#EXTINF:-1 tvg-id="70236" tvg-name="内蒙古文体娱乐频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/nmtv-culture-entertainment-channel-cn.png"  group-title="地方",236
+http://112.102.234.185:807/hls/236/index.m3u8
+#EXTINF:-1 tvg-id="70239" tvg-name="中国卡通" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/katong-cn.png"  group-title="少儿动漫",239
+http://112.102.234.185:807/hls/239/index.m3u8
+#EXTINF:-1 tvg-id="70240" tvg-name="拉萨广播电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/lasa_tv_cn.png"  group-title="地方",240
+http://112.102.234.185:807/hls/240/index.m3u8
+#EXTINF:-1 tvg-id="70247" tvg-name="新动漫" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/flash_tv_cn.png"  group-title="少儿动漫",247
+http://112.102.234.185:807/hls/247/index.m3u8
+#EXTINF:-1 tvg-id="70248" tvg-name="艺华卫视网" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/combos_tv_discovery.png"  group-title="地方",248
+http://112.102.234.185:807/hls/248/index.m3u8
+#EXTINF:-1 tvg-id="70249" tvg-name="中华特产" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/chinese-speciality-channel-cn.png"  group-title="其他",249
+http://112.102.234.185:807/hls/249/index.m3u8
+#EXTINF:-1 tvg-id="70250" tvg-name="中国希望电视台" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/chinese_hope_tv.png"  group-title="其他",250
+http://112.102.234.185:807/hls/250/index.m3u8
+#EXTINF:-1 tvg-id="70251" tvg-name="中国天气" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/china-weather-tv-cn.png"  group-title="其他",251
+http://112.102.234.185:807/hls/251/index.m3u8
+#EXTINF:-1 tvg-id="70252" tvg-name="中国电影频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/china_movie_channel.png"  group-title="其他",252
+http://112.102.234.185:807/hls/252/index.m3u8
+#EXTINF:-1 tvg-id="70253" tvg-name="北京家有购物" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/jiayou_home_shopping_cn.png"  group-title="其他",253
+http://112.102.234.185:807/hls/253/index.m3u8
+#EXTINF:-1 tvg-id="254" tvg-name="星卫HD电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png"  group-title="台湾",254
+http://112.102.234.185:807/hls/254/index.m3u8
+#EXTINF:-1 tvg-id="255" tvg-name="东森亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaNews.png"  group-title="台湾",255
+http://112.102.234.185:807/hls/255/index.m3u8
+#EXTINF:-1 tvg-id="258" tvg-name="好消息二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png"  group-title="台湾",258
+http://112.102.234.185:807/hls/258/index.m3u8
+#EXTINF:-1 tvg-id="259" tvg-name="壹电视综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVZonghe.png"  group-title="台湾",259
+http://112.102.234.185:807/hls/259/index.m3u8
+#EXTINF:-1 tvg-id="260" tvg-name="壹电视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVMovie.png"  group-title="台湾",260
+http://112.102.234.185:807/hls/260/index.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="大爱电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"  group-title="台湾",265
+http://112.102.234.185:807/hls/265/index.m3u8
+#EXTINF:-1 tvg-id="266" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png"  group-title="台湾",266
+http://112.102.234.185:807/hls/266/index.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png"  group-title="台湾",267
+http://112.102.234.185:807/hls/267/index.m3u8
+#EXTINF:-1 tvg-id="268" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png"  group-title="台湾",268
+http://112.102.234.185:807/hls/268/index.m3u8
+#EXTINF:-1 tvg-id="269" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"  group-title="台湾",269
+http://112.102.234.185:807/hls/269/index.m3u8
+#EXTINF:-1 tvg-id="270" tvg-name="好消息频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png"  group-title="台湾",270
+http://112.102.234.185:807/hls/270/index.m3u8
+#EXTINF:-1 tvg-id="271" tvg-name="原住民频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png"  group-title="台湾",271
+http://112.102.234.185:807/hls/271/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png"  group-title="卫视",贵州卫视
+http://112.102.234.185:807/hls/272/index.m3u8

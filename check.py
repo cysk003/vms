@@ -12,7 +12,6 @@ class Main (object):
 
     def run (self):
         args=get_args()
-        print(args.url)
         if args.sync:
             source = DatabaseSource(args.file)
             source.getSource()

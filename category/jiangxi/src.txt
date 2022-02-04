@@ -1,3 +1,36 @@
+江西新闻,http://149.129.100.78/jxtv.php?id=jxtv7
+江西移动电视,http://149.129.100.78/jxtv.php?id=jxtv8
+江西经济生活,http://149.129.100.78/jxtv.php?id=jxtv3
+江西都市,http://149.129.100.78/jxtv.php?id=jxtv2
+江西少儿,http://149.129.100.78/jxtv.php?id=jxtv6
+江西影视旅游,http://149.129.100.78/jxtv.php?id=jxtv4
+时尚摸特频道极速源,http://juyunlive.juyun.tv/live/24950198.m3u8
+九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
+九江教育,http://iptv.inewya.com/qq494937337/jiangxi/jiujiang.php?ch=0&id=2
+上饶新闻综合,http://live.0793.tv/srtv1/sd/live.m3u8
+上饶公共,http://live.0793.tv/srtv2/sd/live.m3u8
+吉安公共HD,http://stream.ijatv.com/jatv2/hd/live.m3u8
+吉安综合HD,http://stream.ijatv.com/jatv1/hd/live.m3u8
+吉州,http://218.204.153.158/10.m3u8
+鹰潭贵溪,http://zb9.jxnews.com.cn/live/guixi.m3u8
+上饶鄱阳,http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8
+上饶铅山,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_yanshan.m3u8
+上饶余干,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
+井冈山台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
+庐山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+莲花综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
+芦溪综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_luxi2.m3u8
+都昌新闻,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
+彭泽综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
+武宁综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
+万载综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
+永修综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+宁都综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
+广信综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao.m3u8
+广昌综合,http://live01.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
+
+
 南昌公共频道,http://39.134.116.30:8080/PLTV/88888910/224/3221225775/index.m3u8
 南昌公共频道, http://39.135.138.58:18890/PLTV/88888910/224/3221225775/index.m3u8
 南昌公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8 ， http://39.134.116.30:8080/PLTV/88888910/224/3221225775/index.m3u8

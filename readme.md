@@ -1,3 +1,6 @@
+
+ for i in `seq 1 18`; echo "#EXTINF:-1 group-title=\"宝宝巴士启蒙音乐剧之汽车帮帮队\",宝宝巴士启蒙音乐剧之汽车帮帮队第$i集\nhttp://192.168.50.223:8880/vipx?url=https://www.jpysvip.net/vodplay/145341-1-$i.html"
+
 # 影音资源
 ## 常规操作
 ### 提取url资源

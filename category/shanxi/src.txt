@@ -1,3 +1,5 @@
+中国黄河电视,http://055042edb00196e0e67b01fb7dc4fdff.livehwc3.cn/liveflash.sxrtv.com/live/huanghe.m3u8
+
 山西 Ⅰ 朔州新闻台 (10p),http://stream.sxsztv.com/live4/sd/live.m3u8
 山西优购物 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=55&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8

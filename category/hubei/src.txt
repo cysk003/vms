@@ -1,3 +1,29 @@
+湖北综合,http://116.211.156.28/live.local18.ctlcdn.com/00000110240226_1/encoder/0/playlist.m3u8
+湖北经视,http://116.211.156.28/live.local18.ctlcdn.com/00000110240227_1/encoder/0/playlist.m3u8
+湖北公共新闻,http://116.211.156.28/live.local18.ctlcdn.com/00000110240229_1/encoder/0/playlist.m3u8
+湖北影视,http://116.211.156.28/live.local18.ctlcdn.com/00000110240232_1/encoder/0/playlist.m3u8
+湖北生活,http://116.211.156.28/live.local18.ctlcdn.com/00000110240231_1/encoder/0/playlist.m3u8
+湖北教育,http://116.211.156.28/live.local18.ctlcdn.com/00000110240230_1/encoder/0/playlist.m3u8
+湖北陇上,http://116.211.156.28/live.local18.ctlcdn.com/00000110240228_1/encoder/0/playlist.m3u8
+宜昌新闻综合,http://luotuo.ycchenrong.cn/dl/yctv.php?id=1
+十堰新闻,https://p2bj.weizan.cn/351104/837056569960221505/live.m3u8#rtmp://r2bj.weizan.cn/v/351104_837056569960221505
+十堰公共,https://p2bj.weizan.cn/351104/694292401376336037/live.m3u8#rtmp://r2bj.weizan.cn/v/351104_694292401376336037
+十堰经济旅游,https://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#rtmp://r2bj.weizan.cn/v/351104_791122427715011838
+十堰-丹江口生活,http://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
+黄冈-蕲春综合,http://qichun-live21.cjyun.org/10126/s10126-TC1T.m3u8?auth_key=1640966399-0-0-bc762e5976a5a4adcbc4216078f89347
+黄冈-蕲春旅游养生,http://qichun-live21.cjyun.org/10126/s10126-TC2T.m3u8?auth_key=1640966399-0-0-7f9009232919710be60b151a00eaf001
+恩施综合,http://enshi-live21.cjyun.org/10070/s10070-eszh.m3u8?auth_key=1640966399-0-0-adfb1e20a743c4cfa070c33ac2d2be68
+恩施文旅,http://enshi-live21.cjyun.org/10070/s10070-esgg.m3u8?auth_key=1640966399-0-0-abfd534085a9dffd4cd40f6588e2143d
+建始综合1080,http://jianshi-live21.cjyun.org/10094/s10094-jstv1.m3u8?auth_key=1640966399-0-0-cf6fc7c2ebad20819bbfee79dda6486d
+襄阳新闻,http://player.ioioz.com/1691/hubei/xiangyangm3u8.php?id=xiangyangzh
+襄阳经济,http://player.ioioz.com/1691/hubei/xiangyangm3u8.php?id=xiangyangjjsh
+襄阳公共,http://player.ioioz.com/1691/hubei/xiangyangm3u8.php?id=xiangyanggg
+湖州综合,http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
+湖州公共,http://live.plus.hugd.com/ggpd1/sd/live.m3u8
+
+
+
+
 丹江口新闻 3.5M1080,http://danjiangkou.live.tempsource.cjyun.org/videotmp/s10081-djktv1.m3u8
 丹江口生活 3.5M1080,https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
 公安综合 1.6M1080,http://gongan.live.tempsource.cjyun.org/videotmp/10088-gatv1.m3u8

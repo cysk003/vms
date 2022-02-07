@@ -26,7 +26,12 @@ http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&access
 
 
 宁夏卫视[1920*1080],http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
-
+宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
+宁夏经济,http://39.134.93.229:6610/000000001000/nxjingji/1.m3u8?IAS
+宁夏影视,http://39.134.93.229:6610/000000001000/nxyingshi/1.m3u8?IAS
+宁夏公共,http://39.134.93.229:6610/000000001000/nxgonggong/1.m3u8?IAS
+宁夏少儿,http://39.134.93.229:6610/000000001000/nxshaoer/1.m3u8?IAS
+宁夏教育,http://39.134.93.229:6610/000000001000/nxjiaoyu/1.m3u8?IAS
 #EXTINF:-1,宁夏卫视
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
 #EXTINF:-1,宁夏公共

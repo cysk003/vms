@@ -1,3 +1,16 @@
+冬奥bk http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8?sign=724daa00a7968673bc0a9f69c245f9b0&t=61f9e7dd
+冬奥纪实： http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
+北京冬奥纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+北京冬奥纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+NT精品体育[1920*1080],http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+NT精品体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+NT精品体育[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+NT精品体育[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+CCTV4K-1080,http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh6/57/20210608/index.m3u8?&encrypt=
+CCTV8K-1080,http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
+东奥纪实8K-1080,http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh8/57/20210608/index.m3u8?&encrypt=
+
+http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 ,卡酷少儿 FHD
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 海东综合,https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8

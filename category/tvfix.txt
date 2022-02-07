@@ -296,3 +296,22 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 可能不止这些频道，高手懂的自己抓！
+
+翡翠台HD,http://wtv2.hodtv.tv:80/gudou9.php?id=1350_4500
+
+明珠台HD,http://wtv2.hodtv.tv:80/gudou9.php?id=1351_4500
+Newtv精品记录[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225545/index.m3u8
+Newtv精品体育[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225526/index.m3u8
+Newtv欢乐剧场[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225682/index.m3u8
+Newtv超级电视剧[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225637/index.m3u8
+哈哈影视22,http://117.148.179.163/PLTV/88888888/224/3221231699/index.m3u8
+
+哈哈影视23,http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
+
+哈哈影视/24,http://117.148.179.163/PLTV/88888888/224/3221231763/index.m3u8
+
+哈哈影视25,http://117.148.179.163/PLTV/88888888/224/3221231787/index.m3u8
+Newtv精品记录[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225545/index.m3u8
+Newtv精品体育[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225526/index.m3u8
+Newtv欢乐剧场[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225682/index.m3u8
+Newtv超级电视剧[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225637/index.m3u8

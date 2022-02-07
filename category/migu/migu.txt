@@ -1,4 +1,4 @@
-
+http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
 北京卫视高清[1280*720],http://localhost/mg.php?id=630287636
 东方卫视[1280*720],http://localhost/mg.php?id=651625930
 江苏卫视[859*480],http://localhost/mg.php?id=623899540

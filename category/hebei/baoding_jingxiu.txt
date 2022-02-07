@@ -1,0 +1,24 @@
+3,http://60.4.9.89:9901/tsfile/live/0003_1.m3u8
+4,http://60.4.9.89:9901/tsfile/live/0004_1.m3u8
+5,http://60.4.9.89:9901/tsfile/live/0005_1.m3u8
+6,http://60.4.9.89:9901/tsfile/live/0006_1.m3u8
+7,http://60.4.9.89:9901/tsfile/live/0007_1.m3u8
+8,http://60.4.9.89:9901/tsfile/live/0008_1.m3u8
+9,http://60.4.9.89:9901/tsfile/live/0009_1.m3u8
+117,http://60.4.9.89:9901/tsfile/live/0117_1.m3u8
+118,http://60.4.9.89:9901/tsfile/live/0118_1.m3u8
+124,http://60.4.9.89:9901/tsfile/live/0124_1.m3u8
+127,http://60.4.9.89:9901/tsfile/live/0127_1.m3u8
+131,http://60.4.9.89:9901/tsfile/live/0131_1.m3u8
+136,http://60.4.9.89:9901/tsfile/live/0136_1.m3u8
+137,http://60.4.9.89:9901/tsfile/live/0137_1.m3u8
+保定新闻综合 高清,http://60.4.9.89:9901/tsfile/live/1000_1.m3u8
+河北 农民 高清卡,http://60.4.9.89:9901/tsfile/live/1001_1.m3u8
+河北公共 高清卡,http://60.4.9.89:9901/tsfile/live/1002_1.m3u8
+少儿科教 卡,http://60.4.9.89:9901/tsfile/live/1003_1.m3u8
+河北影视 卡,http://60.4.9.89:9901/tsfile/live/1004_1.m3u8
+河北都市 卡,http://60.4.9.89:9901/tsfile/live/1005_1.m3u8
+河北经济生活 卡,http://60.4.9.89:9901/tsfile/live/1006_1.m3u8
+http://60.4.9.89:9901/tsfile/live/1007_1.m3u8
+金鹰卡通 高清,http://60.4.9.89:9901/tsfile/live/1008_1.m3u8
+1009,http://60.4.9.89:9901/tsfile/live/1009_1.m3u8

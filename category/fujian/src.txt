@@ -1,1 +1,85 @@
 FJTV-福建综合[1920*1080],http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
+福建综合,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226826/47882539.smil
+福建影视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+福建少儿,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+福建乡村振兴公共 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8
+福建少儿 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
+福建新闻 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
+福建旅游 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226911/index.m3u8
+福建经济 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226973/index.m3u8
+福建综合 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
+南平1 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
+南平2 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
+福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+厦门卫视 3.5M1080,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+厦门1 3.5M1080,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
+厦门2 3.5M1080,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
+厦门3 3.5M1080,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
+厦门一台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
+厦门二台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
+厦门三台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
+莆田1套,http://1.116.20.203/iptv/fjpt.php?id=4
+莆田2套,http://1.116.20.203/iptv/fjpt.php?id=5
+莆田仙游,http://1.116.20.203/iptv/fjpt.php?id=6
+龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+晋江电视,http://stream.jinjiang.tv/1/sd/live.m3u8
+新罗电视,http://stream.lyxltv.com/xltv/sd/live.m3u8
+宁德1台,http://live.nddst.com/ndtv1/720P/live.m3u8
+宁德2台,http://live.nddst.com/ndtv2/playlist.m3u8
+三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
+晋江电视,http://stream.jinjiang.tv/1/sd/live.m3u8
+新罗电视,http://stream.lyxltv.com/xltv/sd/live.m3u8
+永泰综合,http://ytrmtzx.com:8278/yongtaipindao1/playlist.m3u8
+福建综合,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226826/47882539.smil
+福建新闻,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+福建公共,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+福建旅游,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
+福建少儿,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+福建电视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+福建经济,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
+福建体育,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+厦门卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
+FZTV-1,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+FZTV-2,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+FZTV-3,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+FZTV-4,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
+
+1影视福建电视剧[1920*1080],rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+1影视福建电视剧[1920*1080],rtsp://183.252.173.190:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+1影视福建福州[0*0],http://ls.qingting.fm/live/4911.m3u8
+1影视福建福州[1920*1080],http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+1影视福建固镇[1920*1080],http://www.guzhenm.com:7003/hls/hd-live.m3u8
+福建大田公共[1920*1080],http://84y6jdxz.live2.danghongyun.com/live/hls/8a6db004318e4378b58d87f0414da77c/5a6c5d786f834df8a65b423af5851e6f.m3u8
+福建导视[720*576],rtsp://183.252.173.190:554/PLTV/88888888/224/3221226099/10000100000000060000000002298270_0.smil
+福建福州1[1920*1080],http://124.238.99.44:808/hls/185/index.m3u8
+福建福州2[1920*1080],http://124.238.99.44:808/hls/186/index.m3u8
+福建福州2[1920*1080],http://124.238.99.44:808/hls/61/index.m3u8
+福建福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福建福州生活[800*453],http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+福建福州生活[1920*1080],http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+福建福州综合[1920*1080],http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+福建福州综合[0*0],http://ls.qingting.fm/live/1861.m3u8
+福建公共[1920*1080],rtsp://183.252.173.190:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+福建公共[1920*1080],rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+福建公共[1920*1080],rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+福建固镇[1920*1080],http://www.guzhenm.com:7001/hls/hd-live.m3u8
+福建将乐公共[1920*1080],http://218.106.152.196/lsdream/1MKmR5B/2000/live.m3u8
+福建将乐综合[1920*1080],http://218.106.152.196/lsdream/9nbYeUc/1000/live.m3u8
+福建教育[1920*1080],rtsp://183.252.176.54:554/PLTV/88888888/224/3221226776/47876618.smil
+福建晋江[1920*1080],http://stream.jinjiang.tv/1/sd/live.m3u8
+福建晋江[1920*1080],http://stream.jinjiang.tv/1/sd/live.m3u8?_upt=7738cbdd1569250965
+福建晋江[1920*1080],http://stream.jinjiang.tv/1/playlist.m3u8
+福建经济[1920*1080],rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
+福建经济[1920*1080],rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
+福建经济[1920*1080],rtsp://183.252.173.190:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
+福建龙岩公共[960*540],http://stream.lytv.net.cn/1/sd/live.m3u8
+福建龙岩新闻[960*540],http://stream.lytv.net.cn/2/sd/live.m3u8
+福建龙岩综合[1280*720],http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+福建旅游[1920*1080],rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
+

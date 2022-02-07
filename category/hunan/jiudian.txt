@@ -3,3 +3,27 @@
 湖南IPTV抗战剧场,http://110.52.232.230:9901/tsfile/live/1016_1.m3u8
 湖南IPTV家庭剧场,http://110.52.232.230:9901/tsfile/live/1018_1.m3u8
 湖南IPTV经典剧场,http://110.52.232.230:9901/tsfile/live/1019_1.m3u8
+
+
+湖南经视[高清],http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+
+湖南都市频道[高清],http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+
+湖南娱乐,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
+
+湖南电视剧[高清],http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
+
+湖南电影,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
+
+湖南国际频道[高清],http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43022/index.m3u8
+
+湖南教育台[高清],http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
+
+金鹰卡通频道[高清],http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
+
+
+还差一个湖南公共频道，谁用电脑的，帮忙扫一下
+
+匿名网友(1周前 (01-28))：这个亦飞云没湖南公共。
+
+匿名网友(1周前 (01-28))：http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8

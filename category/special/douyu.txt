@@ -756,3 +756,24 @@ http://tx2play1.douyucdn.cn/live/9660203rG3HIzm6L.xs?uuid=.m3u8
 #EXTINF:-1 logo="" group-title="" ,哔哩哔哩22015508
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/375432/live_473837611_14189661/index.m3u8
 
+
+
+经典轮播01,http://315600.xyz/jk/dl/douyu.php?id=747764
+经典轮播02,http://315600.xyz/jk/dl/douyu.php?id=122402
+经典轮播03,http://315600.xyz/jk/dl/douyu.php?id=85894
+经典轮播04,http://315600.xyz/jk/dl/douyu.php?id=4332
+经典轮播05,http://315600.xyz/jk/dl/douyu.php?id=8986148
+经典轮播06,http://315600.xyz/jk/dl/douyu.php?id=252802
+经典轮播07,http://315600.xyz/jk/dl/douyu.php?id=1165374
+经典轮播08,http://315600.xyz/jk/dl/douyu.php?id=20415
+经典轮播09,http://315600.xyz/jk/dl/douyu.php?id=8770422
+经典轮播10,http://315600.xyz/jk/dl/douyu.php?id=218859
+经典轮播11,http://315600.xyz/jk/dl/douyu.php?id=5427842
+经典轮播12,http://315600.xyz/jk/dl/douyu.php?id=52787
+经典轮播13,http://315600.xyz/jk/dl/douyu.php?id=7136517
+经典轮播14,http://315600.xyz/jk/dl/douyu.php?id=6566671
+经典轮播15,http://315600.xyz/jk/dl/douyu.php?id=925724
+经典轮播16,http://315600.xyz/jk/dl/douyu.php?id=7494871
+经典轮播17,http://315600.xyz/jk/dl/douyu.php?id=6079455
+恐怖轮播18,http://315600.xyz/jk/dl/douyu.php?id=310926
+影院轮播19,http://315600.xyz/jk/dl/douyu.php?id=7004136

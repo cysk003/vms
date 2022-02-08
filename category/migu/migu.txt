@@ -1,3 +1,4 @@
+http://[240e:9f:c04f:1::2]/live.gq.miguvideo.com:8080/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
 http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
 北京卫视高清[1280*720],http://localhost/mg.php?id=630287636
 东方卫视[1280*720],http://localhost/mg.php?id=651625930

@@ -18,15 +18,89 @@ http://112.102.234.185:807/hls/215/index.m3u8
 http://58.244.55.121:808/hls/20/index.m3u8
 http://58.245.3.72:808/hls/20/index.m3u8
 http://42.176.185.28:9901/tsfile/live/0001_1.m3u8
+124.238.99.44
+
+110.72.68.1
+http://110.72.59.10:808/hls/3/index.m3u8
+http://110.72.58.13:808/hls/3/index.m3u8
+http://110.72.58.57:808/hls/3/index.m3u8
+http://110.72.62.14:808/hls/3/index.m3u8
+http://110.72.52.28:808/hls/3/index.m3u8
+http://110.72.52.66:808/hls/3/index.m3u8
+http://110.72.61.28:808/hls/3/index.m3u8
+http://110.72.61.72:808/hls/3/index.m3u8
+http://110.72.53.40:808/hls/3/index.m3u8
+http://110.72.63.62:808/hls/3/index.m3u8
+http://110.72.53.78:808/hls/3/index.m3u8
+http://110.72.69.83:808/hls/3/index.m3u8
+http://110.72.56.84:808/hls/3/index.m3u8
+http://110.72.56.92:808/hls/3/index.m3u8
+http://110.72.53.99:808/hls/1/index.m3u8
+http://110.72.35.93:808/hls/77/index.m3u8
+http://110.72.54.90:808/hls/1/index.m3u8
+http://110.72.34.84:808/hls/3/index.m3u8  404
+http://110.72.35.82:808/hls/73/index.m3u8 404
+http://110.72.22.79:808/hls/110/index.m3u8 404
+http://110.72.30.66:808/hls/11/index.m3u8 404
+
+http://110.72.3.129:808/hls/3/index.m3u8
+
+http://110.72.28.61:808/hls/1/index.m3u8
+http://110.72.53.67:808/hls/1/index.m3u8
+http://110.72.62.55:808/hls/3/index.m3u8
+http://110.72.45.41:808/hls/3/index.m3u8
+http://110.72.20.39:808/hls/3/index.m3u8
+http://110.72.16.36:808/hls/3/index.m3u8
+http://110.72.67.29:808/hls/3/index.m3u8
+http://110.72.58.28:808/hls/3/index.m3u8
+http://110.72.59.25:808/hls/3/index.m3u8
+http://110.72.60.25:808/hls/3/index.m3u8
+http://110.72.71.16:808/hls/3/index.m3u8
+http://110.72.61.15:808/hls/3/index.m3u8
+http://110.72.38.113:808/hls/3/index.m3u8
+http://110.72.61.109:808/hls/3/index.m3u8
+http://110.72.4.107:808/hls/3/index.m3u8
+http://110.72.2.114:808/hls/3/index.m3u8
+http://110.72.53.132:808/hls/3/index.m3u8
+http://110.72.56.125:808/hls/3/index.m3u8
+http://110.72.59.124:808/hls/3/index.m3u8
+http://110.72.57.127:808/hls/3/index.m3u8
+
+http://110.72.60.94:808/hls/3/index.m3u8
+http://110.72.59.95:808/hls/3/index.m3u8
+http://110.72.63.98:808/hls/3/index.m3u8
+http://110.72.52.112:808/hls/3/index.m3u8
+http://110.72.52.111:808/hls/3/index.m3u8
+http://110.72.58.123:808/hls/3/index.m3u8
+http://110.72.65.122:808/hls/3/index.m3u8
+http://110.72.59.130:808/hls/3/index.m3u8 == 200
+http://110.72.55.159:808/hls/3/index.m3u8
+http://110.72.61.150:808/hls/3/index.m3u8
+http://110.72.76.96:808/hls/3/index.m3u8
+http://110.72.74.98:808/hls/3/index.m3u8
+http://110.72.78.204:808/hls/3/index.m3u8
 for i in `seq 1 1000`;
 do
-  url="http://42.176.185.28:808/hls/`printf %02d $i`/index.m3u8"
-  result=`curl -I  $url 2>/dev/null | grep "404 Not"|wc -l`
-  #echo $url, $result
-  if [ $result -eq 0 ]; then
-      echo $i,$url
+  url="http://110.72.35.93:808/hls/$i/index.m3u8"
+  result=`curl --connect-timeout 5 $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $i,$url >> category/guangxi/guigang.
   fi
 done
+
+http://110.72.35.82:808/tsfile/live/0001_1.m3u8
+
+for i in `seq 334 1000`;
+do
+  url="http://113.64.147.42:808/hls/$i/index.m3u8"
+  result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
+  echo $url, $result
+  if [ $result -gt 0 ]; then
+      echo $i,$url >> category/guangdong/jieyang.txt
+  fi
+done
+
 
 
 183.0.186.193:8088
@@ -404,17 +478,57 @@ http://125.107.58.146:9901/tsfile/live/0007_1.m3u8
 http://125.107.94.200:9901/tsfile/live/1001_1.m3u8
 http://125.107.22.229:9901/tsfile/live/1001_1.m3u8
 http://125.107.91.76:9901/tsfile/live/1001_1.m3u8
-for id in `seq 1 200` `seq 1000 1299` ;
+http://119.39.192.8:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.28:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.42:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.49:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.52:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.54:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.59:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.61:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.76:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.84:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.97:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.98:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.120:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.131:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.135:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.141:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.149:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.153:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.166:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.180:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.204:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.217:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.233:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.247:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.252:9901/tsfile/live/0001_1.m3u8
+http://119.39.192.254:9901/tsfile/live/0001_1.m3u8
+http://119.39.198.36:9901/tsfile/live/0001_1.m3u8 //益阳市赫山区
+http://119.39.198.59:9901/tsfile/live/0001_1.m3u8
+http://119.39.198.75:9901/tsfile/live/0001_1.m3u8
+http://119.39.198.242:9901/tsfile/live/0001_1.m3u8
+http://119.39.198.114:9901/tsfile/live/0001_1.m3u8
+http://119.39.198.139:9901/tsfile/live/0001_1.m3u8
+http://119.39.199.191:9901/tsfile/live/0001_1.m3u8
+http://119.39.199.110:9901/tsfile/live/0001_1.m3u8 //湖南省益阳市 联通
+http://119.39.199.235:9901/tsfile/live/0001_1.m3u8
+http://122.230.104.15:9901/tsfile/live/1000_1.m3u8
+for host in 42 49 52 54 59 61 76 84 97 98 120 131 135 141 149 153 166 180 204 217 233 247 252 254;
 do
-  url=http://125.107.22.229:9901/tsfile/live/`printf %04d $id`_1.m3u8
+for id in `seq 1 500` `seq 1000 1299` ;
+do
+  url=http://119.39.192.84:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/zhejiang/shaoxing.txt
+      echo $id,$url >> category/hunan/loudi_xinhua.txt
   fi
+done
 done
 
 http://115.58.243.59:9901/tsfile/live/0001_1.m3u8
+
 
 for i in `seq 1 1000`;
 do

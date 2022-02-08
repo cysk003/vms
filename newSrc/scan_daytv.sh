@@ -406,11 +406,11 @@ http://125.107.22.229:9901/tsfile/live/1001_1.m3u8
 http://125.107.91.76:9901/tsfile/live/1001_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url=http://125.107.22.229:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url="http://113.58.40.69:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/zhejiang/shaoxing.txt
+      echo $id,$url >> category/hainan/src2.txt
   fi
 done
 

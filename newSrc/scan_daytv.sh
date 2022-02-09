@@ -81,19 +81,19 @@ http://110.72.74.98:808/hls/3/index.m3u8
 http://110.72.78.204:808/hls/3/index.m3u8
 for i in `seq 1 1000`;
 do
-  url="http://110.72.35.93:808/hls/$i/index.m3u8"
+  url="http://121.24.99.29:808/hls/$i/index.m3u8"
   result=`curl --connect-timeout 5 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $i,$url >> category/guangxi/guigang.
+      echo $i,$url >> category/hebei/xingtai_2.txt
   fi
 done
 
 http://110.72.35.82:808/tsfile/live/0001_1.m3u8
 
-for i in `seq 334 1000`;
+for i in `seq 1 1000`;
 do
-  url="http://113.64.147.42:808/hls/$i/index.m3u8"
+  url="http://27.47.68.82:808/hls/$i/index.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
@@ -480,11 +480,13 @@ http://125.107.22.229:9901/tsfile/live/1001_1.m3u8
 http://125.107.91.76:9901/tsfile/live/1001_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://113.58.40.69:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://106.115.24.29:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/hainan/src2.txt
+      echo $id,$url >> category/hebei/handan_weixian.txt
+  fi
+done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8
 http://119.39.192.28:9901/tsfile/live/0001_1.m3u8
 http://119.39.192.42:9901/tsfile/live/0001_1.m3u8

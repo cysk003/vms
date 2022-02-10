@@ -15,3 +15,4 @@ $playurl = str_replace('live1',$pam[1],$playurl);
 $playurl = str_replace('512000','800000',$playurl);
 header('Location:'.htmlspecialchars_decode($playurl));
 ?>
+

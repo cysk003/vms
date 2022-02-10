@@ -1,15 +1,16 @@
 
 
 http://58.244.52.205:808/hls/65/index.m3u8
-for i in `seq 1 999`;
+for i in `seq 1000 1999`;
 do
-  url="http://58.244.52.205:808/hls/$i/index.m3u8"
+  url="http://y3y4.f3322.net:808/hls/$i/index.m3u8"
   result=`curl  $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $i,$url  >> category/jilin/changchun.txt
+      echo $i,$url  >> category/guangdong/maoming.txt
   fi
 done
+
 
 http://112.102.234.185:807/hls/215/index.m3u8
 
@@ -132,16 +133,18 @@ do
   fi
 done
 
-for i in `seq 25400 25999`;
+for i in `seq 25500 28999`;
 do
   tvid=`printf %5d $i`
-  url="http://39.134.65.230/PLTV/88888888/224/32212$tvid/index.m3u8"
+  url="http://39.135.189.210/TVOD/3/224/32212$tvid/index.m3u8"
   result=`curl $url 2>/dev/null| wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
-      echo $i,$url >> newSrc/harebing.txt
+      echo $i,$url >> newSrc/shanxi.txt
   fi
 done
+
+http://39.135.189.210/PLTV/88888888/224/3221226911/index.m3u8
 
 cat newSrc/harebing.txt| while read -r line
 do

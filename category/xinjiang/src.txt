@@ -1,3 +1,5 @@
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+
 新疆2台FHD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb02.m3u8
 新疆2台FHD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb02.m3u8
 新疆3台HD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb03.m3u8

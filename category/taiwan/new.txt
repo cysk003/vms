@@ -117,7 +117,7 @@ http://60.250.69.109:8548/.m3u8
 http://60.250.69.109:8550/.m3u8
 
 
-
+curl http://219.152.170.131:89/hls/jade2.m3u8
 
 
 博斯运动2
@@ -756,3 +756,12 @@ Trace Sport Stars,http://live.hodtv.tv/gttv.php?id=13704&cid=13857
 Mezzo Live ,http://live.hodtv.tv/gttv.php?id=13712&cid=13865
 
 Pet Club TV,http://live.hodtv.tv/gttv.php?id=15213&cid=15376
+
+
+http://51.222.193.143:10010/1,HTTP/1.0 200 OK
+http://51.222.193.143:10010/2,HTTP/1.0 200 OK
+http://51.222.193.143:10010/3,HTTP/1.0 200 OK
+http://51.222.193.143:10010/4,HTTP/1.0 200 OK
+http://51.222.193.143:10010/5,HTTP/1.0 200 OK
+http://51.222.193.143:10010/6,HTTP/1.0 200 OK
+http://51.222.193.143:10010/7,HTTP/1.0 200 OK

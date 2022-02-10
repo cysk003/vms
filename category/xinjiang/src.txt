@@ -1,4 +1,5 @@
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+兵团卫视 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8\
+http://test5.btzx.com.cn:80/live/13TV.stream/playlist.m3u8
 
 新疆2台FHD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb02.m3u8
 新疆2台FHD,http://111.0.27.21/livehyw6.chinamcache.com/hyw/zb02.m3u8
@@ -26,4 +27,4 @@ http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 新疆高清频道   新疆卫视FHD,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 新疆教育 ,http://202.107.188.140:5002/xinjiang_hdcq-1.m3u8?token=guoziyun
 
-新星市综合频道 http://test5.btzx.com.cn:80/live/13TV.stream/playlist.m3u8
+新星市综合频道 http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8

@@ -85,7 +85,6 @@ CCTV风云足球 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/s
 CCTV风云足球 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel22019/1300.m3u8
 CCTV老故事 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel22020/index.m3u8
 CCTV老故事 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel22020/1300.m3u8
-CCTV第一剧场 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43056/index.m3u8
 CCTV第一剧场 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43056/1300.m3u8
 CCTV世界地理 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43057/index.m3u8
 CCTV世界地理 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43057/1300.m3u8
@@ -107,8 +106,6 @@ CGTN纪录 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/li
 CGTN纪录 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel14/1300.m3u8
 CGTN法语 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel68/index.m3u8
 CGTN法语 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel68/1300.m3u8
-中国交通吉林 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11002/index.m3u8
-中国交通吉林 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11002/1300.m3u8
 中国天气 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11006/index.m3u8
 中国天气 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11006/2300.m3u8
 
@@ -671,3 +668,77 @@ CCTV中视购物 576,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/s
 湖南快乐购 2R720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43032/index.m3u8
 湖南快乐购 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
 湖南快乐购 720,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43032/1300.m3u8
+
+
+
+广东翡翠台,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
+
+有线新闻,https://p2.weizan.cn/1646497941/276681756708868241/live.m3u8
+
+东方影视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+
+劲爆体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+
+广东体育,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+
+广东公共,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
+
+广东少儿,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel63/index.m3u8
+
+广东珠江,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+
+吉林卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+
+广东卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
+
+江苏卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
+
+浙江卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
+
+安徽卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
+
+北京卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
+
+湖北卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
+
+湖南卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
+
+江西卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
+
+天津卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
+
+黑龙江卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel27/index.m3u8
+
+东方卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
+
+辽宁卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
+
+四川卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
+
+贵州卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
+
+重庆卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel56/index.m3u8
+
+甘肃卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel57/index.m3u8
+
+山西卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel54/index.m3u8
+
+广西卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel59/index.m3u8
+
+云南卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/index.m3u8
+
+青海卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel60/index.m3u8
+
+西藏卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
+
+新疆卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/index.m3u8
+
+宁夏卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel69/index.m3u8
+
+河南卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
+
+兵团卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel67/index.m3u8
+
+东南卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8

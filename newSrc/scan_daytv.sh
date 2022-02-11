@@ -481,13 +481,14 @@ http://125.107.58.146:9901/tsfile/live/0007_1.m3u8
 http://125.107.94.200:9901/tsfile/live/1001_1.m3u8
 http://125.107.22.229:9901/tsfile/live/1001_1.m3u8
 http://125.107.91.76:9901/tsfile/live/1001_1.m3u8
+1.30.8.38
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://106.115.24.29:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://39.88.19.59:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/hebei/handan_weixian.txt
+      echo $id,$url >> category/shandong/qingdao_huangdao.txt
   fi
 done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8
@@ -602,3 +603,39 @@ do
   fi
 done
 
+for id in `seq 1 999`;
+do
+  tvid=`printf %03d $id`
+  url="http://58.99.33.16:1935/liveedge17/live_${tvid}_3.stream/chunklist.m3u8"
+  result=`curl --connect-timeout 1 -m 5  $url 2>/dev/null|grep  "\.ts"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/taiwan/liveedge.txt
+  fi
+done
+
+
+
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel69/index.m3u8
+
+
+for id in `seq 2000 9999`;
+do
+  url="http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel$id/index.m3u8"
+  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "m3u8"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/otv/new.txt
+  fi
+done
+
+
+for id in `seq 1 1000`;
+do
+  url="http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel$id/index.m3u8"
+  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "m3u8"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/otv/new.txt
+  fi
+done

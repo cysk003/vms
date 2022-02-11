@@ -79,6 +79,10 @@ CHC高清,http://y3y4.f3322.net:808/hls/82/index.m3u8
 94,http://183.0.186.245:808/hls/94/index.m3u8
 95,http://183.0.186.245:808/hls/95/index.m3u8
 96,http://183.0.186.245:808/hls/96/index.m3u8
+98,http://183.0.186.245:808/hls/98/index.m3u8
+99,http://183.0.186.245:808/hls/99/index.m3u8
+100,http://183.0.186.245:808/hls/100/index.m3u8
+101,http://183.0.186.245:808/hls/101/index.m3u8
 102,http://183.0.186.245:808/hls/102/index.m3u8
 103,http://183.0.186.245:808/hls/103/index.m3u8
 104,http://183.0.186.245:808/hls/104/index.m3u8
@@ -88,6 +92,7 @@ CHC高清,http://y3y4.f3322.net:808/hls/82/index.m3u8
 108,http://183.0.186.245:808/hls/108/index.m3u8
 110,http://183.0.186.245:808/hls/110/index.m3u8
 111,http://183.0.186.245:808/hls/111/index.m3u8
+
 5,http://183.0.186.242:808/hls/5/index.m3u8
 16,http://183.0.186.242:808/hls/16/index.m3u8
 17,http://183.0.186.242:808/hls/17/index.m3u8

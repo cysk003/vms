@@ -1,3 +1,4 @@
+http://36.99.200.54/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 CCTV1 6M1080,http://222.186.186.86/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226013/index.m3u8
 CCTV1 8M1080,http://222.186.186.86/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV2 6M1080,http://222.186.186.86/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8

@@ -481,14 +481,34 @@ http://125.107.58.146:9901/tsfile/live/0007_1.m3u8
 http://125.107.94.200:9901/tsfile/live/1001_1.m3u8
 http://125.107.22.229:9901/tsfile/live/1001_1.m3u8
 http://125.107.91.76:9901/tsfile/live/1001_1.m3u8
+115.46.81.201
 1.30.8.38
+http://115.46.85.161:9901/tsfile/live/1000_1.m3u8
+http://115.46.85.169:9901/tsfile/live/1000_1.m3u8
+http://115.46.87.104:9901/tsfile/live/1000_1.m3u8
+http://115.46.102.247:9901/tsfile/live/1000_1.m3u8
+http://115.46.103.238:9901/tsfile/live/1000_1.m3u8
+http://115.46.103.70:9901/tsfile/live/1000_1.m3u8
+http://115.46.117.161:9901/tsfile/live/1000_1.m3u8
+http://115.46.117.194:9901/tsfile/live/1000_1.m3u8
+http://115.46.118.2:9901/tsfile/live/1000_1.m3u8
+http://115.46.118.209:9901/tsfile/live/1000_1.m3u8
+http://115.46.100.253:9901/tsfile/live/1000_1.m3u8
+115.48.132.36
+http://115.48.162.159:9901/tsfile/live/1000_1.m3u8
+http://115.48.161.240:9901/tsfile/live/1000_1.m3u8
+http://115.59.255.241:9901/tsfile/live/1000_1.m3u8
+115.58.240.91
+http://115.61.139.216:9901/tsfile/live/1000_1.m3u8
+http://115.62.16.255:9901/tsfile/live/1000_1.m3u8
+http://115.62.35.216:9901/tsfile/live/1000_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://39.88.19.59:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://115.62.35.216:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/shandong/qingdao_huangdao.txt
+      echo $id,$url >> category/henan/puyang_hualong.txt
   fi
 done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8

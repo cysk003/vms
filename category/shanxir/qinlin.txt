@@ -5,6 +5,8 @@
 # 404 84 87 163  167  185 219 233 19 30 31  41
 # 可用的三个ip4 82 129
 55
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+http://122.228.119.170/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 
 CCTV1综合频道HD,http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV2经济频道HD,http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8

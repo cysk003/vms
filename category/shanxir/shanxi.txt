@@ -1,7 +1,9 @@
 陕西西安新闻台,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-陕西西安白鸽台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+陕西西安白鸽都市台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+陕西西安商务咨询台,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 陕西西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+ 西安移动 http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 陕西安康移动CCTV1 8M1080,http://39.134.19.57/PLTV/88888888/224/3221225684/index.m3u8
 陕西渭南银河CCTV1,http://39.134.19.248:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西移动CDNCCTV1 3M1080,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8

@@ -502,13 +502,14 @@ http://115.59.255.241:9901/tsfile/live/1000_1.m3u8
 http://115.61.139.216:9901/tsfile/live/1000_1.m3u8
 http://115.62.16.255:9901/tsfile/live/1000_1.m3u8
 http://115.62.35.216:9901/tsfile/live/1000_1.m3u8
+http://115.224.127.233:9901/tsfile/live/1000_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://115.62.35.216:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://115.224.127.233:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/henan/puyang_hualong.txt
+      echo $id,$url >> category/zhejiang/shaoxing_yuecheng.txt
   fi
 done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8
@@ -657,5 +658,17 @@ do
   echo $url, $result
   if [ "$result" -gt 0 ]; then
       echo $id,"$url" >> category/otv/new.txt
+  fi
+done
+
+
+for id in `seq 25000 28000`;
+do
+  tvid=`printf %05d $id`
+  url="http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/32212$tvid/index.m3u8"
+  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "\.ts"| wc -l`
+  echo $url, $result
+  if [ "$result" -gt 0 ]; then
+      echo $id,"$url" >> category/shanxir/qinling.txt
   fi
 done

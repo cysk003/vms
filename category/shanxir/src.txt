@@ -1,3 +1,17 @@
+陕西卫视高清，http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
+新闻高清,http://livepull.sxiptv.cn/live/shanxi1taohd.m3u8
+都市高清频道,http://livepull.sxiptv.cn/live/shanxi2taohd.m3u8体育全运高清,http://livepull.sxiptv.cn/live/shanxi7taohd.m3u8
+陕西1,http://livepull.sxiptv.cn/live/shanxi1.m3u8
+陕西2,http://livepull.sxiptv.cn/live/shanxi2.m3u8
+陕西3,http://livepull.sxiptv.cn/live/shanxi3.m3u8
+陕西4,http://livepull.sxiptv.cn/live/shanxi4.m3u8
+陕西5,http://livepull.sxiptv.cn/live/shanxi5.m3u8
+陕西6,http://livepull.sxiptv.cn/live/shanxi6.m3u8
+陕西7,http://livepull.sxiptv.cn/live/shanxi7.m3u8
+陕西8,http://livepull.sxiptv.cn/live/shanxi8.m3u8
+http://121.12.115.12/livepull.sxiptv.cn/shanxi1taohd.m3u8
+http://121.51.14.15
+
 陕西卫视,http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 陕西新闻,http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
 陕西都市青春,http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8

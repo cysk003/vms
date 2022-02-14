@@ -550,13 +550,13 @@ http://119.39.199.235:9901/tsfile/live/0001_1.m3u8
 http://122.230.104.15:9901/tsfile/live/1000_1.m3u8
 for host in 42 49 52 54 59 61 76 84 97 98 120 131 135 141 149 153 166 180 204 217 233 247 252 254;
 do
-for id in `seq 1 500` `seq 1000 1299` ;
+for id in  `seq 1 200` `seq 1000 1299` ;
 do
-  url=http://119.39.192.84:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url=http://116.20.243.153:9901/tsfile/live/`printf %04d $id`_2.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/hunan/loudi_xinhua.txt
+      echo $id,$url >> category/guangdong/foshan_nanhai.txt
   fi
 done
 done

@@ -177,3 +177,8 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
 ELEVEN體育二台,rtmp://59.124.75.157/sat/tv741
 rtmp://59.124.75.157/sat/tv721
+
+
+rtsp://hkss3.phoenixtv.com:1935/fs/phk.stream
+pcc
+pic

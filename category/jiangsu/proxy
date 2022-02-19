@@ -1,3 +1,5 @@
+http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
 4k http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="江苏移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://223.110.243.159/ott.js.chinamobile.com/TVOD/3/224/3221227725/index.m3u8
@@ -291,5 +293,6 @@ CCTV5+[1920*1080],http://223.110.236.54/ott.js.chinamobile.com/PLTV/3/224/322122
 CCTV5体育,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
 CCTV5体育,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227466/index.m3u8
 CCTV5体育,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8
-CCTV5体育,http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221227686/index.m3u8
+CCTV5体育,http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227686/index.m3u8
+5-6 9-16 35-37 71 103-106 111-112 108 133-141 143-144   167-168 170 172 174 176
 CCTV5体育,http://183.207.248.172/ott.js.chinamobile.com/PLTV/3/224/3221227298/index.m3u8

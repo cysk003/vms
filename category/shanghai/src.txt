@@ -1,3 +1,5 @@
+
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=5000000008000023254&livemode=1&stbId=3&channel-id=bestzb
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉HD,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/2300000/mnf.m3u8

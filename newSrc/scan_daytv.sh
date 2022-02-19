@@ -82,13 +82,16 @@ http://110.72.74.98:808/hls/3/index.m3u8
 http://110.72.78.204:808/hls/3/index.m3u8
 for i in `seq 1 1000`;
 do
-  url="http://183.0.186.245:808/hls/$i/index.m3u8"
+  url="http://119.131.231.80:8089/hls/$i/index.m3u8"
   result=`curl --connect-timeout 5 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $i,$url >> category/guangdong/maoming.txt
+      echo $i,$url >> category/guangdong/guangzhou.txt
   fi
 done
+
+http://220.249.114.102:9901/tsfile/live/1022_1.m3u8
+
 
 http://110.72.35.82:808/tsfile/live/0001_1.m3u8
 
@@ -503,13 +506,14 @@ http://115.61.139.216:9901/tsfile/live/1000_1.m3u8
 http://115.62.16.255:9901/tsfile/live/1000_1.m3u8
 http://115.62.35.216:9901/tsfile/live/1000_1.m3u8
 http://115.224.127.233:9901/tsfile/live/1000_1.m3u8
+,http://119.4.231.124
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://115.224.127.233:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://119.4.231.124:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/zhejiang/shaoxing_yuecheng.txt
+      echo $id,$url >> category/sichuan/chengdu_qingyang.txt
   fi
 done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8
@@ -552,11 +556,11 @@ for host in 42 49 52 54 59 61 76 84 97 98 120 131 135 141 149 153 166 180 204 21
 do
 for id in  `seq 1 200` `seq 1000 1299` ;
 do
-  url=http://116.20.243.153:9901/tsfile/live/`printf %04d $id`_2.m3u8
+  url=http://114.228.15.252:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/guangdong/foshan_nanhai.txt
+      echo $id,$url >> category/jiangsu/changzhou_dianxin.txt
   fi
 done
 done
@@ -564,16 +568,18 @@ done
 http://115.58.243.59:9901/tsfile/live/0001_1.m3u8
 
 
-for i in `seq 1 1000`;
+for i in `seq 2500 5500`;
 do
-  url=http://39.134.32.102:6610/270000001111/111000`printf %04d $i`/index.m3u8?IASHttpSessionId=OTT
+  tvid=`printf %04d $i`
+  url="http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=$tvid&Fsv_otype=0&Provider_id=&Pcontent_id="
   result=`curl $url 2>/dev/null | grep -E "\.ts|m3u8"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id.$host,$url >> category/gansu/lanzhou_6610.txt
+      echo $i,$url >> category/jiangsu/liantong.txt
   fi
 done
 
+http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=1002&Fsv_otype=0&Provider_id=&Pcontent_id=
 
 for id in `seq 8500 8900`;
 do

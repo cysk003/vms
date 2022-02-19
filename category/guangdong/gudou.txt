@@ -2,7 +2,8 @@
  http://astream.apk1088.com:18888/channel.php\?id\=DOXjuchangHD_7000
 http://astream.apk1088.com:18888/channel.php
 http://astream.apk1088.com:18888/channel.php\?id\=xingkong_1500\&/PLTV/hls.smil.m3u8 -I
-
+珠海一套,http://astream.apk1088.com:18888/channel.php?id=zhuhaiyitao_1500&/PLTV/hls.smil.m3u8
+珠海二套,http://astream.apk1088.com:18888/channel.php?id=zhuhaiertao_1500&/PLTV/hls.smil.m3u8
 金鹰卡通,http://meimei.kandiantv.cn/ysys/gdzm.php?id=jinyingkatong_1500&/PLTV/hls.smil.m3u8
 优漫卡通,http://meimei.kandiantv.cn/ysys/gdzm.php?id=youmankatong_1500&/PLTV/hls.smil.m3u8
 嘉佳卡通,http://meimei.kandiantv.cn/ysys/gdzm.php?id=gdjiajiacartoon_1500&/PLTV/hls.smil.m3u8

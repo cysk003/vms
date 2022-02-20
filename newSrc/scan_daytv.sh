@@ -1,6 +1,8 @@
-
+http://153.35.152.183:808/hls/65/index.m3u8
 
 http://58.244.52.205:808/hls/65/index.m3u8
+
+
 for i in `seq 1000 1999`;
 do
   url="http://y3y4.f3322.net:808/hls/$i/index.m3u8"
@@ -112,6 +114,8 @@ done
 http://183.11.239.32:808/hls/1051/index.m3u8
 
 http://171.38.148.173:9901/tsfile/live/1002_1.m3u8
+http://103.1.104.227:9901/tsfile/live/1002_1.m3u8
+
 for i in `seq 1 200`;
 do
   url="http://171.38.148.173:9901/tsfile/live/`printf %04d $i`_1.m3u8"
@@ -556,11 +560,11 @@ for host in 42 49 52 54 59 61 76 84 97 98 120 131 135 141 149 153 166 180 204 21
 do
 for id in  `seq 1 200` `seq 1000 1299` ;
 do
-  url=http://114.228.15.252:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url=http://112.80.39.161:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/jiangsu/changzhou_dianxin.txt
+      echo $id,$url >> category/jiangsu/suzhou_liantong.txt
   fi
 done
 done

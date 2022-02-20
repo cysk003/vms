@@ -187,7 +187,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿",黑莓动画
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
 #EXTINF:-1  group-title="少儿",河北少儿 高清
-http://192.168.50.223:8880/iptv.m3u8?id=HEBSE
+http://192.168.50.223:8880/iptv.m3u8?id=HEBSEKJ
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
 http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿",嘉佳卡通
@@ -385,7 +385,7 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226116/1000010000000006000000000235
 #EXTINF:-1  group-title="地方",福州生活
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1  group-title="地方",河北经济 高清
-http://192.168.50.223:8880/iptv.m3u8?id=HEBJJ
+http://192.168.50.223:8880/iptv.m3u8?id=HEBJJSH
 #EXTINF:-1  group-title="地方",河北都市 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HEBDS
 #EXTINF:-1  group-title="地方",河北公共 高清

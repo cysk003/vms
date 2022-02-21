@@ -99,11 +99,11 @@ http://110.72.35.82:808/tsfile/live/0001_1.m3u8
 
 for i in `seq 1 1000`;
 do
-  url="http://27.47.68.82:808/hls/$i/index.m3u8"
+  url="http://110.72.73.85:808/hls/$i/index.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $i,$url >> category/guangdong/jieyang.txt
+      echo $i,$url >> category/guangxi/guiguang_guiping.txt
   fi
 done
 

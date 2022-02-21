@@ -1,3 +1,11 @@
+#EXTINF:-1 ,广东电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
+#EXTINF:-1 ,广东电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+#EXTINF:-1 ,广东电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+#EXTINF:-1 ,广东电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东频道",南方卫视
 http://hongyanqiang.top/chudian.php?id=nfws
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视上星" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东频道",南方卫视上星

@@ -114,7 +114,7 @@ done
 http://183.11.239.32:808/hls/1051/index.m3u8
 
 http://171.38.148.173:9901/tsfile/live/1002_1.m3u8
-http://103.1.104.227:9901/tsfile/live/1002_1.m3u8
+http://110.19.128.158:9901/tsfile/live/1002_1.m3u8
 
 for i in `seq 1 200`;
 do
@@ -511,13 +511,39 @@ http://115.62.16.255:9901/tsfile/live/1000_1.m3u8
 http://115.62.35.216:9901/tsfile/live/1000_1.m3u8
 http://115.224.127.233:9901/tsfile/live/1000_1.m3u8
 ,http://119.4.231.124
+0 = {string} "110.18.144.52"
+1 = {string} "110.18.144.97"
+2 = {string} "110.18.144.105"
+3 = {string} "110.18.132.222"
+4 = {string} "110.19.128.158"
+5 = {string} "110.19.136.28"
+6 = {string} "110.19.136.55"
+7 = {string} "110.19.168.237"
+8 = {string} "110.19.168.241"
+9 = {string} "110.19.156.197"
+10 = {string} "110.19.156.239"
+11 = {string} "110.19.161.11"
+12 = {string} "110.19.162.40"
+13 = {string} "110.19.163.241"
+14 = {string} "110.19.209.2"
+15 = {string} "110.19.210.118"
+0 = {string} "106.12.5.201"
+1 = {string} "106.12.77.190"
+2 = {string} "106.35.22.185"
+110.72.54.126
+110.52.232.230
+106.12.5.201
+106.46.1.254
+110.53.159.62
+http://106.12.5.201:9901/tsfile/live/1000_1.m3u8
+http://110.72.54.126:9901/tsfile/live/0001_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://119.4.231.124:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://110.72.54.126:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/sichuan/chengdu_qingyang.txt
+      echo $id,$url >> category/guangxi/guigang.txt
   fi
 done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8

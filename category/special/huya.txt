@@ -1,3 +1,11 @@
+http://120.233.116.115/tx.hls.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8
+http://qd130.txdirect-corp-hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+https://hw.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+hw.flv.huya.com
+txtest-xp2p.p2p.huya.com
+qd130.txdirect-corp-hls.huya.com
+121.51.94.31/tx.hls.huya.com
+121.51.249.49/txdirect.hls.huya.com
 周星星,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb09.php?id=19105261,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb09.php?id=11342412
 阿斗归来了,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb09.php?id=13303478
 野原新之助,http://tyzb8080.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb09.php?id=11352970

@@ -38,8 +38,6 @@ http://192.168.50.1:8288/rtp/225.1.8.17:8144
 http://ye23.win/iptv/4k.cctv.php
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"  group-title="央视",CCTV4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"  group-title="央视",CCTV4K HDR
-http://ott.js.chinamobile.com/TVOD/3//224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="央视",中国教育1台 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
 #EXTINF:-1  group-title="4k",北京IPTV4K
@@ -48,12 +46,6 @@ http://192.168.50.1:8288/rtp/225.1.8.211:8002
 http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1  group-title="4k",4k纯享
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1  group-title="4k",4K电影
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="4k",江苏 4k
-http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1  group-title="4k",4k花园电影
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="4k",欢笑剧场 4K
 http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="4k",欢笑剧场 4K
@@ -111,11 +103,11 @@ http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 #EXTINF:-1 tvg-id="47" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png"  group-title="卫视",宁夏卫视
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"  group-title="卫视",山西卫视 HD
-http://223.110.251.219:6610/gitv/live1/SXWS/SXWS/.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SXWS
 #EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png"  group-title="卫视",陕西卫视
 http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视
-http://live.scuec.edu.cn:8080/hls/schd.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SCWS
 #EXTINF:-1 tvg-id="51" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"  group-title="卫视",新疆卫视
 http://192.168.50.223:8880/iptv.m3u8?id=XJWS
 #EXTINF:-1  group-title="卫视",海峡卫视 8M1080
@@ -123,7 +115,7 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226128/1000010000000006000000000243
 #EXTINF:-1  group-title="卫视",海峡卫视
 http://ye23.win/iptv/fjtv.php?id=3
 #EXTINF:-1 tvg-id="45" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png"  group-title="卫视",吉林卫视 8M1080
-http://live.scuec.edu.cn:8080/hls/jlhd.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=JLWS
 #EXTINF:-1 tvg-id="46" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png"  group-title="卫视",内蒙古卫视
 http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png"  group-title="卫视",青海卫视
@@ -194,16 +186,10 @@ http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
 #EXTINF:-1 tvg-id="146" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="少儿",哈哈炫动
 http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="少儿",哈哈炫动
-http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226388/index.m3u8
 #EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿",黑莓动画 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿",黑莓动画
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 高清
 http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
-http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
 http://39.134.35.209/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
@@ -250,8 +236,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1  group-title="影视",NewTV超级电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1  group-title="影视",超级电影 4M1080
-http://39.134.134.89/0000000000001001/1/index.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1  group-title="影视",超级电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="影视",欢笑剧场
@@ -274,8 +258,6 @@ http://39.134.35.204/PLTV/88888888/224/3221226287/index.m3u8
 http://39.134.35.213/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1  group-title="影视",SiTV都市剧场 4M1080
 http://39.134.35.206/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-id="70196" tvg-name="都市剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="影视",都市剧场 高清
-http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png"  group-title="影视",东方影视
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",CHC高清电影 HD
@@ -342,12 +324,6 @@ http://192.168.50.1:8288/rtp/225.1.8.181:4222
 http://192.168.50.1:8288/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"  group-title="央视",CCTV4 中文国际欧洲 高清
 http://192.168.50.1:8288/rtp/225.1.8.174:4222
-#EXTINF:-1 tvg-id="240" tvg-name="凤凰卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="香港",凤凰卫视中文台
-http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="241" tvg-name="凤凰卫视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="香港",凤凰卫视资讯台
-http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="凤凰卫视香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="香港",凤凰卫视香港台
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png"  group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png"  group-title="香港",香港卫视
@@ -409,29 +385,21 @@ http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1  group-title="地方",甘肃公共应急 8M1080
 http://39.134.35.210/PLTV/88888888/224/3221226250/index.m3u8
 #EXTINF:-1  group-title="地方",河北经济 高清
-http://106.115.24.7:9901/tsfile/live/1005_1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HEBJJ
 #EXTINF:-1  group-title="地方",河北都市 高清
-http://106.115.24.7:9901/tsfile/live/1006_1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HEBDS
 #EXTINF:-1  group-title="地方",河北公共 高清
-http://106.115.24.7:9901/tsfile/live/1009_1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HEBGG
 #EXTINF:-1  group-title="地方",河北农民 高清
-http://106.115.24.7:9901/tsfile/live/1010_1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HENM
 #EXTINF:-1  group-title="地方",湖南都市 高清
-http://124.232.233.15:6610/000000001001/201500000151/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="地方",湖南都市 高清
-http://124.232.233.15:6610/000000001001/201500000235/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=HNDS
 #EXTINF:-1  group-title="地方",湖南经视 高清
-http://124.232.233.15:6610/000000001001/201500000068/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="地方",湖南经视 高清
-http://124.232.233.15:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=HNJS
 #EXTINF:-1  group-title="地方",湖南公共 高清
-http://124.232.233.15:6610/000000001001/201500000222/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="地方",湖南公共 高清
-http://124.232.233.15:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=HNGG
 #EXTINF:-1 tvg-id="70212" tvg-name="湖南国际频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png"  group-title="地方",湖南国际 高清
-http://124.232.233.15:6610/000000001001/201500000153/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="70212" tvg-name="湖南国际频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png"  group-title="地方",湖南国际 高清
-http://124.232.233.15:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=HNGJ
 #EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="戏曲",梨园频道
 http://hndxrm1.8686c.com/live/lypd.m3u8
 #EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="戏曲",河南梨园

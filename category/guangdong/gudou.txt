@@ -1,6 +1,7 @@
 求索： http://wtv2.hodtv.tv:80/gudou9.php?id=QSDWHD_7000
  http://astream.apk1088.com:18888/channel.php\?id\=DOXjuchangHD_7000
 http://astream.apk1088.com:18888/channel.php
+http://103.140.229.13/gudou.php?id=1350_4500
 http://astream.apk1088.com:18888/channel.php\?id\=xingkong_1500\&/PLTV/hls.smil.m3u8 -I
 珠海一套,http://astream.apk1088.com:18888/channel.php?id=zhuhaiyitao_1500&/PLTV/hls.smil.m3u8
 珠海二套,http://astream.apk1088.com:18888/channel.php?id=zhuhaiertao_1500&/PLTV/hls.smil.m3u8

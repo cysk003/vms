@@ -1,5 +1,5 @@
 
-url=60.250.91.85
+url=61.219.170.95
 for port in `seq 8500 8800`;
 do
   result2=`curl -m1 --connect-timeout 2 $url:$port/.m3u8 2>/dev/null |grep EXTM3U| wc -l`;

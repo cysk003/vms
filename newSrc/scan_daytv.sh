@@ -703,13 +703,13 @@ do
 done
 
 
-for id in `seq 25000 28000`;
+for id in `seq 1 1000`;
 do
   tvid=`printf %05d $id`
-  url="http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/32212$tvid/index.m3u8"
-  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "\.ts"| wc -l`
+  url="http://124.232.233.15:6610/000000001001/2022000$tvid/index.m3u8?IASHttpSessionId=OTT3832520220225094833000708&m3u8_level=2"
+  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "\.m3u8"| wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
-      echo $id,"$url" >> category/shanxir/qinling.txt
+      echo $id,"$url" >> category/hunan/changsha_dianxin.txt
   fi
 done

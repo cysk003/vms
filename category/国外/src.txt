@@ -5,7 +5,7 @@
 日本-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 BS朝日,http://203.162.235.41:16914
 BS东京,http://203.162.235.41:16915
-
+https://app.live.112.events/hls/112hd_mid/index.m3u8
  http://69.57.222.151:8082/45/stream.m3u8
  鳳凰衛視,http://125.227.210.37:8935/VideoInput/play.ts
  鳳凰衛視,http://125.227.210.55:8935/VideoInput/play.ts

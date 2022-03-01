@@ -1,6 +1,7 @@
 
 $info=file_get_contents("http://118.24.226.75:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=json&nns_user_id=xxxxxxxxx&nns_user_agent=&nns_webtoken=6c081ce0335cd8a657bda2cc2ffc9cdc&nns_video_id=".$ids[$id]."&nns_tag=28&nns_cp_video_id=");
 
+http://118.24.226.75:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000313&nns_user_agent=&nns_webtoken=&nns_video_id=07259f1303e848e481fbc3543d583644&nns_tag=26
 精品大剧场,id=47a379c9603be00782964927612a20e2
 CCTV-17,id=f5bc1ced6da68073115cc7ccd2c8925b
 水矿新闻综合频道,id=d59c1fc00c5c4d50f52014f5ad2f81a5

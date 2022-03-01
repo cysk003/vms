@@ -112,3 +112,23 @@ CGTN 俄语,http://122.138.32.221:9901/tsfile/live/1064_1.m3u8
 幸福娱乐,http://122.138.32.221:9901/tsfile/live/1068_1.m3u8
 风尚生活,http://122.138.32.221:9901/tsfile/live/1069_1.m3u8
 东北戏曲 高清,http://122.138.32.221:9901/tsfile/live/1072_1.m3u8
+
+http://122.141.20.123:9901/tsfile/live/1072_1.m3u8
+
+http://122.140.23.12:9901/tsfile/live/1029_1.m3u8
+http://122.140.22.125:9901/tsfile/live/1029_1.m3u8
+http://122.140.23.181:9901/tsfile/live/1029_1.m3u8
+http://122.140.20.101:9901/tsfile/live/1000_1.m3u8
+ http://122.140.20.101:9901/tsfile/live/1029_1.m3u8
+
+
+
+http://122.140.20.38:9901/tsfile/live/1029_1.m3u8
+http://122.140.20.101:9901/tsfile/live/1029_1.m3u8
+http://122.140.23.12:9901/tsfile/live/1029_1.m3u8
+http://122.140.22.125:9901/tsfile/live/1029_1.m3u8
+http://122.140.23.181:9901/tsfile/live/1029_1.m3u8
+http://122.141.20.123:9901/tsfile/live/1029_1.m3u8
+http://139.209.39.201:9901/tsfile/live/1029_1.m3u8
+http://222.161.15.183:9901/tsfile/live/1029_1.m3u8
+

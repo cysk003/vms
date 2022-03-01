@@ -1,3 +1,12 @@
+https://kfdyjbgh.tk/live/ylgj.m3u8
+
+中国电影,http://50.7.218.42:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+亚洲旅游台,http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+亚洲旅游国际台,http://kfdyjbgh.tk/live/ylgj.m3u8
+龙华戏剧,http://kfdyjbgh.tk/live/lhxj.m3u8
+EYETV旅游,http://50.7.218.42:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+
+
 TVBS欢乐,http://212.95.133.2/tv/js.php?id=22
 中天娱乐,http://212.95.133.2/tv/js.php?id=23
 中天综合,http://212.95.133.2/tv/js.php?id=25
@@ -490,6 +499,8 @@ ELTA体育2,http://212.95.133.2/tv/js.php?id=58
 博斯高球2,http://212.95.133.2/tv/js.php?id=61
 博斯网球,http://212.95.133.2/tv/js.php?id=62
 博斯无限,http://212.95.133.2/tv/js.php?id=63
+
+野鸡资讯,http://61.219.170.95:8565/.m3u8
 
 🔞午夜_158,#genre#
 HAPPY,rtmp://125.227.196.250:1935/live/HAPPY

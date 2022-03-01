@@ -1,0 +1,13 @@
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'gyxwzh';
+$n = array(
+  'gyxwzh' => 18,//贵阳新闻综合
+  'gyjjsh' => 19,//贵阳经济生活
+  'gyfz' => 20,//贵阳法制
+  'gyds' => 21,//贵阳都市
+  );
+$d = file_get_contents('http://gystv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid='.$n[$id]);
+preg_match('/source src="(.*?)"/',$d,$playurl);
+header('location:'.$playurl[1]);
+//echo $playurl[1];
+?>

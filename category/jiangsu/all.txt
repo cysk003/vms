@@ -1,3 +1,5 @@
+江苏影视,rtmp://live-hls.jstv.com/livezhuzhan/jsys@jstv2m
+
 NewTV爱情喜剧,http://ott.js.chinamobile.com/PLTV/3/224/3221225525/index.m3u8
 NewTV古装剧场,http://ott.js.chinamobile.com/PLTV/3/224/3221225527/index.m3u8
 NewTV动作电影,http://ott.js.chinamobile.com/PLTV/3/224/3221225529/index.m3u8

@@ -132,3 +132,15 @@ http://122.141.20.123:9901/tsfile/live/1029_1.m3u8
 http://139.209.39.201:9901/tsfile/live/1029_1.m3u8
 http://222.161.15.183:9901/tsfile/live/1029_1.m3u8
 
+139.209.41.65
+6 = {string} "139.209.41.65"
+7 = {string} "139.209.41.216"
+
+curl http://58.245.235.51:9901/tsfile/live/1072_1.m3u8
+curl http://58.245.243.34:9901/tsfile/live/1072_1.m3u8
+curl http://122.140.19.74:9901/tsfile/live/1072_1.m3u8
+curl http://122.140.20.38:9901/tsfile/live/1072_1.m3u8
+curl http://122.140.20.178:9901/tsfile/live/1072_1.m3u8
+curl http://122.140.21.75:9901/tsfile/live/1072_1.m3u8
+curl http://139.209.41.65:9901/tsfile/live/1072_1.m3u8
+curl http://139.209.41.216:9901/tsfile/live/1072_1.m3u8

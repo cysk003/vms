@@ -179,3 +179,42 @@ DoxTV 576,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU309
 江西7新闻 SAR8M1080,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000217.m3u8
 江西教育 576,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000026.m3u8
 江西指南 576,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000061.m3u8
+
+
+
+<?php
+$head_httpstream = "http://stream.slave.jxtvnet.tv:14311/playurl";
+
+function getinfo_json($chnlid,$token){
+    $i_url = 'http://slave.jxtvnet.tv:81/media/channel/get_info?chnlid=4200000'.$chnlid.'&accesstoken='.$token;
+    $i_result = file_get_contents($i_url);
+    return json_decode($i_result);
+}
+
+$accesstoken='R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE';
+
+$id=isset($_GET['id'])?$_GET['id']:'598';
+$type=isset($_GET['type'])?$_GET['type']:'live';
+
+if($type=='live'){
+    //直播
+    $json = getinfo_json($id,$accesstoken);
+    $playtoken = isset($json->play_token)?$json->play_token:'ABCDEFGHI';
+    $playurl=$head_httpstream.'?playtype=live&protocol=hls&accesstoken='.$accesstoken.'&programid=4200000'.$id.'&playtoken='.$playtoken;
+    header("location: ".$playurl);
+}else if($type=='epg'){
+    //节目单
+    $date=isset($_GET['date'])?$_GET['date']:date('Y-m-d');
+    $time = time();
+    $json = getinfo_json($id,$accesstoken);
+    echo $json->chnl_name." ".$date." 节目单<br/>";
+    $epg_url='http://slave.jxtvnet.tv:81/media/event/get_list?chnlid=4200000'.$id.'&pageidx=1&vcontrol=0&attachdesc=1&repeat=1&accesstoken='.$accesstoken.'&starttime='.strtotime($date).'&endtime='.strtotime('+1 day',strtotime($date)).'&pagenum=100&flagposter=0&verifycode=2000000576';
+    $epg_result = file_get_contents($epg_url);
+    $epg_json = json_decode($epg_result);
+    $event_list=$epg_json->event_list;
+    for ($x=0; $x<count($event_list); $x++) {
+        $n=date('H:i',$event_list[$x]->start_time).' '.$event_list[$x]->event_name;
+        echo $n."<br/>";
+    }
+}
+?>

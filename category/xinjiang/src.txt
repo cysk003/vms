@@ -1,5 +1,7 @@
 兵团卫视 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8\
 http://test5.btzx.com.cn:80/live/13TV.stream/playlist.m3u8
+第三师, http://test5.btzx.com.cn/live/disanshi.stream/playlist.m3u8
+
 http://124.88.144.73:1935/live/dywt/playlist.m3u8,
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8,
 http://124.88.144.73:1935/live/jjsh/playlist.m3u8,

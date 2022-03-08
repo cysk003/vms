@@ -1,7 +1,20 @@
+http://gslb.gcable.cn:8070/live/xingkong_1500.m3u8?t=1646732127&u=&p=&pid=&cid=&d=&sid=&r=&e=&nc=&a=&v=
+
+
+https://yamcode.com/raw/chw-88243
 求索： http://wtv2.hodtv.tv:80/gudou9.php?id=QSDWHD_7000
  http://astream.apk1088.com:18888/channel.php\?id\=DOXjuchangHD_7000
 http://astream.apk1088.com:18888/channel.php
 http://103.140.229.13/gudou.php?id=1350_4500
+http://103.45.180.232:80/gudou5.php?id=gdsportsHD_7000
+梅州1高清-①,http://teyonds.weetai.cn/cdn/iptv/tyzb01.php?id=meizhou1HD
+梅州1高清-②,http://astream.apk1088.com:18888/channel.php?id=meizhou1HD
+梅州1高清-③,http://103.140.229.13/gudou.php?id=meizhou1HD
+梅州2高清-①,http://teyonds.weetai.cn/cdn/iptv/tyzb01.php?id=meizhou2HD
+梅州2高清-②,http://astream.apk1088.com:18888/channel.php?id=meizhou2HD
+梅州2高清-③,http://103.140.229.13/gudou.php?id=meizhou2HD
+梅州一套,http://hlgzs.icu/php/jsgdtv.php?id=meizhouyitao_1500#http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
+梅州二套,http://hlgzs.icu/php/jsgdtv.php?id=meizhouertao_1500#http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
 http://astream.apk1088.com:18888/channel.php\?id\=xingkong_1500\&/PLTV/hls.smil.m3u8 -I
 珠海一套,http://astream.apk1088.com:18888/channel.php?id=zhuhaiyitao_1500&/PLTV/hls.smil.m3u8
 珠海二套,http://astream.apk1088.com:18888/channel.php?id=zhuhaiertao_1500&/PLTV/hls.smil.m3u8

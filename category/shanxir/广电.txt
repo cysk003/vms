@@ -1,0 +1,1 @@
+http://httplive.slave.bfgd.com.cn:14311/playurl\?playtype\=live\&protocol\=http\&accesstoken\=R6147E69AU319DA04BK783D34A5I4A7F16AFP2BF4M340EEFAV0Z339C9W16A66428F29987E8\&playtoken\=31608RMZHGPUCXX10\&auth\=no\&programid\=4200000512

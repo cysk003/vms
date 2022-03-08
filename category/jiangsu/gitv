@@ -1,6 +1,5 @@
 http://122.96.52.28/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
 http://112.25.47.58/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-高码",CCTV1
 http://223.110.242.133:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏移动-高码",CCTV2

@@ -1,3 +1,18 @@
+http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT1397420220305151149000595
+http://39.135.55.105:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1&IASHttpSessionId=OTT1397420220305151149000595
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8 东南卫视HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8 海峡卫视HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8 福建综合HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8 福建新闻HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227078/index.m3u8 福建体育HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226973/index.m3u8 福建经济HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226969/index.m3u8 福建电视剧HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8 福建少儿HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226911/index.m3u8 福建旅游HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8 福建乡村振兴HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8 南平1套
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8 南平2套
+
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8 CCTV-2财经高清
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8 超级综艺高清
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8

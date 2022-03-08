@@ -105,11 +105,11 @@ http://110.72.35.82:808/tsfile/live/0001_1.m3u8
 
 for i in `seq 1 1000`;
 do
-  url="http://110.72.73.85:808/hls/$i/index.m3u8"
+  url="http://182.151.211.171:808/hls/$i/index.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $i,$url >> category/guangxi/guiguang_guiping.txt
+      echo $i,$url >> category/sichuan/chengdu_liantong.txt
   fi
 done
 
@@ -377,14 +377,14 @@ do
   fi
 done
 
-for id in `seq 1 5000`;
+for id in `seq 25000 29000`;
 do
   tvid=`printf %05d $id`
-  url="http://39.135.89.207:6610/yinhe/2/ch000000909900000$tvid/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=OTT2900120220228081915002522"
-  result=`curl  $url 2>/dev/null|grep "\.ts"|wc -l`
+  url="http://39.136.48.21:8089/PLTV/88888888/224/32212$tvid/index.m3u8"
+  result=`curl  $url 2>/dev/null|grep "\.m3u8"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/shanxir/shangluo.txt
+      echo $id,$url >> category/shandong/mobile.txt
   fi
 done
 3221225717
@@ -546,11 +546,11 @@ http://110.72.54.126:9901/tsfile/live/0001_1.m3u8
 http://58.213.48.108:9901/tsfile/live/0001_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://122.140.23.181:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://122.140.21.75:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/jilin/su.txt
+      echo $id,$url >> category/jilin/songyuan.txt
   fi
 done      
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8
@@ -593,11 +593,11 @@ for host in 42 49 52 54 59 61 76 84 97 98 120 131 135 141 149 153 166 180 204 21
 do
 for id in  `seq 1 200` `seq 1000 1299` ;
 do
-  url=http://58.245.235.51:9901/tsfile/live/`printf %04d $id`_1.m3u8
+  url=http://119.4.231.47:9901/tsfile/live/`printf %04d $id`_1.m3u8
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/jilin/sunyuan_changning_.txt
+      echo $id,$url >> category/sichuan/chengdu_qingyang.txt
   fi
 done
 dones
@@ -710,13 +710,13 @@ do
 done
 
 
-for id in `seq 1 1000`;
+for id in `seq 25000 29999`;
 do
   tvid=`printf %05d $id`
-  url="http://124.232.233.15:6610/000000001001/2022000$tvid/index.m3u8?IASHttpSessionId=OTT3832520220225094833000708&m3u8_level=2"
-  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "\.m3u8"| wc -l`
+  url="http://183.207.248.71:80/PLTV/4/224/32212$tvid/index.m3u8"
+  result=`curl --connect-timeout 1  $url 2>/dev/null|grep  "\.ts"| wc -l`
   echo $url, $result
   if [ "$result" -gt 0 ]; then
-      echo $id,"$url" >> category/hunan/changsha_dianxin.txt
+      echo $id,"$url" >> category/jiangsu/nanjing_mobile.txt
   fi
 done

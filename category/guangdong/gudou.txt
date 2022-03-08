@@ -1,8 +1,12 @@
+http://gslb.gcable.cn:8070/live/xingkong_1500.m3u8?t=1646732127&u=&p=&pid=&cid=&d=&sid=&r=&e=&nc=&a=&v=
+
+
 https://yamcode.com/raw/chw-88243
 求索： http://wtv2.hodtv.tv:80/gudou9.php?id=QSDWHD_7000
  http://astream.apk1088.com:18888/channel.php\?id\=DOXjuchangHD_7000
 http://astream.apk1088.com:18888/channel.php
 http://103.140.229.13/gudou.php?id=1350_4500
+http://103.45.180.232:80/gudou5.php?id=gdsportsHD_7000
 梅州1高清-①,http://teyonds.weetai.cn/cdn/iptv/tyzb01.php?id=meizhou1HD
 梅州1高清-②,http://astream.apk1088.com:18888/channel.php?id=meizhou1HD
 梅州1高清-③,http://103.140.229.13/gudou.php?id=meizhou1HD

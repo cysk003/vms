@@ -6,8 +6,14 @@
 济南影视,http://150.138.8.143:80/00/SNM/CHANNEL00000064/index.m3u8
 成都影视,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/CDTV-4_4000.m3u8
 
+山东生活,http://58.58.111.222:808/hls/60/index.m3u8
 
+山东体育,http://58.58.111.222:808/hls/62/index.m3u8
+山东新闻,http://58.58.111.222:808/hls/63/index.m3u8
 
+山东农科,http://58.58.111.222:808/hls/64/index.m3u8
+http://122.4.199.164:9151/hls/4/index.m3u8
+淄博新闻,http://58.58.111.222:808/hls/69/index.m3u8
 CCTV-1 高清,http://222.175.202.90:9901/tsfile/live/0001_1.m3u8
 CCTV-2 高清,http://222.175.202.90:9901/tsfile/live/0002_1.m3u8
 CCTV-3,http://222.175.202.90:9901/tsfile/live/0003_1.m3u8

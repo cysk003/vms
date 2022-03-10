@@ -1,0 +1,2 @@
+http://juyunlive.juyun.tv/live/24950198.m3u8
+./scan --city 湖州 --provider 电信 --fmt http://%s:%d/tsfile/live/1000_1.m3u8 --check404Body

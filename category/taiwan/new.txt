@@ -765,3 +765,5 @@ http://51.222.193.143:10010/4,HTTP/1.0 200 OK
 http://51.222.193.143:10010/5,HTTP/1.0 200 OK
 http://51.222.193.143:10010/6,HTTP/1.0 200 OK
 http://51.222.193.143:10010/7,HTTP/1.0 200 OK
+https://vd3.bdstatic.com/mda-navdux64k4vi8sxa/sc/cae_h264_nowatermark_delogo/1643772645901094182/mda-navdux64k4vi8sxa.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1644502611-0-0-667f91b816b5788ea821dd19b1d6da9d&bcevod_channel=searchbox_feed&pd=1&pt=3&logid=2811550337&vid=6376427950964538651&abtest=17451_1-3000211_1&klogid=2811550337
+https://vd3.bdstatic.com/mda-navdux64k4vi8sxa/sc/cae_h264_nowatermark_delogo/1643772645901094182/mda-navdux64k4vi8sxa.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1644502759-0-0-31e9af2d6900564990411f7962b8570a&bcevod_channel=searchbox_feed&pd=1&pt=3&logid=2959689600&vid=6376427950964538651&abtest=17451_1-3000211_1&klogid=2959689600

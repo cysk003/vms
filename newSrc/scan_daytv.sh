@@ -88,13 +88,15 @@ http://49.82.162.178:808/hls/1/index.m3u8
 8089
 for i in `seq 1 1000`;
 do
-  url="http://121.56.36.207:808/hls/$i/index.m3u8"
+  url="http://119.135.1.116:8082/hls/$i/index.m3u8"
   result=`curl --connect-timeout 5 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $i,$url >> category/neimeng/baotou.txt
+      echo $i,$url >> category/guangdong/chenjiang_leizhou.txt
   fi
 done
+
+http://51.79.193.108:8080/hls/ph00455/index.m3u8
 
 183.196.25.171
 

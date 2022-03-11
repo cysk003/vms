@@ -156,6 +156,5 @@ http://qwas.eatuo.com:9901/tsfile/live/1081_1.m3u8
 
 凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-翡翠台HD,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8

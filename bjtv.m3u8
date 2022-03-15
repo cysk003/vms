@@ -35,21 +35,15 @@ http://192.168.50.1:8288/rtp/225.1.8.189:8002
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV17 农业农村 高清
 http://192.168.50.1:8288/rtp/225.1.8.17:8144
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"  group-title="央视",CCTV4K 超高清
-http://ye23.win/iptv/4k.cctv.php
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"  group-title="央视",CCTV4K 超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CCTV-4K
 #EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="央视",中国教育1台 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
 #EXTINF:-1  group-title="4k",北京IPTV4K
 http://192.168.50.1:8288/rtp/225.1.8.211:8002
 #EXTINF:-1  group-title="4k",4k纯享
-http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1  group-title="4k",4k纯享
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CX4K
 #EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="4k",欢笑剧场 4K
-http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="4k",欢笑剧场 4K
-http://39.134.35.213/PLTV/88888888/224/3221226203/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HXJC
 #EXTINF:-1  group-title="影视",爱上4K
 http://192.168.50.1:8288/rtp/225.1.0.101:1025
 #EXTINF:-1 tvg-id="23" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"  group-title="卫视",湖南卫视 高清
@@ -71,7 +65,7 @@ http://192.168.50.1:8288/rtp/225.1.0.119:1025
 #EXTINF:-1 tvg-id="31" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视",辽宁卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.127:1025
 #EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png"  group-title="卫视",海南卫视 高清
-http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HANWS
 #EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视",山东卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.126:1025
 #EXTINF:-1 tvg-id="34" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png"  group-title="卫视",天津卫视 高清
@@ -81,11 +75,9 @@ http://192.168.50.1:8288/rtp/225.1.1.8:8160
 #EXTINF:-1 tvg-id="36" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png"  group-title="卫视",东南卫视 高清
 http://192.168.50.1:8288/rtp/225.1.8.79:8148
 #EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 高清
-http://39.134.35.214/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png"  group-title="卫视",甘肃卫视 高清
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=GSWS
 #EXTINF:-1 tvg-id="38" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="卫视",广西卫视 高清
-http://live.scuec.edu.cn:8080/hls/gxhd.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=GXWS
 #EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png"  group-title="卫视",贵州卫视 高清
 http://192.168.50.1:8288/rtp/225.1.8.77:8076
 #EXTINF:-1 tvg-id="40" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"  group-title="卫视",河北卫视 高清
@@ -99,37 +91,29 @@ http://192.168.50.1:8288/rtp/225.1.0.123:1025
 #EXTINF:-1 tvg-id="44" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png"  group-title="卫视",江西卫视 高清
 http://192.168.50.1:8288/rtp/225.1.1.9:8164
 #EXTINF:-1 tvg-id="47" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png"  group-title="卫视",宁夏卫视 高清
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226710/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png"  group-title="卫视",宁夏卫视
-http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
+http://192.168.50.223:8880/iptv.m3u8?id=NXWS
 #EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"  group-title="卫视",山西卫视 HD
 http://192.168.50.223:8880/iptv.m3u8?id=SXWS
 #EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png"  group-title="卫视",陕西卫视
-http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225498/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SXRWS
 #EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  group-title="卫视",四川卫视
 http://192.168.50.223:8880/iptv.m3u8?id=SCWS
 #EXTINF:-1 tvg-id="51" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"  group-title="卫视",新疆卫视
 http://192.168.50.223:8880/iptv.m3u8?id=XJWS
-#EXTINF:-1  group-title="卫视",海峡卫视 8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1  group-title="卫视",海峡卫视
-http://ye23.win/iptv/fjtv.php?id=3
+http://192.168.50.223:8880/iptv.m3u8?id=HXWS
 #EXTINF:-1 tvg-id="45" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png"  group-title="卫视",吉林卫视 8M1080
 http://192.168.50.223:8880/iptv.m3u8?id=JLWS
 #EXTINF:-1 tvg-id="46" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png"  group-title="卫视",内蒙古卫视
-http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=NMWS
 #EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png"  group-title="卫视",青海卫视
-http://stream.qhbtv.com/qhws/playlist.m3u8?
-#EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png"  group-title="卫视",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=QHWS
 #EXTINF:-1 tvg-id="55" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png"  group-title="卫视",兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=BTWS
 #EXTINF:-1 tvg-id="52" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png"  group-title="卫视",云南卫视
-http://coocaa-ynbit-ws.ifengli.com:2381/live/ynws-hd/1.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"  group-title="卫视",山西卫视
-http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133
+http://192.168.50.223:8880/iptv.m3u8?id=YNWS
 #EXTINF:-1 tvg-id="62" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png"  group-title="卫视",三沙卫视
-http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SSWS
 #EXTINF:-1 tvg-id="140" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"  group-title="北京",BTV科教
 http://192.168.50.1:8288/rtp/225.1.1.1:8000
 #EXTINF:-1 tvg-id="142" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png"  group-title="北京",BTV财经
@@ -167,37 +151,29 @@ http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1  group-title="少儿",北京IPTV淘BABY
 http://192.168.50.1:8288/rtp/225.1.8.36:8002
 #EXTINF:-1  group-title="少儿",浙江少儿台
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=ZJSE
 #EXTINF:-1  group-title="少儿",福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=JFZSE
 #EXTINF:-1  group-title="少儿",甘肃少儿 8M1080
-http://39.134.35.200/PLTV/88888888/224/3221226289/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=GSSE
 #EXTINF:-1  group-title="少儿",河北少儿 高清
-http://106.115.24.7:9901/tsfile/live/1008_1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HEBSE
 #EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿",湖南金鹰卡通 超清
-http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=JYKT
 #EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="少儿",优漫卡通
-http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="少儿",优漫卡通 高清
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=YMKT
 #EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿",嘉佳卡通
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
-#EXTINF:-1 tvg-id="223" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"  group-title="少儿",嘉佳卡通
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
+http://192.168.50.223:8880/iptv.m3u8?id=JJKT
 #EXTINF:-1 tvg-id="146" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="少儿",哈哈炫动
-http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HHXD
 #EXTINF:-1 tvg-id="70098" tvg-name="NewTV黑莓动画" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new18.png"  group-title="少儿",黑莓动画 HD
-http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HMDH
 #EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 高清
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
-http://39.134.35.209/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-id="70192" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_cartoon_cn.png"  group-title="少儿",动漫秀场 SiTV
-http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1  group-title="科教",浙江教育台
-http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=DMXC
+#EXTINF:-1  group-title="科教",浙江科教影视
+http://192.168.50.223:8880/iptv.m3u8?id=ZJJKYS
 #EXTINF:-1 tvg-id="70092" tvg-name="NewTV精品记录" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new12.png"  group-title="科教",精品记录 NewTV
-http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=JPJL
 #EXTINF:-1  group-title="其他",风尚生活
 http://192.168.50.1:8288/rtp/225.1.8.103:8002
 #EXTINF:-1 tvg-id="225" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"  group-title="地方",金鹰纪实
@@ -208,106 +184,80 @@ http://192.168.50.1:8288/rtp/225.1.0.96:1025
 http://192.168.50.1:8288/rtp/225.1.8.97:8002
 #EXTINF:-1  group-title="影视",幸福剧场
 http://192.168.50.1:8288/rtp/225.1.8.98:8002
-#EXTINF:-1  group-title="影视",国外影院
-http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
-#EXTINF:-1  group-title="影视",国内影院
-http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168.m3u8
-#EXTINF:-1  group-title="影视",恐怖影院
-http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415.m3u8
-#EXTINF:-1  group-title="影视",经典剧场
-http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_616645877.m3u8
 #EXTINF:-1  group-title="影视",经典影视
 http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1 tvg-id="70090" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new10.png"  group-title="影视",NewTV军旅剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="70087" tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new8.png"  group-title="影视",NewTV家庭剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="70088" tvg-name="NewTV爱情喜剧" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new9.png"  group-title="影视",NewTV爱情喜剧
-http://39.135.138.60:18890/PLTV/88888910/224/3221225748/index.m3u8
-#EXTINF:-1 tvg-id="70089" tvg-name="NewTV古装剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/guzhuangjuchang.png"  group-title="影视",NewTV古装剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-id="70084" tvg-name="NewTV精品大剧" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new5.png"  group-title="影视",NewTV精品大剧
-http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="70081" tvg-name="NewTV明星大片" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new2.png"  group-title="影视",NewTV明星大片
-http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="70080" tvg-name="NewTV动作电影" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new1.png"  group-title="影视",NewTV动作电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="70090" tvg-name="NewTV军旅剧场" group-title="影视",NewTV军旅剧场
+http://192.168.50.223:8880/iptv.m3u8?id=JLJC
+#EXTINF:-1 tvg-id="70087" tvg-name="NewTV家庭剧场"  group-title="影视",NewTV家庭剧场
+http://192.168.50.223:8880/iptv.m3u8?id=JTJC
+#EXTINF:-1 tvg-id="70088" tvg-name="NewTV爱情喜剧"   group-title="影视",NewTV爱情喜剧
+http://192.168.50.223:8880/iptv.m3u8?id=AQXJ
+#EXTINF:-1 tvg-id="70089" tvg-name="NewTV古装剧场"   group-title="影视",NewTV古装剧场
+http://192.168.50.223:8880/iptv.m3u8?id=GZJC
+#EXTINF:-1 tvg-id="70084" tvg-name="NewTV精品大剧"   group-title="影视",NewTV精品大剧
+http://192.168.50.223:8880/iptv.m3u8?id=JPDJ
+#EXTINF:-1 tvg-id="70081" tvg-name="NewTV明星大片" group-title="影视",NewTV明星大片
+http://192.168.50.223:8880/iptv.m3u8?id=MXDP
+#EXTINF:-1 tvg-id="70080" tvg-name="NewTV动作电影" group-title="影视",NewTV动作电影
+http://192.168.50.223:8880/iptv.m3u8?id=DZDY
 #EXTINF:-1  group-title="影视",NEWTV中国功夫
-http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=ZGGF
 #EXTINF:-1  group-title="影视",NewTV超级电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1  group-title="影视",超级电影
-http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CJDY
 #EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="影视",欢笑剧场
-http://39.134.35.213/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png"  group-title="影视",影视
-黑莓电影HD
+http://192.168.50.223:8880/iptv.m3u8?id=HXJC
+#EXTINF:-1 tvg-id="69" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png"  group-title="影视",影视 黑莓电影HD
+http://192.168.50.223:8880/iptv.m3u8?id=HMDY
 #EXTINF:-1 tvg-id="70091" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new11.png"  group-title="影视",惊悚悬疑 NewTV
-http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=JSXY
 #EXTINF:-1  group-title="影视",欢乐剧场 NewTV
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HLJC
 #EXTINF:-1  group-title="影视",东北热剧 NewTV
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1  group-title="影视",济阳影视
-http://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
-#EXTINF:-1  group-title="影视",河北银河
-http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+http://192.168.50.223:8880/iptv.m3u8?id=DBRJ
 #EXTINF:-1  group-title="影视",甘肃文化影视 8M1080
-http://39.134.35.204/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:-1  group-title="影视",SiTV欢笑剧场 4M1080
-http://39.134.35.213/PLTV/88888888/224/3221226203/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=GSWHYS
 #EXTINF:-1  group-title="影视",SiTV都市剧场 4M1080
-http://39.134.35.206/PLTV/88888888/224/3221226176/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=DSJC
 #EXTINF:-1 tvg-id="161" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png"  group-title="影视",东方影视
-http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=DFYS
 #EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"  group-title="影视",CHC高清电影 HD
-http://39.134.18.83/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CHCGQ
 #EXTINF:-1 tvg-id="81" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"  group-title="影视",CHC家庭电影
-http://39.134.18.83/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CHCJT
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"  group-title="影视",CHC动作电影
-http://39.134.18.83/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CHCDZ
 #EXTINF:-1 tvg-id="70059" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/zjkjys.png"  group-title="影视",浙江教科影视 1080
-http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=ZJKJYS
 #EXTINF:-1  group-title="影视",福州影视
-http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=FJFZYS
 #EXTINF:-1 tvg-id="70246" tvg-name="广州影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/guangzhou-tv-cn.png"  group-title="影视",广州影视 4M1080
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+http://192.168.50.223:8880/iptv.m3u8?id=GDGZYS
 #EXTINF:-1 tvg-id="70044" tvg-name="西安影视" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/xatv4.jpg"  group-title="影视",西安影视
-http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SXRXAYS
 #EXTINF:-1  group-title="影视",湖南电影 超清
-http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=HNDY
 #EXTINF:-1  group-title="影视",湖南电视剧 超清
-http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="影视",上海影视
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HNDSJ
+#EXTINF:-1  group-title="影视",东方影视
+http://192.168.50.223:8880/iptv.m3u8?id=DFYS
 #EXTINF:-1  group-title="影视",河南电视剧
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HENDSJ
 #EXTINF:-1  group-title="影视",河北影视 高清
-http://106.115.24.7:9901/tsfile/live/1007_1.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HEBYS
 #EXTINF:-1  group-title="影视",杭州影视
-http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
-#EXTINF:-1  group-title="影视",湖南电影 高清
-http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="影视",湖南电影 高清
-http://124.232.233.15:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="影视",湖南电视剧 高清
-http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1  group-title="影视",湖南电视剧 高清
-http://124.232.233.15:6610/000000001001/201500000236/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=ZJHZYS
 #EXTINF:-1  group-title="影视",IPTV4K 16M2160
-http://124.232.233.15:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=IPTV-4K
 #EXTINF:-1  group-title="综艺",幸福娱乐
 http://192.168.50.1:8288/rtp/225.1.8.99:8002
-#EXTINF:-1 tvg-id="70082" tvg-name="NewTV金牌综艺" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new3.png"  group-title="综艺",金牌综艺 NewTV
-http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="70082" tvg-name="NewTV金牌综艺" group-title="综艺",金牌综艺 NewTV
+http://192.168.50.223:8880/iptv.m3u8?id=JPZY
 #EXTINF:-1  group-title="综艺",超级综艺
-http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CJZY
 #EXTINF:-1  group-title="综艺",炫舞未来 NewTV
-http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1  group-title="综艺",超级综艺 NewTV
-http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=XWWL
 #EXTINF:-1  group-title="综艺",湖南娱乐 超清
-http://124.232.233.15:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://192.168.50.223:8880/iptv.m3u8?id=HNYL
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="央视",CGTN 美国
 http://192.168.50.1:8288/rtp/225.1.8.176:4222
 #EXTINF:-1 tvg-id="447" tvg-name="CGTN纪录(英)" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png"  group-title="央视",CGTN纪录
@@ -328,10 +278,6 @@ http://192.168.50.1:8288/rtp/225.1.8.174:4222
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png"  group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-id="246" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png"  group-title="香港",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=6d175258de742132e85e9405-157881825529454&wsIPSercert=82db4cc65e24e5963f2c368b180dc0b3&wsMonitor=0&time=1578818276184
-#EXTINF:-1 tvg-id="246" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png"  group-title="香港",香港卫视
-http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1  group-title="香港",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1  group-title="体育",中国足协杯
@@ -339,17 +285,17 @@ http://192.168.50.1:8288/rtp/225.1.8.40:8184
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"  group-title="体育",体育赛事
 http://192.168.50.1:8288/rtp/225.1.8.81:8176
 #EXTINF:-1 tvg-id="138" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"  group-title="体育",北京冬奥纪实
-http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=DAJS
 #EXTINF:-1  group-title="体育",超级体育 4M1080
-http://39.134.134.89/0000000000001001/1/index.m3u8?Contentid=1000000001000009204&livemode=1&stbId=2&channel-id=ystenlive
+http://192.168.50.223:8880/iptv.m3u8?id=CJTY
 #EXTINF:-1  group-title="体育",武搏世界 NewTV
-http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="70083" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new4.png"  group-title="体育",精品体育 NewTV
-http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=WBSJ
+#EXTINF:-1 tvg-id="70083" tvg-name="NewTV精品体育" group-title="体育",精品体育 NewTV
+http://192.168.50.223:8880/iptv.m3u8?id=JPTY
 #EXTINF:-1  group-title="体育",超级体育 NewTV
-http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CJTY
 #EXTINF:-1  group-title="地方",西安新闻综合
-http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SXRXAXWZH
 #EXTINF:-1  group-title="地方",浙江6套
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 #EXTINF:-1  group-title="地方",浙江公共频道
@@ -367,23 +313,21 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1  group-title="地方",浙江影视台
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1  group-title="地方",上海外语 4M1080
-http://39.134.35.199/PLTV/88888888/224/3221226201/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SHWY
 #EXTINF:-1  group-title="地方",上海第一财经 4M1080
-http://39.134.35.215/PLTV/88888888/224/3221226172/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=SHDYCJ
 #EXTINF:-1  group-title="地方",福州综合
-http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=FJFZXW
 #EXTINF:-1  group-title="地方",福建乡村振兴公共 8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+http://192.168.50.223:8880/iptv.m3u8?id=FJGG
 #EXTINF:-1  group-title="地方",福建体育 8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+http://192.168.50.223:8880/iptv.m3u8?id=FJTY
 #EXTINF:-1  group-title="地方",福建综合 8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
+http://192.168.50.223:8880/iptv.m3u8?id=FJZH
 #EXTINF:-1  group-title="地方",福建新闻 8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+http://192.168.50.223:8880/iptv.m3u8?id=FJXW
 #EXTINF:-1  group-title="地方",福州生活
-http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1  group-title="地方",甘肃公共应急 8M1080
-http://39.134.35.210/PLTV/88888888/224/3221226250/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=FJFZSH
 #EXTINF:-1  group-title="地方",河北经济 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HEBJJ
 #EXTINF:-1  group-title="地方",河北都市 高清
@@ -401,21 +345,19 @@ http://192.168.50.223:8880/iptv.m3u8?id=HNGG
 #EXTINF:-1 tvg-id="70212" tvg-name="湖南国际频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/hunan-tv-international-cn.png"  group-title="地方",湖南国际 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HNGJ
 #EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="戏曲",梨园频道
-http://hndxrm1.8686c.com/live/lypd.m3u8
-#EXTINF:-1 tvg-id="70213" tvg-name="梨园频道" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/liyuan-tv-cn.png"  group-title="戏曲",河南梨园
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HENLY
 #EXTINF:-1  group-title="戏曲",移动戏曲FHD
-http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
-#EXTINF:-1 tvg-id="70093" tvg-name="NewTV军事评论" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new13.png"  group-title="其他",军事评论 NewTV
-http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HENYDXQ
+#EXTINF:-1 tvg-id="70093" tvg-name="NewTV军事评论" group-title="其他",军事评论 NewTV
+http://192.168.50.223:8880/iptv.m3u8?id=JSPL
 #EXTINF:-1 tvg-id="70094" tvg-name="NewTV农业致富" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/new14.png"  group-title="其他",农业致富 NewTV
-http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=NYZF
 #EXTINF:-1 tvg-id="115" tvg-name="中数快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg"  group-title="娱乐",快乐垂钓 高清
 http://192.168.50.1:8288/rtp/225.1.0.97:1025
 #EXTINF:-1 tvg-id="163" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"  group-title="其他",纪实人文 高清
 http://192.168.50.1:8288/rtp/225.1.0.129:1025
 #EXTINF:-1  group-title="其他",SiTV极速汽车 4M1080
-http://39.134.35.212/PLTV/88888888/224/3221226195/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=MAXJSQC
 #EXTINF:-1  group-title="其他",CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1  group-title="其他",CNC英文

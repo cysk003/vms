@@ -1,3 +1,22 @@
+
+#EXTINF:-1 group-title="西藏",西藏藏语
+http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="西藏",西藏藏语
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:-1 group-title="西藏",拉萨汉语综合
+https://live.lasatv.cn/lasatv-zh/zh720x576.m3u8?auth_key=1647761540-0-0-bf3056285e1d6d2d8c46ed8088b060ec
+#EXTINF:-1 group-title="西藏",拉萨汉语综合
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="西藏",拉萨藏语综合
+https://live.lasatv.cn/lasatv-zyzh/zyzh720x576.m3u8?auth_key=1647761466-0-0-71219c79c1f0953a5338484ebe4e9a78
+#EXTINF:-1 group-title="西藏",拉萨藏语综合
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="西藏",拉萨文旅频道
+https://live.lasatv.cn/lasatv-whly/whly720x576.m3u8?auth_key=1647761585-0-0-1a613f8be81d1342c6a9415d6b20f8b3
+#EXTINF:-1 group-title="西藏",拉萨文旅频道
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="西藏",察隅电视台
+http://m3u8channel.chayutv.com/nmip-media/channellive/channel105276/playlist.m3u8
 CCTV1高清[西藏移动],http://117.136.154.98/PLTV/88888888/224/3221225764/index.m3u8
 CCTV2高清[西藏移动],http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
 CCTV3HD[江西移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8

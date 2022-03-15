@@ -1,3 +1,123 @@
+#EXTINF:-1 group-title="重庆",重庆新闻
+http://dyzy.pub:8000/udp/235.254.197.199:7980
+#EXTINF:-1 group-title="重庆",重庆社会与法
+http://dyzy.pub:8000/udp/235.254.199.181:7980
+#EXTINF:-1 group-title="重庆",重庆科教
+http://dyzy.pub:8000/udp/235.254.199.188:7980
+#EXTINF:-1 group-title="重庆",重庆影视
+http://dyzy.pub:8000/udp/235.254.199.180:7980
+#EXTINF:-1 group-title="重庆",重庆文体娱乐
+http://dyzy.pub:8000/udp/235.254.199.187:7980
+#EXTINF:-1 group-title="重庆",重庆汽摩
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="重庆",重庆少儿
+http://dyzy.pub:8000/udp/235.254.199.166:7980
+#EXTINF:-1 group-title="重庆",重庆时尚
+http://dyzy.pub:8000/udp/235.254.199.182:7980
+#EXTINF:-1 group-title="重庆",重庆移动公交
+http://qxlmlive.cbg.cn:1935/app_2/ls_58.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",重庆移动公交
+http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",重庆移动机场
+http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",重庆公共农村
+http://dyzy.pub:8000/udp/235.254.199.186:7980
+#EXTINF:-1 group-title="重庆",重庆精彩导视
+http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
+#EXTINF:-1 group-title="重庆",中国交通重庆
+http://tv.lanjingfm.com/cctbn/chongqing.m3u8
+#EXTINF:-1 group-title="重庆",铜梁综合
+http://tonglianglive.cbg.cn:40123/ch1.m3u8
+#EXTINF:-1 group-title="重庆",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8
+#EXTINF:-1 group-title="重庆",铜梁文旅
+http://tonglianglive.cbg.cn:50123/ch2.m3u8
+#EXTINF:-1 group-title="重庆",铜梁文旅
+http://183.64.174.171:50123/ch2.m3u8
+#EXTINF:-1 group-title="重庆",万州综合频道
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="重庆",万州综合频道
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+#EXTINF:-1 group-title="重庆",万州综合频道
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="重庆",万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="重庆",万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 group-title="重庆",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="重庆",万州最万州
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="重庆",万州最万州
+http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
+#EXTINF:-1 group-title="重庆",万州最万州
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="重庆",梁平综合频道
+http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",璧山综合频道
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 group-title="重庆",永川综合频道
+http://qxlmlive.cbg.cn:1935/applive/yctv01/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",潼南综合频道
+http://183.230.184.51:65500/tntv1.m3u8
+#EXTINF:-1 group-title="重庆",潼南生态人文
+http://183.230.184.51:65500/tntv2.m3u8
+#EXTINF:-1 group-title="重庆",酉阳新闻综合
+http://qxlmlive.cbg.cn:1935/applive/youytv01/playlist.m3u8
+#EXTINF:-1 group-title="重庆",开州综合频道
+http://kaixianlive.cbg.cn:10345/1.m3u8
+#EXTINF:-1 group-title="重庆",开州生活频道
+http://kaixianlive.cbg.cn:10345/5.m3u8
+#EXTINF:-1 group-title="重庆",大足综合频道
+http://218.201.85.71:3170/m3u8
+#EXTINF:-1 group-title="重庆",綦江综合频道
+http://qxlmlive.cbg.cn:1935/app_2/ls_25.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",綦江综合频道
+http://113.207.29.195:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
+#EXTINF:-1 group-title="重庆",南川新闻综合
+http://nanchuanlive.cbg.cn:30000/1111.m3u8
+#EXTINF:-1 group-title="重庆",南川新闻综合
+http://nctvsp.nctv.tv:30000/1111.m3u8
+#EXTINF:-1 group-title="重庆",南川新闻综合
+http://nctvsp.nctv.tv:30000/flv1
+#EXTINF:-1 group-title="重庆",南川旅游经济
+http://nctvsp.nctv.tv:30000/flv5
+#EXTINF:-1 group-title="重庆",江津新闻综合
+http://jiangjinlive.cbg.cn:1935/ch1.m3u8
+#EXTINF:-1 group-title="重庆",江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 group-title="重庆",江津经济生活
+http://jiangjinlive.cbg.cn:1935/ch0.m3u8
+#EXTINF:-1 group-title="重庆",江津经济生活
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 group-title="重庆",江津文化旅游
+http://jiangjinlive.cbg.cn:1935/ch2.m3u8
+#EXTINF:-1 group-title="重庆",江津文化旅游
+http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 group-title="重庆",彭水新闻综合
+http://pengshuilive.cbg.cn/pengshui01.m3u8
+#EXTINF:-1 group-title="重庆",彭水文化旅游
+http://pengshuilive.cbg.cn/pengshui02.m3u8
+#EXTINF:-1 group-title="重庆",垫江综合频道
+http://125.62.24.185:80/1.m3u8
+#EXTINF:-1 group-title="重庆",武隆综合频道
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
+#EXTINF:-1 group-title="重庆",万盛新闻综合
+http://125.62.24.251/hls1.m3u8
+#EXTINF:-1 group-title="重庆",荣昌综合频道
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 group-title="重庆",北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8
+#EXTINF:-1 group-title="重庆",北碚综合频道
+http://222.178.181.121:12034/ts1
+#EXTINF:-1 group-title="重庆",巫山综合频道
+http://qxlmlive.cbg.cn:1935/applive/wspd001/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",巫山神女频道
+http://qxlmlive.cbg.cn:1935/applive/wspd002/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",涪陵电视台
+http://livefuling.chinamcache.com/liveful/fldszb001.m3u8
+#EXTINF:-1 group-title="重庆",涪陵电视台
+http://livefuling.chinamcache.com/liveful/fldszb001.flv
  http://39.134.3.73:6610/000000001666/100000000100111092/1.m3u8
 
  http://123.147.77.225:9901/tsfile/live/0001_1.m3u8

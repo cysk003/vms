@@ -1,3 +1,197 @@
+#EXTINF:-1 group-title="湖南",金鹰纪实HD
+http://39.130.202.77:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+#EXTINF:-1 group-title="湖南",金鹰纪实HD
+http://117.148.179.157/PLTV/88888888/224/3221231582/index.m3u8
+#EXTINF:-1 group-title="湖南",湖南经视
+http://111.40.196.9/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="湖南",湖南电视剧
+http://111.40.196.9/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="湖南",湖南都市
+http://124.232.231.246:6610/000000001001/201600020003/index.m3u8?A=&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="湖南",湖南都市
+http://111.40.196.9/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="湖南",湖南都市
+http://124.232.231.246:6610/000000001001/201600010003/index.m3u8?A=&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="湖南",湖南都市
+http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",茶频道
+http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226240/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="湖南",茶频道
+http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="湖南",快乐垂钓
+http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226224/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="湖南",快乐垂钓
+http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="湖南",湖南电影
+http://111.40.196.9/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="湖南",金鹰卡通
+http://124.232.233.15:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 group-title="湖南",金鹰卡通
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="湖南",湖南教育
+http://pull.hnedutv.com/live/hnedutv1206.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="湖南",湖南教育
+http://pull.hnedutv.com/live/edutv.m3u8
+#EXTINF:-1 group-title="湖南",长沙政法频道
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
+#EXTINF:-1 group-title="湖南",长沙女性频道
+https://hls.quklive.com/live/1551337800259710/index.m3u8
+#EXTINF:-1 group-title="湖南",长沙影视频道
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+#EXTINF:-1 group-title="湖南",长沙磁浮电视
+https://hls.quklive.com/live/1551751256158751/index.m3u8
+#EXTINF:-1 group-title="湖南",长沙地铁电视
+https://hls.quklive.com/live/1551751084371710/index.m3u8
+#EXTINF:-1 group-title="湖南",长沙移动电视
+https://hls.quklive.com/live/1551750947083772/index.m3u8
+#EXTINF:-1 group-title="湖南",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南",邵阳新闻综合
+http://live2.sytv.net.cn/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="湖南",邵阳公共频道
+http://live2.sytv.net.cn/ggpd/playlist.m3u8
+#EXTINF:-1 group-title="湖南",娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="湖南",娄底综合频道
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="湖南",益阳新闻综合
+http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd210130.m3u8
+#EXTINF:-1 group-title="湖南",衡阳新闻综合
+http://xwzhpdbl.hydst.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="湖南",衡阳新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_ImycEv.m3u8
+#EXTINF:-1 group-title="湖南",衡阳新闻综合
+http://59.51.68.40:1936/live/2.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",衡阳新闻综合
+http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",衡阳公共频道
+http://ggpdbl.hydst.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="湖南",衡阳公共频道
+http://59.51.68.40:1936/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",张家界新闻综合
+http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
+#EXTINF:-1 group-title="湖南",张家界公共频道
+http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
+#EXTINF:-1 group-title="湖南",宁乡综合频道
+http://b.ds.ch.dingtoo.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="湖南",保靖时政频道
+http://liveplay.rednet.cn/live/baojing_hgs24f.m3u8
+#EXTINF:-1 group-title="湖南",凤凰时政频道
+http://liveplay.rednet.cn/live/fenghuang_tv_cq4jaka.m3u8
+#EXTINF:-1 group-title="湖南",古丈综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_X5MapL.m3u8
+#EXTINF:-1 group-title="湖南",花垣综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_PwgGFC.m3u8
+#EXTINF:-1 group-title="湖南",吉首综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_w7IUFw.m3u8
+#EXTINF:-1 group-title="湖南",泸溪电视台
+http://liveplay.rednet.cn/live/luxi_fe0eyf.m3u8
+#EXTINF:-1 group-title="湖南",永顺综合频道
+http://liveplay.rednet.cn/live/yongshun_tv_55433f.m3u8
+#EXTINF:-1 group-title="湖南",韶山综合频道
+http://liveplay.rednet.cn/live/shaoshan_broadcast.m3u8
+#EXTINF:-1 group-title="湖南",湘潭县综合
+http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8
+#EXTINF:-1 group-title="湖南",华容新闻综合
+http://liveplay.rednet.cn/live/huarong_60187.m3u8
+#EXTINF:-1 group-title="湖南",平江新闻频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_MEAQRB.m3u8
+#EXTINF:-1 group-title="湖南",屈原综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_f2E1iT.m3u8
+#EXTINF:-1 group-title="湖南",云溪新闻综合
+http://liveplay.rednet.cn/live/yunxi_tv.m3u8
+#EXTINF:-1 group-title="湖南",桂东综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_V42Wbo.m3u8
+#EXTINF:-1 group-title="湖南",桂阳新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_IOdZLQ.m3u8
+#EXTINF:-1 group-title="湖南",嘉禾新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_QyjPDY.m3u8
+#EXTINF:-1 group-title="湖南",汝城综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_j69HSm.m3u8
+#EXTINF:-1 group-title="湖南",永兴综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_xAptJZ.m3u8
+#EXTINF:-1 group-title="湖南",宜章新闻综合
+http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",宜章新闻综合
+http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="湖南",资兴综合频道
+http://liveplay.rednet.cn/live/zixin_tv_00676b.m3u8
+#EXTINF:-1 group-title="湖南",茶陵新闻综合
+http://liveplay.rednet.cn/live/chaling_tv.m3u8
+#EXTINF:-1 group-title="湖南",醴陵综合频道
+http://liveplay.rednet.cn/live/21084_145ba4ee9f0511e992905cb9018cf0d4.m3u8
+#EXTINF:-1 group-title="湖南",常宁综合频道
+http://59.51.68.40:1936/live/cntv/playlist.m3u8
+#EXTINF:-1 group-title="湖南",衡东综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_FuchqK.m3u8
+#EXTINF:-1 group-title="湖南",衡山综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_PwD7ie.m3u8
+#EXTINF:-1 group-title="湖南",衡山综合频道
+http://hnhs.chinashadt.com:1936/hnhs/tv8.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",衡阳县时政综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_dJ9TLh.m3u8
+#EXTINF:-1 group-title="湖南",耒阳时政综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_Kstz52.m3u8
+#EXTINF:-1 group-title="湖南",南岳综合频道
+http://liveplay.rednet.cn/live/nanyue_03f74.m3u8
+#EXTINF:-1 group-title="湖南",津市新闻频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_ELbxiN.m3u8
+#EXTINF:-1 group-title="湖南",洞口综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_Xnt8TM.m3u8
+#EXTINF:-1 group-title="湖南",邵东综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_UxxQYt.m3u8
+#EXTINF:-1 group-title="湖南",邵东综合频道
+http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
+#EXTINF:-1 group-title="湖南",绥宁综合频道
+http://bl.suining.dingtoo.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="湖南",新宁新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_y9Eag0.m3u8
+#EXTINF:-1 group-title="湖南",新邵电视台
+http://play-dgv-xhncloud.voc.com.cn/live/5243_XqvSiE.m3u8
+#EXTINF:-1 group-title="湖南",桃江综合频道
+https://p2.weizan.cn/2717/542692950756092947/live.m3u8
+#EXTINF:-1 group-title="湖南",沅江电视台
+http://play-dgv-xhncloud.voc.com.cn/live/5243_UQfF7l.m3u8
+#EXTINF:-1 group-title="湖南",东安综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_Twis7r.m3u8
+#EXTINF:-1 group-title="湖南",江华综合
+http://liveplay.rednet.cn/live/jianghua_tv_bcdee8.m3u8
+#EXTINF:-1 group-title="湖南",蓝山综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_tOFNvx.m3u8
+#EXTINF:-1 group-title="湖南",祁阳综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_PREfDG.m3u8
+#EXTINF:-1 group-title="湖南",双牌综合
+http://liveplay.rednet.cn/live/shuangpai_26cf9e.m3u8
+#EXTINF:-1 group-title="湖南",新田电视台
+https://hlsv2.quklive.com/live/1625110020460086/index.m3u8
+#EXTINF:-1 group-title="湖南",双峰电视一套
+http://play-dgv-xhncloud.voc.com.cn/live/5243_8jKeTt.m3u8
+#EXTINF:-1 group-title="湖南",双峰电视一套
+http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="湖南",新化新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_nRI1mM.m3u8
+#EXTINF:-1 group-title="湖南",冷水江新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_8NbUnK.m3u8
+#EXTINF:-1 group-title="湖南",桑植新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8
+#EXTINF:-1 group-title="湖南",洪江市时政
+http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8
+#EXTINF:-1 group-title="湖南",靖州综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_9Fp0NK.m3u8
+#EXTINF:-1 group-title="湖南",麻阳综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_BNm7K4.m3u8
+#EXTINF:-1 group-title="湖南",通道时政
+http://live.tongdaotv.com:8087/live/tdtv.m3u8
+#EXTINF:-1 group-title="湖南",新晃时政
+http://play-dgv-xhncloud.voc.com.cn/live/5243_lB3BD0.m3u8
+#EXTINF:-1 group-title="湖南",溆浦时政
+http://liveplay.rednet.cn/live/xupu_tv_fego93.m3u8
+#EXTINF:-1 group-title="湖南",中方综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_d2uN5m.m3u8
+#EXTINF:-1 group-title="湖南",芷江综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_bP1bPy.m3u8
 湖南国际,http://124.232.233.15:6610/000000001001/201600020001/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&ztecid=201500000245&ispcode=3
 湖南经视,http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&ztecid=201500000245&ispcode=3
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&ztecid=201500000245&ispcode=3

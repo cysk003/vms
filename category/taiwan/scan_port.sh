@@ -5,7 +5,7 @@ http://59.125.101.188:80
 http://59.125.122.90:80
 http://59.125.120.183:80
 http://59.125.123.124:80
-url=59.125.101.187
+url=211.23.114.106
 for port in `seq 8500 8800`;
 do
   result2=`curl -m1 --connect-timeout 2 $url:$port/http/116.50.42.19:8081/hls/71/813/ch43http/live.m3u8 2>/dev/null |grep EXTM3U| wc -l`;

@@ -1,3 +1,67 @@
+#EXTINF:-1 group-title="湖北",中国交通湖北
+http://tv.lanjingfm.com/cctbn/hubei.m3u8
+#EXTINF:-1 group-title="湖北",武汉电视剧
+http://113.57.109.37:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="湖北",武汉文体频道
+http://113.57.109.37:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="湖北",荆州新闻
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5
+#EXTINF:-1 group-title="湖北",荆州垄上
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1672502399-0-0-a9eb4b69fedb8e6d352f38af4867984f
+#EXTINF:-1 group-title="湖北",荆州公共
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1672502399-0-0-dd8f147fdd4d8fa5cf320242c32b4ecd
+#EXTINF:-1 group-title="湖北",宜昌综合
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
+#EXTINF:-1 group-title="湖北",宜昌旅游生活
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
+#EXTINF:-1 group-title="湖北",宜昌公共
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanggg
+#EXTINF:-1 group-title="湖北",十堰新闻
+http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
+#EXTINF:-1 group-title="湖北",十堰公共
+http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+#EXTINF:-1 group-title="湖北",十堰经济旅游
+http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+#EXTINF:-1 group-title="湖北",荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="湖北",荆门教育频道
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="湖北",荆门公共频道
+http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 group-title="湖北",仙桃新闻综合
+http://221.233.242.239:280/live/71/playlist.m3u8
+#EXTINF:-1 group-title="湖北",仙桃生活文体
+http://221.233.242.239:280/live/72/playlist.m3u8
+#EXTINF:-1 group-title="湖北",云梦综合频道
+http://ymtvplay.gdnewmedia.cc/live/ymzh.m3u8
+#EXTINF:-1 group-title="湖北",云梦党建农业
+http://ymtvplay.gdnewmedia.cc/live/ymdj.m3u8
+#EXTINF:-1 group-title="湖北",麻城综合
+http://119.36.30.199:8888/mctv1.m3u8
+#EXTINF:-1 group-title="湖北",洪湖新闻频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1672502399-0-0-b944c13c0dc5551ccf445dedb5d2027b
+#EXTINF:-1 group-title="湖北",洪湖生活频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=1672502399-0-0-69ddd1da2207155680ab702668a87438
+#EXTINF:-1 group-title="湖北",石首综合
+http://sstvplay.ssgdlive.com/live/sszh.m3u8
+#EXTINF:-1 group-title="湖北",石首影视
+http://sstvplay.ssgdlive.com/live/sszh2.m3u8
+#EXTINF:-1 group-title="湖北",崇阳新闻综合
+http://www.cyxw.cn:10500/hls/live.m3u8
+#EXTINF:-1 group-title="湖北",保康新闻综合
+http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8
+#EXTINF:-1 group-title="湖北",黄陂新闻频道
+http://live.hptv.com.cn:10080/live/cctv13.m3u8
+#EXTINF:-1 group-title="湖北",黄陂生活频道
+http://live.hptv.com.cn:10080/live/cctv9.m3u8
+#EXTINF:-1 group-title="湖北",江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="湖北",江夏经济生活
+http://59.175.226.142:280/gb28181/jjsh.m3u8
+#EXTINF:-1 group-title="湖北",郧阳新闻综合
+http://58.19.198.159:2021/hls1.m3u8
+#EXTINF:-1 group-title="湖北",丹江口生活
+https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
 湖北综合,http://116.211.156.28/live.local18.ctlcdn.com/00000110240226_1/encoder/0/playlist.m3u8
 湖北经视,http://116.211.156.28/live.local18.ctlcdn.com/00000110240227_1/encoder/0/playlist.m3u8
 湖北公共新闻,http://116.211.156.28/live.local18.ctlcdn.com/00000110240229_1/encoder/0/playlist.m3u8

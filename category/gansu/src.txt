@@ -1,4 +1,203 @@
-
+#EXTINF:-1 group-title="甘肃",甘肃经济频道
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
+#EXTINF:-1 group-title="甘肃",甘肃都市频道
+https://hls.gstv.com.cn/49048r/l54391.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
+#EXTINF:-1 group-title="甘肃",甘肃少儿频道
+https://hls.gstv.com.cn/49048r/922k96.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
+#EXTINF:-1 group-title="甘肃",甘肃公共应急
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
+#EXTINF:-1 group-title="甘肃",甘肃文化影视
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
+#EXTINF:-1 group-title="甘肃",甘肃移动电视
+https://hls.gstv.com.cn/49048r/y72q36.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
+#EXTINF:-1 group-title="甘肃",中国交通甘肃
+http://tv.lanjingfm.com/cctbn/gansu.m3u8
+#EXTINF:-1 group-title="甘肃",兰州新闻综合
+http://39.134.32.102:6610/270000001111/1110000328/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",兰州文旅频道
+http://39.134.32.102:6610/270000001111/1110000330/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",兰州生活经济
+http://39.134.32.102:6610/270000001111/1110000329/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",白银综合频道
+http://live.bygd.cn/byzh/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",白银公共频道
+http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",甘南综合频道
+http://39.134.32.102:6610/270000001111/1110000195/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",庆阳综合频道
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",庆阳公共频道
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",平凉新闻综合
+http://39.134.32.102:6610/270000001111/1110000021/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",平凉公共频道
+http://39.134.32.102:6610/270000001111/1110000020/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",酒泉综合频道
+http://stream.gsjqtv.com/pd1/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",酒泉综合频道
+http://39.134.32.102:6610/270000001111/1110000001/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",酒泉公共频道
+http://stream.gsjqtv.com/pd2/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",酒泉公共频道
+http://39.134.32.102:6610/270000001111/1110000002/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",敦煌综合频道
+http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",张掖新闻综合
+http://39.134.32.102:6610/270000001111/1110000025/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",张掖新闻综合
+https://play.kankanlive.com/live/1629709727589955.m3u8
+#EXTINF:-1 group-title="甘肃",张掖公共频道
+http://39.134.32.102:6610/270000001111/1110000026/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",张掖公共频道
+https://play.kankanlive.com/live/1629710004378956.m3u8
+#EXTINF:-1 group-title="甘肃",天水新闻综合
+http://39.134.32.102:6610/270000001111/1110000185/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",天水公共频道
+http://39.134.32.102:6610/270000001111/1110000186/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",金昌综合频道
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",金昌综合频道
+http://39.134.32.102:6610/270000001111/1110000194/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",金昌公共频道
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",金昌公共频道
+http://39.134.32.102:6610/270000001111/1110000193/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",陇南新闻综合
+http://live.lnsbigdata.cn/tv/3d2e3db8eea4b52ea1f09f98fa626397.m3u8
+#EXTINF:-1 group-title="甘肃",陇南公共频道
+http://live.lnsbigdata.cn/tv/fe6b6c969c113ed894adea3c4287101a.m3u8
+#EXTINF:-1 group-title="甘肃",临夏州综合频道
+http://39.134.32.102:6610/270000001111/1110000191/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",临夏州综合频道
+http://lxzh1cdn.dingtoo.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="甘肃",临夏州公共频道
+http://39.134.32.102:6610/270000001111/1110000192/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",临夏州公共频道
+http://lxgg2cdn.dingtoo.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="甘肃",武威新闻综合
+http://39.134.32.102:6610/270000001111/1110000174/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",武威凉州频道
+http://39.134.32.102:6610/270000001111/1110000173/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",定西公共频道
+http://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 group-title="甘肃",皋兰综合频道
+http://39.134.32.102:6610/270000001111/1110000199/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",景泰综合频道
+http://39.134.32.102:6610/270000001111/1110000132/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",靖远综合频道
+http://39.134.32.102:6610/270000001111/1110000183/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",平川综合频道
+https://play.kankanlive.com/live/1621842376245934.m3u8
+#EXTINF:-1 group-title="甘肃",漳县新闻综合
+http://39.134.32.102:6610/270000001111/1110000011/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",成县综合频道
+http://39.134.32.102:6610/270000001111/1110000019/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",民乐新闻频道
+http://39.134.32.102:6610/270000001111/1110000023/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",肃北综合频道
+http://39.134.32.102:6610/270000001111/1110000017/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",临洮综合频道
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 group-title="甘肃",临洮综合频道
+http://39.134.32.102:6610/270000001111/1110000139/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",玉门综合频道
+http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",金川综合频道
+https://play.kankanlive.com/live/1625041962958919.m3u8
+#EXTINF:-1 group-title="甘肃",金川综合频道
+http://39.134.32.102:6610/270000001111/1110000181/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",永昌综合频道
+http://39.134.32.102:6610/270000001111/1110000178/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",庆城综合频道
+http://39.134.32.102:6610/270000001111/1110000156/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",古浪综合频道
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1 group-title="甘肃",陇西综合频道
+http://play.kankanlive.com/live/1641010321462941.m3u8
+#EXTINF:-1 group-title="甘肃",陇西综合频道
+http://39.134.32.102:6610/270000001111/1110000177/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",岷县综合频道
+http://play.kankanlive.com/live/1614311581479927.m3u8
+#EXTINF:-1 group-title="甘肃",岷县综合频道
+http://39.134.32.102:6610/270000001111/1110000130/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",通渭综合频道
+https://play.kankanlive.com/live/1629944062210970.m3u8
+#EXTINF:-1 group-title="甘肃",渭源新闻频道
+http://p2bj.weizan.cn/1334496652/224253674017686826/live.m3u8
+#EXTINF:-1 group-title="甘肃",迭部综合频道
+http://39.134.32.102:6610/270000001111/1110000154/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",碌曲综合频道
+http://39.134.32.102:6610/270000001111/1110000198/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",舟曲新闻综合
+https://play.kankanlive.com/live/1631185650131909.m3u8
+#EXTINF:-1 group-title="甘肃",舟曲新闻综合
+http://39.134.32.102:6610/270000001111/1110000169/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",瓜州综合频道
+http://39.134.32.102:6610/270000001111/1110000027/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",金塔综合频道
+http://39.134.32.102:6610/270000001111/1110000124/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",肃州综合频道
+http://39.134.32.102:6610/270000001111/1110000123/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",徽县综合频道
+http://39.134.32.102:6610/270000001111/1110000015/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",礼县综合频道
+https://play.kankanlive.com/live/1621416463200961.m3u8
+#EXTINF:-1 group-title="甘肃",武都综合频道
+http://39.134.32.102:6610/270000001111/1110000012/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",西和综合频道
+https://play.kankanlive.com/live/1626051451895935.m3u8
+#EXTINF:-1 group-title="甘肃",西和综合频道
+http://39.134.32.102:6610/270000001111/1110000137/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",临夏市电视台
+http://39.134.32.102:6610/270000001111/1110000190/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",临夏市电视台
+http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+#EXTINF:-1 group-title="甘肃",永靖综合频道
+http://39.134.32.102:6610/270000001111/1110000151/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",崇信综合频道
+http://39.134.32.102:6610/270000001111/1110000179/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",华亭综合频道
+http://39.134.32.102:6610/270000001111/1110000148/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",泾川综合频道
+http://39.134.32.102:6610/270000001111/1110000143/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",静宁综合频道
+http://39.134.32.102:6610/270000001111/1110000147/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",崆峒综合频道
+http://125.74.200.110:10080/hls/001/001_live.m3u8
+#EXTINF:-1 group-title="甘肃",崆峒综合频道
+http://39.134.32.102:6610/270000001111/1110000140/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",灵台综合频道
+http://39.134.32.102:6610/270000001111/1110000145/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",华池综合频道
+http://39.134.32.102:6610/270000001111/1110000158/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",合水综合频道
+http://39.134.32.102:6610/270000001111/1110000166/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",环县综合频道
+http://39.134.32.102:6610/270000001111/1110000180/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",宁县综合频道
+http://39.134.32.102:6610/270000001111/1110000157/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",西峰综合频道
+http://39.134.32.102:6610/270000001111/1110000160/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",正宁综合频道
+http://39.134.32.102:6610/270000001111/1110000184/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",镇原综合频道
+http://39.134.32.102:6610/270000001111/1110000161/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",秦安综合频道
+http://play.kankanlive.com/live/1620829433464975.m3u8
+#EXTINF:-1 group-title="甘肃",秦安综合频道
+http://39.134.32.102:6610/270000001111/1110000189/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",武山综合频道
+http://39.134.32.102:6610/270000001111/1110000170/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",民勤综合频道
+http://39.134.32.102:6610/270000001111/1110000150/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",天祝综合频道
+http://39.134.32.102:6610/270000001111/1110000144/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",高台综合频道
+http://39.134.32.102:6610/270000001111/1110000146/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",阿克塞综合频道
+http://39.134.32.102:6610/270000001111/1110000018/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃",积石山综合频道
+http://39.134.32.102:6610/270000001111/1110000152/index.m3u8?IASHttpSessionId=OTT
 天水：新闻综合 http://stream.tstv.cn/tstv73268A/playlist.m3u8
    公共频道 http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8
 

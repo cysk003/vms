@@ -6,3 +6,17 @@
 1011,http://60.26.13.217:9901/tsfile/live/1011_1.m3u8
 1012,http://60.26.13.217:9901/tsfile/live/1012_1.m3u8
 1013,http://60.26.13.217:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="天津",蓟州新闻综合
+http://pili-live-rtmp.181.i2863.com/i2863-181/dspdzb1.m3u8
+#EXTINF:-1 group-title="天津",宁河新闻频道
+http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8
+#EXTINF:-1 group-title="天津",宝坻一套
+https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
+#EXTINF:-1 group-title="天津",津南一套
+http://play.jinnantv.top/live/JNTV1.m3u8
+#EXTINF:-1 group-title="天津",西青新闻综合
+http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 group-title="天津",静海综合频道
+http://live.jinghai.tjrmtzx.com/live/jhtv.m3u8
+#EXTINF:-1 group-title="天津",武清综合频道
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8

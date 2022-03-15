@@ -1,3 +1,128 @@
+https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江文体
+http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江文体
+http://39.134.65.149/PLTV/88888888/224/3221226012/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江新闻法治
+http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江新闻法治
+http://39.134.65.149/PLTV/88888888/224/3221225992/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江新闻法治
+http://39.134.65.183/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江新闻法治
+http://39.134.65.175/PLTV/88888888/224/3221225868/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江公共农业
+http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江公共农业
+http://ott3.ysbn.cn:8029/live/YSGD_YSGD2016010106541163_800.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江公共农业
+http://39.134.65.141/PLTV/88888888/224/3221225998/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江公共农业
+http://39.134.65.143/PLTV/88888888/224/3221225998/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江影视
+http://39.134.65.149/PLTV/88888888/224/3221225971/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江影视
+http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江影视
+http://39.134.65.141/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江都市
+http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江都市
+http://39.134.65.141/PLTV/88888888/224/3221225969/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江少儿
+http://39.134.65.149/PLTV/88888888/224/3221226002/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江少儿
+http://39.134.65.141/PLTV/88888888/224/3221225979/1.m3u8
+#EXTINF:-1 group-title="黑龙江",黑龙江少儿
+http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨新闻综合
+http://39.134.65.181/PLTV/88888888/224/3221225684/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨新闻综合
+http://39.134.65.183/PLTV/88888888/224/3221225684/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨影视
+http://39.134.65.181/PLTV/88888888/224/3221225700/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨影视
+http://39.134.65.183/PLTV/88888888/224/3221225700/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨资讯
+http://39.134.65.181/PLTV/88888888/224/3221225697/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨资讯
+http://39.134.65.183/PLTV/88888888/224/3221225697/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨生活
+http://39.134.65.181/PLTV/88888888/224/3221225698/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨生活
+http://39.134.65.183/PLTV/88888888/224/3221225698/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨娱乐
+http://39.134.65.181/PLTV/88888888/224/3221225699/1.m3u8
+#EXTINF:-1 group-title="黑龙江",哈尔滨娱乐
+http://39.134.65.183/PLTV/88888888/224/3221225699/1.m3u8
+#EXTINF:-1 group-title="黑龙江",大庆新闻综合
+http://39.134.65.181/PLTV/88888888/224/3221225736/1.m3u8
+#EXTINF:-1 group-title="黑龙江",大庆新闻综合
+http://39.134.65.183/PLTV/88888888/224/3221225736/1.m3u8
+#EXTINF:-1 group-title="黑龙江",大庆公共
+http://39.134.65.181/PLTV/88888888/224/3221225734/1.m3u8
+#EXTINF:-1 group-title="黑龙江",大庆公共
+http://39.134.65.183/PLTV/88888888/224/3221225734/1.m3u8
+#EXTINF:-1 group-title="黑龙江",伊春综合频道
+http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 group-title="黑龙江",伊春综合频道
+http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv
+#EXTINF:-1 group-title="黑龙江",伊春公共频道
+http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 group-title="黑龙江",伊春公共频道
+http://live.yichuntv.com/live/1501fae792774811b2cd1366a078e666?fmt=h264_800k_flv
+#EXTINF:-1 group-title="黑龙江",鹤岗新闻综合
+http://39.134.65.181/PLTV/88888888/224/3221225785/1.m3u8
+#EXTINF:-1 group-title="黑龙江",鹤岗新闻综合
+http://39.134.65.183/PLTV/88888888/224/3221225785/1.m3u8
+#EXTINF:-1 group-title="黑龙江",鹤岗新闻综合
+http://218.10.43.24:81/live/157ba509813644ea400e7c552b934d93/high/live.m3u8
+#EXTINF:-1 group-title="黑龙江",鹤岗公共频道
+http://39.134.65.181/PLTV/88888888/224/3221225787/1.m3u8
+#EXTINF:-1 group-title="黑龙江",鹤岗公共频道
+http://39.134.65.183/PLTV/88888888/224/3221225787/1.m3u8
+#EXTINF:-1 group-title="黑龙江",鹤岗公共频道
+http://218.10.43.24:81/live/bdac590a43b11a837c716a5ad606e95f/high/live.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河新闻综合
+http://39.134.65.179/PLTV/88888888/224/3221225783/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河新闻综合
+http://39.134.65.181/PLTV/88888888/224/3221225783/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河新闻综合
+http://39.134.65.173/PLTV/88888888/224/3221225783/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河新闻综合
+http://39.134.65.183/PLTV/88888888/224/3221225783/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河新闻综合
+http://39.134.65.175/PLTV/88888888/224/3221225783/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河公共频道
+http://39.134.65.179/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河公共频道
+http://39.134.65.181/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河公共频道
+http://39.134.65.173/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河公共频道
+http://39.134.65.183/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河公共频道
+http://39.134.65.177/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 group-title="黑龙江",青冈综合
+https://kschls.shangzhibo.tv/onelive/10121782-RJ4PyqY-yJ/index.m3u8
+#EXTINF:-1 group-title="黑龙江",尚志新闻综合
+http://m3.tplay.mlink.tv/mlmlink/90290726.m3u8
+#EXTINF:-1 group-title="黑龙江",萝北综合频道
+http://juyunlive.juyun.tv/live/65887157.m3u8
+#EXTINF:-1 group-title="黑龙江",富裕综合
+http://221.209.44.174:1980/hls/1001.m3u8
+#EXTINF:-1 group-title="黑龙江",甘南县综合
+http://player.juyun.tv/camera/65362146.m3u8
+#EXTINF:-1 group-title="黑龙江",七台河矿区电视台
+http://p4.weizan.cn/1275348489/398654743195260966/live.m3u8
 http://live.yichuntv.com/live/1501fae792774811b2cd1366a078e666?fmt=h264_800k_flv&trs=hls_ts
 http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv&trs=hls_ts
 http://media.yichuntv.com:81//ycdst/liveChannel/IOS/1501fae792774811b2cd1366a078e666.jsonp

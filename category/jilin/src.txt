@@ -1,3 +1,71 @@
+#EXTINF:-1 group-title="吉林",吉林都市
+http://stream1.jlntv.cn/dspd/playlist.m3u8
+#EXTINF:-1 group-title="吉林",吉林影视
+http://stream4.jlntv.cn/test4/sd/live.m3u8?_upt=87afe1d41646159889
+#EXTINF:-1 group-title="吉林",中国交通吉林
+http://tv.lanjingfm.com/cctbn/jilin.m3u8
+#EXTINF:-1 group-title="吉林",长春综合
+http://play-bj.quklive.com/live/1609216214058927.m3u8
+#EXTINF:-1 group-title="吉林",长春综合
+https://play-bj.quklive.com/live/1609216214058927.m3u8
+#EXTINF:-1 group-title="吉林",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+#EXTINF:-1 group-title="吉林",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+#EXTINF:-1 group-title="吉林",延边汉语综合
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+#EXTINF:-1 group-title="吉林",延边汉语综合
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="吉林",吉林市新闻综合
+http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774
+#EXTINF:-1 group-title="吉林",松原公共频道
+http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",九台综合
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",双阳综合
+http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",榆树综合频道
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",榆树综艺频道
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",江源综合频道
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",靖宇综合频道
+http://stream8.jlntv.cn/jytv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",敦化一套
+http://stream8.jlntv.cn/dhtv/playlist.m3u8
+#EXTINF:-1 group-title="吉林",珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",梅河口综合
+http://stream4.jlntv.cn/mhk/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",磐石综合
+http://stream5.jlntv.cn/ps/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",舒兰新闻综合
+http://stream8.jlntv.cn/shulan/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",永吉综合频道
+http://stream10.jlntv.cn/yongji/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",东辽综合
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",双辽综合
+http://stream5.jlntv.cn/sl/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",柳河综合
+http://stream5.jlntv.cn/lh/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8
 http://58.244.50.82:808/hls/51/index.m3u8
 
 

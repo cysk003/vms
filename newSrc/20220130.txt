@@ -1,3 +1,38 @@
+➜  ~ curl https://yamcode.com/raw/untitled-5037
+#EXTINF:-1,ARG: HBO HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/38690
+#EXTINF:-1,ARG: HBO 2 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/29301
+#EXTINF:-1,ARG: HBO Plus HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/38685
+#EXTINF:-1,ARG: HBO Family HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/38687
+#EXTINF:-1,ARG: HBO Xtreme FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/172272
+#EXTINF:-1,ARG: HBO Pop HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/29305
+#EXTINF:-1,ARG: HBO Signature HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/49289
+#EXTINF:-1,ARG: Star Action HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/280376
+#EXTINF:-1,ARG: Star Channel HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/280374
+#EXTINF:-1,ARG: Star Cinema HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/280377
+#EXTINF:-1,ARG: Star Comedy HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/280372
+#EXTINF:-1,ARG: Star Fun HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/280373
+#EXTINF:-1,ARG: Star Hits HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/285195
+#EXTINF:-1,ARG: FOX SPORTS Premium FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/3203
+#EXTINF:-1,ARG: TNT Sports HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/3204
+#EXTINF:-1,ARG: NAT GEO Wild FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/38698
+#EXTINF:-1,ARG: NAT GEO Wild FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/274133
 4K,#genre#
 CCTV4K[3840*2160],http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 CCTV4K[3840*2160],http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K1016.stream/1.m3u8

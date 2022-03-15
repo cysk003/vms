@@ -1,3 +1,55 @@
+#EXTINF:-1 group-title="广西",广西资源综合
+https://lives.myun.tv/live/5r3gy2d5.m3u8
+#EXTINF:-1 group-title="广西",南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 group-title="广西",南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 group-title="广西",南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 group-title="广西",南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 group-title="广西",钦州综合频道
+http://stream.gxqztv.com/01/sd/live.m3u8
+#EXTINF:-1 group-title="广西",钦州公共频道
+http://stream.gxqztv.com/qztv03/sd/live.m3u8
+#EXTINF:-1 group-title="广西",灵川综合
+https://cdn.gdlive.gdmain.com/live/54b8pydl.m3u8
+#EXTINF:-1 group-title="广西",宾阳综合
+https://live-cdn.gxxw.com/gx/binyang/index.m3u8
+#EXTINF:-1 group-title="广西",隆安新闻综合
+http://hls.nntv.cn/nnlive/LATV_A.m3u8
+#EXTINF:-1 group-title="广西",马山新闻综合
+http://hls.nntv.cn/nnlive/MSTV_A.m3u8
+#EXTINF:-1 group-title="广西",马山新闻综合
+http://hls.nntv.cn/nnlive/MSTV_A.m3u8
+#EXTINF:-1 group-title="广西",上林电视台
+http://hls.nntv.cn/nnlive/SLTV_A.m3u8
+#EXTINF:-1 group-title="广西",龙州综合
+https://live-cdn.gxxw.com/gx/longzhou/index.m3u8
+#EXTINF:-1 group-title="广西",凭祥综合
+https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8
+#EXTINF:-1 group-title="广西",桂平综合
+https://p2.weizan.cn/1483720625/592579884798131053/live.m3u8
+#EXTINF:-1 group-title="广西",都安综合
+https://live-cdn.gxxw.com/gx/duan/index.m3u8
+#EXTINF:-1 group-title="广西",罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8
+#EXTINF:-1 group-title="广西",南丹综合
+http://hlsv2.quklive.com/live/1638263457563164/index.m3u8
+#EXTINF:-1 group-title="广西",昭平综合
+https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
+#EXTINF:-1 group-title="广西",乐业综合
+https://live-cdn.gxxw.com/gx/leye/index.m3u8
+#EXTINF:-1 group-title="广西",田东综合
+https://live-cdn.gxxw.com/gx/tiandong/index.m3u8
+#EXTINF:-1 group-title="广西",博白综合
+http://live-cdn.gxxw.com/hls/a22/index.m3u8
+#EXTINF:-1 group-title="广西",博白综合
+https://live-cdn.gxxw.com/hls/a22/index.m3u8
+#EXTINF:-1 group-title="广西",岑溪综合
+https://lives.myun.tv/live/lj2epd30.m3u8
+#EXTINF:-1 group-title="广西",融水综合
+https://live-cdn.gxxw.com/gx/rongshui/index.m3u8
 广西 北海图文
 http://njgdmm-wshls.homecdn.com/live/4ea26.m3u8
 广西影视,http://171.38.148.223:9901/tsfile/live/1041_1.m3u8

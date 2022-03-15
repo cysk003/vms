@@ -1,3 +1,63 @@
+#EXTINF:-1 group-title="内蒙古",内蒙古蒙语
+http://live9.m2oplus.nmtv.cn/nmgmgyws/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古文体娱乐
+http://live10.m2oplus.nmtv.cn/wtyl/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古经济生活
+http://live10.m2oplus.nmtv.cn/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古农牧频道
+http://live11.m2oplus.nmtv.cn/nmpd/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古少儿频道
+http://live11.m2oplus.nmtv.cn/sepd/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古文化频道
+http://live9.m2oplus.nmtv.cn/nmgmgywh/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古",呼和浩特新闻综合
+http://cdnpull.0471tv.org.cn/live/test1.m3u8
+#EXTINF:-1 group-title="内蒙古",呼和浩特都市生活
+http://cdnpull.0471tv.org.cn/live/test2.m3u8
+#EXTINF:-1 group-title="内蒙古",呼和浩特影视娱乐
+http://cdnpull.0471tv.org.cn/live/test.m3u8
+#EXTINF:-1 group-title="内蒙古",包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
+#EXTINF:-1 group-title="内蒙古",包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
+#EXTINF:-1 group-title="内蒙古",包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
+#EXTINF:-1 group-title="内蒙古",包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/flv:500k/live
+#EXTINF:-1 group-title="内蒙古",包头经济频道
+http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
+#EXTINF:-1 group-title="内蒙古",包头经济频道
+http://live.btgdt.com/channels/btgd/jjpd/flv:500k/live
+#EXTINF:-1 group-title="内蒙古",巴彦淖尔新闻综合
+http://pili-live-hdl-bynr.tianma3600.com/bynr/live159591695342447.m3u8
+#EXTINF:-1 group-title="内蒙古",巴彦淖尔经济生活
+http://pili-live-hdl-bynr.tianma3600.com/bynr/live159600335056322.m3u8
+#EXTINF:-1 group-title="内蒙古",巴彦淖尔影视娱乐
+http://pili-live-hdl-bynr.tianma3600.com/bynr/live159600646676952.m3u8
+#EXTINF:-1 group-title="内蒙古",达茂综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
+#EXTINF:-1 group-title="内蒙古",固阳综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
+#EXTINF:-1 group-title="内蒙古",克旗综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8
+#EXTINF:-1 group-title="内蒙古",元宝山综合
+http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
+#EXTINF:-1 group-title="内蒙古",突泉综合频道
+http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live162580132995542.m3u8
+#EXTINF:-1 group-title="内蒙古",库伦旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8
+#EXTINF:-1 group-title="内蒙古",奈曼旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8
+#EXTINF:-1 group-title="内蒙古",准格尔旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
+#EXTINF:-1 group-title="内蒙古",鄂托克旗电视台
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 group-title="内蒙古",鄂托克前旗电视台
+http://livehqy.chinamcache.com/live/hqyzb01.m3u8
+#EXTINF:-1 group-title="内蒙古",察右前旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8
+#EXTINF:-1 group-title="内蒙古",鄂温克电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8
 # 53-56 500  57-61
 中-足球频道[1920*1080],http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 

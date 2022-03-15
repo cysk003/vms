@@ -1,3 +1,5 @@
+http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
+
 CCTV1 1080,http://39.134.165.31/live.gq.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=1
 CCTV1 1080HEVC,http://39.134.165.31/live.gq.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1
 CCTV2 1080,http://39.134.165.31/live.gq.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1

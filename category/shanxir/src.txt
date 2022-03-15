@@ -1,3 +1,53 @@
+#EXTINF:-1 group-title="陕西",农林卫视
+http://39.135.138.60:18890/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1 group-title="陕西",农林卫视
+http://39.130.202.77:6610/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
+#EXTINF:-1 group-title="陕西",西安新闻综合
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",西安白鸽都市
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",西安商务资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",西安文化影视
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",西安丝路频道
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",西安音乐综艺
+http://stream2.xiancity.cn/xatv6/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",西安移动电视
+http://stream2.xiancity.cn/xatv7/sd/live.m3u8
+#EXTINF:-1 group-title="陕西",榆林电视一套
+http://live.ylwltv.com:8089/live/1080p-yltv1.m3u8
+#EXTINF:-1 group-title="陕西",榆林电视一套
+http://live.ylwltv.com:8089/live/720p-yltv1.m3u8
+#EXTINF:-1 group-title="陕西",榆林电视二套
+http://live.ylwltv.com:8089/live/1080p-yltv2.m3u8
+#EXTINF:-1 group-title="陕西",榆林电视二套
+http://live.ylwltv.com:8089/live/720p-yltv2.m3u8
+#EXTINF:-1 group-title="陕西",安康新闻频道
+https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakzhpd.m3u8
+#EXTINF:-1 group-title="陕西",安康新闻频道
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
+#EXTINF:-1 group-title="陕西",安康公共频道
+https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakggpd.m3u8
+#EXTINF:-1 group-title="陕西",安康公共频道
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
+#EXTINF:-1 group-title="陕西",安康教育频道
+https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakjypd.m3u8
+#EXTINF:-1 group-title="陕西",安康教育频道
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
+#EXTINF:-1 group-title="陕西",宝鸡新闻综合
+http://h5.baojinews.com/m3u8/baojitv1.m3u8
+#EXTINF:-1 group-title="陕西",宝鸡经济资讯
+http://h5.baojinews.com/m3u8/baojitv2.m3u8
+#EXTINF:-1 group-title="陕西",延安新闻综合
+http://yatv1bl.yanews.cn/yatv101/yatv102.m3u8
+#EXTINF:-1 group-title="陕西",延安公共频道
+http://yatv2bl.yanews.cn/yatv201/yatv202.m3u8
+#EXTINF:-1 group-title="陕西",神东一套
+http://livesdong.chinamcache.com/sddst/zb01.m3u8?auth_key=1651114357-0-0-474990c3a546f620dc3198f6d6764002
+#EXTINF:-1 group-title="陕西",神东一套
+http://livesdong.chinamcache.com/sddst/zb01.flv?auth_key=1651114357-0-0-47fab624b80c8467784cb2f2ff5e6d2c
 陕西卫视高清，http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
 新闻高清,http://livepull.sxiptv.cn/live/shanxi1taohd.m3u8
 都市高清频道,http://livepull.sxiptv.cn/live/shanxi2taohd.m3u8体育全运高清,http://livepull.sxiptv.cn/live/shanxi7taohd.m3u8

@@ -5,13 +5,13 @@
 CCTV164K,http://183.196.25.171:808/hls/666/index.m3u8
 
 http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-
+http://live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 东森新闻HD,http://45.11.1.58:8080/channels/ebc_news/playlist.m3u8
-
+http://60.255.49.185/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 某咕:[2409:8087:2001:10::2786:4507]（移动）；[2408:873d:2010:1000::4]（联通）；[240e:925:2:101::38]（电信）
 
 某果:[2409:8c28:203:303::30](移动)；[2408:862e:ff:ff06::5]（联通）；[240e:9f:c04f:1::2]（电信）
-
+curl 58.16.56.125:9901/tsfile/live/1024_1.m3u8
 
 CCTV-1H265_4000
 CCTV4K[3840*2160],https://zxtv.herokuapp.com/PLTV/sccn.php?id=ys4Kcq_2000.m3u8
@@ -126,3 +126,5 @@ CBN 每日影院,mryy_4000
 CBN 幸福娱乐,xfyl_4000
 欢笑剧场4K,hxjc-4k_8000
 冬奥纪实4K,dajs-4k_8000
+http://60.255.49.184:80/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8
+http://60.255.49.185:80/tslive/c211_scc_20190617_t0x01q5a_original_r10.m3u8

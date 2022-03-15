@@ -1,3 +1,353 @@
+#EXTINF:-1 group-title="四川",四川经济频道
+http://scgctvshow.sctv.com/hdlive/sctv2a5cddcf9ea750fec9956/1.m3u8
+#EXTINF:-1 group-title="四川",四川文化旅游
+http://scgctvshow.sctv.com/hdlive/sctv3a5cddcf9ea750fec9956/1.m3u8
+#EXTINF:-1 group-title="四川",四川新闻频道
+http://scgctvshow.sctv.com/hdlive/sctv4a5cddcf9ea750fec9956/1.m3u8
+#EXTINF:-1 group-title="四川",四川影视文艺
+http://scgctvshow.sctv.com/hdlive/sctv5a5cddcf9ea750fec9956/1.m3u8
+#EXTINF:-1 group-title="四川",四川妇女儿童
+http://scgctvshow.sctv.com/hdlive/sctv7a5cddcf9ea750fec9956/1.m3u8
+#EXTINF:-1 group-title="四川",四川乡村
+http://scgctvshow.sctv.com/hdlive/sctv9a5cddcf9ea750fec9956/1.m3u8
+#EXTINF:-1 group-title="四川",绵阳综合
+http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
+#EXTINF:-1 group-title="四川",绵阳公共
+http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
+#EXTINF:-1 group-title="四川",绵阳科技
+http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
+#EXTINF:-1 group-title="四川",南充新闻
+https://nczbpull.ncntv.com.cn/nctv/2004.m3u8
+#EXTINF:-1 group-title="四川",南充新闻
+https://file.ncntv.com.cn/cms/videos/nmip-media/channellive/channel15/playlist.m3u8
+#EXTINF:-1 group-title="四川",南充新闻
+http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv
+#EXTINF:-1 group-title="四川",南充公共
+https://nczbpull.ncntv.com.cn/nctv/2005.m3u8
+#EXTINF:-1 group-title="四川",南充公共
+https://file.ncntv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="四川",南充公共
+http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv
+#EXTINF:-1 group-title="四川",南充科教
+https://nczbpull.ncntv.com.cn/nctv/2006.m3u8
+#EXTINF:-1 group-title="四川",南充科教
+https://file.ncntv.com.cn/cms/videos/nmip-media/channellive/channel13/playlist.m3u8
+#EXTINF:-1 group-title="四川",南充科教
+http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
+#EXTINF:-1 group-title="四川",乐山新闻综合
+http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",乐山新闻综合
+http://channellive.leshantv.net/live/ch1.flv
+#EXTINF:-1 group-title="四川",乐山公共频道
+http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 group-title="四川",乐山公共频道
+http://channellive.leshantv.net/live/ch2.flv
+#EXTINF:-1 group-title="四川",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 group-title="四川",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="四川",遂宁新闻综合
+http://play.sngdxsn.com/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="四川",遂宁公共频道
+http://play.sngdxsn.com/live/gggy/playlist.m3u8
+#EXTINF:-1 group-title="四川",雅安新闻综合
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",雅安新闻综合
+http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",雅安新闻综合
+http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
+#EXTINF:-1 group-title="四川",雅安公共频道
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="四川",雅安公共频道
+http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="四川",雅安公共频道
+http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
+#EXTINF:-1 group-title="四川",雅安雨城频道
+http://m3u8.ycchannel.yatv.tv/cms/videos/nmip-media-yc/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",雅安雨城频道
+http://flv.drs.tv.yatv.tv:8080/channellive/yucheng.flv
+#EXTINF:-1 group-title="四川",广元综合频道
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",广元综合频道
+http://tv.dzsm.com:8100/chan/ch1.flv
+#EXTINF:-1 group-title="四川",广元公共频道
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="四川",达州新闻综合
+http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+#EXTINF:-1 group-title="四川",达州公共频道
+http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+#EXTINF:-1 group-title="四川",达州通川频道
+http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+#EXTINF:-1 group-title="四川",泸州新闻综合
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1 group-title="四川",泸州公共频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 group-title="四川",泸州科教频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1 group-title="四川",凉山新闻综合
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+#EXTINF:-1 group-title="四川",凉山新闻综合
+http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel114103/playlist.m3u8
+#EXTINF:-1 group-title="四川",凉山新闻综合
+http://118.122.8.156:11111/lstv1/LSTV1.flv
+#EXTINF:-1 group-title="四川",凉山新闻综合
+http://117.177.76.18:11111/lstv1/LSTV1.flv
+#EXTINF:-1 group-title="四川",凉山彝语频道
+http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+#EXTINF:-1 group-title="四川",凉山彝语频道
+http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
+#EXTINF:-1 group-title="四川",凉山彝语频道
+http://118.122.8.156:11113/lstv3/LSTV3.flv
+#EXTINF:-1 group-title="四川",凉山彝语频道
+http://117.177.76.18:11113/lstv3/LSTV3.flv
+#EXTINF:-1 group-title="四川",自贡综合频道
+https://sczghdl.tianma3600.com/sczg/zhpd.m3u8
+#EXTINF:-1 group-title="四川",自贡综合频道
+http://110.189.153.160:1001/zhpd.flv
+#EXTINF:-1 group-title="四川",自贡公共频道
+http://110.189.153.160:1002/ggpd.flv
+#EXTINF:-1 group-title="四川",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="四川",德阳公共频道
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="四川",攀枝花新闻综合
+http://zb.pzhgd.com:9095/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川",攀枝花公共频道
+http://zb.pzhgd.com:9095/live/ggpd.m3u8
+#EXTINF:-1 group-title="四川",内江综合频道
+http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
+#EXTINF:-1 group-title="四川",内江综合频道
+http://njzb.scnj.tv:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川",内江公共频道
+http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
+#EXTINF:-1 group-title="四川",内江科教频道
+http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
+#EXTINF:-1 group-title="四川",眉山综合频道
+http://live1.scmstv.cn/gqpd/sd/live.m3u8
+#EXTINF:-1 group-title="四川",眉山公共频道
+http://live2.scmstv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="四川",甘孜综合频道
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+#EXTINF:-1 group-title="四川",甘孜综合频道
+http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",阿坝综合频道
+http://ablive.abatv.com.cn:90/live/zhpd.m3u8
+#EXTINF:-1 group-title="四川",阿坝文艺频道
+http://ablive.abatv.com.cn:90/live/wypd.m3u8
+#EXTINF:-1 group-title="四川",金堂电视台
+https://p2.weizan.cn/2029575354/132309630725787078/live.m3u8
+#EXTINF:-1 group-title="四川",龙泉驿新闻综合
+http://live.newslqy.com/live/xwpd.m3u8
+#EXTINF:-1 group-title="四川",郫都新闻综合
+http://cdxwfb.com/live/sx.m3u8
+#EXTINF:-1 group-title="四川",彭州综合频道
+http://livepgc.chinamcache.com/pgc/1252b2e7742044c90efcb59e92f19de2.m3u8?auth_key=1646132996-0-0-3091540ccfbc73698c9437843235d594
+#EXTINF:-1 group-title="四川",双流综合频道
+http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
+#EXTINF:-1 group-title="四川",珙县综合频道
+http://pili-live-hls-cqgx.tianma3600.com/cqgx/ggpd.m3u8
+#EXTINF:-1 group-title="四川",筠连综合频道
+http://118.122.78.172:89/live1/live1.m3u8
+#EXTINF:-1 group-title="四川",隆昌新闻综合
+http://live.sctvcloud.com/live/longchang/playlist.m3u8
+#EXTINF:-1 group-title="四川",威远新闻综合
+http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
+#EXTINF:-1 group-title="四川",达川综合频道
+http://pili-live-hls.dachuan.org.cn/livecast-dachuan/fmzb1597735098462.m3u8
+#EXTINF:-1 group-title="四川",大竹新闻综合
+http://60.255.120.30:89/live1/live1.m3u8
+#EXTINF:-1 group-title="四川",大竹阳光政务
+http://60.255.120.30:89/live2/live2.m3u8
+#EXTINF:-1 group-title="四川",开江新闻综合
+http://lmt.kjzx.net:98/live1/live1.m3u8
+#EXTINF:-1 group-title="四川",渠县新闻综合
+http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+#EXTINF:-1 group-title="四川",渠县城市公共
+http://222.208.224.227:81/hls/8ishqdtt.m3u8
+#EXTINF:-1 group-title="四川",万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8
+#EXTINF:-1 group-title="四川",宣汉新闻综合
+https://livepgc.chinamcache.com/pgc/61c37851b08f3f0c0475ceb0c958ff54.m3u8?auth_key=1636720162-0-0-9b69908ac29f39b200b5c8e068723967
+#EXTINF:-1 group-title="四川",广汉新闻综合
+http://live.sctvcloud.com/live/guanghan/playlist.m3u8
+#EXTINF:-1 group-title="四川",旌阳综合频道
+http://live.sctvcloud.com/live/jingyang/playlist.m3u8
+#EXTINF:-1 group-title="四川",中江新闻综合
+https://livepgc.chinamcache.com/pgc/76664ca1f91638580f94fc7543c810cb.m3u8?auth_key=1657178327-0-0-976848e8ac0eacf503b1e7666d92f4f8
+#EXTINF:-1 group-title="四川",南部新闻综合
+http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
+#EXTINF:-1 group-title="四川",蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 group-title="四川",西充新闻综合
+http://play.xichongtv.com/ZHPDTV/ZHPDTV.m3u8?auth_key=1625563881-0-0-1090f118d34efb219508d3f6913eebf0
+#EXTINF:-1 group-title="四川",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="四川",黑水新闻综合
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川",金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="四川",金川乡村频道
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+#EXTINF:-1 group-title="四川",茂县综合频道
+http://pili-live-rtmp.scmxtv.com/scmxtv/mxtv.m3u8
+#EXTINF:-1 group-title="四川",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 group-title="四川",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="四川",小金综合频道
+http://xjlive.xjsc.gov.cn:8091/live/xwpd.m3u8
+#EXTINF:-1 group-title="四川",马尔康综合频道
+http://live.zmmek.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="四川",富顺综合频道
+http://pili-live-rtmp.145.i2863.com/i2863-145/live_145_906964.m3u8
+#EXTINF:-1 group-title="四川",富顺公共频道
+http://pili-live-rtmp.145.i2863.com/i2863-145/fsggpd.m3u8
+#EXTINF:-1 group-title="四川",荣县综合频道
+http://play.rongxianwang.net/rxzh/0835.m3u8?auth_key=1625042660-0-0-36e32b9c341e085f53b382e1cdde7a02
+#EXTINF:-1 group-title="四川",朝天新闻综合
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="四川",苍溪综合频道
+http://livecx.cxxrmt.com/csdst/zb01.m3u8?auth_key=1701503060-0-0-b13aa235851549cf2481e07fd101d2ac
+#EXTINF:-1 group-title="四川",剑阁新闻综合
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8
+#EXTINF:-1 group-title="四川",利州综合频道
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+#EXTINF:-1 group-title="四川",利州综合频道
+http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
+#EXTINF:-1 group-title="四川",青川新闻综合
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
+#EXTINF:-1 group-title="四川",青川新闻综合
+http://live.sctvcloud.com/live/qctv1/playlist.m3u8
+#EXTINF:-1 group-title="四川",旺苍新闻综合
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8
+#EXTINF:-1 group-title="四川",旺苍新闻综合
+http://live.sctvcloud.com/live/wctv1/playlist.m3u8
+#EXTINF:-1 group-title="四川",昭化综合频道
+http://live.sctvcloud.com/live/zhtv1/playlist.m3u8
+#EXTINF:-1 group-title="四川",昭化综合频道
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="四川",丹棱新闻综合
+http://live.sctvcloud.com/live/danlingrongmei/playlist.m3u8
+#EXTINF:-1 group-title="四川",洪雅新闻综合
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
+#EXTINF:-1 group-title="四川",彭山综合频道
+http://139.9.142.175:8011/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="四川",彭山综合频道
+http://139.9.142.175:8100/channellive/pstv.flv
+#EXTINF:-1 group-title="四川",青神综合频道
+http://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 group-title="四川",仁寿综合频道
+http://play.scrstv.com/TV/xwzh.m3u8
+#EXTINF:-1 group-title="四川",安岳新闻综合
+https://pili-live-hls.ayrmt.com/livecast-anyue/fmzb1635900355246.m3u8
+#EXTINF:-1 group-title="四川",乐至综合频道
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 group-title="四川",甘洛综合频道
+http://live.sctvcloud.com/live/ganluo/playlist.m3u8
+#EXTINF:-1 group-title="四川",会东综合频道
+http://112.45.133.129:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川",会东综合频道
+http://live.schdxww.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川",金阳综合频道
+http://live.jyrmtzx.com:8080/live/jyxw.m3u8
+#EXTINF:-1 group-title="四川",雷波综合频道
+http://lbzb.yd-data.com/live/0000.flv?auth_key=601589378470-0-0-67d1de5fa3aa9412566d7c9f807c91a0
+#EXTINF:-1 group-title="四川",宁南新闻综合
+http://live.sctvcloud.com/live/ningnantv1/playlist.m3u8
+#EXTINF:-1 group-title="四川",普格综合频道
+http://pull-hls.live.rmtyun.cn/media/NaW5e67696fa4161.m3u8?sign=b1fa59ff38637f7f892e348907182331&t=176030ab4d1
+#EXTINF:-1 group-title="四川",西昌综合频道
+http://103.252.251.199:18085/hls/xichangweishi.m3u8
+#EXTINF:-1 group-title="四川",德格综合频道
+http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="四川",康定新闻综合
+http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
+#EXTINF:-1 group-title="四川",康定新闻综合
+http://tv.drs.ganzitv.com:8100/channellive/kangding.flv
+#EXTINF:-1 group-title="四川",石渠综合频道
+http://tv.drs.ganzitv.com:8100/channellive/shiqu.flv
+#EXTINF:-1 group-title="四川",宝兴综合频道
+http://m3u8channel-bx.wuxianyaan.com/cms/videos/nmip-media-bx/channellive/channel11/playlist.m3u8
+#EXTINF:-1 group-title="四川",宝兴综合频道
+http://flv.drs.tv.yatv.tv:8080/channellive/baoxingxian.flv
+#EXTINF:-1 group-title="四川",汉源综合频道
+http://live.hyxrmt.com:85/live/xwpd.m3u8
+#EXTINF:-1 group-title="四川",芦山综合频道
+http://m3u8.lschannel.yatv.tv/cms/videos/nmip-media-ls/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",名山综合频道
+http://m3u8.mschannel.yatv.tv/cms/videos/nmip-media-ms/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",名山综合频道
+http://flv.drs.tv.yatv.tv:8080/channellive/mingshan.flv
+#EXTINF:-1 group-title="四川",石棉综合频道
+http://flv.drs.tv.yatv.tv:8080/channellive/shimian.flv
+#EXTINF:-1 group-title="四川",石棉综合频道
+http://m3u8.smchannel.yatv.tv/cms/videos/nmip-media-sm/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",荥经综合频道
+http://m3u8.yjchannel.yatv.tv/cms/videos/nmip-media-yj/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",荥经综合频道
+http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="四川",荥经综合频道
+http://flv.drs.tv.yatv.tv:8080/channellive/yingjing.flv
+#EXTINF:-1 group-title="四川",通江新闻综合
+http://live.sctvcloud.com/live/bztongjiang/playlist.m3u8
+#EXTINF:-1 group-title="四川",夹江新闻综合
+http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
+#EXTINF:-1 group-title="四川",井研综合频道
+http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="四川",马边电视台
+http://tvfile.mb.lsrm.org.cn/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="四川",沐川综合频道
+http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
+#EXTINF:-1 group-title="四川",沐川综合频道
+http://tvfile.mc.lsrm.org.cn/cms/videos/nmip-media-mc/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="四川",沙湾综合频道
+http://tvfile.sw.lsrm.org.cn/cms/videos/nmip-media-sw/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川",峨眉山综合频道
+http://embl.emsyd.jrem.cn:80/tv/ems01.m3u8?auth_key=1624854902-0-0-4c5c643800f475f11a1978be6539ea6c
+#EXTINF:-1 group-title="四川",金口河综合频道
+http://live.sctvcloud.com/live/jinkouhe/playlist.m3u8
+#EXTINF:-1 group-title="四川",泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+#EXTINF:-1 group-title="四川",纳溪新闻频道
+https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
+#EXTINF:-1 group-title="四川",叙永综合频道
+http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
+#EXTINF:-1 group-title="四川",大英新闻综合
+http://devpgclive.cmc.dyrmt.com/live/dyrmt01.m3u8
+#EXTINF:-1 group-title="四川",广安区新闻频道
+http://live2.gatv.com.cn:86/live/GAQ.m3u8
+#EXTINF:-1 group-title="四川",华蓥综合频道
+http://live2.gatv.com.cn:86/live/HY.m3u8
+#EXTINF:-1 group-title="四川",邻水新闻综合
+http://live.sctvcloud.com/live/linshui/playlist.m3u8
+#EXTINF:-1 group-title="四川",前锋电视台
+http://live2.gatv.com.cn:86/live/QF.m3u8
+#EXTINF:-1 group-title="四川",前锋电视台
+http://live.sctvcloud.com/live/qianfeng/playlist.m3u8
+#EXTINF:-1 group-title="四川",武胜综合频道
+http://live2.gatv.com.cn:86/live/WS.m3u8
+#EXTINF:-1 group-title="四川",武胜综合频道
+http://wslive-show.wsxc.gov.cn/wstv/ch1.m3u8
+#EXTINF:-1 group-title="四川",岳池新闻综合
+http://liveyc.cmc.yuechirmt.cn/live/yctv.m3u8
+#EXTINF:-1 group-title="四川",岳池新闻综合
+http://liveyc.cmc.yuechirmt.cn/live/yctv.flv
+#EXTINF:-1 group-title="四川",岳池新闻综合
+http://live2.gatv.com.cn:86/live/YC.m3u8
+#EXTINF:-1 group-title="四川",安州新闻频道
+http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
+#EXTINF:-1 group-title="四川",北川电视一套
+http://live.sctvcloud.com/live/bcgqlive/playlist.m3u8
+#EXTINF:-1 group-title="四川",江油新闻综合
+http://live.sctvcloud.com/live/jiangyou/playlist.m3u8
+#EXTINF:-1 group-title="四川",平武综合频道
+http://live.sctvcloud.com/live/pwtv/playlist.m3u8
+#EXTINF:-1 group-title="四川",三台电视一套
+http://125.65.94.91:12351/live
+#EXTINF:-1 group-title="四川",三台电视二套
+http://125.65.94.91:12353/live
+#EXTINF:-1 group-title="四川",盐亭综合频道
+http://live.sctvcloud.com/live/yttv/playlist.m3u8
 匿名网友(1个月前 (11-16))：成都1台,http://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=72ffd3b8257ad56096e172cf6ff46b9a&wsTime=61931124
 不知道是不是静态源，给你PHP代码自己撸吧
 //

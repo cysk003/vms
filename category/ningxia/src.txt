@@ -1,4 +1,47 @@
-
+#EXTINF:-1 group-title="宁夏",宁夏公共
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
+#EXTINF:-1 group-title="宁夏",宁夏经济
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
+#EXTINF:-1 group-title="宁夏",宁夏经济
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
+#EXTINF:-1 group-title="宁夏",银川生活
+http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+#EXTINF:-1 group-title="宁夏",银川公共
+http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
+#EXTINF:-1 group-title="宁夏",银川文体
+http://stream.ycgbtv.com.cn/ycwt/sd/live.m3u8
+#EXTINF:-1 group-title="宁夏",固原公共
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900261.m3u8
+#EXTINF:-1 group-title="宁夏",石嘴山综合
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R60D35BAAU30912182K776AE004ICC9166B4PBM323D35AV1020DZ9C465W168B41AC189827EC&playtoken=31649KBRUYVTKBX10&verifycode=2003492868&rate=org&programid=4200900266.m3u8
+#EXTINF:-1 group-title="宁夏",石嘴山公共
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R60D35BAAU30912182K776AE004ICC9166B4PBM323D35AV1020DZ9C465W168B41AC189827EC&playtoken=31649KBRUYVTKBX10&verifycode=2003492868&rate=org&programid=4200900268.m3u8
+#EXTINF:-1 group-title="宁夏",西吉县
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900263.m3u8
+#EXTINF:-1 group-title="宁夏",中卫综合
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900253.m3u8
+#EXTINF:-1 group-title="宁夏",盐池县
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900238.m3u8
+#EXTINF:-1 group-title="宁夏",永宁县
+http://47.104.173.199/daili1/nxgd/nxgd.php?id=ycyongning
+#EXTINF:-1 group-title="宁夏",永宁县
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900272.m3u8
+#EXTINF:-1 group-title="宁夏",海原
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R60D35BAAU30912182K776AE004ICC9166B4PBM323D35AV1020DZ9C465W168B41AC189827EC&playtoken=31649KBRUYVTKBX10&verifycode=2003492868&rate=org&programid=4200900237.m3u8
+#EXTINF:-1 group-title="宁夏",红寺堡区
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900259.m3u8
+#EXTINF:-1 group-title="宁夏",同心县
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&programid=4200900236.m3u8
+#EXTINF:-1 group-title="宁夏",灵武综合
+http://47.104.173.199/daili1/nxgd/nxgd.php?id=yclwzh
+#EXTINF:-1 group-title="宁夏",灵武文体
+http://47.104.173.199/daili1/nxgd/nxgd.php?id=yclwwt
+#EXTINF:-1 group-title="宁夏",吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="宁夏",吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="宁夏",贺兰新闻综合
+http://47.104.173.199/daili1/nxgd/nxgd.php?id=ychelan
 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=&programid=4200900158
 求索记录，宁夏有线源
 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R5EDED88FU30990082K776ABB09I32F98767PBM323A1A7V0Z9C465W1616B8D311E6D9E9&playtoken=&programid=4200900218

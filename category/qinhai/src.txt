@@ -1,3 +1,55 @@
+#EXTINF:-1 group-title="青海",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+#EXTINF:-1 group-title="青海",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+#EXTINF:-1 group-title="青海",安多卫视
+http://111.40.196.9/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="青海",安多卫视
+http://39.135.138.60:18890/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="青海",安多卫视
+http://39.134.65.166/PLTV/88888888/224/3221225531/1.m3u8
+#EXTINF:-1 group-title="青海",安多卫视
+http://39.134.65.162/PLTV/88888888/224/3221225531/1.m3u8
+#EXTINF:-1 group-title="青海",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="青海",西宁生活服务
+http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+#EXTINF:-1 group-title="青海",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 group-title="青海",玉树新闻频道
+http://stream.ysbtv.net/1/sd/live.m3u8
+#EXTINF:-1 group-title="青海",海东综合频道
+https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8
+#EXTINF:-1 group-title="青海",海南州藏语频道
+http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="青海",海西州综合频道
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="青海",黄南州综合
+http://111.12.218.74:8081/live/ch0.m3u8
+#EXTINF:-1 group-title="青海",囊谦综合
+http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+#EXTINF:-1 group-title="青海",湟源综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8
+#EXTINF:-1 group-title="青海",湟中综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+#EXTINF:-1 group-title="青海",德令哈综合
+http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
+#EXTINF:-1 group-title="青海",格尔木新闻综合
+http://live.geermurmt.com/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="青海",格尔木生活公共
+http://live.geermurmt.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="青海",门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 group-title="青海",祁连综合
+http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
+#EXTINF:-1 group-title="青海",贵南综合
+http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+#EXTINF:-1 group-title="青海",化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+#EXTINF:-1 group-title="青海",互助综合
+http://livecdn.dmqhyadmin.com/hls/xjhuzhu.m3u8
+#EXTINF:-1 group-title="青海",民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 青海卫视[1920*1080],http://live.geermurmt.com/qhws/sd/live.m3u8
 青海卫视[1920*1080],http://stream.qhbtv.com/qhws/playlist.m3u8?
 青海卫视[1920*1080],http://stream.qhbtv.com/qhws/sd/live.m3u8?

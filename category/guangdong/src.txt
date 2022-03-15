@@ -1,3 +1,159 @@
+#EXTINF:-1 group-title="广东",广东珠江
+http://39.135.32.5:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="广东",广东新闻
+http://hongyanqiang.top/chudian.php?id=gdxw
+#EXTINF:-1 group-title="广东",广东新闻
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdxw
+#EXTINF:-1 group-title="广东",广东公共
+http://hongyanqiang.top/chudian.php?id=gdgg
+#EXTINF:-1 group-title="广东",广东公共
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdgg
+#EXTINF:-1 group-title="广东",广东国际
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdgj
+#EXTINF:-1 group-title="广东",嘉佳卡通
+http://111.40.196.9/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="广东",嘉佳卡通
+http://39.135.138.60:18890/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="广东",嘉佳卡通
+http://39.130.202.77:6610/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
+#EXTINF:-1 group-title="广东",嘉佳卡通
+http://117.148.179.160/PLTV/88888888/224/3221231483/index.m3u8
+#EXTINF:-1 group-title="广东",嘉佳卡通
+http://140.207.241.3:8080/live/program/live/jjkt/1300000/d1.m3u8
+#EXTINF:-1 group-title="广东",广东经济科教
+https://pili-live-hls-metoo.v2gogo.com/metoo-live/905db01e5c06496ba128e547bb87158b.m3u8
+#EXTINF:-1 group-title="广东",广东综艺4K
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdzy
+#EXTINF:-1 group-title="广东",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 group-title="广东",广州综合
+https://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 group-title="广东",广州新闻
+http://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 group-title="广东",广州新闻
+http://ye23.win/iptv/gztv.php?id=xinwen
+#EXTINF:-1 group-title="广东",广州南国都市4K
+http://aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 group-title="广东",广州法治
+http://ye23.win/iptv/gztv.php?id=fazhi
+#EXTINF:-1 group-title="广东",深圳电视剧
+http://teyonds.weetai.cn/cdn1/iptv/tyzb42.php?id=szdsj
+#EXTINF:-1 group-title="广东",深圳财经生活
+http://ye23.win/iptv/sztv.php?id=5
+#EXTINF:-1 group-title="广东",深圳娱乐
+http://ye23.win/iptv/sztv.php?id=6
+#EXTINF:-1 group-title="广东",深圳体育健康
+http://ye23.win/iptv/sztv.php?id=12
+#EXTINF:-1 group-title="广东",深圳少儿
+http://ye23.win/iptv/sztv.php?id=7
+#EXTINF:-1 group-title="广东",深圳公共
+http://ye23.win/iptv/sztv.php?id=4
+#EXTINF:-1 group-title="广东",深圳国际
+http://ye23.win/iptv/sztv.php?id=11
+#EXTINF:-1 group-title="广东",深圳龙岗
+http://liveplay.sznews.com/66_norecord_live/357.m3u8
+#EXTINF:-1 group-title="广东",深圳东部
+http://liveplay.sznews.com/66_norecord_live/343.m3u8
+#EXTINF:-1 group-title="广东",深圳移动电视
+http://ye23.win/iptv/sztv.php?id=8
+#EXTINF:-1 group-title="广东",深圳众创TV
+http://liveplay.sznews.com/66_norecord_live/341.m3u8
+#EXTINF:-1 group-title="广东",蛇口综合
+http://218.17.99.211:82/hls/d4encs75.m3u8
+#EXTINF:-1 group-title="广东",蛇口综合
+http://218.17.99.211:5080/livestream/ttsw6ccn.flv
+#EXTINF:-1 group-title="广东",蛇口综合
+http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
+#EXTINF:-1 group-title="广东",佛山综合
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
+#EXTINF:-1 group-title="广东",佛山公共
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
+#EXTINF:-1 group-title="广东",佛山影视
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
+#EXTINF:-1 group-title="广东",佛山顺德
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
+#EXTINF:-1 group-title="广东",佛山南海
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
+#EXTINF:-1 group-title="广东",佛山高明
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
+#EXTINF:-1 group-title="广东",佛山三水
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
+#EXTINF:-1 group-title="广东",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="广东",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="广东",清远综合
+https://zqy-live.nanyuecloud.com/qingyuandianshi1/qingyuandianshistream1.m3u8?auth_key=601634549293-0-0-96c65af4438160da817d5e34b27b9b7a
+#EXTINF:-1 group-title="广东",清远公共
+https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
+#EXTINF:-1 group-title="广东",汕头新闻综合
+http://teyonds.weetai.cn/cdn1/iptv/tyzb46.php?id=stxwzh
+#EXTINF:-1 group-title="广东",肇庆生活
+https://kfs-live.nanyuecloud.com/live/zhaoqing.m3u8?txSecret=78f31f528ff5f05dce53e86dfca199aa&txTime=691BD13D
+#EXTINF:-1 group-title="广东",梅州综合
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
+#EXTINF:-1 group-title="广东",梅州综合
+http://pili-live-hdl.tvliving.gdmztv.com/meizhou-tvliving/mztv1.flv
+#EXTINF:-1 group-title="广东",梅州二套
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
+#EXTINF:-1 group-title="广东",梅州二套
+http://pili-live-hdl.tvliving.gdmztv.com/meizhou-tvliving/mztv2.flv
+#EXTINF:-1 group-title="广东",湛江综合
+http://zjstyhls.tianma3600.com/zjsty/zhpd.m3u8
+#EXTINF:-1 group-title="广东",湛江公共
+http://zjstyhls.tianma3600.com/zjsty/ggpd.m3u8
+#EXTINF:-1 group-title="广东",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 group-title="广东",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="广东",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b928000.m3u8
+#EXTINF:-1 group-title="广东",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+#EXTINF:-1 group-title="广东",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 group-title="广东",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="广东",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b928000.m3u8
+#EXTINF:-1 group-title="广东",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+#EXTINF:-1 group-title="广东",云浮综合
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8
+#EXTINF:-1 group-title="广东",云浮公共
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8
+#EXTINF:-1 group-title="广东",电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
+#EXTINF:-1 group-title="广东",电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="广东",电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+#EXTINF:-1 group-title="广东",电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="广东",清新综合
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="广东",清新公共
+http://hls.wiseqx.com/live/qxgg.m3u8
+#EXTINF:-1 group-title="广东",潮安综合
+http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+#EXTINF:-1 group-title="广东",潮安综合
+http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+#EXTINF:-1 group-title="广东",潮安综合
+http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
+#EXTINF:-1 group-title="广东",潮安影视
+http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
+#EXTINF:-1 group-title="广东",增城综合
+http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
+#EXTINF:-1 group-title="广东",普宁综合
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdjypn
+#EXTINF:-1 group-title="广东",丰顺综合
+https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
+#EXTINF:-1 group-title="广东",平远综合
+https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8
+#EXTINF:-1 group-title="广东",五华综合
+http://p2.weizan.cn/2100036413/734648609627739039/live.m3u8
+#EXTINF:-1 group-title="广东",五华信息
+http://p2.weizan.cn/2100036413/503944748097837211/live.m3u8
 http://206.119.173.184/tv/js.php?id=1
 咪咕：http://heze.kandiantv.cn/m3u8.php?/migu/625703337
 480 http:/112.74.200.9:88/tv000000/m3u8.php?/migu/625703337

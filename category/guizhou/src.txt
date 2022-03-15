@@ -1,3 +1,45 @@
+#EXTINF:-1 group-title="贵州",贵州公共
+http://47.104.173.199/b/hoge.php?ip=gxwztv&id=23&auth=niubiplus
+#EXTINF:-1 group-title="贵州",安顺新闻频道
+https://player.juyun.tv/camera/64413134.m3u8
+#EXTINF:-1 group-title="贵州",六盘水综合
+http://tvfile.lpsntv.com/nmip-media/channellive/channel110181/playlist.m3u8
+#EXTINF:-1 group-title="贵州",六盘水公共
+http://tvfile.lpsntv.com/nmip-media/channellive/channel110983/playlist.m3u8
+#EXTINF:-1 group-title="贵州",黔西南综合
+http://live2.qxndt.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="贵州",黔西南公共
+http://live2.qxndt.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="贵州",清镇新闻综合
+http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
+#EXTINF:-1 group-title="贵州",思南综合
+https://pili-live-hdl-sndst.tianma3600.com/sndst2/dspd2.m3u8
+#EXTINF:-1 group-title="贵州",松桃新闻
+http://live.strmtzx.cn/stxw/sd/live.m3u8
+#EXTINF:-1 group-title="贵州",松桃综艺
+http://live.strmtzx.cn/stzy/sd/live.m3u8
+#EXTINF:-1 group-title="贵州",兴仁综合
+https://play.cxsm.com/video/xrtv.m3u8?auth_key=1687377957-0-0-6ed689545599d66b7570ecc353e2d5be
+#EXTINF:-1 group-title="贵州",罗甸综合
+http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
+#EXTINF:-1 group-title="贵州",三都新闻综合
+http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8
+#EXTINF:-1 group-title="贵州",钟山综合
+http://live.lpszstv.com/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="贵州",施秉综合
+https://play.cxsm.com/video/sbtv.m3u8?auth_key=1687378140-0-0-53b8174b0555c8e50011a9a573392a8e
+#EXTINF:-1 group-title="贵州",镇远综合
+https://play.cxsm.com/video/zytv.m3u8?auth_key=1687377713-0-0-360949d045526c0a1b221640ca24a1d0
+#EXTINF:-1 group-title="贵州",金海湖电视台
+http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8
+#EXTINF:-1 group-title="贵州",七星关电视台
+https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8
+#EXTINF:-1 group-title="贵州",赤水综合频道
+http://pili-live-rtmp.167.i2863.com/i2863-167/live_167_014857.m3u8
+#EXTINF:-1 group-title="贵州",仁怀新闻频道
+http://pili-live-rtmp.152.i2863.com/i2863-152/live_152_152598.m3u8
+#EXTINF:-1 group-title="贵州",正安综合
+http://pili-live-hls.221.i2863.com/i2863-221/live_221_315303.m3u8
 民視综艺,http://61.222.202.191/gt/gttv.php?id=13653&cid=13805
 民視戏剧,http://61.222.202.191/gt/gttv.php?id=13651&cid=13803
 民視旅遊,http://61.222.202.191/gt/gttv.php?id=13655&cid=13807

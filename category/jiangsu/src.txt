@@ -1,3 +1,215 @@
+#EXTINF:-1 group-title="江苏",江苏教育
+http://117.148.179.160/PLTV/88888888/224/3221231631/index.m3u8
+#EXTINF:-1 group-title="江苏",优漫卡通
+http://39.135.138.60:18890/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="江苏",优漫卡通
+http://39.134.65.162/PLTV/88888888/224/3221225556/1.m3u8
+#EXTINF:-1 group-title="江苏",优漫卡通
+http://39.134.65.164/PLTV/88888888/224/3221225556/1.m3u8
+#EXTINF:-1 group-title="江苏",优漫卡通
+http://39.130.202.77:6610/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
+#EXTINF:-1 group-title="江苏",优漫卡通
+http://117.148.179.160/PLTV/88888888/224/3221231574/index.m3u8
+#EXTINF:-1 group-title="江苏",优漫卡通
+http://111.63.117.13:6060/030000001000/G_YOUMAN/G_YOUMAN.m3u8
+#EXTINF:-1 group-title="江苏",南京新闻综合
+http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 group-title="江苏",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",南京影视
+http://183.207.248.103/ott.js.chinamobile.com/PLTV/3/224/3221227719/index.m3u8
+#EXTINF:-1 group-title="江苏",南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏",苏州新闻综合
+https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+#EXTINF:-1 group-title="江苏",苏州社会经济
+https://liveshowbak2.kan0512.com/norecord/ncsztv2_sd/playlist.m3u8
+#EXTINF:-1 group-title="江苏",苏州文化生活
+https://liveshowbak2.kan0512.com/norecord/ncsztv3_sd/playlist.m3u8
+#EXTINF:-1 group-title="江苏",苏州电影娱乐
+https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
+#EXTINF:-1 group-title="江苏",南通新闻综合
+http://cm.wshls.homecdn.com/live/7cc9.m3u8
+#EXTINF:-1 group-title="江苏",南通新闻综合
+http://cm.wshls.homecdn.com/live/7cc9.flv
+#EXTINF:-1 group-title="江苏",南通都市生活
+http://cm.wshls.homecdn.com/live/7cc7.m3u8
+#EXTINF:-1 group-title="江苏",南通都市生活
+http://cm.wshls.homecdn.com/live/7cc7.flv
+#EXTINF:-1 group-title="江苏",南通影视娱乐
+http://cm.wshls.homecdn.com/live/7cc5.m3u8
+#EXTINF:-1 group-title="江苏",南通影视娱乐
+http://cm.wshls.homecdn.com/live/7cc5.flv
+#EXTINF:-1 group-title="江苏",南通崇川综合
+http://cm.wshls.homecdn.com/live/7cc1.m3u8
+#EXTINF:-1 group-title="江苏",南通崇川综合
+http://cm.wshls.homecdn.com/live/7cc1.flv
+#EXTINF:-1 group-title="江苏",盐城新闻综合
+http://stream.0515yc.cn/yctv1/playlist.m3u8
+#EXTINF:-1 group-title="江苏",盐城法制生活
+http://stream.0515yc.cn/yctv2/playlist.m3u8
+#EXTINF:-1 group-title="江苏",盐城城市公共
+http://stream.0515yc.cn/yctv3/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州新闻综合
+http://stream3.huaihai.tv/xzxw/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州新闻综合
+http://stream1.huaihai.tv/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",徐州新闻综合
+http://stream1.huaihai.tv/xwzh1t/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州新闻综合
+http://stream3.huaihai.tv/xsrmt/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州经济生活
+http://stream3.huaihai.tv/zhbnw/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州经济生活
+http://stream1.huaihai.tv/jjsh/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",徐州经济生活
+http://183.207.248.71/cntv/live1/xzjjsh/xzjjsh
+#EXTINF:-1 group-title="江苏",徐州经济生活
+http://stream1.huaihai.tv/xz2t/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州文艺影视
+http://stream1.huaihai.tv/wyys/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",徐州文艺影视
+http://183.207.248.71/cntv/live1/xzjjsh/xzwyys
+#EXTINF:-1 group-title="江苏",徐州文艺影视
+http://stream1.huaihai.tv/xz3t/playlist.m3u8
+#EXTINF:-1 group-title="江苏",徐州公共频道
+http://stream1.huaihai.tv/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",徐州公共频道
+http://stream1.huaihai.tv/xz4t/playlist.m3u8
+#EXTINF:-1 group-title="江苏",淮安新闻综合
+http://live1.habctv.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",淮安新闻综合
+http://stream.habctv.com/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",淮安公共频道
+http://stream.habctv.com/hagg/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",淮安公共频道
+http://live1.habctv.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",淮安影视娱乐
+http://live1.habctv.com/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",淮安影视娱乐
+http://stream.habctv.com/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",泰州新闻综合
+http://117.148.179.157/PLTV/88888888/224/3221231369/index.m3u8
+#EXTINF:-1 group-title="江苏",泰州新闻综合
+http://117.148.179.157/PLTV/88888888/224/3221231430/index.m3u8
+#EXTINF:-1 group-title="江苏",连云港新闻综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",连云港公共频道
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",张家港新闻综合
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 group-title="江苏",张家港民生频道
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 group-title="江苏",滨海新闻综合
+http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
+#EXTINF:-1 group-title="江苏",大丰新闻综合
+http://dafeng-hls-tv-yf.cm.jstv.com/live/dafengyt/online.m3u8
+#EXTINF:-1 group-title="江苏",大丰公共频道
+http://dafeng-hls-tv-yf.cm.jstv.com/live/dafenget/online.m3u8
+#EXTINF:-1 group-title="江苏",东台综合频道
+http://dongtai-hls-tv-yf.cm.jstv.com/live/dongtaizonghe/online.m3u8
+#EXTINF:-1 group-title="江苏",响水综合频道
+http://xiangshui-hls-tv-yf.cm.jstv.com/live/xiangshuizh/online.m3u8
+#EXTINF:-1 group-title="江苏",盐都综合频道
+http://yandu-hls-tv-yf.cm.jstv.com/live/yanduzh/online.m3u8
+#EXTINF:-1 group-title="江苏",如东生活服务
+http://rudong-hls-tv-yf.cm.jstv.com/live/rdshfw/online.m3u8
+#EXTINF:-1 group-title="江苏",如东生活服务
+http://live.rdxmt.com/channels/rudong/shfw/flv:sd/live
+#EXTINF:-1 group-title="江苏",溧水新闻综合
+http://live.lsrmw.cn/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",溧水影视娱乐
+http://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",浦口新闻综合
+http://live-play.pukoufabu.com/pkdst/xwzhpd.m3u8
+#EXTINF:-1 group-title="江苏",栖霞区新闻频道
+http://pili-live-rtmp.140.i2863.com/i2863-140/live_140_236499.m3u8
+#EXTINF:-1 group-title="江苏",栖霞区新闻频道
+http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
+#EXTINF:-1 group-title="江苏",铜山综合频道
+http://stream.tstvxmt.com/tstv1/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",铜山三农频道
+http://stream.tstvxmt.com/ts3/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",淮阴综合频道
+http://huaiyin-hls-tv-yf.cm.jstv.com/live/huaiyinf/online.m3u8
+#EXTINF:-1 group-title="江苏",淮阴影视频道
+http://huaiyin-hls-tv-yf.cm.jstv.com/live/hyys/online.m3u8
+#EXTINF:-1 group-title="江苏",武进新闻频道
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 group-title="江苏",武进生活频道
+https://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 group-title="江苏",新沂新闻频道
+http://live.xysrmt.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",新沂生活频道
+http://live.xysrmt.cn/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",泗洪新闻综合
+http://sihong-hls-tv-yf.cm.jstv.com/live/sihongxinwenzonghe/online.m3u8
+#EXTINF:-1 group-title="江苏",泗洪影视频道
+http://sihong-hls-tv-yf.cm.jstv.com/live/sihonggouwu/online.m3u8
+#EXTINF:-1 group-title="江苏",邳州综合频道
+http://live.plus.pznews.com/pzzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",邳州综艺频道
+http://live.plus.pznews.com/pzxwpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏",丰县新闻综合
+http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxwzh/online.m3u8
+#EXTINF:-1 group-title="江苏",丰县生活娱乐
+http://fengxian-hls-tv-yf.cm.jstv.com/live/fxshyl/online.m3u8
+#EXTINF:-1 group-title="江苏",丰县新农村
+http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxnc/online.m3u8
+#EXTINF:-1 group-title="江苏",句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+#EXTINF:-1 group-title="江苏",句容生活频道
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+#EXTINF:-1 group-title="江苏",句容影视频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 group-title="江苏",句容党建频道
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+#EXTINF:-1 group-title="江苏",常熟新闻频道
+http://play-live.21cs.cn/tv_channel/cstv1.m3u8?auth_key=1592026485-f871ffb1e3b646d59dba799b1e6f3d61-0-53bbc432233cf87b39a6ec67a23981c3
+#EXTINF:-1 group-title="江苏",常熟民生频道
+http://play-live.21cs.cn/tv_channel/cstv2.m3u8?auth_key=1608898309-c151073d455d41568920a185f794ce70-0-24c93261a31cc28cf1ae2aced18ae008
+#EXTINF:-1 group-title="江苏",睢宁综合频道
+http://suining-hls-tv-yf.cm.jstv.com/live/suiningzh/online.m3u8
+#EXTINF:-1 group-title="江苏",睢宁生活教育
+http://suining-hls-tv-yf.cm.jstv.com/live/suiningsh/online.m3u8
+#EXTINF:-1 group-title="江苏",睢宁三农频道
+http://suining-hls-tv-yf.cm.jstv.com/live/suiningsn/online.m3u8
+#EXTINF:-1 group-title="江苏",睢宁资讯频道
+http://suining-hls-tv-yf.cm.jstv.com/live/suiningys/online.m3u8
+#EXTINF:-1 group-title="江苏",姜堰新闻综合
+http://jiangyan-hls-tv-yf.cm.jstv.com/live/jiangyanzh/online.m3u8
+#EXTINF:-1 group-title="江苏",泰兴新闻频道
+http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
+#EXTINF:-1 group-title="江苏",扬中党建民生
+http://yangzhong-hls-tv-yf.cm.jstv.com/live/yzdj/online.m3u8
+#EXTINF:-1 group-title="江苏",靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="江苏",靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 group-title="江苏",东海新闻频道
+http://donghai-hls-tv-yf.cm.jstv.com/live/donghaixinwensp/online.m3u8
+#EXTINF:-1 group-title="江苏",仪征新闻综合
+http://yizheng-hls-tv-yf.cm.jstv.com/live/yzxwzh/online.m3u8
+#EXTINF:-1 group-title="江苏",仪征生活频道
+http://yizheng-hls-tv-yf.cm.jstv.com/live/yzshsh/online.m3u8
+#EXTINF:-1 group-title="江苏",宿豫综合频道
+http://suyu-hls-tv-yf.cm.jstv.com/live/syzhpd/online.m3u8
+#EXTINF:-1 group-title="江苏",贾汪新闻频道
+http://jiawang-hls-tv-yf.cm.jstv.com/live/jwxw/online.m3u8
+#EXTINF:-1 group-title="江苏",丹阳新闻综合
+http://danyang-hls-tv-yf.cm.jstv.com/live/dyzh/online.m3u8
+#EXTINF:-1 group-title="江苏",赣榆新闻综合
+http://ganyu-hls-tv-yf.cm.jstv.com/live/ganyutv/online.m3u8
 张家港 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/chunklist_w37722388.m3u8
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8

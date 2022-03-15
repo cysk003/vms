@@ -548,11 +548,11 @@ http://110.72.54.126:9901/tsfile/live/0001_1.m3u8
 http://58.213.48.108:9901/tsfile/live/0001_1.m3u8
 for id in `seq 1 200` `seq 1000 1299` ;
 do
-  url="http://60.26.12.179:9901/tsfile/live/`printf %04d $id`_1.m3u8"
+  url="http://58.16.56.125:9901/tsfile/live/`printf %04d $id`_1.m3u8"
   result=`curl --connect-timeout 1 $url 2>/dev/null | grep "\.ts"|wc -l`
   echo $url, $result
   if [ $result -gt 0 ]; then
-      echo $id,$url >> category/tianjin/baodi.txt
+      echo $id,$url >> category/guizhou/guiyang_liantong.txt
   fi
 done
 http://119.39.192.8:9901/tsfile/live/0001_1.m3u8

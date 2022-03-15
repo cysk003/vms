@@ -1,3 +1,31 @@
+#EXTINF:-1 group-title="辽宁",辽宁经济
+http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="辽宁",辽宁体育
+http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="辽宁",辽宁教育青少
+http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="辽宁",辽宁生活
+http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="辽宁",辽宁公共
+http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="辽宁",辽宁北方
+http://42.176.185.28:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="辽宁",丹东新闻综合
+http://59.47.133.234:64230/live
+#EXTINF:-1 group-title="辽宁",丹东新闻综合
+http://pili-live-hls.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8
+#EXTINF:-1 group-title="辽宁",丹东新闻综合
+http://pili-live-rtmp.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8
+#EXTINF:-1 group-title="辽宁",丹东公共频道
+http://59.47.133.234:64231/live
+#EXTINF:-1 group-title="辽宁",海城一套
+http://103.215.34.6:9000/live/0.m3u8
+#EXTINF:-1 group-title="辽宁",海城二套
+http://103.215.34.6:9000/live/1.m3u8
+#EXTINF:-1 group-title="辽宁",海城三套
+http://103.215.34.6:9000/live/2.m3u8
+#EXTINF:-1 group-title="辽宁",海城四套
+http://103.215.34.6:9000/live/3.m3u8
 CCTV1,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225977/index.m3u8
 CCTV1,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226179/index.m3u8
 CCTV1,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226759/index.m3u8

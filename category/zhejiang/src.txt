@@ -1,3 +1,287 @@
+虎牙70号,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+虎牙71号,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+虎牙72号,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+虎牙73号,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+虎牙74号,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+虎牙75号,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+#EXTINF:-1 group-title="浙江",浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江钱江都市
+http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8
+#EXTINF:-1 group-title="浙江",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江经济生活
+http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8
+#EXTINF:-1 group-title="浙江",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江教科影视
+http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8
+#EXTINF:-1 group-title="浙江",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江民生休闲
+http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8
+#EXTINF:-1 group-title="浙江",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江新闻
+http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8
+#EXTINF:-1 group-title="浙江",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江少儿
+http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8
+#EXTINF:-1 group-title="浙江",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江国际
+http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
+#EXTINF:-1 group-title="浙江",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8
+#EXTINF:-1 group-title="浙江",数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="浙江",数码时代
+http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="浙江",数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1 group-title="浙江",数码时代
+http://117.148.179.160/PLTV/88888888/224/3221229419/index.m3u8
+#EXTINF:-1 group-title="浙江",数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8
+#EXTINF:-1 group-title="浙江",杭州综合
+http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州综合
+http://117.148.179.160/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州明珠
+http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州生活
+http://112.17.40.247/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州生活
+http://117.148.179.160/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州影视
+http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州影视
+http://117.148.179.160/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州少儿体育
+http://112.17.40.247/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 group-title="浙江",杭州少儿体育
+http://117.148.179.160/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 group-title="浙江",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 group-title="浙江",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="浙江",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="浙江",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="浙江",金华新闻综合
+http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="浙江",金华教育科技
+http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
+#EXTINF:-1 group-title="浙江",金华公共频道
+http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="浙江",金华都市农村
+http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
+#EXTINF:-1 group-title="浙江",舟山新闻综合
+http://stream.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山新闻综合
+http://live.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山公共生活
+http://stream.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山公共生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山群岛旅游
+http://stream.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山群岛旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/playlist.m3u8
+#EXTINF:-1 group-title="浙江",湖州公共民生
+http://live1.plus.hugd.com/ggpd1/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",湖州公共民生
+http://live1.plus.hugd.com/ggpd1/playlist.m3u8
+#EXTINF:-1 group-title="浙江",湖州文化娱乐
+http://live.plus.hugd.com/whylpd/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",湖州文化娱乐
+http://live.plus.hugd.com/whylpd/playlist.m3u8
+#EXTINF:-1 group-title="浙江",温州新闻综合
+http://live.wzqmt.com/wztv1/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",温州经济科教
+http://live.wzqmt.com/wztv2/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",温州都市生活
+http://live.wzqmt.com/wztv3/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",温州公共频道
+http://live.wzqmt.com/wztv4/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",东阳新闻综合
+http://pili-live-hdl.app.dynews.zj.cn/zjdy/xwzh.m3u8
+#EXTINF:-1 group-title="浙江",东阳影视生活
+http://pili-live-hdl.app.dynews.zj.cn/zjdy/yssh.m3u8
+#EXTINF:-1 group-title="浙江",磐安新闻综合
+http://hlsv2.quklive.com/live/1626400915947070/index.m3u8
+#EXTINF:-1 group-title="浙江",磐安文化生活
+http://hlsv2.quklive.com/live/1626401163709056/index.m3u8
+#EXTINF:-1 group-title="浙江",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="浙江",永康新闻综合
+http://hlsv2.quklive.com/live/1625061424267104/index.m3u8
+#EXTINF:-1 group-title="浙江",永康华溪频道
+http://hlsv2.quklive.com/live/1625062755227231/index.m3u8
+#EXTINF:-1 group-title="浙江",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1 group-title="浙江",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 group-title="浙江",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="浙江",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="浙江",淳安电视台
+https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8
+#EXTINF:-1 group-title="浙江",临安综合频道
+https://hwapi.yunshicloud.com/46784q/122y35.m3u8
+#EXTINF:-1 group-title="浙江",桐庐综合频道
+http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391
+#EXTINF:-1 group-title="浙江",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 group-title="浙江",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="浙江",临平新闻频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 group-title="浙江",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="浙江",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="浙江",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="浙江",嵊州新闻综合
+https://hlsv2.quklive.com/live/1626935015913208/index.m3u8
+#EXTINF:-1 group-title="浙江",嵊泗新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 group-title="浙江",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 group-title="浙江",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="浙江",上虞文化影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="浙江",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="浙江",海宁新闻综合
+http://live.hndachao.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",海宁生活服务
+http://live.hndachao.cn/shfw/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="浙江",德清新闻综合
+http://live.yingxi.tv/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",德清文化生活
+http://live.yingxi.tv/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",苍南新闻综合
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 group-title="浙江",洞头综合频道
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 group-title="浙江",瑞安新闻综合
+http://stream.rabtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",瑞安文化经济
+http://stream.rabtv.cn/jjwh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",泰顺新闻综合
+http://pili-live-hls.jrts.tianma3600.com/jrts/dspd.m3u8
+#EXTINF:-1 group-title="浙江",泰顺新闻综合
+http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
+#EXTINF:-1 group-title="浙江",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="浙江",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 group-title="浙江",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 group-title="浙江",长兴新闻综合
+http://hls-camera-w11.quklive.com/live/1637563485927004/playlist.m3u8
+#EXTINF:-1 group-title="浙江",南浔综合频道
+http://pili-live-hls.nanxunfb.com/nanxun/live3002833-0.m3u8
+#EXTINF:-1 group-title="浙江",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="浙江",建德综合频道
+http://livejdrmt.chinamcache.com/live/jdzb02.m3u8
+#EXTINF:-1 group-title="浙江",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="浙江",奉化新闻综合
+http://live1.fhtv.net.cn/zhzb/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",奉化生活娱乐
+http://live1.fhtv.net.cn/shys/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",镇海综合频道
+http://pluslive.zhxww.net/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",镇海先锋影视
+http://pluslive.zhxww.net/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",嘉善新闻综合
+http://118.31.110.219:1935/jsgdxwzh/myStream/playlist.m3u8
+#EXTINF:-1 group-title="浙江",嘉善善文化
+http://118.31.110.219:1935/jsgdswh/myStream/playlist.m3u8
+#EXTINF:-1 group-title="浙江",海盐新闻频道
+http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",海盐新闻频道
+http://lived.dmqhyadmin.com/ds/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
+#EXTINF:-1 group-title="浙江",鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+#EXTINF:-1 group-title="浙江",天台和合频道
+http://hlsv2.quklive.com/live/1617072208961931/index.m3u8
+#EXTINF:-1 group-title="浙江",常山新闻综合
+https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
+#EXTINF:-1 group-title="浙江",江山电视台
+http://play-sh.quklive.com/live/1623117710666335.m3u8
+#EXTINF:-1 group-title="浙江",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 group-title="浙江",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 group-title="浙江",龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 group-title="浙江",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="浙江",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 group-title="浙江",景宁新闻综合
+http://hlsv2.quklive.com/live/1622691799302368/index.m3u8
+#EXTINF:-1 group-title="浙江",景宁文化旅游
+http://hlsv2.quklive.com/live/1626961770231388/index.m3u8
+#EXTINF:-1 group-title="浙江",缙云综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 group-title="浙江",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="浙江",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 group-title="浙江",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 group-title="浙江",松阳综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 group-title="浙江",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 group-title="浙江",北仑电视台
+http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 group-title="浙江",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 杭州新闻综合,http://125.210.152.19:9090/live/hzgq-hzzhgq-h264.m3u8
 杭州明珠,http://125.210.152.19:9090/live/hzgq-xhmzgq-h264.m3u8
 杭州生活,http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
@@ -85,3 +369,16 @@
 松阳综合 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 云和新闻综合 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 青田电视台 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+
+国外电影,http://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8
+
+国外影院,http://65537ff319007c0310e1b87d7061588a.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
+松潘台,http://live.spccmc.com:90/live/spxwzh.m3u8
+内蒙赤峰,http://1.30.8.38:9901/tsfile/live/1006_1.m3u8
+江苏体育,http://139.186.37.10/jstv1/jsty.m3u8
+江苏综艺,http://139.186.37.10/jstv1/jszy.m3u8
+江苏公共,http://139.186.37.10/jstv1/jsgg.m3u8
+江苏影视,http://139.186.37.10/jstv1/jsys.m3u8
+江苏国际,http://139.186.37.10/jstv1/jsgj.m3u8
+江苏教育,http://139.186.37.10/jstv1/jsjy.m3u8
+江苏城市,http://139.186.37.10/jstv1/jscs.m3u8

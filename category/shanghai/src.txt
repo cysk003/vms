@@ -1,3 +1,115 @@
+#EXTINF:-1 group-title="上海",上海新闻HD
+http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",东方影视HD
+http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 group-title="上海",东方影视HD
+http://117.148.179.160/PLTV/88888888/224/3221231639/index.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://111.40.196.9/PLTV/88888888/224/3221225491/index.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://39.135.138.60:18890/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://39.135.138.60:18890/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://39.134.65.166/PLTV/88888888/224/3221225673/1.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://39.134.65.162/PLTV/88888888/224/3221225673/1.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://39.130.202.77:6610/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://117.148.179.160/PLTV/88888888/224/3221231612/index.m3u8
+#EXTINF:-1 group-title="上海",上海纪实人文HD
+http://140.207.241.3:8080/live/program/live/jspdhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",上海外语HD
+http://111.40.196.9/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 group-title="上海",上海外语HD
+http://140.207.241.3:8080/live/program/live/wypdhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",上海都市HD
+http://111.40.196.9/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="上海",上海都市HD
+http://117.148.179.160/PLTV/88888888/224/3221231618/index.m3u8
+#EXTINF:-1 group-title="上海",上海都市HD
+http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",五星体育HD
+http://140.207.241.3:8080/live/program/live/ssty/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",游戏风云HD
+http://111.20.41.242/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
+#EXTINF:-1 group-title="上海",游戏风云HD
+http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="上海",游戏风云HD
+http://140.207.241.3:8080/live/program/live/yxfyhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",生活时尚HD
+http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
+#EXTINF:-1 group-title="上海",生活时尚HD
+http://140.207.241.3:8080/live/program/live/shsshd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",劲爆体育HD
+http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",第一财经HD
+http://111.40.196.9/PLTV/88888888/224/3221225497/index.m3u8
+#EXTINF:-1 group-title="上海",第一财经HD
+http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",都市剧场HD
+http://140.207.241.3:8080/live/program/live/dsjchd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",欢笑剧场HD
+http://117.148.179.160/PLTV/88888888/224/3221230739/index.m3u8
+#EXTINF:-1 group-title="上海",欢笑剧场HD
+http://140.207.241.3:8080/live/program/live/hxjchd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",动漫秀场HD
+http://140.207.241.3:8080/live/program/live/dmxchd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",极速汽车HD
+http://140.207.241.3:8080/live/program/live/jsqchd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",全纪实HD
+http://140.207.241.3:8080/live/program/live/qjshd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",幸福彩HD
+http://140.207.241.3:8080/live/program/live/xfchd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",新视觉HD
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 group-title="上海",东方财经浦东
+http://111.40.196.9/PLTV/88888888/224/3221225581/index.m3u8
+#EXTINF:-1 group-title="上海",东方财经浦东
+http://117.148.179.160/PLTV/88888888/224/3221231646/index.m3u8
+#EXTINF:-1 group-title="上海",东方财经浦东
+http://140.207.241.3:8080/live/program/live/dfcj/1300000/d1.m3u8
+#EXTINF:-1 group-title="上海",上海教育
+https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://111.40.196.9/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://39.135.138.60:18890/PLTV/88888888/224/3221225720/index.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://39.134.65.162/PLTV/88888888/224/3221225534/1.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://39.134.65.164/PLTV/88888888/224/3221225534/1.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://39.130.202.77:6610/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://117.148.179.160/PLTV/88888888/224/3221231480/index.m3u8
+#EXTINF:-1 group-title="上海",哈哈炫动
+http://140.207.241.3:8080/live/program/live/xdkt/1300000/d1.m3u8
+#EXTINF:-1 group-title="上海",七彩戏剧
+http://111.40.196.9/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 group-title="上海",七彩戏剧
+http://140.207.241.3:8080/live/program/live/qcxj/1300000/d1.m3u8
+#EXTINF:-1 group-title="上海",极速汽车
+http://111.40.196.9/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="上海",极速汽车
+http://140.207.241.3:8080/live/program/live/jsqc/1300000/d1.m3u8
+#EXTINF:-1 group-title="上海",法治天地
+http://117.148.179.160/PLTV/88888888/224/3221231597/index.m3u8
+#EXTINF:-1 group-title="上海",法治天地
+http://140.207.241.3:8080/live/program/live/fztd/1300000/d1.m3u8
+#EXTINF:-1 group-title="上海",金色学堂
+http://140.207.241.3:8080/live/program/live/jingsepd/1300000/d1.m3u8
+#EXTINF:-1 group-title="上海",嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+#EXTINF:-1 group-title="上海",金山电视台
+http://live.mudu.tv/watch/4zbn2f.m3u8
+#EXTINF:-1 group-title="上海",金山电视台
+http://live.mudu.tv/watch/4zbn2f.flv
 
 http://39.134.30.217/0000000000001000/1.m3u8?Contentid=5000000008000023254&livemode=1&stbId=3&channel-id=bestzb
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8

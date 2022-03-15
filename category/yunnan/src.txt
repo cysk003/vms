@@ -1,3 +1,531 @@
+#EXTINF:-1 group-title="云南",云南都市
+http://39.130.202.77:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+#EXTINF:-1 group-title="云南",云南都市
+http://39.130.202.77:6610/gitv_live/G_YNTV-2/G_YNTV-2.m3u8
+#EXTINF:-1 group-title="云南",云南都市
+https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
+#EXTINF:-1 group-title="云南",云南娱乐
+http://39.130.202.77:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1 group-title="云南",云南娱乐
+http://39.130.202.77:6610/gitv_live/G_YNTV-3/G_YNTV-3.m3u8
+#EXTINF:-1 group-title="云南",云南生活资讯
+http://39.130.202.77:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+#EXTINF:-1 group-title="云南",云南生活资讯
+http://39.130.202.77:6610/gitv_live/G_YNTV-4/G_YNTV-4.m3u8
+#EXTINF:-1 group-title="云南",云南生活资讯
+https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
+#EXTINF:-1 group-title="云南",云南影视
+http://39.130.202.77:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1 group-title="云南",云南影视
+http://39.130.202.77:6610/gitv_live/G_YNTV-5/G_YNTV-5.m3u8
+#EXTINF:-1 group-title="云南",云南影视
+https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
+#EXTINF:-1 group-title="云南",云南公共
+http://39.130.202.77:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1 group-title="云南",云南公共
+http://39.130.202.77:6610/gitv_live/G_YNTV-6/G_YNTV-6.m3u8
+#EXTINF:-1 group-title="云南",云南公共
+https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
+#EXTINF:-1 group-title="云南",云南少儿
+http://39.130.202.77:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+#EXTINF:-1 group-title="云南",云南少儿
+http://39.130.202.77:6610/gitv_live/G_YNTVSE/G_YNTVSE.m3u8
+#EXTINF:-1 group-title="云南",云南少儿
+https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8
+#EXTINF:-1 group-title="云南",云南澜湄国际
+http://39.130.202.77:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8
+#EXTINF:-1 group-title="云南",云南移动电视
+http://39.130.202.77:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8
+#EXTINF:-1 group-title="云南",昆明新闻综合
+http://39.130.202.77:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8
+#EXTINF:-1 group-title="云南",昆明新闻综合
+http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8
+#EXTINF:-1 group-title="云南",昆明新闻综合
+http://live.ynbit.com/hls/km-1/index.m3u8
+#EXTINF:-1 group-title="云南",昆明新闻综合
+http://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
+#EXTINF:-1 group-title="云南",昆明经济生活
+http://39.130.202.77:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8
+#EXTINF:-1 group-title="云南",昆明经济生活
+http://wshls.live.migucloud.com/live/JT9JEQ54_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="云南",昆明经济生活
+http://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
+#EXTINF:-1 group-title="云南",昆明科学教育
+http://39.130.202.77:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8
+#EXTINF:-1 group-title="云南",昆明科学教育
+http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="云南",昆明科学教育
+http://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
+#EXTINF:-1 group-title="云南",昆明文体娱乐
+http://39.130.202.77:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8
+#EXTINF:-1 group-title="云南",昆明文体娱乐
+http://wshls.live.migucloud.com/live/6KN3ZB2S_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="云南",昆明文体娱乐
+http://devlivepull.migucloud.com/live/6KN3ZB2S_C0_2.flv
+#EXTINF:-1 group-title="云南",昆明影视综艺
+http://39.130.202.77:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
+#EXTINF:-1 group-title="云南",昆明影视综艺
+http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="云南",昆明影视综艺
+http://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
+#EXTINF:-1 group-title="云南",昆明公共频道
+http://39.130.202.77:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
+#EXTINF:-1 group-title="云南",昆明公共频道
+http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
+#EXTINF:-1 group-title="云南",昆明公共频道
+http://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
+#EXTINF:-1 group-title="云南",昆明教育
+https://pili-live-hdl-kmjy.tianma3600.com/kmjy/kmjy.m3u8
+#EXTINF:-1 group-title="云南",丽江综合
+http://39.130.202.77:6610/gitv_live/G_LIJIANGZH/G_LIJIANGZH.m3u8
+#EXTINF:-1 group-title="云南",丽江公共
+https://hwapi.yunshicloud.com/mj1170/06qk26.m3u8
+#EXTINF:-1 group-title="云南",丽江公共
+http://39.130.202.77:6610/gitv_live/G_LIJIANGGG/G_LIJIANGGG.m3u8
+#EXTINF:-1 group-title="云南",玉溪综合
+http://live.ynbit.com/hls/yx-1/index.m3u8
+#EXTINF:-1 group-title="云南",玉溪综合
+http://39.130.202.77:6610/gitv_live/G_YUXIXW/G_YUXIXW.m3u8
+#EXTINF:-1 group-title="云南",玉溪综合
+https://hwapi.yunshicloud.com/r5fc3f/3l9g1m.m3u8
+#EXTINF:-1 group-title="云南",玉溪公共
+http://39.130.202.77:6610/gitv_live/G_YUXIGG/G_YUXIGG.m3u8
+#EXTINF:-1 group-title="云南",玉溪公共
+https://hwapi.yunshicloud.com/r5fc3f/4kzlat.m3u8
+#EXTINF:-1 group-title="云南",昭通一套
+http://39.130.202.77:6610/gitv_live/G_ZHAOTONG-1/G_ZHAOTONG-1.m3u8
+#EXTINF:-1 group-title="云南",昭通一套
+http://live.ynbit.com/hls/zt-1/index.m3u8
+#EXTINF:-1 group-title="云南",昭通二套
+http://39.130.202.77:6610/gitv_live/G_ZHAOTONG-2/G_ZHAOTONG-2.m3u8
+#EXTINF:-1 group-title="云南",昭通三套
+http://39.130.202.77:6610/gitv_live/G_ZHAOTONG-3/G_ZHAOTONG-3.m3u8
+#EXTINF:-1 group-title="云南",楚雄综合
+http://39.130.202.77:6610/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8
+#EXTINF:-1 group-title="云南",楚雄综合
+http://live.ynbit.com/hls/cx-1/index.m3u8
+#EXTINF:-1 group-title="云南",楚雄综合
+https://hwapi.yunshicloud.com/gbqei5/cy550p.m3u8
+#EXTINF:-1 group-title="云南",楚雄公共
+http://39.130.202.77:6610/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8
+#EXTINF:-1 group-title="云南",楚雄公共
+https://hwapi.yunshicloud.com/gbqei5/12661u.m3u8
+#EXTINF:-1 group-title="云南",德宏新闻综合
+http://hw-play.lezhibo.com/live/8f69c416e16049828b11b06ddc492074.m3u8
+#EXTINF:-1 group-title="云南",德宏新闻综合
+http://39.130.202.77:6610/gitv_live/G_DEHONG-1/G_DEHONG-1.m3u8
+#EXTINF:-1 group-title="云南",德宏新闻综合
+http://live.ynbit.com/hls/dh-1/index.m3u8
+#EXTINF:-1 group-title="云南",德宏公共民语
+http://hw-play.lezhibo.com/live/1e3446420721425984a45e6962d8e424.m3u8
+#EXTINF:-1 group-title="云南",德宏公共民语
+http://39.130.202.77:6610/gitv_live/G_DEHONG-2/G_DEHONG-2.m3u8
+#EXTINF:-1 group-title="云南",红河州新闻综合
+http://39.130.202.77:6610/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
+#EXTINF:-1 group-title="云南",红河州新闻综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="云南",红河州新闻综合
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv
+#EXTINF:-1 group-title="云南",红河州新闻综合
+http://live.ynbit.com/hls/hh-1/index.m3u8
+#EXTINF:-1 group-title="云南",红河州公共频道
+http://39.130.202.77:6610/gitv_live/G_HONGHETV-2/G_HONGHETV-2.m3u8
+#EXTINF:-1 group-title="云南",红河州公共频道
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="云南",红河州公共频道
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv
+#EXTINF:-1 group-title="云南",文山州新闻综合
+http://live.ynbit.com/hls/ws-1/index.m3u8
+#EXTINF:-1 group-title="云南",文山州新闻综合
+http://39.130.202.77:6610/gitv_live/G_WENSHANXW/G_WENSHANXW.m3u8
+#EXTINF:-1 group-title="云南",文山州新闻综合
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="云南",文山州新闻综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="云南",文山州公共
+http://39.130.202.77:6610/gitv_live/G_WENSHANGG/G_WENSHANGG.m3u8
+#EXTINF:-1 group-title="云南",文山州公共
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
+#EXTINF:-1 group-title="云南",文山州公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="云南",普洱新闻综合
+http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 group-title="云南",普洱新闻综合
+http://39.130.202.77:6610/gitv_live/G_PUERTV-1/G_PUERTV-1.m3u8
+#EXTINF:-1 group-title="云南",普洱新闻综合
+https://hwapi.yunshicloud.com/701aec/orx377.m3u8
+#EXTINF:-1 group-title="云南",普洱公共频道
+http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel27/playlist.m3u8
+#EXTINF:-1 group-title="云南",普洱公共频道
+http://39.130.202.77:6610/gitv_live/G_PUERTV-2/G_PUERTV-2.m3u8
+#EXTINF:-1 group-title="云南",普洱科教频道
+http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8
+#EXTINF:-1 group-title="云南",普洱科教频道
+http://39.130.202.77:6610/gitv_live/G_PUERTV-3/G_PUERTV-3.m3u8
+#EXTINF:-1 group-title="云南",迪庆综合
+http://39.130.202.77:6610/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
+#EXTINF:-1 group-title="云南",迪庆综合
+http://live.ynbit.com/hls/dq-1/index.m3u8
+#EXTINF:-1 group-title="云南",迪庆综合
+http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
+#EXTINF:-1 group-title="云南",迪庆藏语
+http://39.130.202.77:6610/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
+#EXTINF:-1 group-title="云南",迪庆藏语
+http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+#EXTINF:-1 group-title="云南",临沧综合
+http://39.130.202.77:6610/gitv_live/G_LINCANGTV-1/G_LINCANGTV-1.m3u8
+#EXTINF:-1 group-title="云南",临沧综合
+https://hwapi.yunshicloud.com/6tt654/1i495z.m3u8
+#EXTINF:-1 group-title="云南",临沧公共
+http://39.130.202.77:6610/gitv_live/G_LINCANGTV-2/G_LINCANGTV-2.m3u8
+#EXTINF:-1 group-title="云南",临沧公共
+https://hwapi.yunshicloud.com/6tt654/drfs5s.m3u8
+#EXTINF:-1 group-title="云南",保山一套
+http://liveynbsdst.chinamcache.com/live/zb01.m3u8?auth_key=1645240615-0-0-65e16b6e5bf26ac5538ac471eff58b55
+#EXTINF:-1 group-title="云南",保山一套
+http://39.130.202.77:6610/gitv_live/G_BAOSHANTV-1/G_BAOSHANTV-1.m3u8
+#EXTINF:-1 group-title="云南",保山一套
+http://39.130.202.77:6610/gitv_live/G_BAOSHANXW/G_BAOSHANXW.m3u8
+#EXTINF:-1 group-title="云南",保山二套
+http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b
+#EXTINF:-1 group-title="云南",保山二套
+http://39.130.202.77:6610/gitv_live/G_BAOSHANTV-2/G_BAOSHANTV-2.m3u8
+#EXTINF:-1 group-title="云南",保山二套
+http://39.130.202.77:6610/gitv_live/G_BAOSHANGG/G_BAOSHANGG.m3u8
+#EXTINF:-1 group-title="云南",保山三套
+http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-551c30f245abc8aa44554820452c332c
+#EXTINF:-1 group-title="云南",保山三套
+http://39.130.202.77:6610/gitv_live/G_BAOSHANTV-3/G_BAOSHANTV-3.m3u8
+#EXTINF:-1 group-title="云南",保山三套
+http://39.130.202.77:6610/gitv_live/G_BAOSHANKJ/G_BAOSHANKJ.m3u8
+#EXTINF:-1 group-title="云南",大理州新闻综合
+http://39.130.202.77:6610/gitv_live/G_DALITV-1/G_DALITV-1.m3u8
+#EXTINF:-1 group-title="云南",大理州新闻综合
+http://live.ynbit.com/hls/dl-1/index.m3u8
+#EXTINF:-1 group-title="云南",大理州公共频道
+http://39.130.202.77:6610/gitv_live/G_DALITV-2/G_DALITV-2.m3u8
+#EXTINF:-1 group-title="云南",西双版纳综合
+http://39.130.202.77:6610/gitv_live/G_XSBNTV-1/G_XSBNTV-1.m3u8
+#EXTINF:-1 group-title="云南",西双版纳综合
+http://live.ynbit.com/hls/bn-1/index.m3u8
+#EXTINF:-1 group-title="云南",西双版纳综合
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="云南",西双版纳公共
+http://39.130.202.77:6610/gitv_live/G_XSBNTV-2/G_XSBNTV-2.m3u8
+#EXTINF:-1 group-title="云南",西双版纳公共
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="云南",怒江新闻综合
+http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
+#EXTINF:-1 group-title="云南",怒江新闻综合
+https://hwapi.yunshicloud.com/s5xpv2/9r4ei4.m3u8
+#EXTINF:-1 group-title="云南",怒江新闻综合
+http://39.130.202.77:6610/gitv_live/G_NUJIANGTV/G_NUJIANGTV.m3u8
+#EXTINF:-1 group-title="云南",曲靖一套
+http://39.130.202.77:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8
+#EXTINF:-1 group-title="云南",曲靖一套
+http://live.ynbit.com/hls/qj-1/index.m3u8
+#EXTINF:-1 group-title="云南",曲靖二套
+http://39.130.202.77:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8
+#EXTINF:-1 group-title="云南",曲靖三套
+http://39.130.202.77:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8
+#EXTINF:-1 group-title="云南",安宁综合
+http://tv-live.ynkmit.com/tv/anning.m3u8?txSecret=7528f35fb4b62bd24d55b891899db68f&txTime=632C8680
+#EXTINF:-1 group-title="云南",寻甸综合
+http://39.130.202.77:6610/gitv_live/G_XUNDIAN/G_XUNDIAN.m3u8
+#EXTINF:-1 group-title="云南",腾冲综合
+http://39.130.202.77:6610/gitv_live/G_TENGCHONG/G_TENGCHONG.m3u8
+#EXTINF:-1 group-title="云南",腾冲综合
+http://live.ynurl.com/video/s10012-TCTV/index.m3u8
+#EXTINF:-1 group-title="云南",芒市综合
+http://39.130.202.77:6610/gitv_live/G_DEHONGMS/G_DEHONGMS.m3u8
+#EXTINF:-1 group-title="云南",芒市综合
+http://live.ynurl.com/video/s10001-mstv1/index.m3u8
+#EXTINF:-1 group-title="云南",瑞丽综合
+http://live.ynurl.com/video/s10021-rltv/index.m3u8
+#EXTINF:-1 group-title="云南",盈江综合
+http://39.130.202.77:6610/gitv_live/G_DEHONGYJ/G_DEHONGYJ.m3u8
+#EXTINF:-1 group-title="云南",盈江综合
+http://live.ynurl.com/video/s10016-yjtv1hd/index.m3u8
+#EXTINF:-1 group-title="云南",澄江综合
+http://39.130.202.77:6610/gitv_live/G_CHENGJIANG/G_CHENGJIANG.m3u8
+#EXTINF:-1 group-title="云南",峨山电视
+http://live.ynurl.com/video/s10034-ESTV/index.m3u8
+#EXTINF:-1 group-title="云南",峨山电视
+http://39.130.202.77:6610/gitv_live/G_ESHAN/G_ESHAN.m3u8
+#EXTINF:-1 group-title="云南",华宁综合
+http://39.130.202.77:6610/gitv_live/G_HUANING/G_HUANING.m3u8
+#EXTINF:-1 group-title="云南",红塔电视台
+https://hwapi.yunshicloud.com/4zij09/0v0827.m3u8
+#EXTINF:-1 group-title="云南",红塔电视台
+http://39.130.202.77:6610/gitv_live/G_HONGTA/G_HONGTA.m3u8
+#EXTINF:-1 group-title="云南",红塔电视台
+http://zb-live.ynurl.com/live/ht0716.m3u8
+#EXTINF:-1 group-title="云南",江川综合
+http://39.130.202.77:6610/gitv_live/G_JIANGCHUAN/G_JIANGCHUAN.m3u8
+#EXTINF:-1 group-title="云南",江川综合
+http://live.ynurl.com/video/s10037-JCTV/index.m3u8
+#EXTINF:-1 group-title="云南",通海电视台
+http://39.130.202.77:6610/gitv_live/G_TONGHAI/G_TONGHAI.m3u8
+#EXTINF:-1 group-title="云南",通海电视台
+http://live.ynurl.com/video/s10038-thtv/index.m3u8
+#EXTINF:-1 group-title="云南",新平综合
+http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
+#EXTINF:-1 group-title="云南",新平综合
+http://39.130.202.77:6610/gitv_live/G_XINPING/G_XINPING.m3u8
+#EXTINF:-1 group-title="云南",元江综合
+https://hwapi.yunshicloud.com/9s2m3y/2koy3r.m3u8
+#EXTINF:-1 group-title="云南",元江综合
+http://39.130.202.77:6610/gitv_live/G_YUANJIANG/G_YUANJIANG.m3u8
+#EXTINF:-1 group-title="云南",易门综合
+http://zb-live.ynurl.com/live/ym927.m3u8
+#EXTINF:-1 group-title="云南",大关综合
+http://39.130.202.77:6610/gitv_live/G_DAGUAN/G_DAGUAN.m3u8
+#EXTINF:-1 group-title="云南",鲁甸综合
+http://livebroadcast.ccwb.cn/live/w1619693259142907.m3u8
+#EXTINF:-1 group-title="云南",巧家综合
+http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
+#EXTINF:-1 group-title="云南",水富综合
+http://39.130.202.77:6610/gitv_live/G_SHUIFU/G_SHUIFU.m3u8
+#EXTINF:-1 group-title="云南",绥江综合
+http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8
+#EXTINF:-1 group-title="云南",威信综合
+http://39.130.202.77:6610/gitv_live/G_WEIXIN/G_WEIXIN.m3u8
+#EXTINF:-1 group-title="云南",彝良综合
+http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
+#EXTINF:-1 group-title="云南",彝良综合
+http://39.130.202.77:6610/gitv_live/G_YILIANG/G_YILIANG.m3u8
+#EXTINF:-1 group-title="云南",永善综合
+http://39.130.202.77:6610/gitv_live/G_YONGSHAN/G_YONGSHAN.m3u8
+#EXTINF:-1 group-title="云南",镇雄电视台
+http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
+#EXTINF:-1 group-title="云南",勐海综合频道
+http://39.130.202.77:6610/gitv_live/G_MENGHAI/G_MENGHAI.m3u8
+#EXTINF:-1 group-title="云南",勐腊综合
+http://39.130.202.77:6610/gitv_live/G_MENGLA/G_MENGLA.m3u8
+#EXTINF:-1 group-title="云南",华坪综合
+http://39.130.202.77:6610/gitv_live/G_HUAPING/G_HUAPING.m3u8
+#EXTINF:-1 group-title="云南",华坪综合
+https://hwapi.yunshicloud.com/xfm214/198968.m3u8
+#EXTINF:-1 group-title="云南",永胜综合
+http://39.130.202.77:6610/gitv_live/G_YONGSHENG/G_YONGSHENG.m3u8
+#EXTINF:-1 group-title="云南",福贡综合
+http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
+#EXTINF:-1 group-title="云南",福贡综合
+http://39.130.202.77:6610/gitv_live/G_NUJIANGFG/G_NUJIANGFG.m3u8
+#EXTINF:-1 group-title="云南",贡山综合
+http://39.130.202.77:6610/gitv_live/G_NUJIANGGS/G_NUJIANGGS.m3u8
+#EXTINF:-1 group-title="云南",贡山综合
+http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8
+#EXTINF:-1 group-title="云南",兰坪综合
+http://39.130.202.77:6610/gitv_live/G_NUJIANGLP/G_NUJIANGLP.m3u8
+#EXTINF:-1 group-title="云南",兰坪综合
+http://livebroadcast.ccwb.cn/live/w1628850306485945.m3u8
+#EXTINF:-1 group-title="云南",兰坪综合
+https://hwapi.yunshicloud.com/qzth63/jw2995.m3u8
+#EXTINF:-1 group-title="云南",泸水综合
+http://39.130.202.77:6610/gitv_live/G_NUJIANGLS/G_NUJIANGLS.m3u8
+#EXTINF:-1 group-title="云南",泸水综合
+http://livebroadcast.ccwb.cn/live/w1596164431584927.m3u8
+#EXTINF:-1 group-title="云南",会泽综合
+http://39.130.202.77:6610/gitv_live/G_HUIZE/G_HUIZE.m3u8
+#EXTINF:-1 group-title="云南",陆良新闻
+https://hwapi.yunshicloud.com/9327b6/v8i7rf.m3u8
+#EXTINF:-1 group-title="云南",罗平综合
+http://39.130.202.77:6610/gitv_live/G_QJLUOPING/G_QJLUOPING.m3u8
+#EXTINF:-1 group-title="云南",马龙综合
+http://39.130.202.77:6610/gitv_live/G_MALONGTV/G_MALONGTV.m3u8
+#EXTINF:-1 group-title="云南",个旧综合
+http://39.130.202.77:6610/gitv_live/G_GEJIU/G_GEJIU.m3u8
+#EXTINF:-1 group-title="云南",个旧综合
+http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
+#EXTINF:-1 group-title="云南",红河县综合
+http://39.130.202.77:6610/gitv_live/G_HONGHEXIAN/G_HONGHEXIAN.m3u8
+#EXTINF:-1 group-title="云南",红河县综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="云南",红河县综合
+http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv
+#EXTINF:-1 group-title="云南",河口综合
+http://39.130.202.77:6610/gitv_live/G_HEKOU/G_HEKOU.m3u8
+#EXTINF:-1 group-title="云南",开远综合
+http://39.130.202.77:6610/gitv_live/G_KAIYUAN/G_KAIYUAN.m3u8
+#EXTINF:-1 group-title="云南",绿春综合
+http://39.130.202.77:6610/gitv_live/G_LVCHUN/G_LVCHUN.m3u8
+#EXTINF:-1 group-title="云南",绿春综合
+http://live.ynurl.com/video/s10042-LCTV/index.m3u8
+#EXTINF:-1 group-title="云南",蒙自综合
+http://live.ynurl.com/video/s10019-mzdst/index.m3u8
+#EXTINF:-1 group-title="云南",蒙自综合
+http://39.130.202.77:6610/gitv_live/G_MENGZI/G_MENGZI.m3u8
+#EXTINF:-1 group-title="云南",屏边综合
+http://39.130.202.77:6610/gitv_live/G_PINGBIAN/G_PINGBIAN.m3u8
+#EXTINF:-1 group-title="云南",屏边综合
+http://tv.drs.hhtv.cc:8100/channellive/pbdst.flv
+#EXTINF:-1 group-title="云南",屏边综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="云南",屏边综合
+http://live.ynurl.com/video/s10040-pbzh/index.m3u8
+#EXTINF:-1 group-title="云南",元阳综合
+http://39.130.202.77:6610/gitv_live/G_YUANYANG/G_YUANYANG.m3u8
+#EXTINF:-1 group-title="云南",元阳综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="云南",元阳综合
+http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
+#EXTINF:-1 group-title="云南",富宁电视台
+http://39.130.202.77:6610/gitv_live/G_FUNING/G_FUNING.m3u8
+#EXTINF:-1 group-title="云南",广南电视台
+http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+#EXTINF:-1 group-title="云南",马关电视台
+http://live.ynurl.com/video/s10046-001/index.m3u8
+#EXTINF:-1 group-title="云南",丘北电视台
+http://39.130.202.77:6610/gitv_live/G_QIUBEI/G_QIUBEI.m3u8
+#EXTINF:-1 group-title="云南",丘北电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="云南",丘北电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/qbtv.flv
+#EXTINF:-1 group-title="云南",西畴电视台
+http://39.130.202.77:6610/gitv_live/G_XICHOU/G_XICHOU.m3u8
+#EXTINF:-1 group-title="云南",西畴电视台
+http://live.ynurl.com/video/s10060-XCTV/index.m3u8
+#EXTINF:-1 group-title="云南",砚山电视台
+http://live.ynurl.com/video/s10020-ystv/index.m3u8
+#EXTINF:-1 group-title="云南",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="云南",麻栗坡电视台
+http://39.130.202.77:6610/gitv_live/G_MALIPO/G_MALIPO.m3u8
+#EXTINF:-1 group-title="云南",麻栗坡电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+#EXTINF:-1 group-title="云南",大理市新闻综合
+http://39.130.202.77:6610/gitv_live/G_DALISHITV-1/G_DALISHITV-1.m3u8
+#EXTINF:-1 group-title="云南",大理市新闻综合
+https://hwapi.yunshicloud.com/iaef5d/4jjy56.m3u8
+#EXTINF:-1 group-title="云南",洱源综合频道
+http://39.130.202.77:6610/gitv_live/G_ERYUAN/G_ERYUAN.m3u8
+#EXTINF:-1 group-title="云南",洱源综合频道
+https://hwapi.yunshicloud.com/679z1m/e71cxz.m3u8
+#EXTINF:-1 group-title="云南",巍山综合频道
+http://39.130.202.77:6610/gitv_live/G_WEISHAN/G_WEISHAN.m3u8
+#EXTINF:-1 group-title="云南",巍山综合频道
+https://hwapi.yunshicloud.com/euxv6l/5q7637.m3u8
+#EXTINF:-1 group-title="云南",漾濞新闻频道
+http://39.130.202.77:6610/gitv_live/G_YANGBI/G_YANGBI.m3u8
+#EXTINF:-1 group-title="云南",昌宁电视台
+http://39.130.202.77:6610/gitv_live/G_CHANGNING/G_CHANGNING.m3u8
+#EXTINF:-1 group-title="云南",昌宁电视台
+http://live.ynurl.com/video/s10047-cntv/index.m3u8
+#EXTINF:-1 group-title="云南",龙陵综合频道
+http://39.130.202.77:6610/gitv_live/G_LONGLING/G_LONGLING.m3u8
+#EXTINF:-1 group-title="云南",龙陵综合频道
+https://hwapi.yunshicloud.com/ey0321/l0vlci.m3u8
+#EXTINF:-1 group-title="云南",宾川一套
+http://39.130.202.77:6610/gitv_live/G_BINCHUANTV-1/G_BINCHUANTV-1.m3u8
+#EXTINF:-1 group-title="云南",宾川一套
+https://hwapi.yunshicloud.com/izn8ol/35s3my.m3u8
+#EXTINF:-1 group-title="云南",宾川一套
+http://live.bcrmtzx.com/tv01/sd/live.m3u8
+#EXTINF:-1 group-title="云南",宾川二套
+http://39.130.202.77:6610/gitv_live/G_BINCHUANTV-2/G_BINCHUANTV-2.m3u8
+#EXTINF:-1 group-title="云南",鹤庆综合
+http://39.130.202.77:6610/gitv_live/G_HEQING/G_HEQING.m3u8
+#EXTINF:-1 group-title="云南",剑川新闻综合
+http://39.130.202.77:6610/gitv_live/G_JCTV/G_JCTV.m3u8
+#EXTINF:-1 group-title="云南",弥渡综合
+http://39.130.202.77:6610/gitv_live/G_MIDUTV-1/G_MIDUTV-1.m3u8
+#EXTINF:-1 group-title="云南",祥云综合
+http://39.130.202.77:6610/gitv_live/G_XIANGYUN-1/G_XIANGYUN-1.m3u8
+#EXTINF:-1 group-title="云南",云龙综合
+http://39.130.202.77:6610/gitv_live/G_YUNLONGTV-1/G_YUNLONGTV-1.m3u8
+#EXTINF:-1 group-title="云南",永平综合
+http://39.130.202.77:6610/gitv_live/G_YPTV/G_YPTV.m3u8
+#EXTINF:-1 group-title="云南",隆阳综合频道
+http://39.130.202.77:6610/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
+#EXTINF:-1 group-title="云南",楚雄市综合
+http://39.130.202.77:6610/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8
+#EXTINF:-1 group-title="云南",大姚综合
+http://39.130.202.77:6610/gitv_live/G_CHUXIONGDY/G_CHUXIONGDY.m3u8
+#EXTINF:-1 group-title="云南",禄丰综合
+http://39.130.202.77:6610/gitv_live/G_LUFENG/G_LUFENG.m3u8
+#EXTINF:-1 group-title="云南",牟定综合
+http://39.130.202.77:6610/gitv_live/G_MOUDING/G_MOUDING.m3u8
+#EXTINF:-1 group-title="云南",牟定综合
+https://hwapi.yunshicloud.com/5947a2/867lsz.m3u8
+#EXTINF:-1 group-title="云南",南华综合
+http://39.130.202.77:6610/gitv_live/G_NANHUA/G_NANHUA.m3u8
+#EXTINF:-1 group-title="云南",双柏综合
+http://39.130.202.77:6610/gitv_live/G_SHUANGBAI/G_SHUANGBAI.m3u8
+#EXTINF:-1 group-title="云南",武定综合
+http://39.130.202.77:6610/gitv_live/G_WUDING/G_WUDING.m3u8
+#EXTINF:-1 group-title="云南",姚安综合
+http://39.130.202.77:6610/gitv_live/G_YAOAN/G_YAOAN.m3u8
+#EXTINF:-1 group-title="云南",元谋综合
+http://39.130.202.77:6610/gitv_live/G_YUANMOU/G_YUANMOU.m3u8
+#EXTINF:-1 group-title="云南",永仁综合
+http://39.130.202.77:6610/gitv_live/G_YONGREN/G_YONGREN.m3u8
+#EXTINF:-1 group-title="云南",施甸综合
+http://live.ynurl.com/video/s10048-SDTV/index.m3u8
+#EXTINF:-1 group-title="云南",施甸综合
+http://39.130.202.77:6610/gitv_live/G_SHIDIAN/G_SHIDIAN.m3u8
+#EXTINF:-1 group-title="云南",陇川综合
+http://39.130.202.77:6610/gitv_live/G_DEHONGLC/G_DEHONGLC.m3u8
+#EXTINF:-1 group-title="云南",陇川综合
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+#EXTINF:-1 group-title="云南",梁河综合
+http://live.ynurl.com/video/s10032-lhtv/index.m3u8
+#EXTINF:-1 group-title="云南",德钦综合
+http://39.130.202.77:6610/gitv_live/G_DIQINGDQ/G_DIQINGDQ.m3u8
+#EXTINF:-1 group-title="云南",维西综合
+http://39.130.202.77:6610/gitv_live/G_DIQINGWX/G_DIQINGWX.m3u8
+#EXTINF:-1 group-title="云南",金平综合
+http://39.130.202.77:6610/gitv_live/G_JINPING/G_JINPING.m3u8
+#EXTINF:-1 group-title="云南",金平综合
+http://live.ynurl.com/video/s10041-JPTV/index.m3u8
+#EXTINF:-1 group-title="云南",建水综合
+http://39.130.202.77:6610/gitv_live/G_JIANSHUI/G_JIANSHUI.m3u8
+#EXTINF:-1 group-title="云南",建水综合
+http://live.ynurl.com/video/s10045-JSTV/index.m3u8
+#EXTINF:-1 group-title="云南",泸西综合
+http://39.130.202.77:6610/gitv_live/G_LUXI/G_LUXI.m3u8
+#EXTINF:-1 group-title="云南",弥勒新闻
+http://39.130.202.77:6610/gitv_live/G_MILE/G_MILE.m3u8
+#EXTINF:-1 group-title="云南",石屏综合
+http://39.130.202.77:6610/gitv_live/G_SHIPING/G_SHIPING.m3u8
+#EXTINF:-1 group-title="云南",石屏综合
+http://live.ynurl.com/video/s10059-SPTV/index.m3u8
+#EXTINF:-1 group-title="云南",沧源综合
+http://39.130.202.77:6610/gitv_live/G_LCCANGYUAN/G_LCCANGYUAN.m3u8
+#EXTINF:-1 group-title="云南",凤庆综合
+http://39.130.202.77:6610/gitv_live/G_LCFENGQING/G_LCFENGQING.m3u8
+#EXTINF:-1 group-title="云南",耿马综合
+http://39.130.202.77:6610/gitv_live/G_LCGENGMA/G_LCGENGMA.m3u8
+#EXTINF:-1 group-title="云南",耿马综合
+https://hwapi.yunshicloud.com/48td74/1t0g2n.m3u8
+#EXTINF:-1 group-title="云南",临翔综合
+http://39.130.202.77:6610/gitv_live/G_LCLINXIANG/G_LCLINXIANG.m3u8
+#EXTINF:-1 group-title="云南",双江综合
+http://39.130.202.77:6610/gitv_live/G_LCSHUANGJIANG/G_LCSHUANGJIANG.m3u8
+#EXTINF:-1 group-title="云南",永德综合
+http://39.130.202.77:6610/gitv_live/G_LCYONGDE/G_LCYONGDE.m3u8
+#EXTINF:-1 group-title="云南",云县综合
+http://39.130.202.77:6610/gitv_live/G_LCYUNXIAN/G_LCYUNXIAN.m3u8
+#EXTINF:-1 group-title="云南",镇康综合
+http://39.130.202.77:6610/gitv_live/G_LCZHENKANG/G_LCZHENKANG.m3u8
+#EXTINF:-1 group-title="云南",镇康综合
+https://hwapi.yunshicloud.com/cv8ggj/68e3x9.m3u8
+#EXTINF:-1 group-title="云南",江城综合
+http://39.130.202.77:6610/gitv_live/G_JIANGCHENG/G_JIANGCHENG.m3u8
+#EXTINF:-1 group-title="云南",景东综合
+http://39.130.202.77:6610/gitv_live/G_JINGDONG/G_JINGDONG.m3u8
+#EXTINF:-1 group-title="云南",景谷综合
+http://39.130.202.77:6610/gitv_live/G_JINGGU/G_G_JINGGU.m3u8
+#EXTINF:-1 group-title="云南",澜沧综合
+http://39.130.202.77:6610/gitv_live/G_LANCANG/G_LANCANG.m3u8
+#EXTINF:-1 group-title="云南",墨江综合
+http://39.130.202.77:6610/gitv_live/G_MOJIANG/G_MOJIANG.m3u8
+#EXTINF:-1 group-title="云南",思茅综合
+http://39.130.202.77:6610/gitv_live/G_SIMAO/G_SIMAO.m3u8
+#EXTINF:-1 group-title="云南",镇沅综合
+http://39.130.202.77:6610/gitv_live/G_ZHENYUAN/G_ZHENYUAN.m3u8
+#EXTINF:-1 group-title="云南",香格里拉综合
+http://39.130.202.77:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8
 云南卫视 3M1080,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 云南公共 720,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
 云南卫视 720,https://hwapi.yunshicloud.com/62hdvf/41hse3.m3u8

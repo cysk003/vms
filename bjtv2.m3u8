@@ -35,21 +35,15 @@ http://192.168.50.1:8288/rtp/225.1.8.189:8002
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农村农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"  group-title="央视",CCTV17 农业农村 高清
 http://192.168.50.1:8288/rtp/225.1.8.17:8144
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"  group-title="央视",CCTV4K 超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CCTV-4K
 #EXTINF:-1 tvg-id="63" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"  group-title="央视",中国教育1台 高清
 http://192.168.50.1:8288/rtp/225.1.8.32:8152
 #EXTINF:-1  group-title="4k",北京IPTV4K
 http://192.168.50.1:8288/rtp/225.1.8.211:8002
 #EXTINF:-1  group-title="4k",4k纯享
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
-#EXTINF:-1  group-title="4k",4k纯享
-http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1  group-title="4k",4k纯享
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=CX4K
 #EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="4k",欢笑剧场 4K
-http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="70193" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/wmenjoy/vms/raw/main/logo/channel_joy_cn.png"  group-title="4k",欢笑剧场 4K
-http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+http://192.168.50.223:8880/iptv.m3u8?id=HXJC
 #EXTINF:-1  group-title="影视",爱上4K
 http://192.168.50.1:8288/rtp/225.1.0.101:1025
 #EXTINF:-1 tvg-id="23" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"  group-title="卫视",湖南卫视 高清
@@ -91,7 +85,7 @@ http://192.168.50.1:8288/rtp/225.1.8.76:8002
 #EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",黑龙江卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.118:1025
 #EXTINF:-1 tvg-id="42" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png"  group-title="卫视",河南卫视 4k
-http://218.29.135.2:4000/udp/225.1.4.254:1300
+http://192.168.50.223:8880/iptv.m3u8?id=HENWS
 #EXTINF:-1 tvg-id="43" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png"  group-title="卫视",湖北卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.123:1025
 #EXTINF:-1 tvg-id="44" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png"  group-title="卫视",江西卫视 高清
@@ -156,10 +150,6 @@ http://192.168.50.1:8288/rtp/225.1.0.100:1025
 http://192.168.50.1:8288/rtp/225.1.8.35:8000
 #EXTINF:-1  group-title="少儿",北京IPTV淘BABY
 http://192.168.50.1:8288/rtp/225.1.8.36:8002
-#EXTINF:-1 tvg-id="137" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png"  group-title="少儿",卡酷动画
-http://192.168.50.1:8288/rtp/225.1.8.35:8000
-#EXTINF:-1  group-title="少儿",北京IPTV淘BABY
-http://192.168.50.1:8288/rtp/225.1.8.36:8002
 #EXTINF:-1  group-title="少儿",浙江少儿台
 http://192.168.50.223:8880/iptv.m3u8?id=ZJSE
 #EXTINF:-1  group-title="少儿",福州少儿
@@ -167,7 +157,7 @@ http://192.168.50.223:8880/iptv.m3u8?id=JFZSE
 #EXTINF:-1  group-title="少儿",甘肃少儿 8M1080
 http://192.168.50.223:8880/iptv.m3u8?id=GSSE
 #EXTINF:-1  group-title="少儿",河北少儿 高清
-http://192.168.50.223:8880/iptv.m3u8?id=HEBSE
+http://192.168.50.223:8880/iptv.m3u8?id=HEBSEKJ
 #EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"  group-title="少儿",湖南金鹰卡通 超清
 http://192.168.50.223:8880/iptv.m3u8?id=JYKT
 #EXTINF:-1 tvg-id="221" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png"  group-title="少儿",优漫卡通
@@ -339,13 +329,13 @@ http://192.168.50.223:8880/iptv.m3u8?id=FJXW
 #EXTINF:-1  group-title="地方",福州生活
 http://192.168.50.223:8880/iptv.m3u8?id=FJFZSH
 #EXTINF:-1  group-title="地方",河北经济 高清
-http://192.168.50.223:8880/iptv.m3u8?id=HEBJJ
+http://192.168.50.223:8880/iptv.m3u8?id=HEBJJSH
 #EXTINF:-1  group-title="地方",河北都市 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HEBDS
 #EXTINF:-1  group-title="地方",河北公共 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HEBGG
 #EXTINF:-1  group-title="地方",河北农民 高清
-http://192.168.50.223:8880/iptv.m3u8?id=HENM
+http://192.168.50.223:8880/iptv.m3u8?id=HEBNM
 #EXTINF:-1  group-title="地方",湖南都市 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HNDS
 #EXTINF:-1  group-title="地方",湖南经视 高清

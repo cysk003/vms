@@ -105,7 +105,7 @@ CETV-1 高清,http://27.39.123.6:9901/tsfile/live/1051_1.m3u8
 1024,http://iptv.eatuo.com:9901/tsfile/live/1024_1.m3u8
 1025,http://iptv.eatuo.com:9901/tsfile/live/1025_1.m3u8
 1026,http://iptv.eatuo.com:9901/tsfile/live/1026_1.m3u8
-1027,http://iptv.eatuo.com:9901/tsfile/live/1027_1.m3u8
+JJKT 720,http://iptv.eatuo.com:9901/tsfile/live/1027_1.m3u8
 1028,http://iptv.eatuo.com:9901/tsfile/live/1028_1.m3u8
 1029,http://iptv.eatuo.com:9901/tsfile/live/1029_1.m3u8
 1030,http://iptv.eatuo.com:9901/tsfile/live/1030_1.m3u8

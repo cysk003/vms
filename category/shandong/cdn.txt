@@ -1,3 +1,16 @@
+http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+山东卫视1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000301/index.m3u8</a><br>
+山东新闻1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000314/index.m3u8</a><br>
+山东综艺1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000338/index.m3u8</a><br>
+山东齐鲁1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000313/index.m3u8</a><br>
+山东体育1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000315/index.m3u8</a><br>
+山东少儿1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000340/index.m3u8</a><br>
+山东文旅1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000337/index.m3u8</a><br>
+山东生活1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000336/index.m3u8</a><br>
+山东农科1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000339/index.m3u8</a><br>
+山东教育1080,<a href="http://39.136.48.21:8089/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8" target="_blank">http://39.136.48.21:8089/ucdn.sd ... 00000331/index.m3u8</a><img src="static/image/smiley/default/huffy.gif" smilieid="5" border="0" alt=""><br>
+
 http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
 CCTV1 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8

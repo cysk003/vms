@@ -106,7 +106,7 @@ CCTV5HD,http://113.65.6.109:8099/hls/85/index.m3u8
 CHC高清电影,http://113.65.6.109:8099/hls/110/index.m3u8
 DOXTV,http://113.65.6.109:8099/hls/111/index.m3u8
 未知,http://113.65.6.109:8099/hls/112/index.m3u8
-
+http://119.131.231.149:8089/hls/69/index.m3u8
 江门综合,http://113.65.6.109:8099/hls/130/index.m3u8
 江门公共,http://113.65.6.109:8099/hls/131/index.m3u8
 惠州综合,http://113.65.6.109:8099/hls/132/index.m3u8

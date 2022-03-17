@@ -1,5 +1,7 @@
 http://39.135.167.2/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
-全纪实 高清,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
+
+http://[2409:8087:4401:20:1:f01:1:3]/PLTV/88888888/224/3221226335/index.m3u8
+全纪实 高清,http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 老故事,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 法治天地 高清,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8
 河南卫视 4k,http://[2409:8087:4401:20:1:f01:1:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8

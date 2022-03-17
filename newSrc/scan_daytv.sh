@@ -2,6 +2,16 @@ http://153.35.152.183:808/hls/65/index.m3u8
 
 http://58.244.52.205:808/hls/65/index.m3u8
 
+for i in `seq 1 1000`;
+do
+  url="http://61.222.202.191:80/hodlive/yzyh.php?id=$i"
+   result=`curl -I  $url 2>/dev/null | grep "location:" | sed 's/location://g;s/ //g'`
+    echo $url, $result
+   if [ ! -z  "$result" ]; then
+      echo $i, $url,$result >> hodlive.txt
+   fi
+done
+
 
 for i in `seq 1000 1999`;
 do

@@ -1,6 +1,6 @@
 珠江频道HD,http://111.12.101.23:6610/PLTV/77777777/224/3221225717/index.m3u8?
 广东珠江 FHD,http://183.11.239.36:808/hls/12/index.m3u8
-
+河北卫视[1920*1080],http://119.131.231.149:8089/hls/69/index.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
 茂名综合,http://dslive.grtn.cn/mmzh/sd/live.m3u8

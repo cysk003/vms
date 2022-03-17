@@ -1,5 +1,17 @@
 http://gslb.gcable.cn:8070/live/xingkong_1500.m3u8?t=1646732127&u=&p=&pid=&cid=&d=&sid=&r=&e=&nc=&a=&v=
 
+凤凰卫视,https://tv.vip.hk/gd?id=32&play=2
+凤凰资讯,https://tv.vip.hk/gd?id=33&play=2
+凤凰香港,https://tv.vip.hk/gd?id=34&play=2
+翡翠台,https://tv.vip.hk/gudou?id=1350_4500
+明珠台,https://tv.vip.hk/gudou?id=1351_4500
+TVB星河,https://tv.vip.hk/gd?id=35&play=2
+龙祥时代,https://tv.vip.hk/gd?id=38&play=2
+中国电影,https://tv.vip.hk/gd?id=61&play=2
+天映經典,https://tv.vip.hk/gd?id=62&play=2
+私人影院,https://tv.vip.hk/gd?id=57&play=2
+东森电影,https://tv.vip.hk/gd?id=58&play=2
+东森洋片,https://tv.vip.hk/gd?id=59&play=2
 
 https://yamcode.com/raw/chw-88243
 求索： http://wtv2.hodtv.tv:80/gudou9.php?id=QSDWHD_7000

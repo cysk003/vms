@@ -1,5 +1,5 @@
  http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-https://36.156.23.134/hlsliveali-cdn.ysp.cctv.cn/*/2012514103.m3u8
+http://36.156.23.134/hlsliveali-cdn.ysp.cctv.cn/*/2012514103.m3u8
 cctv16 4k, http://live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 中国国际教育1,kdsvod://sdtv://xwoctcwsxsqbsrpfadxvretxdvxrdetr&c589df4aa43444ad9b52b4211e0b7732#@http://play.cec-tv.com.cn/channel/cec-tv1.m3u8#@rtmp://play.cec-tv.com.cn/channel/cec-tv1
 中国国际教育2,kdsvod://sdtv://xwoctcwsxsqbsrpfadxvretxdvxrdetr&6ca13879687b4d9d91730e83d1c4ad84#@rtmp://play.cec-tv.com.cn/channel/cec-tv2#@http://play.cec-tv.com.cn/channel/cec-tv2.m3u8

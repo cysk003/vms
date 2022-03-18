@@ -84,7 +84,7 @@ http://192.168.50.1:8288/rtp/225.1.8.77:8076
 http://192.168.50.1:8288/rtp/225.1.8.76:8002
 #EXTINF:-1 tvg-id="41" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"  group-title="卫视",黑龙江卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.118:1025
-#EXTINF:-1 tvg-id="42" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png"  group-title="卫视",河南卫视 4k
+#EXTINF:-1 tvg-id="42" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png"  group-title="卫视",河南卫视 高清
 http://192.168.50.223:8880/iptv.m3u8?id=HENWS
 #EXTINF:-1 tvg-id="43" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png"  group-title="卫视",湖北卫视 高清
 http://192.168.50.1:8288/rtp/225.1.0.123:1025
